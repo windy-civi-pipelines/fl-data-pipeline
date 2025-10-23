@@ -1,0 +1,4078 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 145
+Source: versions - H 223 Filed
+Media Type: application/pdf
+Strikethrough Detection: 60 sections found
+
+================================================================================
+
+Section 1:
+HB 223 2026
+1 A bill to be entitled
+2 An act relating to naturopathic medicine; renaming ch.
+3 462, F.S., as "Naturopathic Medicine"; creating s.
+4 462.001, F.S.; providing legislative findings and
+5 purpose; creating s. 462.002, F.S.; providing
+6 applicability and construction; renumbering and
+7 amending s. 462.01, F.S.; revising and providing
+8 definitions; creating s. 462.004, F.S.; creating the
+9 Board of Naturopathic Medicine within the Department
+10 of Health; providing for membership of the board;
+11 requiring the board, in conjunction with the
+12 department, to establish a disciplinary training
+13 program for board members; providing requirements for
+14 the program; providing that board members must
+15 complete a training program to participate in probable
+16 cause panels or disciplinary decisions; requiring
+17 board members appointed to probable cause panels to
+18 attempt to complete their work on every case
+19 presented; authorizing board members to reconvene a
+20 probable cause panel under certain circumstances;
+21 providing applicability; renumbering and amending s.
+22 462.023, F.S.; authorizing the board to adopt rules;
+23 deleting obsolete language; creating s. 462.006, F.S.;
+24 prohibiting an unlicensed person from practicing
+25 naturopathic medicine or using specified titles or
+Page 1 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+26 abbreviations; providing construction; providing
+27 penalties; creating s. 462.007, F.S.; providing for
+28 licensure by examination of naturopathic doctors;
+29 requiring the department and the board to use an
+30 investigative process that meets certain criteria;
+31 authorizing the State Surgeon General or her or his
+32 designee to issue a 90-day licensure delay under
+33 certain circumstances; providing construction;
+34 prohibiting the board from certifying for licensure
+35 certain applicants until a certain investigation is
+36 completed; providing applicability; authorizing the
+37 board to enter an order imposing certain sanctions
+38 against or conditions on an applicant under certain
+39 circumstances; creating s. 462.008, F.S.; providing
+40 for licensure by endorsement of naturopathic doctors;
+41 renumbering and amending s. 462.08, F.S.; revising
+42 requirements for licensure renewal for naturopathic
+43 doctors; requiring the department to adopt rules;
+44 renumbering and amending s. 462.18, F.S.; revising
+45 continuing education requirements for naturopathic
+46 doctors; requiring naturopathic doctors to use the
+47 department's electronic continuing education tracking
+48 system to demonstrate compliance with continuing
+49 education requirements; renumbering and amending s.
+50 462.19, F.S.; revising provisions related to
+Page 2 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+51 reactivation of inactive naturopathic doctor licenses;
+52 requiring the board to adopt certain rules;
+53 prohibiting the department from reactivating a license
+54 until certain conditions have been met; creating s.
+55 462.015, F.S.; providing financial responsibility
+56 requirements as a condition of licensure for
+57 naturopathic doctors; providing exemptions from such
+58 requirements; requiring certain insuring entities to
+59 notify the department promptly of a naturopathic
+60 doctor's cancellation or nonrenewal of insurance;
+61 requiring the department to suspend the license of a
+62 naturopathic doctor under certain circumstances until
+63 the licensee demonstrates compliance with specified
+64 requirements; providing applicability; requiring a
+65 certain naturopathic doctor to provide a specified
+66 notice to his or her patients; providing requirements
+67 for the notice; providing for disciplinary action and
+68 for permanent disqualification from any exemption from
+69 the financial responsibility requirements for
+70 specified conduct; requiring certain naturopathic
+71 doctors to notify the department in writing of any
+72 change in circumstance and demonstrate compliance with
+73 certain requirements; requiring the department to
+74 suspend the license of a naturopathic doctor under
+75 certain circumstances until certain requirements are
+Page 3 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+76 met; providing applicability; requiring the board to
+77 adopt rules; renumbering and amending s. 462.13, F.S.;
+78 conforming a provision to changes made by the act;
+79 renumbering and amending s. 462.14, F.S.; revising
+80 grounds for disciplinary action; providing
+81 construction; providing for disciplinary actions by
+82 the board and department; providing requirements for
+83 the reinstatement of a license for certain persons;
+84 providing requirements for disciplinary guidelines
+85 adopted by the board; providing requirements and
+86 procedures for the department's receipt of certain
+87 closed claims and reports involving a licensed
+88 naturopathic doctor; authorizing the department to
+89 bring an action to enjoin a naturopathic doctor from
+90 providing medical services under certain
+91 circumstances; requiring the department to promptly
+92 furnish certain documents to a naturopathic doctor or
+93 her or his attorney upon undertaking an investigation
+94 of the naturopathic doctor; authorizing a naturopathic
+95 doctor who is the subject of such investigation to
+96 submit a written response within a specified
+97 timeframe; requiring that the response be considered
+98 by the probable cause panel, if held on the matter;
+99 amending ss. 20.43, 381.0031, 468.301, 476.044,
+100 477.0135, 485.003, 486.161, 627.351, 893.02, and
+Page 4 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+101 921.0022, F.S.; conforming provisions to changes made
+102 by the act; providing an effective date.
+103
+104 Be It Enacted by the Legislature of the State of Florida:
+105
+106 Section 1. Chapter 462, Florida Statutes, entitled
+107 "Naturopathy," is redesignated as "Naturopathic Medicine."
+108 Section 2. Section 462.001, Florida Statutes, is created
+109 to read:
+110 462.001 Legislative findings; purpose.—The Legislature
+111 finds that the interest of public health requires modernization
+112 of regulation related to naturopathy in this state. Since 1927,
+113 when Florida first regulated naturopathy, the profession and its
+114 role within the healthcare industry have evolved including the
+115 distinction that exists today between naturopathy and
+116 naturopathic medicine, and this chapter reflects that evolution.
+117 It is the intent of the Legislature to free naturopathy in this
+118 state by removing the near total ban on the profession that has
+119 been in place since 1959 by ensuring:
+120 (1) Naturopathy is offered by naturopaths in this state.
+121 (2) Naturopathic medicine is practiced in this state by
+122 issuing licenses to naturopathic doctors who meet clear
+123 standards of education and training, and who are held
+124 accountable for safe practice.
+125 Section 3. Section 462.002, Florida Statutes, is created
+Page 5 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+126 to read:
+127 462.002 Exceptions.—
+128 (1) This chapter does not apply to:
+129 (a) Other duly licensed health care practitioners acting
+130 within their respective scopes of practice, as authorized by
+131 general law.
+132 (b) Students practicing under the direct supervision of a
+133 licensed naturopathic doctor as part of a preceptorship program
+134 while enrolled in a college or university program that is
+135 accredited by, or has candidacy status with, the Council on
+136 Naturopathic Medical Education or an equivalent accrediting body
+137 for the naturopathic medical profession which is recognized by
+138 the United States Department of Education and the board.
+139 (c) Naturopathic residents practicing under the direct
+140 supervision of a licensed naturopathic doctor at a residency
+141 site recognized by the Council on Naturopathic Medical Education
+142 or by an equivalent accrediting body for the naturopathic
+143 medical profession which is recognized by the United States
+144 Department of Education or the board.
+145 (d) A naturopathic doctor who holds an active license in
+146 another jurisdiction of the United States or Canada and is
+147 performing naturopathic procedures or demonstrating equipment or
+148 supplies for educational purposes at a board-approved continuing
+149 education program.
+150 (e) The practice of the religious tenets of any church in
+Page 6 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+151 this state.
+152 (f) The domestic administration of recognized family
+153 remedies.
+154 (2) This chapter does not prohibit:
+155 (a) A person who sells a dietary supplement from providing
+156 information about the dietary supplement.
+157 (b) Any person:
+158 1. Not licensed as a naturopathic doctor from employing in
+159 his or her occupation Ayurveda, herbalism, homeopathy,
+160 naturopathy as defined in s. 462.003, nutrition, traditional
+161 Chinese medicine, or other natural therapy included as part of
+162 the practice of naturopathic medicine, as defined in s. 462.003;
+163 or
+164 2. From using terms, including, but not limited to,
+165 "certified naturopath," "naturopath," "naturopathy,"
+166 "traditional naturopath," or "traditional naturopath," provided
+167 that the person does not:
+168 a. Use a title protected under s. 462.006; or
+169 b. Represent or assume the character or appearance of a
+170 person described in s. 462.006.
+171 Section 4. Section 462.01, Florida Statutes, is renumbered
+172 as section 462.003, Florida Statutes, and amended to read:
+173 462.003 462.01 Definitions.—As used in this chapter, the
+174 term:
+175 (1) "Board" means the Board of Naturopathic Medicine.
+Page 7 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+176 (2) "Department" means the Department of Health.
+177 (3)(a) "Naturopathic medicine" and "practice of
+178 naturopathic medicine" mean the diagnosis, prevention, and
+179 treatment by a naturopathic doctor of any deformity, disease,
+180 injury, pain, or other physical or mental condition using
+181 botanical or fungal extracts, clinical nutrition, counseling
+182 techniques, dietary supplements, environmental medicine,
+183 homeopathic remedies, imaging studies, laboratory testing,
+184 lifestyle medicine, natural substances, physical exam, or
+185 physical medicine in a manner consistent with the education
+186 offered by naturopathic doctoral degree programs accredited by,
+187 or having candidacy status with, the Council on Naturopathic
+188 Medical Education or another accrediting agency recognized by
+189 the United States Department of Education or the board, and
+190 applied in a manner consistent with the principles of
+191 naturopathic medicine and the naturopathic therapeutic order
+192 defined herein.
+193 (b) The term does not include any of the following:
+194 1. Prescribing, dispensing, or administering any legend
+195 drug or prescription drug outside of natural, non-pharmacologic
+196 substances such as but not to limited vitamin B12.
+197 2. Performing any surgical procedure.
+198 3. Practicing or claiming to practice as a medical doctor
+199 or physician, an osteopathic physician, a dentist, a podiatric
+200 physician, an optometrist, a psychologist, a nurse practitioner,
+Page 8 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+201 a physician assistant, a chiropractic physician, a physical
+202 therapist, an acupuncturist, a midwife, or a health care
+203 practitioner as defined in s. 456.001.
+204 4. Using general or spinal anesthetics.
+205 5. Administering ionizing radioactive substances.
+206 6. Performing chiropractic or osteopathic adjustments or
+207 manipulations that include high–velocity thrusts at or beyond
+208 the end range of normal joint motion, unless the naturopathic
+209 doctor is also licensed as a chiropractic physician or an
+210 osteopathic physician.
+211 7. Performing acupuncture, unless the naturopathic doctor
+212 is also licensed as an acupuncturist.
+213 8. Managing labor and delivery, unless the naturopathic
+214 doctor is also a licensed midwife.
+215 (4) "Naturopathic doctor" means a person who is licensed
+216 to practice naturopathic medicine under this chapter.
+217 (5) "Naturopathic therapeutic order" means a principle
+218 defined by the American Association of Naturopathic Physicians
+219 to guide naturopathic doctors in resolving a patient's symptoms
+220 and addressing the root cause of a patient's disease while using
+221 the least therapeutic force necessary.
+222 (6)(1) "Natureopathy" and "Naturopathy" is shall be
+223 construed as synonymous with "traditional naturopathy" and is
+224 understood to be distinct from naturopathic medicine, means the
+225 traditional, non-invasive health practice offered by naturopaths
+Page 9 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+226 and traditional naturopaths focusing on education about natural
+227 practices and substances that can be used to promote general
+228 health and well-being terms and mean the use and practice of
+229 psychological, mechanical, and material health sciences to aid
+230 in purifying, cleansing, and normalizing human tissues for the
+231 preservation or restoration of health, according to the
+232 fundamental principles of anatomy, physiology, and applied
+233 psychology, as may be required. Naturopathic practice employs,
+234 among other agencies, phytotherapy, dietetics, psychotherapy,
+235 suggestotherapy, hydrotherapy, zone therapy, biochemistry,
+236 external applications, electrotherapy, mechanotherapy,
+237 mechanical and electrical appliances, hygiene, first aid,
+238 sanitation, and heliotherapy; provided, however, that nothing in
+239 this chapter shall be held or construed to authorize any
+240 naturopathic physician licensed hereunder to practice materia
+241 medica or surgery or chiropractic medicine, nor shall the
+242 provisions of this law in any manner apply to or affect the
+243 practice of osteopathic medicine, chiropractic medicine,
+244 Christian Science, or any other treatment authorized and
+245 provided for by law for the cure or prevention of disease and
+246 ailments.
+247 (7) "Principles of naturopathic medicine" means the
+248 foundations of naturopathic medical education and practice as
+249 set forth by the American Association of Naturopathic Physicians
+250 or the board and embodied in the education offered by
+Page 10 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+251 naturopathic doctoral degree programs accredited by, or having
+252 candidacy status with, the Council on Naturopathic Medical
+253 Education or another accrediting agency recognized by the United
+254 States Department of Education or the board, and including all
+255 of the following principles:
+256 (a) The healing power of nature.
+257 (b) Identify and treat the causes.
+258 (c) First do no harm.
+259 (d) Doctor as teacher.
+260 (e) Treat the whole person.
+261 (f) Prevention.
+262 Section 5. Section 462.004, Florida Statutes, is created
+263 to read:
+264 462.004 Board of Naturopathic Medicine.—
+265 (1) There is created within the department the Board of
+266 Naturopathic Medicine, composed of seven members appointed by
+267 the Governor and confirmed by the Senate.
+268 (2)(a) Four members of the board must be licensed
+269 naturopathic doctors who are residents of this state.
+270 (b) Two members of the board must be physicians licensed
+271 under chapter 458 or chapter 459 who are residents of this
+272 state.
+273 (c) One member must be a resident of this state who is
+274 not, and has never been, licensed as a naturopathic doctor, an
+275 osteopathic physician, a physician, or any other closely related
+Page 11 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+276 profession.
+277 (d) At least one member must be 60 years of age or older.
+278 (3) As the terms of the members expire, the Governor shall
+279 appoint successors for terms of 4 years, and such members shall
+280 serve until their successors are appointed.
+281 (4) All provisions of chapter 456 relating to the board
+282 shall apply.
+283 Section 6. Section 462.023, Florida Statutes, is
+284 renumbered as section 462.005, Florida Statutes, and amended to
+285 read:
+286 462.005 462.023 Rulemaking authority; powers and duties of
+287 the board department.—The board department may adopt such rules
+288 pursuant to ss. 120.536(1) and 120.54 to implement the
+289 provisions of this chapter conferring duties upon it as are
+290 necessary to carry out the purposes of this chapter, initiate
+291 disciplinary action as provided by this chapter, and shall
+292 establish fees based on its estimates of the revenue required to
+293 administer this chapter but shall not exceed the fee amounts
+294 provided in this chapter. The department shall not adopt any
+295 rules which would cause any person who was not licensed in
+296 accordance with this chapter on July 1, 1959, and had not been a
+297 resident of the state for 2 years prior to such date, to become
+298 licensed.
+299 Section 7. Section 462.006, Florida Statutes, is created
+300 to read:
+Page 12 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+301 462.006 License required.—
+302 (1) Unless licensed under this chapter, a person may not
+303 practice naturopathic medicine in this state and may not
+304 promote, identify, or describe herself or himself as a "doctor
+305 of naturopathic medicine," or a "naturopathic doctor" or use the
+306 post-nominals "N.D." or "N.M.D."
+307 (2) A person who violates this section commits a
+308 misdemeanor of the second degree, punishable as provided in s.
+309 775.082 or s. 775.083.
+310 Section 8. Section 462.007, Florida Statutes, is created
+311 to read:
+312 462.007 Licensure by examination.—
+313 (1) Any person desiring to be licensed as a naturopathic
+314 doctor must apply to the department on forms furnished by the
+315 department. The department shall license each applicant who
+316 completes the application form and who the board certifies has
+317 met all of the following criteria:
+318 (a) Is at least 21 years of age.
+319 (b) Has received a bachelor's degree from one of the
+320 following:
+321 1. A college or university accredited by an accrediting
+322 agency recognized by the United States Department of Education
+323 or the Council for Higher Education Accreditation or its
+324 successor entity recognized by the board;
+325 2. A college or university in Canada which is a member of
+Page 13 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+326 Universities Canada or a successor entity recognized by the
+327 board; or
+328 3. A college or university in a foreign country, other
+329 than Canada, when such applicant has provided evidence that her
+330 or his educational credentials are deemed equivalent to those
+331 provided in this country or Canada. To have educational
+332 credentials deemed equivalent, the applicant must provide her or
+333 his foreign educational credentials, including transcripts,
+334 course descriptions or syllabi, and diplomas, to a nationally
+335 recognized educational credential evaluating agency approved by
+336 the board for the evaluation and determination of equivalency of
+337 the foreign educational credentials.
+338 (c) Has received a naturopathic doctoral degree from a
+339 college or program accredited by, or having candidacy status
+340 with, the Council on Naturopathic Medical Education or another
+341 accrediting agency recognized by the United States Department of
+342 Education or the board.
+343 (d) Is physically and mentally fit to practice as a
+344 naturopathic doctor.
+345 (e) Is of good moral character.
+346 (f) Has submitted to the department a set of fingerprints
+347 on a form and in accordance with procedures specified by the
+348 department, along with payment in an amount equal to the costs
+349 incurred by the department for the criminal background check of
+350 the applicant.
+Page 14 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+351 (g) Has obtained a passing score on Part I - Biomedical
+352 Science Examination and Part II - Core Clinical Science
+353 Examination of the competency-based national Naturopathic
+354 Physician Licensing Examination administered by the North
+355 American Board of Naturopathic Examiners, or an equivalent
+356 examination offered by an equivalent or successor entity, as
+357 approved by the board.
+358 (2) The department and the board shall ensure that
+359 applicants for licensure satisfy the applicable criteria in this
+360 section through an investigative process. If the investigative
+361 process is not completed within the timeframe established in s.
+362 120.60(1) and the department or board has reason to believe that
+363 the applicant does not meet such criteria, the State Surgeon
+364 General or her or his designee may issue a 90-day licensure
+365 delay, which must be in writing and sufficient to notify the
+366 applicant of the reason for the delay. This subsection prevails
+367 over any conflicting provision of s. 120.60(1).
+368 (3) The board may not certify to the department for
+369 licensure any applicant who is under investigation in another
+370 jurisdiction for an offense that would constitute a violation of
+371 this chapter or chapter 456 until the investigation has been
+372 completed.
+373 (4) If the board determines that an applicant for
+374 licensure has failed to meet, to the board's satisfaction, any
+375 of the requirements of this section, the board may take one of
+Page 15 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+376 the following actions:
+377 (a) Refusal to certify to the department an application
+378 for licensure.
+379 (b) Certification to the department of an application for
+380 licensure with restrictions on the scope of practice of the
+381 naturopathic doctor.
+382 (c) Certification to the department of an application for
+383 licensure with a probationary period for the applicant, subject
+384 to such conditions as the board specifies, including, but not
+385 limited to, requiring the naturopathic doctor to submit to
+386 treatment, attend continuing education courses, submit to
+387 reexamination, or work under the supervision of another
+388 naturopathic doctor.
+389 Section 9. Section 462.008, Florida Statutes, is created
+390 to read:
+391 462.008 Licensure by endorsement.—The department shall
+392 issue a license to practice naturopathic medicine by endorsement
+393 to an applicant who, upon applying to the department on forms
+394 furnished by the department, the board certifies has met the
+395 requirements for licensure by endorsement under s. 456.0145.
+396 Section 10. Section 462.08, Florida Statutes, is
+397 renumbered as section 462.009, Florida Statutes, and amended to
+398 read:
+399 462.009 462.08 Renewal of license to practice naturopathic
+400 medicine naturopathy.—
+Page 16 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+401 (1) In order to continue practicing naturopathic medicine
+402 in this state, each licensed naturopathic doctor must
+403 licenseholder shall biennially renew her or his license to
+404 practice naturopathic medicine naturopathy. The applicant for
+405 license renewal must furnish to the board department such
+406 evidence as it requires of the applicant's compliance with s.
+407 462.011 s. 462.18, relating to continuing education educational
+408 requirements. The nonrefundable biennial renewal fee, the amount
+409 of which shall be determined by the department but which may not
+410 exceed $1,000, must be paid at the time the application for
+411 renewal of the license is filed.
+412 (2) The department shall adopt rules establishing
+413 procedures for the biennial renewal of licenses under this
+414 chapter.
+415 Section 11. Section 462.18, Florida Statutes, is
+416 renumbered as section 462.011, Florida Statutes, and amended to
+417 read:
+418 462.011 462.18 Continuing education Educational
+419 requirements.—
+420 (1) At the time each licensee renews shall renew her or
+421 his license as otherwise provided in s. 462.009 this chapter,
+422 each licensee must, in addition to the payment of the regular
+423 renewal fee, shall furnish to the department satisfactory
+424 evidence that, in the preceding biennial period, the licensee
+425 has completed the continuing education requirements of this
+Page 17 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+426 section.
+427 (2) The board shall require each licensee to complete at
+428 least 60 hours of continuing education during each biennial
+429 renewal period.
+430 (a) The board shall approve organizations that accredit
+431 naturopathic continuing education providers, including, but not
+432 limited to, the American Association of Naturopathic Physicians,
+433 and the North American Naturopathic Continuing Education
+434 Accreditation Council.
+435 (b) The determination of whether substitute continuing
+436 education programs are permissible is solely within the
+437 discretion of the board.
+438 (3) The licensee must use the electronic continuing
+439 education tracking system developed by the department under s.
+440 456.0361 to demonstrate compliance with the continuing education
+441 requirements of this section year preceding each such
+442 application for renewal, the licensee has attended the 2-day
+443 educational program as promulgated and conducted by the Florida
+444 Naturopathic Physicians Association, Inc., or, as a substitute
+445 therefor, the equivalent of that program as approved by the
+446 department. The department shall send a written notice to this
+447 effect to every person holding a valid license to practice
+448 naturopathy within this state at least 30 days prior to May 1 in
+449 each even-numbered year, directed to the last known address of
+450 such licensee, and shall enclose with the notice proper blank
+Page 18 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+451 forms for application for annual license renewal. All of the
+452 details and requirements of the aforesaid educational program
+453 shall be adopted and prescribed by the department. In the event
+454 of national emergencies, or for sufficient reason, the
+455 department shall have the power to excuse the naturopathic
+456 physicians as a group or as individuals from taking this
+457 postgraduate course.
+458 (2) The determination of whether a substitute annual
+459 educational program is necessary shall be solely within the
+460 discretion of the department.
+461 Section 12. Section 462.19, Florida Statutes, is
+462 renumbered as section 462.012, Florida Statutes, and amended to
+463 read:
+464 462.012 462.19 Renewal of license; inactive status;
+465 reactivation of license.—
+466 (1) A licensee may reactivate an inactive license by
+467 applying to the department and submitting proof of compliance
+468 with the financial responsibility requirements of s. 462.015.
+469 (2) The board shall adopt rules relating to the
+470 reactivation of licenses that have become inactive and the
+471 renewal of inactive licenses. The rules must include continuing
+472 education requirements as a condition for reactivating a
+473 license. The continuing education requirements for reactivating
+474 a license may not be fewer than 20 classroom hours for each year
+475 the license was inactive.
+Page 19 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+476 (1) The department shall renew a license upon receipt of
+477 the renewal application and fee.
+478 (2) A licensee may request that her or his license be
+479 placed in an inactive status by making application to the
+480 department and paying a fee in an amount set by the department
+481 not to exceed $50.
+482 Section 13. Section 462.14, Florida Statutes, is
+483 renumbered as section 462.017, Florida Statutes, and amended to
+484 read:
+485 462.017 462.14 Grounds for disciplinary action; action by
+486 the department.—
+487 (1) The following acts constitute grounds for denial of a
+488 license or disciplinary action, as specified in s. 456.072(2):
+489 (1)(a) Attempting to obtain, obtaining, or renewing a
+490 license to practice naturopathic medicine by bribery, by
+491 fraudulent misrepresentation, or through an error of the
+492 department.
+493 (2)(b) Having a license to practice naturopathic medicine
+494 revoked, suspended, or otherwise acted against, including the
+495 denial of licensure, by the licensing authority of another
+496 state, territory, or country.
+497 (3)(c) Being convicted or found guilty, regardless of
+498 adjudication, of a crime in any jurisdiction which directly
+499 relates to the practice of naturopathic medicine or to the
+500 ability to practice naturopathic medicine. Any plea of nolo
+Page 20 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+501 contendere shall be considered a conviction for purposes of this
+502 chapter.
+503 (4)(d) False, deceptive, or misleading advertising related
+504 to the practice of naturopathic medicine.
+505 (5)(e) Advertising, practicing, or attempting to practice
+506 under a name other than one's own.
+507 (6)(f) Failing to report to the department any person who
+508 the licensee knows is in violation of this chapter or of the
+509 rules of the department. However, a person who the licensee
+510 knows is unable to practice naturopathic medicine with
+511 reasonable skill and safety to patients by reason of illness or
+512 use of alcohol, drugs, narcotics, chemicals, or any other type
+513 of material, or as a result of a mental or physical condition,
+514 may be reported to a consultant operating an impaired
+515 practitioner program as described in s. 456.076 rather than to
+516 the department.
+517 (7)(g) Aiding, assisting, procuring, employing, or
+518 advising any unlicensed person to practice naturopathic medicine
+519 contrary to this chapter or to a rule of the department.
+520 (8)(h) Failing to perform any statutory or legal
+521 obligation placed upon a licensed naturopathic doctor physician.
+522 (9)(i) Making or filing a report which the licensee knows
+523 to be false, intentionally or negligently failing to file a
+524 report or record required by state or federal law, willfully
+525 impeding or obstructing such filing or inducing another person
+Page 21 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+526 to do so. Such reports or records shall include only those which
+527 are signed in the capacity as a licensed naturopathic doctor
+528 physician.
+529 (j) Paying or receiving any commission, bonus, kickback,
+530 or rebate, or engaging in any split-fee arrangement in any form
+531 whatsoever with a physician, organization, agency, or person,
+532 either directly or indirectly, for patients referred to
+533 providers of health care goods and services, including, but not
+534 limited to, hospitals, nursing homes, clinical laboratories,
+535 ambulatory surgical centers, or pharmacies. The provisions of
+536 This paragraph shall not be construed to prevent a naturopathic
+537 physician from receiving a fee for professional consultation
+538 services.
+539 (10)(k) Exercising influence within a patient-physician
+540 relationship for purposes of engaging a patient in sexual
+541 activity. A patient is shall be presumed to be incapable of
+542 giving free, full, and informed consent to sexual activity with
+543 her or his naturopathic doctor physician.
+544 (l) Making deceptive, untrue, or fraudulent
+545 representations in the practice of naturopathic medicine or
+546 employing a trick or scheme in the practice of naturopathic
+547 medicine when such scheme or trick fails to conform to the
+548 generally prevailing standards of treatment in the medical
+549 community.
+550 (m) Soliciting patients, either personally or through an
+Page 22 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+551 agent, through the use of fraud, intimidation, undue influence,
+552 or a form of overreaching or vexatious conduct. A "solicitation"
+553 is any communication which directly or implicitly requests an
+554 immediate oral response from the recipient.
+555 (11)(n) Failing to keep written medical records justifying
+556 the course of treatment of the patient, including, but not
+557 limited to, patient histories, examination results, test
+558 results, X rays, and records of the prescribing, dispensing and
+559 administering of drugs.
+560 (12)(o) Exercising influence on the patient or client in
+561 such a manner as to exploit the patient or client for the
+562 financial gain of the licensee or of a third party, which shall
+563 include, but not be limited to, the promoting or selling of
+564 services, goods, appliances, or drugs and the promoting or
+565 advertising on any prescription form of a community pharmacy
+566 unless the form also states "This prescription may be filled at
+567 any pharmacy of your choice."
+568 (p) Performing professional services which have not been
+569 duly authorized by the patient or client, or her or his legal
+570 representative, except as provided in s. 743.064, s. 766.103, or
+571 s. 768.13.
+572 (q) Prescribing, dispensing, administering, mixing, or
+573 otherwise preparing a legend drug, including any controlled
+574 substance, other than in the course of the naturopathic
+575 physician's professional practice. For the purposes of this
+Page 23 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+576 paragraph, it shall be legally presumed that prescribing,
+577 dispensing, administering, mixing, or otherwise preparing legend
+578 drugs, including all controlled substances, inappropriately or
+579 in excessive or inappropriate quantities is not in the best
+580 interest of the patient and is not in the course of the
+581 naturopathic physician's professional practice, without regard
+582 to her or his intent.
+583 (r) Prescribing, dispensing, or administering any
+584 medicinal drug appearing on any schedule set forth in chapter
+585 893 by the naturopathic physician to herself or himself, except
+586 one prescribed, dispensed, or administered to the naturopathic
+587 physician by another practitioner authorized to prescribe,
+588 dispense, or administer medicinal drugs.
+589 (13)(s) Being unable to practice naturopathic medicine
+590 with reasonable skill and safety to patients by reason of
+591 illness or use of alcohol, drugs, narcotics, chemicals, or any
+592 other type of material or as a result of any mental or physical
+593 condition. In enforcing this paragraph, the department shall
+594 have, upon a finding of the State Surgeon General or the State
+595 Surgeon General's designee that probable cause exists to believe
+596 that the licensee is unable to serve as a naturopathic doctor
+597 due to the reasons stated in this paragraph, the department
+598 shall have the authority to issue an order to compel the
+599 licensee, authority to compel a naturopathic physician to submit
+600 to a mental or physical examination by a physician physicians
+Page 24 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+601 designated by the department. If the licensee does not comply
+602 with such order, the department's order directing failure of a
+603 naturopathic physician to submit to such an examination may be
+604 enforced by filing a petition for enforcement in the circuit
+605 court for the county in which the naturopathic doctor resides or
+606 does business. The naturopathic doctor against whom the petition
+607 is filed may not be named or identified by initials in any
+608 public court record or document, and the proceedings must be
+609 closed to the public. The department is entitled to the summary
+610 procedure provided in s. 51.011 when so directed shall
+611 constitute an admission of the allegations against her or him
+612 upon which a default and final order may be entered without the
+613 taking of testimony or presentation of evidence, unless the
+614 failure was due to circumstances beyond the naturopathic
+615 physician's control. A naturopathic doctor subject to an order
+616 issued physician affected under this paragraph must, shall at
+617 reasonable intervals, be afforded an opportunity to demonstrate
+618 that she or he can resume the competent practice of naturopathic
+619 medicine with reasonable skill and safety to patients. In any
+620 proceeding under this paragraph, neither the record of
+621 proceedings nor the orders entered by the department may be used
+622 against a naturopathic doctor physician in any other proceeding.
+623 (14)(t) Gross or repeated malpractice or the failure to
+624 practice naturopathic medicine with that level of care, skill,
+625 and treatment which is recognized by a reasonably prudent
+Page 25 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+626 similar physician as being acceptable under similar conditions
+627 and circumstances. The department shall give great weight to the
+628 provisions of s. 766.102 when enforcing this paragraph.
+629 (u) Performing any procedure or prescribing any therapy
+630 which, by the prevailing standards of medical practice in the
+631 community, constitutes experimentation on a human subject,
+632 without first obtaining full, informed, and written consent.
+633 (15)(v) Practicing or offering to practice beyond the
+634 scope permitted by law or accepting and performing professional
+635 responsibilities which the licensee knows or has reason to know
+636 that she or he is not competent to perform.
+637 (16)(w) Delegating professional responsibilities to a
+638 person when the licensee delegating such responsibilities knows
+639 or has reason to know that such person is not qualified by
+640 training, experience, or licensure to perform them.
+641 (17)(x) Violating a lawful order of the board or the
+642 department previously entered in a disciplinary hearing or
+643 failing to comply with a lawfully issued subpoena of the board
+644 or department.
+645 (18)(y) Conspiring with another licensee or with any other
+646 person to commit an act, or committing an act, which would tend
+647 to coerce, intimidate, or preclude another licensee from
+648 lawfully advertising her or his services.
+649 (19) Fraud or deceit or gross negligence, incompetence, or
+650 misconduct in the operation of a course of study.
+Page 26 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+651 (z) Procuring, or aiding or abetting in the procuring of,
+652 an unlawful termination of pregnancy.
+653 (aa) Presigning blank prescription forms.
+654 (bb) Prescribing by the naturopathic physician for office
+655 use any medicinal drug appearing on Schedule II in chapter 893.
+656 (cc) Prescribing, ordering, dispensing, administering,
+657 supplying, selling, or giving any drug which is an amphetamine
+658 or sympathomimetic amine drug, or a compound designated pursuant
+659 to chapter 893 as a Schedule II controlled substance to or for
+660 any person except for:
+661 1. The treatment of narcolepsy; hyperkinesis; behavioral
+662 syndrome in children characterized by the developmentally
+663 inappropriate symptoms of moderate to severe distractability,
+664 short attention span, hyperactivity, emotional lability, and
+665 impulsivity; or drug-induced brain dysfunction.
+666 2. The differential diagnostic psychiatric evaluation of
+667 depression or the treatment of depression shown to be refractory
+668 to other therapeutic modalities.
+669 3. The clinical investigation of the effects of such drugs
+670 or compounds when an investigative protocol therefor is
+671 submitted to, reviewed, and approved by the department before
+672 such investigation is begun.
+673 (dd) Prescribing, ordering, dispensing, administering,
+674 supplying, selling, or giving growth hormones, testosterone or
+675 its analogs, human chorionic gonadotropin (HCG), or other
+Page 27 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+676 hormones for the purpose of muscle building or to enhance
+677 athletic performance. For the purposes of this subsection, the
+678 term "muscle building" does not include the treatment of injured
+679 muscle. A prescription written for the drug products listed
+680 above may be dispensed by the pharmacist with the presumption
+681 that the prescription is for legitimate medical use.
+682 (20) Failing to comply with state, county, or municipal
+683 regulations or reporting requirements relating to public health
+684 and the control of contagious and infectious diseases.
+685 (21)(ee) Violating any provision of this chapter or
+686 chapter 456, or any rule rules adopted pursuant thereto.
+687 (2) The department may enter an order denying licensure or
+688 imposing any of the penalties in s. 456.072(2) against any
+689 applicant for licensure or licensee who is found guilty of
+690 violating any provision of subsection (1) of this section or who
+691 is found guilty of violating any provision of s. 456.072(1).
+692 (3) The department shall not reinstate the license of a
+693 naturopathic physician until such time as the department is
+694 satisfied that such person has complied with all the terms and
+695 conditions set forth in the final order and that such person is
+696 capable of safely engaging in the practice of naturopathic
+697 medicine.
+698 (4) The department shall by rule establish guidelines for
+699 the disposition of disciplinary cases involving specific types
+700 of violations. Such guidelines may include minimum and maximum
+Page 28 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+701 fines, periods of supervision or probation, or conditions of
+702 probation or reissuance of a license.
+703 Section 14. Paragraph (g) of subsection (3) of section
+704 20.43, Florida Statutes, is amended to read:
+705 20.43 Department of Health.—There is created a Department
+706 of Health.
+707 (3) The following divisions of the Department of Health
+708 are established:
+709 (g) Division of Medical Quality Assurance, which is
+710 responsible for the following boards and professions established
+711 within the division:
+712 1. The Board of Acupuncture, created under chapter 457.
+713 2. The Board of Medicine, created under chapter 458.
+714 3. The Board of Osteopathic Medicine, created under
+715 chapter 459.
+716 4. The Board of Chiropractic Medicine, created under
+717 chapter 460.
+718 5. The Board of Podiatric Medicine, created under chapter
+719 461.
+720 6. Naturopathic Medicine Naturopathy, as provided under
+721 chapter 462.
+722 7. The Board of Optometry, created under chapter 463.
+723 8. The Board of Nursing, created under part I of chapter
+724 464.
+725 9. Nursing assistants, as provided under part II of
+Page 29 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+726 chapter 464.
+727 10. The Board of Pharmacy, created under chapter 465.
+728 11. The Board of Dentistry, created under chapter 466.
+729 12. Midwifery, as provided under chapter 467.
+730 13. The Board of Speech-Language Pathology and Audiology,
+731 created under part I of chapter 468.
+732 14. The Board of Nursing Home Administrators, created
+733 under part II of chapter 468.
+734 15. The Board of Occupational Therapy, created under part
+735 III of chapter 468.
+736 16. Respiratory therapy, as provided under part V of
+737 chapter 468.
+738 17. Dietetics and nutrition practice, as provided under
+739 part X of chapter 468.
+740 18. The Board of Athletic Training, created under part
+741 XIII of chapter 468.
+742 19. The Board of Orthotists and Prosthetists, created
+743 under part XIV of chapter 468.
+744 20. Electrolysis, as provided under chapter 478.
+745 21. The Board of Massage Therapy, created under chapter
+746 480.
+747 22. The Board of Clinical Laboratory Personnel, created
+748 under part I of chapter 483.
+749 23. Medical physicists, as provided under part II of
+750 chapter 483.
+Page 30 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+751 24. The Board of Opticianry, created under part I of
+752 chapter 484.
+753 25. The Board of Hearing Aid Specialists, created under
+754 part II of chapter 484.
+755 26. The Board of Physical Therapy Practice, created under
+756 chapter 486.
+757 27. The Board of Psychology, created under chapter 490.
+758 28. School psychologists, as provided under chapter 490.
+759 29. The Board of Clinical Social Work, Marriage and Family
+760 Therapy, and Mental Health Counseling, created under chapter
+761 491.
+762 30. Emergency medical technicians and paramedics, as
+763 provided under part III of chapter 401.
+764 Section 15. Subsection (2) of section 381.0031, Florida
+765 Statutes, is amended to read:
+766 381.0031 Epidemiological research; report of diseases of
+767 public health significance to department.—
+768 (2) Any practitioner licensed in this state to practice
+769 medicine, osteopathic medicine, chiropractic medicine,
+770 naturopathic medicine naturopathy, or veterinary medicine; any
+771 licensed pharmacist authorized under a protocol with a
+772 supervising physician under s. 465.1895, or a collaborative
+773 pharmacy practice agreement, as defined in s. 465.1865, to
+774 perform or order and evaluate laboratory and clinical tests; any
+775 hospital licensed under part I of chapter 395; or any laboratory
+Page 31 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+776 appropriately certified by the Centers for Medicare and Medicaid
+777 Services under the federal Clinical Laboratory Improvement
+778 Amendments and the federal rules adopted thereunder which
+779 diagnoses or suspects the existence of a disease of public
+780 health significance shall immediately report the fact to the
+781 Department of Health.
+782 Section 16. Subsection (11) of section 468.301, Florida
+783 Statutes, is amended to read:
+784 468.301 Definitions.—As used in this part, the term:
+785 (11) "Licensed practitioner" means a person who is
+786 licensed or otherwise authorized by law to practice medicine,
+787 podiatric medicine, chiropody, osteopathic medicine,
+788 naturopathic medicine naturopathy, or chiropractic medicine in
+789 this state.
+790 Section 17. Subsection (1) of section 476.044, Florida
+791 Statutes, is amended to read:
+792 476.044 Exemptions.—This chapter does not apply to the
+793 following persons when practicing pursuant to their professional
+794 responsibilities and duties:
+795 (1) Persons authorized under the laws of this state to
+796 practice medicine, surgery, osteopathic medicine, chiropractic
+797 medicine, naturopathic medicine naturopathy, or podiatric
+798 medicine;
+799 Section 18. Paragraph (a) of subsection (1) of section
+800 477.0135, Florida Statutes, is amended to read:
+Page 32 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+801 477.0135 Exemptions.—
+802 (1) This chapter does not apply to the following persons
+803 when practicing pursuant to their professional or occupational
+804 responsibilities and duties:
+805 (a) Persons authorized under the laws of this state to
+806 practice medicine, surgery, osteopathic medicine, chiropractic
+807 medicine, massage therapy, naturopathic medicine naturopathy, or
+808 podiatric medicine.
+809 Section 19. Subsections (2) and (3) of section 485.003,
+810 Florida Statutes, are amended to read:
+811 485.003 Definitions.—In construing this chapter, the
+812 words, phrases, or terms, unless the context otherwise
+813 indicates, shall have the following meanings:
+814 (2) "Healing arts" shall mean the practice of medicine,
+815 surgery, psychiatry, dentistry, osteopathic medicine,
+816 chiropractic medicine, naturopathic medicine naturopathy,
+817 podiatric medicine, chiropody, psychology, clinical social work,
+818 marriage and family therapy, mental health counseling, and
+819 optometry.
+820 (3) "Practitioner of the healing arts" shall mean a person
+821 licensed under the laws of the state to practice medicine,
+822 surgery, psychiatry, dentistry, osteopathic medicine,
+823 chiropractic medicine, naturopathic medicine naturopathy,
+824 podiatric medicine, chiropody, psychology, clinical social work,
+825 marriage and family therapy, mental health counseling, or
+Page 33 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+826 optometry within the scope of his or her professional training
+827 and competence and within the purview of the statutes applicable
+828 to his or her respective profession, and who may refer a patient
+829 for treatment by a qualified person, who shall employ hypnotic
+830 techniques under the supervision, direction, prescription, and
+831 responsibility of such referring practitioner.
+832 Section 20. Subsection (1) of section 486.161, Florida
+833 Statutes, is amended to read:
+834 486.161 Exemptions.—
+835 (1) No provision of This chapter does not shall be
+836 construed to prohibit any person licensed in this state from
+837 using any physical agent as a part of, or incidental to, the
+838 lawful practice of her or his profession under the statutes
+839 applicable to the profession of chiropractic physician,
+840 podiatric physician, doctor of medicine, massage therapist,
+841 nurse, osteopathic physician or surgeon, occupational therapist,
+842 or naturopathic doctor naturopath.
+843 Section 21. Paragraph (h) of subsection (4) of section
+844 627.351, Florida Statutes, is amended to read:
+845 627.351 Insurance risk apportionment plans.—
+846 (4) MEDICAL MALPRACTICE RISK APPORTIONMENT; ASSOCIATION
+847 CONTRACTS AND PURCHASES.—
+848 (h) As used in this subsection:
+849 1. "Health care provider" means hospitals licensed under
+850 chapter 395; physicians licensed under chapter 458; osteopathic
+Page 34 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+851 physicians licensed under chapter 459; podiatric physicians
+852 licensed under chapter 461; dentists licensed under chapter 466;
+853 chiropractic physicians licensed under chapter 460; naturopathic
+854 doctors naturopaths licensed under chapter 462; nurses licensed
+855 under part I of chapter 464; midwives licensed under chapter
+856 467; physician assistants licensed under chapter 458 or chapter
+857 459; physical therapists and physical therapist assistants
+858 licensed under chapter 486; health maintenance organizations
+859 certificated under part I of chapter 641; ambulatory surgical
+860 centers licensed under chapter 395; other medical facilities as
+861 defined in subparagraph 2.; blood banks, plasma centers,
+862 industrial clinics, and renal dialysis facilities; or
+863 professional associations, partnerships, corporations, joint
+864 ventures, or other associations for professional activity by
+865 health care providers.
+866 2. "Other medical facility" means a facility the primary
+867 purpose of which is to provide human medical diagnostic services
+868 or a facility providing nonsurgical human medical treatment, to
+869 which facility the patient is admitted and from which facility
+870 the patient is discharged within the same working day, and which
+871 facility is not part of a hospital. However, a facility existing
+872 for the primary purpose of performing terminations of pregnancy
+873 or an office maintained by a physician or dentist for the
+874 practice of medicine may not be construed to be an "other
+875 medical facility."
+Page 35 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+876 3. "Health care facility" means any hospital licensed
+877 under chapter 395, health maintenance organization certificated
+878 under part I of chapter 641, ambulatory surgical center licensed
+879 under chapter 395, or other medical facility as defined in
+880 subparagraph 2.
+881 Section 22. Subsection (23) of section 893.02, Florida
+882 Statutes, is amended to read:
+883 893.02 Definitions.—The following words and phrases as
+884 used in this chapter shall have the following meanings, unless
+885 the context otherwise requires:
+886 (23) "Practitioner" means a physician licensed under
+887 chapter 458, a dentist licensed under chapter 466, a
+888 veterinarian licensed under chapter 474, an osteopathic
+889 physician licensed under chapter 459, an advanced practice
+890 registered nurse licensed under chapter 464, a naturopathic
+891 doctor naturopath licensed under chapter 462, a certified
+892 optometrist licensed under chapter 463, a psychiatric nurse as
+893 defined in s. 394.455, a podiatric physician licensed under
+894 chapter 461, or a physician assistant licensed under chapter 458
+895 or chapter 459, provided such practitioner holds a valid federal
+896 controlled substance registry number.
+897 Section 23. Paragraph (g) of subsection (3) of section
+898 921.0022, Florida Statutes, is amended to read:
+899 921.0022 Criminal Punishment Code; offense severity
+900 ranking chart.—
+Page 36 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+901 (3) OFFENSE SEVERITY RANKING CHART
+902 (g) LEVEL 7
+903
+Florida Felony
+Statute Degree Description
+904
+
+Section 2:
+316.027(2)(c) 1st Accident involving death,
+failure to stop; leaving scene.
+905
+
+Section 3:
+316.193(3)(c)2. 3rd DUI resulting in serious bodily
+injury.
+906
+
+Section 4:
+316.1935(3)(b) 1st Causing serious bodily injury
+or death to another person;
+driving at high speed or with
+wanton disregard for safety
+while fleeing or attempting to
+elude law enforcement officer
+who is in a patrol vehicle with
+siren and lights activated.
+907
+
+Section 5:
+327.35(3)(a)3.b. 3rd Vessel BUI resulting in serious
+bodily injury.
+908
+
+Section 6:
+402.319(2) 2nd Misrepresentation and
+Page 37 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+negligence or intentional act
+resulting in great bodily harm,
+permanent disfiguration,
+permanent disability, or death.
+909
+
+Section 7:
+409.920 3rd Medicaid provider fraud;
+(2)(b)1.a. $10,000 or less.
+910
+
+Section 8:
+409.920 2nd Medicaid provider fraud; more
+(2)(b)1.b. than $10,000, but less than
+$50,000.
+911
+
+Section 9:
+456.065(2) 3rd Practicing a health care
+profession without a license.
+912
+
+Section 10:
+456.065(2) 2nd Practicing a health care
+profession without a license
+which results in serious bodily
+injury.
+913
+
+Section 11:
+458.327(1) 3rd Practicing medicine without a
+license.
+914
+
+Section 12:
+459.013(1) 3rd Practicing osteopathic medicine
+without a license.
+Page 38 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+915
+
+Section 13:
+460.411(1) 3rd Practicing chiropractic
+medicine without a license.
+916
+
+Section 14:
+461.012(1) 3rd Practicing podiatric medicine
+without a license.
+917
+
+Section 15:
+462.019 462.17 3rd Practicing naturopathic
+medicine naturopathy without a
+license.
+918
+
+Section 16:
+463.015(1) 3rd Practicing optometry without a
+license.
+919
+
+Section 17:
+464.016(1) 3rd Practicing nursing without a
+license.
+920
+
+Section 18:
+465.015(2) 3rd Practicing pharmacy without a
+license.
+921
+
+Section 19:
+466.026(1) 3rd Practicing dentistry or dental
+hygiene without a license.
+922
+
+Section 20:
+467.201 3rd Practicing midwifery without a
+license.
+Page 39 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+923
+
+Section 21:
+468.366 3rd Delivering respiratory care
+services without a license.
+924
+
+Section 22:
+483.828(1) 3rd Practicing as clinical
+laboratory personnel without a
+license.
+925
+
+Section 23:
+483.901(7) 3rd Practicing medical physics
+without a license.
+926
+
+Section 24:
+484.013(1)(c) 3rd Preparing or dispensing optical
+devices without a prescription.
+927
+
+Section 25:
+484.053 3rd Dispensing hearing aids without
+a license.
+928
+
+Section 26:
+494.0018(2) 1st Conviction of any violation of
+chapter 494 in which the total
+money and property unlawfully
+obtained exceeded $50,000 and
+there were five or more
+victims.
+929
+
+Section 27:
+560.123(8)(b)1. 3rd Failure to report currency or
+Page 40 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+payment instruments exceeding
+$300 but less than $20,000 by a
+money services business.
+930
+
+Section 28:
+560.125(5)(a) 3rd Money services business by
+unauthorized person, currency
+or payment instruments
+exceeding $300 but less than
+$20,000.
+931
+
+Section 29:
+655.50(10)(b)1. 3rd Failure to report financial
+transactions exceeding $300 but
+less than $20,000 by financial
+institution.
+932
+
+Section 30:
+775.21(10)(a) 3rd Sexual predator; failure to
+register; failure to renew
+driver license or
+identification card; other
+registration violations.
+933
+
+Section 31:
+775.21(10)(b) 3rd Sexual predator working where
+children regularly congregate.
+934
+
+Section 32:
+775.21(10)(g) 3rd Failure to report or providing
+Page 41 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+false information about a
+sexual predator; harbor or
+conceal a sexual predator.
+935
+
+Section 33:
+782.051(3) 2nd Attempted felony murder of a
+person by a person other than
+the perpetrator or the
+perpetrator of an attempted
+felony.
+936
+
+Section 34:
+782.07(1) 2nd Killing of a human being by the
+act, procurement, or culpable
+negligence of another
+(manslaughter).
+937
+
+Section 35:
+782.071 2nd Killing of a human being or
+unborn child by the operation
+of a motor vehicle in a
+reckless manner (vehicular
+homicide).
+938
+
+Section 36:
+782.072 2nd Killing of a human being by the
+operation of a vessel in a
+reckless manner (vessel
+homicide).
+Page 42 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+939
+
+Section 37:
+784.045(1)(a)1. 2nd Aggravated battery;
+intentionally causing great
+bodily harm or disfigurement.
+940
+
+Section 38:
+784.045(1)(a)2. 2nd Aggravated battery; using
+deadly weapon.
+941
+
+Section 39:
+784.045(1)(b) 2nd Aggravated battery; perpetrator
+aware victim pregnant.
+942
+
+Section 40:
+784.048(4) 3rd Aggravated stalking; violation
+of injunction or court order.
+943
+
+Section 41:
+784.048(7) 3rd Aggravated stalking; violation
+of court order.
+944
+
+Section 42:
+784.07(2)(d) 1st Aggravated battery on law
+enforcement officer.
+945
+
+Section 43:
+784.074(1)(a) 1st Aggravated battery on sexually
+violent predators facility
+staff.
+946
+
+Section 44:
+784.08(2)(a) 1st Aggravated battery on a person
+Page 43 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+65 years of age or older.
+947
+
+Section 45:
+784.081(1) 1st Aggravated battery on specified
+official or employee.
+948
+
+Section 46:
+784.082(1) 1st Aggravated battery by detained
+person on visitor or other
+detainee.
+949
+
+Section 47:
+784.083(1) 1st Aggravated battery on code
+inspector.
+950
+
+Section 48:
+787.025(2)(b) 2nd Luring or enticing a child;
+second or subsequent offense.
+951
+
+Section 49:
+787.025(2)(c) 2nd Luring or enticing a child with
+a specified prior conviction.
+952
+
+Section 50:
+787.06(3)(a)2. 1st Human trafficking using
+coercion for labor and services
+of an adult.
+953
+
+Section 51:
+787.06(3)(e)2. 1st Human trafficking using
+coercion for labor and services
+by the transfer or transport of
+Page 44 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+an adult from outside Florida
+to within the state.
+954
+
+Section 52:
+790.07(4) 1st Specified weapons violation
+subsequent to previous
+conviction of s. 790.07(1) or
+(2).
+955
+
+Section 53:
+790.16(1) 1st Discharge of a machine gun
+under specified circumstances.
+956
+
+Section 54:
+790.165(2) 2nd Manufacture, sell, possess, or
+deliver hoax bomb.
+957
+
+Section 55:
+790.165(3) 2nd Possessing, displaying, or
+threatening to use any hoax
+bomb while committing or
+attempting to commit a felony.
+958
+
+Section 56:
+790.166(3) 2nd Possessing, selling, using, or
+attempting to use a hoax weapon
+of mass destruction.
+959
+
+Section 57:
+790.166(4) 2nd Possessing, displaying, or
+threatening to use a hoax
+Page 45 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+weapon of mass destruction
+while committing or attempting
+to commit a felony.
+960
+
+Section 58:
+790.23 1st,PBL Possession of a firearm by a
+person who qualifies for the
+penalty enhancements provided
+for in s. 874.04.
+961
+
+Section 59:
+794.08(4) 3rd Female genital mutilation;
+consent by a parent, guardian,
+or a person in custodial
+authority to a victim younger
+than 18 years of age.
+962
+
+Section 60:
+796.05(1) 1st Live on earnings of a
+prostitute; 2nd offense.
+963
+
+Section 61:
+796.05(1) 1st Live on earnings of a
+prostitute; 3rd and subsequent
+offense.
+964
+
+Section 62:
+800.04(5)(c)1. 2nd Lewd or lascivious molestation;
+victim younger than 12 years of
+age; offender younger than 18
+Page 46 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+years of age.
+965
+
+Section 63:
+800.04(5)(c)2. 2nd Lewd or lascivious molestation;
+victim 12 years of age or older
+but younger than 16 years of
+age; offender 18 years of age
+or older.
+966
+
+Section 64:
+800.04(5)(e) 1st Lewd or lascivious molestation;
+victim 12 years of age or older
+but younger than 16 years;
+offender 18 years or older;
+prior conviction for specified
+sex offense.
+967
+
+Section 65:
+806.01(2) 2nd Maliciously damage structure by
+fire or explosive.
+968
+
+Section 66:
+810.02(3)(a) 2nd Burglary of occupied dwelling;
+unarmed; no assault or battery.
+969
+
+Section 67:
+810.02(3)(b) 2nd Burglary of unoccupied
+dwelling; unarmed; no assault
+or battery.
+970
+Page 47 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+
+Section 68:
+810.02(3)(d) 2nd Burglary of occupied
+conveyance; unarmed; no assault
+or battery.
+971
+
+Section 69:
+810.02(3)(e) 2nd Burglary of authorized
+emergency vehicle.
+972
+
+Section 70:
+812.014(2)(a)1. 1st Property stolen, valued at
+$100,000 or more or a
+semitrailer deployed by a law
+enforcement officer; property
+stolen while causing other
+property damage; 1st degree
+grand theft.
+973
+
+Section 71:
+812.014(2)(b)2. 2nd Property stolen, cargo valued
+at less than $50,000, grand
+theft in 2nd degree.
+974
+
+Section 72:
+812.014(2)(b)3. 2nd Property stolen, emergency
+medical equipment; 2nd degree
+grand theft.
+975
+
+Section 73:
+812.014(2)(b)4. 2nd Property stolen, law
+enforcement equipment from
+Page 48 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+authorized emergency vehicle.
+976
+
+Section 74:
+812.014(2)(g) 2nd Grand theft; second degree;
+firearm with previous
+conviction of s.
+
+Section 75:
+812.014(2)(c)5.
+977
+
+Section 76:
+812.0145(2)(a) 1st Theft from person 65 years of
+age or older; $50,000 or more.
+978
+
+Section 77:
+812.019(2) 1st Stolen property; initiates,
+organizes, plans, etc., the
+theft of property and traffics
+in stolen property.
+979
+
+Section 78:
+812.131(2)(a) 2nd Robbery by sudden snatching.
+980
+
+Section 79:
+812.133(2)(b) 1st Carjacking; no firearm, deadly
+weapon, or other weapon.
+981
+
+Section 80:
+817.034(4)(a)1. 1st Communications fraud, value
+greater than $50,000.
+982
+
+Section 81:
+817.234(8)(a) 2nd Solicitation of motor vehicle
+accident victims with intent to
+Page 49 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+defraud.
+983
+
+Section 82:
+817.234(9) 2nd Organizing, planning, or
+participating in an intentional
+motor vehicle collision.
+984
+
+Section 83:
+817.234(11)(c) 1st Insurance fraud; property value
+$100,000 or more.
+985
+
+Section 84:
+817.2341 1st Making false entries of
+(2)(b) & material fact or false
+(3)(b) statements regarding property
+values relating to the solvency
+of an insuring entity which are
+a significant cause of the
+insolvency of that entity.
+986
+
+Section 85:
+817.418(2)(a) 3rd Offering for sale or
+advertising personal protective
+equipment with intent to
+defraud.
+987
+
+Section 86:
+817.504(1)(a) 3rd Offering or advertising a
+vaccine with intent to defraud.
+988
+Page 50 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+
+Section 87:
+817.535(2)(a) 3rd Filing false lien or other
+unauthorized document.
+989
+
+Section 88:
+817.611(2)(b) 2nd Traffic in or possess 15 to 49
+counterfeit credit cards or
+related documents.
+990
+
+Section 89:
+825.102(3)(b) 2nd Neglecting an elderly person or
+disabled adult causing great
+bodily harm, disability, or
+disfigurement.
+991
+
+Section 90:
+825.103(3)(b) 2nd Exploiting an elderly person or
+disabled adult and property is
+valued at $10,000 or more, but
+less than $50,000.
+992
+
+Section 91:
+827.03(2)(b) 2nd Neglect of a child causing
+great bodily harm, disability,
+or disfigurement.
+993
+
+Section 92:
+827.04(3) 3rd Impregnation of a child under
+16 years of age by person 21
+years of age or older.
+994
+Page 51 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+
+Section 93:
+827.071(2) & (3) 2nd Use or induce a child in a
+sexual performance, or promote
+or direct such performance.
+995
+
+Section 94:
+827.071(4) 2nd Possess with intent to promote
+any photographic material,
+motion picture, etc., which
+includes child pornography.
+996
+
+Section 95:
+837.05(2) 3rd Giving false information about
+alleged capital felony to a law
+enforcement officer.
+997
+
+Section 96:
+838.015 2nd Bribery.
+998
+
+Section 97:
+838.016 2nd Unlawful compensation or reward
+for official behavior.
+999
+
+Section 98:
+838.021(3)(a) 2nd Unlawful harm to a public
+servant.
+1000
+
+Section 99:
+838.22 2nd Bid tampering.
+1001
+
+Section 100:
+843.0855(2) 3rd Impersonation of a public
+officer or employee.
+Page 52 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1002
+
+Section 101:
+843.0855(3) 3rd Unlawful simulation of legal
+process.
+1003
+
+Section 102:
+843.0855(4) 3rd Intimidation of a public
+officer or employee.
+1004
+
+Section 103:
+847.0135(3) 3rd Solicitation of a child, via a
+computer service, to commit an
+unlawful sex act.
+1005
+
+Section 104:
+847.0135(4) 2nd Traveling to meet a minor to
+commit an unlawful sex act.
+1006
+
+Section 105:
+872.06 2nd Abuse of a dead human body.
+1007
+
+Section 106:
+874.05(2)(b) 1st Encouraging or recruiting
+person under 13 to join a
+criminal gang; second or
+subsequent offense.
+1008
+
+Section 107:
+874.10 1st,PBL Knowingly initiates, organizes,
+plans, finances, directs,
+manages, or supervises criminal
+gang-related activity.
+Page 53 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1009
+
+Section 108:
+893.13(1)(c)1. 1st Sell, manufacture, or deliver
+cocaine (or other drug
+prohibited under s.
+
+Section 109:
+893.03(1)(a), (1)(b), (1)(d),
+(2)(a), (2)(b), or (2)(c)5.)
+within 1,000 feet of a child
+care facility, school, or
+state, county, or municipal
+park or publicly owned
+recreational facility or
+community center.
+1010
+
+Section 110:
+893.13(1)(e)1. 1st Sell, manufacture, or deliver
+cocaine or other drug
+prohibited under s.
+
+Section 111:
+893.03(1)(a), (1)(b), (1)(d),
+(2)(a), (2)(b), or (2)(c)5.,
+within 1,000 feet of property
+used for religious services or
+a specified business site.
+1011
+
+Section 112:
+893.13(4)(a) 1st Use or hire of minor; deliver
+to minor other controlled
+substance.
+Page 54 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1012
+
+Section 113:
+893.135(1)(a)1. 1st Trafficking in cannabis, more
+than 25 lbs., less than 2,000
+lbs.
+1013
+
+Section 114:
+893.135 1st Trafficking in cocaine, more
+(1)(b)1.a. than 28 grams, less than 200
+grams.
+1014
+
+Section 115:
+893.135 1st Trafficking in illegal drugs,
+(1)(c)1.a. more than 4 grams, less than 14
+grams.
+1015
+
+Section 116:
+893.135 1st Trafficking in hydrocodone, 28
+(1)(c)2.a. grams or more, less than 50
+grams.
+1016
+
+Section 117:
+893.135 1st Trafficking in hydrocodone, 50
+(1)(c)2.b. grams or more, less than 100
+grams.
+1017
+
+Section 118:
+893.135 1st Trafficking in oxycodone, 7
+(1)(c)3.a. grams or more, less than 14
+grams.
+1018
+Page 55 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+
+Section 119:
+893.135 1st Trafficking in oxycodone, 14
+(1)(c)3.b. grams or more, less than 25
+grams.
+1019
+
+Section 120:
+893.135 1st Trafficking in fentanyl, 4
+(1)(c)4.b.(I) grams or more, less than 14
+grams.
+1020
+
+Section 121:
+893.135 1st Trafficking in phencyclidine,
+(1)(d)1.a. 28 grams or more, less than 200
+grams.
+1021
+
+Section 122:
+893.135(1)(e)1. 1st Trafficking in methaqualone,
+200 grams or more, less than 5
+kilograms.
+1022
+
+Section 123:
+893.135(1)(f)1. 1st Trafficking in amphetamine, 14
+grams or more, less than 28
+grams.
+1023
+
+Section 124:
+893.135 1st Trafficking in flunitrazepam, 4
+(1)(g)1.a. grams or more, less than 14
+grams.
+1024
+
+Section 125:
+893.135 1st Trafficking in gamma-
+Page 56 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+(1)(h)1.a. hydroxybutyric acid (GHB), 1
+kilogram or more, less than 5
+kilograms.
+1025
+
+Section 126:
+893.135 1st Trafficking in 1,4-Butanediol,
+(1)(j)1.a. 1 kilogram or more, less than 5
+kilograms.
+1026
+
+Section 127:
+893.135 1st Trafficking in Phenethylamines,
+(1)(k)2.a. 10 grams or more, less than 200
+grams.
+1027
+
+Section 128:
+893.135 1st Trafficking in synthetic
+(1)(m)2.a. cannabinoids, 280 grams or
+more, less than 500 grams.
+1028
+
+Section 129:
+893.135 1st Trafficking in synthetic
+(1)(m)2.b. cannabinoids, 500 grams or
+more, less than 1,000 grams.
+1029
+
+Section 130:
+893.135 1st Trafficking in n-benzyl
+(1)(n)2.a. phenethylamines, 14 grams or
+more, less than 100 grams.
+1030
+
+Section 131:
+893.1351(2) 2nd Possession of place for
+Page 57 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+trafficking in or manufacturing
+of controlled substance.
+1031
+
+Section 132:
+896.101(5)(a) 3rd Money laundering, financial
+transactions exceeding $300 but
+less than $20,000.
+1032
+
+Section 133:
+896.104(4)(a)1. 3rd Structuring transactions to
+evade reporting or registration
+requirements, financial
+transactions exceeding $300 but
+less than $20,000.
+1033
+
+Section 134:
+943.0435(4)(c) 2nd Sexual offender vacating
+permanent residence; failure to
+comply with reporting
+requirements.
+1034
+
+Section 135:
+943.0435(8) 2nd Sexual offender; remains in
+state after indicating intent
+to leave; failure to comply
+with reporting requirements.
+1035
+
+Section 136:
+943.0435(9)(a) 3rd Sexual offender; failure to
+comply with reporting
+Page 58 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+requirements.
+1036
+
+Section 137:
+943.0435(13) 3rd Failure to report or providing
+false information about a
+sexual offender; harbor or
+conceal a sexual offender.
+1037
+
+Section 138:
+943.0435(14) 3rd Sexual offender; failure to
+report and reregister; failure
+to respond to address
+verification; providing false
+registration information.
+1038
+
+Section 139:
+944.607(9) 3rd Sexual offender; failure to
+comply with reporting
+requirements.
+1039
+
+Section 140:
+944.607(10)(a) 3rd Sexual offender; failure to
+submit to the taking of a
+digitized photograph.
+1040
+
+Section 141:
+944.607(12) 3rd Failure to report or providing
+false information about a
+sexual offender; harbor or
+conceal a sexual offender.
+Page 59 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1041
+
+Section 142:
+944.607(13) 3rd Sexual offender; failure to
+report and reregister; failure
+to respond to address
+verification; providing false
+registration information.
+1042
+
+Section 143:
+985.4815(10) 3rd Sexual offender; failure to
+submit to the taking of a
+digitized photograph.
+1043
+
+Section 144:
+985.4815(12) 3rd Failure to report or providing
+false information about a
+sexual offender; harbor or
+conceal a sexual offender.
+1044
+
+Section 145:
+985.4815(13) 3rd Sexual offender; failure to
+report and reregister; failure
+to respond to address
+verification; providing false
+registration information.
+1045
+1046 Section 24. This act shall take effect December 31, 2026.
+Page 60 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A 4 4 p a a d B o r d p t c c b a p p p 4 d p n]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a p l r i a d c p c c b a c f r r d r c d d s e 4]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r r p u 4 r n r n d r n t r c n f f t s d c c s c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES m a c r g c t t p a p c n b p c f h o d s t b a 4]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 9 b    B S   "S   4 f o w r d n I s b  (  ( i s aS]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES   4  (  ( w g  ( l w a N f t  ( s s o m D  ( a p s e  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t  ( r  (  ( i  (  1 h n C t o  2 " " t  a  b pS   4 t  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  (  ( n t i b t h l p o o M t a n d  (  1 d s  2  3 o p]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a t p  4  5  6 m t d o  7 i  8 d  ( t  ( d t a t  ( c u t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a p h p i p f p a s e m s t n m p p C p a  ( f s o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES n c E S o  (  (  (  (  (  (S   4  ( N t  ( n  ( u s  ( n o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p  (  ( a s  ( sS   4 t p p n d e a p r a r lS ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  4  ( p p o p  ( m 7S   4  ( d d c m  (  ( f  1 a o s  2]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES U b  3 t o p c h c r t t  ( c w a E  ( n  (  ( o d i t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( S E P A e a  ( a s p 1 t G d a o  ( l j t c  ( l o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t  ( f  ( l n  ( l t l t r nS   4 i t f rS   4 m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( i l p l e 4 r o e r  ( p cS   4 r  ( h e r e h]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES s  ( l r  ( n l a A  ( e d  ( e 4 r a e N t d e n e s]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES f d s o d p p  ( e dS   4 r  ( a w  ( r r e l a t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( t  ( p d nS   4 t  ( l  ( l f d  ( r d s  ( a r a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c c  ( t  ( u  ( t r k r u o m p t  ( a c  ( o  ( t r i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t a p  ( o w e p l a T p s  ( r a g h  ( r e m g c  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a o i i  ( t l r a  ( s f i s a u a  ( d r s  ( o s p]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p d d i i n t  ( m 8 o p d  ( w i o c h S t d s l t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES d w n e c d i p c p c u t f p i r t m p p a  ( p a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES s a p  ( w c w  ( s r t  ( p o t  ( d f o  ( p t l  ( m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( a  (  ( u  ( s o t a  1 s i s i  2 d t  3 o s s  ( s i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES h a t m a t  ( r a  ( c  ( i a v i  ( n s c c m  ( t o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES f pS   2 o  ( a  ( r w  1  2  3 c  4 c  5 4  6 c  7  8 4  9]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c  1  1  1  1 c  1 u  1 I  1 c  1 p  1 X  1 u  2  2 4  2 u  2 c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 c  2 p  2 c  2  2  2 T 4  3 pS   3 p  ( m n l s p p h]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a S A d h DS   4  ( l p n tS   4 f r  ( p m mS ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  4  ( w r  ( p m pS   4 w i  ( s c p m o  ( l s c p m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES o a t f t rS   4  ( c u l a p n oS   6  ( C  (  1 c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p l c d u 4 4 l c c d i p v h  2 p o w t f f o p m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 u u u sS   8 u t  ( c v p r d o d c o cS   9 r]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  (  (  F D D  1 A  3 D  1 C  3 V  2 M]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 M $  2 M t  3 P  2 P  3 P  3 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 P  3 P  3 P  3 P  3 P  3 P  3 P  3 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 D  3 P  3 P  3 P  3 D  1 C  3 F]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 M  3 F  3 S  3 S  3 F]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 A  2 K  2 K  2 K]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 A  2 A  2 A  3 A  3 A  1 A  1 A  1 A]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 A  1 A  1 A  2 L  2 L  1 H  1 H]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 S  1 D  2 M  2 P  2 P  2 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 P  3 F  1 L  1 L  2 L]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 L  1 L  2 M  2 B  2 B ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 2 B  2 B  1 P  2 P  2 P  2 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 G  1 T  1 S  2 R  1 C  1 C  2 S]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 O  1 I  1 M m s  3 O  3 O ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 3 F  2 T  2 N  2 E  2 N  3 I ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 2 U  2 P  3 G  2 B  2 U  2 U  2 B  3 I]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 U  3 I  3 S  2 T  2 A  1 E  1 K]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 S  1 S  1 U]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 T  1 T t  1 T m  1 T g  1 T g  1 T g ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 1 T g  1 T g  1 T 2  1 T  1 T  1 T g  1 T]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES h  1 T 1  1 T 1  1 T c  1 T c  1 T p  2 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 M  3 S  2 S  2 S  3 S]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 F  3 S  3 S  3 S  3 F]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 S  3 S  3 F  3 S S  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1 A bill to be entitled
+2 An act relating to naturopathic medicine; renaming ch.
+3 462, F.S., as "Naturopathic Medicine"; creating s.
+4 462.001, F.S.; providing legislative findings and
+5 purpose; creating s. 462.002, F.S.; providing
+6 applicability and construction; renumbering and
+7 amending s. 462.01, F.S.; revising and providing
+8 definitions; creating s. 462.004, F.S.; creating the
+9 Board of Naturopathic Medicine within the Department
+10 of Health; providing for membership of the board;
+11 requiring the board, in conjunction with the
+12 department, to establish a disciplinary training
+13 program for board members; providing requirements for
+14 the program; providing that board members must
+15 complete a training program to participate in probable
+16 cause panels or disciplinary decisions; requiring
+17 board members appointed to probable cause panels to
+18 attempt to complete their work on every case
+19 presented; authorizing board members to reconvene a
+20 probable cause panel under certain circumstances;
+21 providing applicability; renumbering and amending s.
+22 462.023, F.S.; authorizing the board to adopt rules;
+23 deleting obsolete language; creating s. 462.006, F.S.;
+24 prohibiting an unlicensed person from practicing
+25 naturopathic medicine or using specified titles or
+Page 1 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+26 abbreviations; providing construction; providing
+27 penalties; creating s. 462.007, F.S.; providing for
+28 licensure by examination of naturopathic doctors;
+29 requiring the department and the board to use an
+30 investigative process that meets certain criteria;
+31 authorizing the State Surgeon General or her or his
+32 designee to issue a 90-day licensure delay under
+33 certain circumstances; providing construction;
+34 prohibiting the board from certifying for licensure
+35 certain applicants until a certain investigation is
+36 completed; providing applicability; authorizing the
+37 board to enter an order imposing certain sanctions
+38 against or conditions on an applicant under certain
+39 circumstances; creating s. 462.008, F.S.; providing
+40 for licensure by endorsement of naturopathic doctors;
+41 renumbering and amending s. 462.08, F.S.; revising
+42 requirements for licensure renewal for naturopathic
+43 doctors; requiring the department to adopt rules;
+44 renumbering and amending s. 462.18, F.S.; revising
+45 continuing education requirements for naturopathic
+46 doctors; requiring naturopathic doctors to use the
+47 department's electronic continuing education tracking
+48 system to demonstrate compliance with continuing
+49 education requirements; renumbering and amending s.
+50 462.19, F.S.; revising provisions related to
+Page 2 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+51 reactivation of inactive naturopathic doctor licenses;
+52 requiring the board to adopt certain rules;
+53 prohibiting the department from reactivating a license
+54 until certain conditions have been met; creating s.
+55 462.015, F.S.; providing financial responsibility
+56 requirements as a condition of licensure for
+57 naturopathic doctors; providing exemptions from such
+58 requirements; requiring certain insuring entities to
+59 notify the department promptly of a naturopathic
+60 doctor's cancellation or nonrenewal of insurance;
+61 requiring the department to suspend the license of a
+62 naturopathic doctor under certain circumstances until
+63 the licensee demonstrates compliance with specified
+64 requirements; providing applicability; requiring a
+65 certain naturopathic doctor to provide a specified
+66 notice to his or her patients; providing requirements
+67 for the notice; providing for disciplinary action and
+68 for permanent disqualification from any exemption from
+69 the financial responsibility requirements for
+70 specified conduct; requiring certain naturopathic
+71 doctors to notify the department in writing of any
+72 change in circumstance and demonstrate compliance with
+73 certain requirements; requiring the department to
+74 suspend the license of a naturopathic doctor under
+75 certain circumstances until certain requirements are
+Page 3 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+76 met; providing applicability; requiring the board to
+77 adopt rules; renumbering and amending s. 462.13, F.S.;
+78 conforming a provision to changes made by the act;
+79 renumbering and amending s. 462.14, F.S.; revising
+80 grounds for disciplinary action; providing
+81 construction; providing for disciplinary actions by
+82 the board and department; providing requirements for
+83 the reinstatement of a license for certain persons;
+84 providing requirements for disciplinary guidelines
+85 adopted by the board; providing requirements and
+86 procedures for the department's receipt of certain
+87 closed claims and reports involving a licensed
+88 naturopathic doctor; authorizing the department to
+89 bring an action to enjoin a naturopathic doctor from
+90 providing medical services under certain
+91 circumstances; requiring the department to promptly
+92 furnish certain documents to a naturopathic doctor or
+93 her or his attorney upon undertaking an investigation
+94 of the naturopathic doctor; authorizing a naturopathic
+95 doctor who is the subject of such investigation to
+96 submit a written response within a specified
+97 timeframe; requiring that the response be considered
+98 by the probable cause panel, if held on the matter;
+99 amending ss. 20.43, 381.0031, 468.301, 476.044,
+100 477.0135, 485.003, 486.161, 627.351, 893.02, and
+Page 4 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+101 921.0022, F.S.; conforming provisions to changes made
+102 by the act; providing an effective date.
+103
+104 Be It Enacted by the Legislature of the State of Florida:
+105
+106 Section 1. Chapter 462, Florida Statutes, entitled
+107 "Naturopathy," is redesignated as "Naturopathic Medicine."
+108 Section 2. Section 462.001, Florida Statutes, is created
+109 to read:
+110 462.001 Legislative findings; purpose.—The Legislature
+111 finds that the interest of public health requires modernization
+112 of regulation related to naturopathy in this state. Since 1927,
+113 when Florida first regulated naturopathy, the profession and its
+114 role within the healthcare industry have evolved including the
+115 distinction that exists today between naturopathy and
+116 naturopathic medicine, and this chapter reflects that evolution.
+117 It is the intent of the Legislature to free naturopathy in this
+118 state by removing the near total ban on the profession that has
+119 been in place since 1959 by ensuring:
+120 (1) Naturopathy is offered by naturopaths in this state.
+121 (2) Naturopathic medicine is practiced in this state by
+122 issuing licenses to naturopathic doctors who meet clear
+123 standards of education and training, and who are held
+124 accountable for safe practice.
+125 Section 3. Section 462.002, Florida Statutes, is created
+Page 5 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+126 to read:
+127 462.002 Exceptions.—
+128 (1) This chapter does not apply to:
+129 (a) Other duly licensed health care practitioners acting
+130 within their respective scopes of practice, as authorized by
+131 general law.
+132 (b) Students practicing under the direct supervision of a
+133 licensed naturopathic doctor as part of a preceptorship program
+134 while enrolled in a college or university program that is
+135 accredited by, or has candidacy status with, the Council on
+136 Naturopathic Medical Education or an equivalent accrediting body
+137 for the naturopathic medical profession which is recognized by
+138 the United States Department of Education and the board.
+139 (c) Naturopathic residents practicing under the direct
+140 supervision of a licensed naturopathic doctor at a residency
+141 site recognized by the Council on Naturopathic Medical Education
+142 or by an equivalent accrediting body for the naturopathic
+143 medical profession which is recognized by the United States
+144 Department of Education or the board.
+145 (d) A naturopathic doctor who holds an active license in
+146 another jurisdiction of the United States or Canada and is
+147 performing naturopathic procedures or demonstrating equipment or
+148 supplies for educational purposes at a board-approved continuing
+149 education program.
+150 (e) The practice of the religious tenets of any church in
+Page 6 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+151 this state.
+152 (f) The domestic administration of recognized family
+153 remedies.
+154 (2) This chapter does not prohibit:
+155 (a) A person who sells a dietary supplement from providing
+156 information about the dietary supplement.
+157 (b) Any person:
+158 1. Not licensed as a naturopathic doctor from employing in
+159 his or her occupation Ayurveda, herbalism, homeopathy,
+160 naturopathy as defined in s. 462.003, nutrition, traditional
+161 Chinese medicine, or other natural therapy included as part of
+162 the practice of naturopathic medicine, as defined in s. 462.003;
+163 or
+164 2. From using terms, including, but not limited to,
+165 "certified naturopath," "naturopath," "naturopathy,"
+166 "traditional naturopath," or "traditional naturopath," provided
+167 that the person does not:
+168 a. Use a title protected under s. 462.006; or
+169 b. Represent or assume the character or appearance of a
+170 person described in s. 462.006.
+171 Section 4. Section 462.01, Florida Statutes, is renumbered
+172 as section 462.003, Florida Statutes, and amended to read:
+173 462.003 462.01 Definitions.—As used in this chapter, the
+174 term:
+175 (1) "Board" means the Board of Naturopathic Medicine.
+Page 7 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+176 (2) "Department" means the Department of Health.
+177 (3)(a) "Naturopathic medicine" and "practice of
+178 naturopathic medicine" mean the diagnosis, prevention, and
+179 treatment by a naturopathic doctor of any deformity, disease,
+180 injury, pain, or other physical or mental condition using
+181 botanical or fungal extracts, clinical nutrition, counseling
+182 techniques, dietary supplements, environmental medicine,
+183 homeopathic remedies, imaging studies, laboratory testing,
+184 lifestyle medicine, natural substances, physical exam, or
+185 physical medicine in a manner consistent with the education
+186 offered by naturopathic doctoral degree programs accredited by,
+187 or having candidacy status with, the Council on Naturopathic
+188 Medical Education or another accrediting agency recognized by
+189 the United States Department of Education or the board, and
+190 applied in a manner consistent with the principles of
+191 naturopathic medicine and the naturopathic therapeutic order
+192 defined herein.
+193 (b) The term does not include any of the following:
+194 1. Prescribing, dispensing, or administering any legend
+195 drug or prescription drug outside of natural, non-pharmacologic
+196 substances such as but not to limited vitamin B12.
+197 2. Performing any surgical procedure.
+198 3. Practicing or claiming to practice as a medical doctor
+199 or physician, an osteopathic physician, a dentist, a podiatric
+200 physician, an optometrist, a psychologist, a nurse practitioner,
+Page 8 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+201 a physician assistant, a chiropractic physician, a physical
+202 therapist, an acupuncturist, a midwife, or a health care
+203 practitioner as defined in s. 456.001.
+204 4. Using general or spinal anesthetics.
+205 5. Administering ionizing radioactive substances.
+206 6. Performing chiropractic or osteopathic adjustments or
+207 manipulations that include high–velocity thrusts at or beyond
+208 the end range of normal joint motion, unless the naturopathic
+209 doctor is also licensed as a chiropractic physician or an
+210 osteopathic physician.
+211 7. Performing acupuncture, unless the naturopathic doctor
+212 is also licensed as an acupuncturist.
+213 8. Managing labor and delivery, unless the naturopathic
+214 doctor is also a licensed midwife.
+215 (4) "Naturopathic doctor" means a person who is licensed
+216 to practice naturopathic medicine under this chapter.
+217 (5) "Naturopathic therapeutic order" means a principle
+218 defined by the American Association of Naturopathic Physicians
+219 to guide naturopathic doctors in resolving a patient's symptoms
+220 and addressing the root cause of a patient's disease while using
+221 the least therapeutic force necessary.
+222 (6)(1) "Natureopathy" and "Naturopathy" is shall be
+223 construed as synonymous with "traditional naturopathy" and is
+224 understood to be distinct from naturopathic medicine, means the
+225 traditional, non-invasive health practice offered by naturopaths
+Page 9 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+226 and traditional naturopaths focusing on education about natural
+227 practices and substances that can be used to promote general
+228 health and well-being terms and mean the use and practice of
+229 psychological, mechanical, and material health sciences to aid
+230 in purifying, cleansing, and normalizing human tissues for the
+231 preservation or restoration of health, according to the
+232 fundamental principles of anatomy, physiology, and applied
+233 psychology, as may be required. Naturopathic practice employs,
+234 among other agencies, phytotherapy, dietetics, psychotherapy,
+235 suggestotherapy, hydrotherapy, zone therapy, biochemistry,
+236 external applications, electrotherapy, mechanotherapy,
+237 mechanical and electrical appliances, hygiene, first aid,
+238 sanitation, and heliotherapy; provided, however, that nothing in
+239 this chapter shall be held or construed to authorize any
+240 naturopathic physician licensed hereunder to practice materia
+241 medica or surgery or chiropractic medicine, nor shall the
+242 provisions of this law in any manner apply to or affect the
+243 practice of osteopathic medicine, chiropractic medicine,
+244 Christian Science, or any other treatment authorized and
+245 provided for by law for the cure or prevention of disease and
+246 ailments.
+247 (7) "Principles of naturopathic medicine" means the
+248 foundations of naturopathic medical education and practice as
+249 set forth by the American Association of Naturopathic Physicians
+250 or the board and embodied in the education offered by
+Page 10 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+251 naturopathic doctoral degree programs accredited by, or having
+252 candidacy status with, the Council on Naturopathic Medical
+253 Education or another accrediting agency recognized by the United
+254 States Department of Education or the board, and including all
+255 of the following principles:
+256 (a) The healing power of nature.
+257 (b) Identify and treat the causes.
+258 (c) First do no harm.
+259 (d) Doctor as teacher.
+260 (e) Treat the whole person.
+261 (f) Prevention.
+262 Section 5. Section 462.004, Florida Statutes, is created
+263 to read:
+264 462.004 Board of Naturopathic Medicine.—
+265 (1) There is created within the department the Board of
+266 Naturopathic Medicine, composed of seven members appointed by
+267 the Governor and confirmed by the Senate.
+268 (2)(a) Four members of the board must be licensed
+269 naturopathic doctors who are residents of this state.
+270 (b) Two members of the board must be physicians licensed
+271 under chapter 458 or chapter 459 who are residents of this
+272 state.
+273 (c) One member must be a resident of this state who is
+274 not, and has never been, licensed as a naturopathic doctor, an
+275 osteopathic physician, a physician, or any other closely related
+Page 11 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+276 profession.
+277 (d) At least one member must be 60 years of age or older.
+278 (3) As the terms of the members expire, the Governor shall
+279 appoint successors for terms of 4 years, and such members shall
+280 serve until their successors are appointed.
+281 (4) All provisions of chapter 456 relating to the board
+282 shall apply.
+283 Section 6. Section 462.023, Florida Statutes, is
+284 renumbered as section 462.005, Florida Statutes, and amended to
+285 read:
+286 462.005 462.023 Rulemaking authority; powers and duties of
+287 the board department.—The board department may adopt such rules
+288 pursuant to ss. 120.536(1) and 120.54 to implement the
+289 provisions of this chapter conferring duties upon it as are
+290 necessary to carry out the purposes of this chapter, initiate
+291 disciplinary action as provided by this chapter, and shall
+292 establish fees based on its estimates of the revenue required to
+293 administer this chapter but shall not exceed the fee amounts
+294 provided in this chapter. The department shall not adopt any
+295 rules which would cause any person who was not licensed in
+296 accordance with this chapter on July 1, 1959, and had not been a
+297 resident of the state for 2 years prior to such date, to become
+298 licensed.
+299 Section 7. Section 462.006, Florida Statutes, is created
+300 to read:
+Page 12 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+301 462.006 License required.—
+302 (1) Unless licensed under this chapter, a person may not
+303 practice naturopathic medicine in this state and may not
+304 promote, identify, or describe herself or himself as a "doctor
+305 of naturopathic medicine," or a "naturopathic doctor" or use the
+306 post-nominals "N.D." or "N.M.D."
+307 (2) A person who violates this section commits a
+308 misdemeanor of the second degree, punishable as provided in s.
+309 775.082 or s. 775.083.
+310 Section 8. Section 462.007, Florida Statutes, is created
+311 to read:
+312 462.007 Licensure by examination.—
+313 (1) Any person desiring to be licensed as a naturopathic
+314 doctor must apply to the department on forms furnished by the
+315 department. The department shall license each applicant who
+316 completes the application form and who the board certifies has
+317 met all of the following criteria:
+318 (a) Is at least 21 years of age.
+319 (b) Has received a bachelor's degree from one of the
+320 following:
+321 1. A college or university accredited by an accrediting
+322 agency recognized by the United States Department of Education
+323 or the Council for Higher Education Accreditation or its
+324 successor entity recognized by the board;
+325 2. A college or university in Canada which is a member of
+Page 13 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+326 Universities Canada or a successor entity recognized by the
+327 board; or
+328 3. A college or university in a foreign country, other
+329 than Canada, when such applicant has provided evidence that her
+330 or his educational credentials are deemed equivalent to those
+331 provided in this country or Canada. To have educational
+332 credentials deemed equivalent, the applicant must provide her or
+333 his foreign educational credentials, including transcripts,
+334 course descriptions or syllabi, and diplomas, to a nationally
+335 recognized educational credential evaluating agency approved by
+336 the board for the evaluation and determination of equivalency of
+337 the foreign educational credentials.
+338 (c) Has received a naturopathic doctoral degree from a
+339 college or program accredited by, or having candidacy status
+340 with, the Council on Naturopathic Medical Education or another
+341 accrediting agency recognized by the United States Department of
+342 Education or the board.
+343 (d) Is physically and mentally fit to practice as a
+344 naturopathic doctor.
+345 (e) Is of good moral character.
+346 (f) Has submitted to the department a set of fingerprints
+347 on a form and in accordance with procedures specified by the
+348 department, along with payment in an amount equal to the costs
+349 incurred by the department for the criminal background check of
+350 the applicant.
+Page 14 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+351 (g) Has obtained a passing score on Part I - Biomedical
+352 Science Examination and Part II - Core Clinical Science
+353 Examination of the competency-based national Naturopathic
+354 Physician Licensing Examination administered by the North
+355 American Board of Naturopathic Examiners, or an equivalent
+356 examination offered by an equivalent or successor entity, as
+357 approved by the board.
+358 (2) The department and the board shall ensure that
+359 applicants for licensure satisfy the applicable criteria in this
+360 section through an investigative process. If the investigative
+361 process is not completed within the timeframe established in s.
+362 120.60(1) and the department or board has reason to believe that
+363 the applicant does not meet such criteria, the State Surgeon
+364 General or her or his designee may issue a 90-day licensure
+365 delay, which must be in writing and sufficient to notify the
+366 applicant of the reason for the delay. This subsection prevails
+367 over any conflicting provision of s. 120.60(1).
+368 (3) The board may not certify to the department for
+369 licensure any applicant who is under investigation in another
+370 jurisdiction for an offense that would constitute a violation of
+371 this chapter or chapter 456 until the investigation has been
+372 completed.
+373 (4) If the board determines that an applicant for
+374 licensure has failed to meet, to the board's satisfaction, any
+375 of the requirements of this section, the board may take one of
+Page 15 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+376 the following actions:
+377 (a) Refusal to certify to the department an application
+378 for licensure.
+379 (b) Certification to the department of an application for
+380 licensure with restrictions on the scope of practice of the
+381 naturopathic doctor.
+382 (c) Certification to the department of an application for
+383 licensure with a probationary period for the applicant, subject
+384 to such conditions as the board specifies, including, but not
+385 limited to, requiring the naturopathic doctor to submit to
+386 treatment, attend continuing education courses, submit to
+387 reexamination, or work under the supervision of another
+388 naturopathic doctor.
+389 Section 9. Section 462.008, Florida Statutes, is created
+390 to read:
+391 462.008 Licensure by endorsement.—The department shall
+392 issue a license to practice naturopathic medicine by endorsement
+393 to an applicant who, upon applying to the department on forms
+394 furnished by the department, the board certifies has met the
+395 requirements for licensure by endorsement under s. 456.0145.
+396 Section 10. Section 462.08, Florida Statutes, is
+397 renumbered as section 462.009, Florida Statutes, and amended to
+398 read:
+399 462.009 462.08 Renewal of license to practice naturopathic
+400 medicine naturopathy.—
+Page 16 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+401 (1) In order to continue practicing naturopathic medicine
+402 in this state, each licensed naturopathic doctor must
+403 licenseholder shall biennially renew her or his license to
+404 practice naturopathic medicine naturopathy. The applicant for
+405 license renewal must furnish to the board department such
+406 evidence as it requires of the applicant's compliance with s.
+407 462.011 s. 462.18, relating to continuing education educational
+408 requirements. The nonrefundable biennial renewal fee, the amount
+409 of which shall be determined by the department but which may not
+410 exceed $1,000, must be paid at the time the application for
+411 renewal of the license is filed.
+412 (2) The department shall adopt rules establishing
+413 procedures for the biennial renewal of licenses under this
+414 chapter.
+415 Section 11. Section 462.18, Florida Statutes, is
+416 renumbered as section 462.011, Florida Statutes, and amended to
+417 read:
+418 462.011 462.18 Continuing education Educational
+419 requirements.—
+420 (1) At the time each licensee renews shall renew her or
+421 his license as otherwise provided in s. 462.009 this chapter,
+422 each licensee must, in addition to the payment of the regular
+423 renewal fee, shall furnish to the department satisfactory
+424 evidence that, in the preceding biennial period, the licensee
+425 has completed the continuing education requirements of this
+Page 17 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+426 section.
+427 (2) The board shall require each licensee to complete at
+428 least 60 hours of continuing education during each biennial
+429 renewal period.
+430 (a) The board shall approve organizations that accredit
+431 naturopathic continuing education providers, including, but not
+432 limited to, the American Association of Naturopathic Physicians,
+433 and the North American Naturopathic Continuing Education
+434 Accreditation Council.
+435 (b) The determination of whether substitute continuing
+436 education programs are permissible is solely within the
+437 discretion of the board.
+438 (3) The licensee must use the electronic continuing
+439 education tracking system developed by the department under s.
+440 456.0361 to demonstrate compliance with the continuing education
+441 requirements of this section year preceding each such
+442 application for renewal, the licensee has attended the 2-day
+443 educational program as promulgated and conducted by the Florida
+444 Naturopathic Physicians Association, Inc., or, as a substitute
+445 therefor, the equivalent of that program as approved by the
+446 department. The department shall send a written notice to this
+447 effect to every person holding a valid license to practice
+448 naturopathy within this state at least 30 days prior to May 1 in
+449 each even-numbered year, directed to the last known address of
+450 such licensee, and shall enclose with the notice proper blank
+Page 18 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+451 forms for application for annual license renewal. All of the
+452 details and requirements of the aforesaid educational program
+453 shall be adopted and prescribed by the department. In the event
+454 of national emergencies, or for sufficient reason, the
+455 department shall have the power to excuse the naturopathic
+456 physicians as a group or as individuals from taking this
+457 postgraduate course.
+458 (2) The determination of whether a substitute annual
+459 educational program is necessary shall be solely within the
+460 discretion of the department.
+461 Section 12. Section 462.19, Florida Statutes, is
+462 renumbered as section 462.012, Florida Statutes, and amended to
+463 read:
+464 462.012 462.19 Renewal of license; inactive status;
+465 reactivation of license.—
+466 (1) A licensee may reactivate an inactive license by
+467 applying to the department and submitting proof of compliance
+468 with the financial responsibility requirements of s. 462.015.
+469 (2) The board shall adopt rules relating to the
+470 reactivation of licenses that have become inactive and the
+471 renewal of inactive licenses. The rules must include continuing
+472 education requirements as a condition for reactivating a
+473 license. The continuing education requirements for reactivating
+474 a license may not be fewer than 20 classroom hours for each year
+475 the license was inactive.
+Page 19 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+476 (1) The department shall renew a license upon receipt of
+477 the renewal application and fee.
+478 (2) A licensee may request that her or his license be
+479 placed in an inactive status by making application to the
+480 department and paying a fee in an amount set by the department
+481 not to exceed $50.
+482 Section 13. Section 462.14, Florida Statutes, is
+483 renumbered as section 462.017, Florida Statutes, and amended to
+484 read:
+485 462.017 462.14 Grounds for disciplinary action; action by
+486 the department.—
+487 (1) The following acts constitute grounds for denial of a
+488 license or disciplinary action, as specified in s. 456.072(2):
+489 (1)(a) Attempting to obtain, obtaining, or renewing a
+490 license to practice naturopathic medicine by bribery, by
+491 fraudulent misrepresentation, or through an error of the
+492 department.
+493 (2)(b) Having a license to practice naturopathic medicine
+494 revoked, suspended, or otherwise acted against, including the
+495 denial of licensure, by the licensing authority of another
+496 state, territory, or country.
+497 (3)(c) Being convicted or found guilty, regardless of
+498 adjudication, of a crime in any jurisdiction which directly
+499 relates to the practice of naturopathic medicine or to the
+500 ability to practice naturopathic medicine. Any plea of nolo
+Page 20 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+501 contendere shall be considered a conviction for purposes of this
+502 chapter.
+503 (4)(d) False, deceptive, or misleading advertising related
+504 to the practice of naturopathic medicine.
+505 (5)(e) Advertising, practicing, or attempting to practice
+506 under a name other than one's own.
+507 (6)(f) Failing to report to the department any person who
+508 the licensee knows is in violation of this chapter or of the
+509 rules of the department. However, a person who the licensee
+510 knows is unable to practice naturopathic medicine with
+511 reasonable skill and safety to patients by reason of illness or
+512 use of alcohol, drugs, narcotics, chemicals, or any other type
+513 of material, or as a result of a mental or physical condition,
+514 may be reported to a consultant operating an impaired
+515 practitioner program as described in s. 456.076 rather than to
+516 the department.
+517 (7)(g) Aiding, assisting, procuring, employing, or
+518 advising any unlicensed person to practice naturopathic medicine
+519 contrary to this chapter or to a rule of the department.
+520 (8)(h) Failing to perform any statutory or legal
+521 obligation placed upon a licensed naturopathic doctor physician.
+522 (9)(i) Making or filing a report which the licensee knows
+523 to be false, intentionally or negligently failing to file a
+524 report or record required by state or federal law, willfully
+525 impeding or obstructing such filing or inducing another person
+Page 21 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+526 to do so. Such reports or records shall include only those which
+527 are signed in the capacity as a licensed naturopathic doctor
+528 physician.
+529 (j) Paying or receiving any commission, bonus, kickback,
+530 or rebate, or engaging in any split-fee arrangement in any form
+531 whatsoever with a physician, organization, agency, or person,
+532 either directly or indirectly, for patients referred to
+533 providers of health care goods and services, including, but not
+534 limited to, hospitals, nursing homes, clinical laboratories,
+535 ambulatory surgical centers, or pharmacies. The provisions of
+536 This paragraph shall not be construed to prevent a naturopathic
+537 physician from receiving a fee for professional consultation
+538 services.
+539 (10)(k) Exercising influence within a patient-physician
+540 relationship for purposes of engaging a patient in sexual
+541 activity. A patient is shall be presumed to be incapable of
+542 giving free, full, and informed consent to sexual activity with
+543 her or his naturopathic doctor physician.
+544 (l) Making deceptive, untrue, or fraudulent
+545 representations in the practice of naturopathic medicine or
+546 employing a trick or scheme in the practice of naturopathic
+547 medicine when such scheme or trick fails to conform to the
+548 generally prevailing standards of treatment in the medical
+549 community.
+550 (m) Soliciting patients, either personally or through an
+Page 22 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+551 agent, through the use of fraud, intimidation, undue influence,
+552 or a form of overreaching or vexatious conduct. A "solicitation"
+553 is any communication which directly or implicitly requests an
+554 immediate oral response from the recipient.
+555 (11)(n) Failing to keep written medical records justifying
+556 the course of treatment of the patient, including, but not
+557 limited to, patient histories, examination results, test
+558 results, X rays, and records of the prescribing, dispensing and
+559 administering of drugs.
+560 (12)(o) Exercising influence on the patient or client in
+561 such a manner as to exploit the patient or client for the
+562 financial gain of the licensee or of a third party, which shall
+563 include, but not be limited to, the promoting or selling of
+564 services, goods, appliances, or drugs and the promoting or
+565 advertising on any prescription form of a community pharmacy
+566 unless the form also states "This prescription may be filled at
+567 any pharmacy of your choice."
+568 (p) Performing professional services which have not been
+569 duly authorized by the patient or client, or her or his legal
+570 representative, except as provided in s. 743.064, s. 766.103, or
+571 s. 768.13.
+572 (q) Prescribing, dispensing, administering, mixing, or
+573 otherwise preparing a legend drug, including any controlled
+574 substance, other than in the course of the naturopathic
+575 physician's professional practice. For the purposes of this
+Page 23 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+576 paragraph, it shall be legally presumed that prescribing,
+577 dispensing, administering, mixing, or otherwise preparing legend
+578 drugs, including all controlled substances, inappropriately or
+579 in excessive or inappropriate quantities is not in the best
+580 interest of the patient and is not in the course of the
+581 naturopathic physician's professional practice, without regard
+582 to her or his intent.
+583 (r) Prescribing, dispensing, or administering any
+584 medicinal drug appearing on any schedule set forth in chapter
+585 893 by the naturopathic physician to herself or himself, except
+586 one prescribed, dispensed, or administered to the naturopathic
+587 physician by another practitioner authorized to prescribe,
+588 dispense, or administer medicinal drugs.
+589 (13)(s) Being unable to practice naturopathic medicine
+590 with reasonable skill and safety to patients by reason of
+591 illness or use of alcohol, drugs, narcotics, chemicals, or any
+592 other type of material or as a result of any mental or physical
+593 condition. In enforcing this paragraph, the department shall
+594 have, upon a finding of the State Surgeon General or the State
+595 Surgeon General's designee that probable cause exists to believe
+596 that the licensee is unable to serve as a naturopathic doctor
+597 due to the reasons stated in this paragraph, the department
+598 shall have the authority to issue an order to compel the
+599 licensee, authority to compel a naturopathic physician to submit
+600 to a mental or physical examination by a physician physicians
+Page 24 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+601 designated by the department. If the licensee does not comply
+602 with such order, the department's order directing failure of a
+603 naturopathic physician to submit to such an examination may be
+604 enforced by filing a petition for enforcement in the circuit
+605 court for the county in which the naturopathic doctor resides or
+606 does business. The naturopathic doctor against whom the petition
+607 is filed may not be named or identified by initials in any
+608 public court record or document, and the proceedings must be
+609 closed to the public. The department is entitled to the summary
+610 procedure provided in s. 51.011 when so directed shall
+611 constitute an admission of the allegations against her or him
+612 upon which a default and final order may be entered without the
+613 taking of testimony or presentation of evidence, unless the
+614 failure was due to circumstances beyond the naturopathic
+615 physician's control. A naturopathic doctor subject to an order
+616 issued physician affected under this paragraph must, shall at
+617 reasonable intervals, be afforded an opportunity to demonstrate
+618 that she or he can resume the competent practice of naturopathic
+619 medicine with reasonable skill and safety to patients. In any
+620 proceeding under this paragraph, neither the record of
+621 proceedings nor the orders entered by the department may be used
+622 against a naturopathic doctor physician in any other proceeding.
+623 (14)(t) Gross or repeated malpractice or the failure to
+624 practice naturopathic medicine with that level of care, skill,
+625 and treatment which is recognized by a reasonably prudent
+Page 25 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+626 similar physician as being acceptable under similar conditions
+627 and circumstances. The department shall give great weight to the
+628 provisions of s. 766.102 when enforcing this paragraph.
+629 (u) Performing any procedure or prescribing any therapy
+630 which, by the prevailing standards of medical practice in the
+631 community, constitutes experimentation on a human subject,
+632 without first obtaining full, informed, and written consent.
+633 (15)(v) Practicing or offering to practice beyond the
+634 scope permitted by law or accepting and performing professional
+635 responsibilities which the licensee knows or has reason to know
+636 that she or he is not competent to perform.
+637 (16)(w) Delegating professional responsibilities to a
+638 person when the licensee delegating such responsibilities knows
+639 or has reason to know that such person is not qualified by
+640 training, experience, or licensure to perform them.
+641 (17)(x) Violating a lawful order of the board or the
+642 department previously entered in a disciplinary hearing or
+643 failing to comply with a lawfully issued subpoena of the board
+644 or department.
+645 (18)(y) Conspiring with another licensee or with any other
+646 person to commit an act, or committing an act, which would tend
+647 to coerce, intimidate, or preclude another licensee from
+648 lawfully advertising her or his services.
+649 (19) Fraud or deceit or gross negligence, incompetence, or
+650 misconduct in the operation of a course of study.
+Page 26 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+651 (z) Procuring, or aiding or abetting in the procuring of,
+652 an unlawful termination of pregnancy.
+653 (aa) Presigning blank prescription forms.
+654 (bb) Prescribing by the naturopathic physician for office
+655 use any medicinal drug appearing on Schedule II in chapter 893.
+656 (cc) Prescribing, ordering, dispensing, administering,
+657 supplying, selling, or giving any drug which is an amphetamine
+658 or sympathomimetic amine drug, or a compound designated pursuant
+659 to chapter 893 as a Schedule II controlled substance to or for
+660 any person except for:
+661 1. The treatment of narcolepsy; hyperkinesis; behavioral
+662 syndrome in children characterized by the developmentally
+663 inappropriate symptoms of moderate to severe distractability,
+664 short attention span, hyperactivity, emotional lability, and
+665 impulsivity; or drug-induced brain dysfunction.
+666 2. The differential diagnostic psychiatric evaluation of
+667 depression or the treatment of depression shown to be refractory
+668 to other therapeutic modalities.
+669 3. The clinical investigation of the effects of such drugs
+670 or compounds when an investigative protocol therefor is
+671 submitted to, reviewed, and approved by the department before
+672 such investigation is begun.
+673 (dd) Prescribing, ordering, dispensing, administering,
+674 supplying, selling, or giving growth hormones, testosterone or
+675 its analogs, human chorionic gonadotropin (HCG), or other
+Page 27 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+676 hormones for the purpose of muscle building or to enhance
+677 athletic performance. For the purposes of this subsection, the
+678 term "muscle building" does not include the treatment of injured
+679 muscle. A prescription written for the drug products listed
+680 above may be dispensed by the pharmacist with the presumption
+681 that the prescription is for legitimate medical use.
+682 (20) Failing to comply with state, county, or municipal
+683 regulations or reporting requirements relating to public health
+684 and the control of contagious and infectious diseases.
+685 (21)(ee) Violating any provision of this chapter or
+686 chapter 456, or any rule rules adopted pursuant thereto.
+687 (2) The department may enter an order denying licensure or
+688 imposing any of the penalties in s. 456.072(2) against any
+689 applicant for licensure or licensee who is found guilty of
+690 violating any provision of subsection (1) of this section or who
+691 is found guilty of violating any provision of s. 456.072(1).
+692 (3) The department shall not reinstate the license of a
+693 naturopathic physician until such time as the department is
+694 satisfied that such person has complied with all the terms and
+695 conditions set forth in the final order and that such person is
+696 capable of safely engaging in the practice of naturopathic
+697 medicine.
+698 (4) The department shall by rule establish guidelines for
+699 the disposition of disciplinary cases involving specific types
+700 of violations. Such guidelines may include minimum and maximum
+Page 28 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+701 fines, periods of supervision or probation, or conditions of
+702 probation or reissuance of a license.
+703 Section 14. Paragraph (g) of subsection (3) of section
+704 20.43, Florida Statutes, is amended to read:
+705 20.43 Department of Health.—There is created a Department
+706 of Health.
+707 (3) The following divisions of the Department of Health
+708 are established:
+709 (g) Division of Medical Quality Assurance, which is
+710 responsible for the following boards and professions established
+711 within the division:
+712 1. The Board of Acupuncture, created under chapter 457.
+713 2. The Board of Medicine, created under chapter 458.
+714 3. The Board of Osteopathic Medicine, created under
+715 chapter 459.
+716 4. The Board of Chiropractic Medicine, created under
+717 chapter 460.
+718 5. The Board of Podiatric Medicine, created under chapter
+719 461.
+720 6. Naturopathic Medicine Naturopathy, as provided under
+721 chapter 462.
+722 7. The Board of Optometry, created under chapter 463.
+723 8. The Board of Nursing, created under part I of chapter
+724 464.
+725 9. Nursing assistants, as provided under part II of
+Page 29 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+726 chapter 464.
+727 10. The Board of Pharmacy, created under chapter 465.
+728 11. The Board of Dentistry, created under chapter 466.
+729 12. Midwifery, as provided under chapter 467.
+730 13. The Board of Speech-Language Pathology and Audiology,
+731 created under part I of chapter 468.
+732 14. The Board of Nursing Home Administrators, created
+733 under part II of chapter 468.
+734 15. The Board of Occupational Therapy, created under part
+735 III of chapter 468.
+736 16. Respiratory therapy, as provided under part V of
+737 chapter 468.
+738 17. Dietetics and nutrition practice, as provided under
+739 part X of chapter 468.
+740 18. The Board of Athletic Training, created under part
+741 XIII of chapter 468.
+742 19. The Board of Orthotists and Prosthetists, created
+743 under part XIV of chapter 468.
+744 20. Electrolysis, as provided under chapter 478.
+745 21. The Board of Massage Therapy, created under chapter
+746 480.
+747 22. The Board of Clinical Laboratory Personnel, created
+748 under part I of chapter 483.
+749 23. Medical physicists, as provided under part II of
+750 chapter 483.
+Page 30 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+751 24. The Board of Opticianry, created under part I of
+752 chapter 484.
+753 25. The Board of Hearing Aid Specialists, created under
+754 part II of chapter 484.
+755 26. The Board of Physical Therapy Practice, created under
+756 chapter 486.
+757 27. The Board of Psychology, created under chapter 490.
+758 28. School psychologists, as provided under chapter 490.
+759 29. The Board of Clinical Social Work, Marriage and Family
+760 Therapy, and Mental Health Counseling, created under chapter
+761 491.
+762 30. Emergency medical technicians and paramedics, as
+763 provided under part III of chapter 401.
+764 Section 15. Subsection (2) of section 381.0031, Florida
+765 Statutes, is amended to read:
+766 381.0031 Epidemiological research; report of diseases of
+767 public health significance to department.—
+768 (2) Any practitioner licensed in this state to practice
+769 medicine, osteopathic medicine, chiropractic medicine,
+770 naturopathic medicine naturopathy, or veterinary medicine; any
+771 licensed pharmacist authorized under a protocol with a
+772 supervising physician under s. 465.1895, or a collaborative
+773 pharmacy practice agreement, as defined in s. 465.1865, to
+774 perform or order and evaluate laboratory and clinical tests; any
+775 hospital licensed under part I of chapter 395; or any laboratory
+Page 31 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+776 appropriately certified by the Centers for Medicare and Medicaid
+777 Services under the federal Clinical Laboratory Improvement
+778 Amendments and the federal rules adopted thereunder which
+779 diagnoses or suspects the existence of a disease of public
+780 health significance shall immediately report the fact to the
+781 Department of Health.
+782 Section 16. Subsection (11) of section 468.301, Florida
+783 Statutes, is amended to read:
+784 468.301 Definitions.—As used in this part, the term:
+785 (11) "Licensed practitioner" means a person who is
+786 licensed or otherwise authorized by law to practice medicine,
+787 podiatric medicine, chiropody, osteopathic medicine,
+788 naturopathic medicine naturopathy, or chiropractic medicine in
+789 this state.
+790 Section 17. Subsection (1) of section 476.044, Florida
+791 Statutes, is amended to read:
+792 476.044 Exemptions.—This chapter does not apply to the
+793 following persons when practicing pursuant to their professional
+794 responsibilities and duties:
+795 (1) Persons authorized under the laws of this state to
+796 practice medicine, surgery, osteopathic medicine, chiropractic
+797 medicine, naturopathic medicine naturopathy, or podiatric
+798 medicine;
+799 Section 18. Paragraph (a) of subsection (1) of section
+800 477.0135, Florida Statutes, is amended to read:
+Page 32 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+801 477.0135 Exemptions.—
+802 (1) This chapter does not apply to the following persons
+803 when practicing pursuant to their professional or occupational
+804 responsibilities and duties:
+805 (a) Persons authorized under the laws of this state to
+806 practice medicine, surgery, osteopathic medicine, chiropractic
+807 medicine, massage therapy, naturopathic medicine naturopathy, or
+808 podiatric medicine.
+809 Section 19. Subsections (2) and (3) of section 485.003,
+810 Florida Statutes, are amended to read:
+811 485.003 Definitions.—In construing this chapter, the
+812 words, phrases, or terms, unless the context otherwise
+813 indicates, shall have the following meanings:
+814 (2) "Healing arts" shall mean the practice of medicine,
+815 surgery, psychiatry, dentistry, osteopathic medicine,
+816 chiropractic medicine, naturopathic medicine naturopathy,
+817 podiatric medicine, chiropody, psychology, clinical social work,
+818 marriage and family therapy, mental health counseling, and
+819 optometry.
+820 (3) "Practitioner of the healing arts" shall mean a person
+821 licensed under the laws of the state to practice medicine,
+822 surgery, psychiatry, dentistry, osteopathic medicine,
+823 chiropractic medicine, naturopathic medicine naturopathy,
+824 podiatric medicine, chiropody, psychology, clinical social work,
+825 marriage and family therapy, mental health counseling, or
+Page 33 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+826 optometry within the scope of his or her professional training
+827 and competence and within the purview of the statutes applicable
+828 to his or her respective profession, and who may refer a patient
+829 for treatment by a qualified person, who shall employ hypnotic
+830 techniques under the supervision, direction, prescription, and
+831 responsibility of such referring practitioner.
+832 Section 20. Subsection (1) of section 486.161, Florida
+833 Statutes, is amended to read:
+834 486.161 Exemptions.—
+835 (1) No provision of This chapter does not shall be
+836 construed to prohibit any person licensed in this state from
+837 using any physical agent as a part of, or incidental to, the
+838 lawful practice of her or his profession under the statutes
+839 applicable to the profession of chiropractic physician,
+840 podiatric physician, doctor of medicine, massage therapist,
+841 nurse, osteopathic physician or surgeon, occupational therapist,
+842 or naturopathic doctor naturopath.
+843 Section 21. Paragraph (h) of subsection (4) of section
+844 627.351, Florida Statutes, is amended to read:
+845 627.351 Insurance risk apportionment plans.—
+846 (4) MEDICAL MALPRACTICE RISK APPORTIONMENT; ASSOCIATION
+847 CONTRACTS AND PURCHASES.—
+848 (h) As used in this subsection:
+849 1. "Health care provider" means hospitals licensed under
+850 chapter 395; physicians licensed under chapter 458; osteopathic
+Page 34 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+851 physicians licensed under chapter 459; podiatric physicians
+852 licensed under chapter 461; dentists licensed under chapter 466;
+853 chiropractic physicians licensed under chapter 460; naturopathic
+854 doctors naturopaths licensed under chapter 462; nurses licensed
+855 under part I of chapter 464; midwives licensed under chapter
+856 467; physician assistants licensed under chapter 458 or chapter
+857 459; physical therapists and physical therapist assistants
+858 licensed under chapter 486; health maintenance organizations
+859 certificated under part I of chapter 641; ambulatory surgical
+860 centers licensed under chapter 395; other medical facilities as
+861 defined in subparagraph 2.; blood banks, plasma centers,
+862 industrial clinics, and renal dialysis facilities; or
+863 professional associations, partnerships, corporations, joint
+864 ventures, or other associations for professional activity by
+865 health care providers.
+866 2. "Other medical facility" means a facility the primary
+867 purpose of which is to provide human medical diagnostic services
+868 or a facility providing nonsurgical human medical treatment, to
+869 which facility the patient is admitted and from which facility
+870 the patient is discharged within the same working day, and which
+871 facility is not part of a hospital. However, a facility existing
+872 for the primary purpose of performing terminations of pregnancy
+873 or an office maintained by a physician or dentist for the
+874 practice of medicine may not be construed to be an "other
+875 medical facility."
+Page 35 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+876 3. "Health care facility" means any hospital licensed
+877 under chapter 395, health maintenance organization certificated
+878 under part I of chapter 641, ambulatory surgical center licensed
+879 under chapter 395, or other medical facility as defined in
+880 subparagraph 2.
+881 Section 22. Subsection (23) of section 893.02, Florida
+882 Statutes, is amended to read:
+883 893.02 Definitions.—The following words and phrases as
+884 used in this chapter shall have the following meanings, unless
+885 the context otherwise requires:
+886 (23) "Practitioner" means a physician licensed under
+887 chapter 458, a dentist licensed under chapter 466, a
+888 veterinarian licensed under chapter 474, an osteopathic
+889 physician licensed under chapter 459, an advanced practice
+890 registered nurse licensed under chapter 464, a naturopathic
+891 doctor naturopath licensed under chapter 462, a certified
+892 optometrist licensed under chapter 463, a psychiatric nurse as
+893 defined in s. 394.455, a podiatric physician licensed under
+894 chapter 461, or a physician assistant licensed under chapter 458
+895 or chapter 459, provided such practitioner holds a valid federal
+896 controlled substance registry number.
+897 Section 23. Paragraph (g) of subsection (3) of section
+898 921.0022, Florida Statutes, is amended to read:
+899 921.0022 Criminal Punishment Code; offense severity
+900 ranking chart.—
+Page 36 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+901 (3) OFFENSE SEVERITY RANKING CHART
+902 (g) LEVEL 7
+903
+Florida Felony
+Statute Degree Description
+904
+316.027(2)(c) 1st Accident involving death,
+failure to stop; leaving scene.
+905
+316.193(3)(c)2. 3rd DUI resulting in serious bodily
+injury.
+906
+316.1935(3)(b) 1st Causing serious bodily injury
+or death to another person;
+driving at high speed or with
+wanton disregard for safety
+while fleeing or attempting to
+elude law enforcement officer
+who is in a patrol vehicle with
+siren and lights activated.
+907
+327.35(3)(a)3.b. 3rd Vessel BUI resulting in serious
+bodily injury.
+908
+402.319(2) 2nd Misrepresentation and
+Page 37 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+negligence or intentional act
+resulting in great bodily harm,
+permanent disfiguration,
+permanent disability, or death.
+909
+409.920 3rd Medicaid provider fraud;
+(2)(b)1.a. $10,000 or less.
+910
+409.920 2nd Medicaid provider fraud; more
+(2)(b)1.b. than $10,000, but less than
+$50,000.
+911
+456.065(2) 3rd Practicing a health care
+profession without a license.
+912
+456.065(2) 2nd Practicing a health care
+profession without a license
+which results in serious bodily
+injury.
+913
+458.327(1) 3rd Practicing medicine without a
+license.
+914
+459.013(1) 3rd Practicing osteopathic medicine
+without a license.
+Page 38 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+915
+460.411(1) 3rd Practicing chiropractic
+medicine without a license.
+916
+461.012(1) 3rd Practicing podiatric medicine
+without a license.
+917
+462.019 462.17 3rd Practicing naturopathic
+medicine naturopathy without a
+license.
+918
+463.015(1) 3rd Practicing optometry without a
+license.
+919
+464.016(1) 3rd Practicing nursing without a
+license.
+920
+465.015(2) 3rd Practicing pharmacy without a
+license.
+921
+466.026(1) 3rd Practicing dentistry or dental
+hygiene without a license.
+922
+467.201 3rd Practicing midwifery without a
+license.
+Page 39 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+923
+468.366 3rd Delivering respiratory care
+services without a license.
+924
+483.828(1) 3rd Practicing as clinical
+laboratory personnel without a
+license.
+925
+483.901(7) 3rd Practicing medical physics
+without a license.
+926
+484.013(1)(c) 3rd Preparing or dispensing optical
+devices without a prescription.
+927
+484.053 3rd Dispensing hearing aids without
+a license.
+928
+494.0018(2) 1st Conviction of any violation of
+chapter 494 in which the total
+money and property unlawfully
+obtained exceeded $50,000 and
+there were five or more
+victims.
+929
+560.123(8)(b)1. 3rd Failure to report currency or
+Page 40 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+payment instruments exceeding
+$300 but less than $20,000 by a
+money services business.
+930
+560.125(5)(a) 3rd Money services business by
+unauthorized person, currency
+or payment instruments
+exceeding $300 but less than
+$20,000.
+931
+655.50(10)(b)1. 3rd Failure to report financial
+transactions exceeding $300 but
+less than $20,000 by financial
+institution.
+932
+775.21(10)(a) 3rd Sexual predator; failure to
+register; failure to renew
+driver license or
+identification card; other
+registration violations.
+933
+775.21(10)(b) 3rd Sexual predator working where
+children regularly congregate.
+934
+775.21(10)(g) 3rd Failure to report or providing
+Page 41 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+false information about a
+sexual predator; harbor or
+conceal a sexual predator.
+935
+782.051(3) 2nd Attempted felony murder of a
+person by a person other than
+the perpetrator or the
+perpetrator of an attempted
+felony.
+936
+782.07(1) 2nd Killing of a human being by the
+act, procurement, or culpable
+negligence of another
+(manslaughter).
+937
+782.071 2nd Killing of a human being or
+unborn child by the operation
+of a motor vehicle in a
+reckless manner (vehicular
+homicide).
+938
+782.072 2nd Killing of a human being by the
+operation of a vessel in a
+reckless manner (vessel
+homicide).
+Page 42 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+939
+784.045(1)(a)1. 2nd Aggravated battery;
+intentionally causing great
+bodily harm or disfigurement.
+940
+784.045(1)(a)2. 2nd Aggravated battery; using
+deadly weapon.
+941
+784.045(1)(b) 2nd Aggravated battery; perpetrator
+aware victim pregnant.
+942
+784.048(4) 3rd Aggravated stalking; violation
+of injunction or court order.
+943
+784.048(7) 3rd Aggravated stalking; violation
+of court order.
+944
+784.07(2)(d) 1st Aggravated battery on law
+enforcement officer.
+945
+784.074(1)(a) 1st Aggravated battery on sexually
+violent predators facility
+staff.
+946
+784.08(2)(a) 1st Aggravated battery on a person
+Page 43 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+65 years of age or older.
+947
+784.081(1) 1st Aggravated battery on specified
+official or employee.
+948
+784.082(1) 1st Aggravated battery by detained
+person on visitor or other
+detainee.
+949
+784.083(1) 1st Aggravated battery on code
+inspector.
+950
+787.025(2)(b) 2nd Luring or enticing a child;
+second or subsequent offense.
+951
+787.025(2)(c) 2nd Luring or enticing a child with
+a specified prior conviction.
+952
+787.06(3)(a)2. 1st Human trafficking using
+coercion for labor and services
+of an adult.
+953
+787.06(3)(e)2. 1st Human trafficking using
+coercion for labor and services
+by the transfer or transport of
+Page 44 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+an adult from outside Florida
+to within the state.
+954
+790.07(4) 1st Specified weapons violation
+subsequent to previous
+conviction of s. 790.07(1) or
+(2).
+955
+790.16(1) 1st Discharge of a machine gun
+under specified circumstances.
+956
+790.165(2) 2nd Manufacture, sell, possess, or
+deliver hoax bomb.
+957
+790.165(3) 2nd Possessing, displaying, or
+threatening to use any hoax
+bomb while committing or
+attempting to commit a felony.
+958
+790.166(3) 2nd Possessing, selling, using, or
+attempting to use a hoax weapon
+of mass destruction.
+959
+790.166(4) 2nd Possessing, displaying, or
+threatening to use a hoax
+Page 45 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+weapon of mass destruction
+while committing or attempting
+to commit a felony.
+960
+790.23 1st,PBL Possession of a firearm by a
+person who qualifies for the
+penalty enhancements provided
+for in s. 874.04.
+961
+794.08(4) 3rd Female genital mutilation;
+consent by a parent, guardian,
+or a person in custodial
+authority to a victim younger
+than 18 years of age.
+962
+796.05(1) 1st Live on earnings of a
+prostitute; 2nd offense.
+963
+796.05(1) 1st Live on earnings of a
+prostitute; 3rd and subsequent
+offense.
+964
+800.04(5)(c)1. 2nd Lewd or lascivious molestation;
+victim younger than 12 years of
+age; offender younger than 18
+Page 46 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+years of age.
+965
+800.04(5)(c)2. 2nd Lewd or lascivious molestation;
+victim 12 years of age or older
+but younger than 16 years of
+age; offender 18 years of age
+or older.
+966
+800.04(5)(e) 1st Lewd or lascivious molestation;
+victim 12 years of age or older
+but younger than 16 years;
+offender 18 years or older;
+prior conviction for specified
+sex offense.
+967
+806.01(2) 2nd Maliciously damage structure by
+fire or explosive.
+968
+810.02(3)(a) 2nd Burglary of occupied dwelling;
+unarmed; no assault or battery.
+969
+810.02(3)(b) 2nd Burglary of unoccupied
+dwelling; unarmed; no assault
+or battery.
+970
+Page 47 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+810.02(3)(d) 2nd Burglary of occupied
+conveyance; unarmed; no assault
+or battery.
+971
+810.02(3)(e) 2nd Burglary of authorized
+emergency vehicle.
+972
+812.014(2)(a)1. 1st Property stolen, valued at
+$100,000 or more or a
+semitrailer deployed by a law
+enforcement officer; property
+stolen while causing other
+property damage; 1st degree
+grand theft.
+973
+812.014(2)(b)2. 2nd Property stolen, cargo valued
+at less than $50,000, grand
+theft in 2nd degree.
+974
+812.014(2)(b)3. 2nd Property stolen, emergency
+medical equipment; 2nd degree
+grand theft.
+975
+812.014(2)(b)4. 2nd Property stolen, law
+enforcement equipment from
+Page 48 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+authorized emergency vehicle.
+976
+812.014(2)(g) 2nd Grand theft; second degree;
+firearm with previous
+conviction of s.
+812.014(2)(c)5.
+977
+812.0145(2)(a) 1st Theft from person 65 years of
+age or older; $50,000 or more.
+978
+812.019(2) 1st Stolen property; initiates,
+organizes, plans, etc., the
+theft of property and traffics
+in stolen property.
+979
+812.131(2)(a) 2nd Robbery by sudden snatching.
+980
+812.133(2)(b) 1st Carjacking; no firearm, deadly
+weapon, or other weapon.
+981
+817.034(4)(a)1. 1st Communications fraud, value
+greater than $50,000.
+982
+817.234(8)(a) 2nd Solicitation of motor vehicle
+accident victims with intent to
+Page 49 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+defraud.
+983
+817.234(9) 2nd Organizing, planning, or
+participating in an intentional
+motor vehicle collision.
+984
+817.234(11)(c) 1st Insurance fraud; property value
+$100,000 or more.
+985
+817.2341 1st Making false entries of
+(2)(b) & material fact or false
+(3)(b) statements regarding property
+values relating to the solvency
+of an insuring entity which are
+a significant cause of the
+insolvency of that entity.
+986
+817.418(2)(a) 3rd Offering for sale or
+advertising personal protective
+equipment with intent to
+defraud.
+987
+817.504(1)(a) 3rd Offering or advertising a
+vaccine with intent to defraud.
+988
+Page 50 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+817.535(2)(a) 3rd Filing false lien or other
+unauthorized document.
+989
+817.611(2)(b) 2nd Traffic in or possess 15 to 49
+counterfeit credit cards or
+related documents.
+990
+825.102(3)(b) 2nd Neglecting an elderly person or
+disabled adult causing great
+bodily harm, disability, or
+disfigurement.
+991
+825.103(3)(b) 2nd Exploiting an elderly person or
+disabled adult and property is
+valued at $10,000 or more, but
+less than $50,000.
+992
+827.03(2)(b) 2nd Neglect of a child causing
+great bodily harm, disability,
+or disfigurement.
+993
+827.04(3) 3rd Impregnation of a child under
+16 years of age by person 21
+years of age or older.
+994
+Page 51 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+827.071(2) & (3) 2nd Use or induce a child in a
+sexual performance, or promote
+or direct such performance.
+995
+827.071(4) 2nd Possess with intent to promote
+any photographic material,
+motion picture, etc., which
+includes child pornography.
+996
+837.05(2) 3rd Giving false information about
+alleged capital felony to a law
+enforcement officer.
+997
+838.015 2nd Bribery.
+998
+838.016 2nd Unlawful compensation or reward
+for official behavior.
+999
+838.021(3)(a) 2nd Unlawful harm to a public
+servant.
+1000
+838.22 2nd Bid tampering.
+1001
+843.0855(2) 3rd Impersonation of a public
+officer or employee.
+Page 52 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1002
+843.0855(3) 3rd Unlawful simulation of legal
+process.
+1003
+843.0855(4) 3rd Intimidation of a public
+officer or employee.
+1004
+847.0135(3) 3rd Solicitation of a child, via a
+computer service, to commit an
+unlawful sex act.
+1005
+847.0135(4) 2nd Traveling to meet a minor to
+commit an unlawful sex act.
+1006
+872.06 2nd Abuse of a dead human body.
+1007
+874.05(2)(b) 1st Encouraging or recruiting
+person under 13 to join a
+criminal gang; second or
+subsequent offense.
+1008
+874.10 1st,PBL Knowingly initiates, organizes,
+plans, finances, directs,
+manages, or supervises criminal
+gang-related activity.
+Page 53 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1009
+893.13(1)(c)1. 1st Sell, manufacture, or deliver
+cocaine (or other drug
+prohibited under s.
+893.03(1)(a), (1)(b), (1)(d),
+(2)(a), (2)(b), or (2)(c)5.)
+within 1,000 feet of a child
+care facility, school, or
+state, county, or municipal
+park or publicly owned
+recreational facility or
+community center.
+1010
+893.13(1)(e)1. 1st Sell, manufacture, or deliver
+cocaine or other drug
+prohibited under s.
+893.03(1)(a), (1)(b), (1)(d),
+(2)(a), (2)(b), or (2)(c)5.,
+within 1,000 feet of property
+used for religious services or
+a specified business site.
+1011
+893.13(4)(a) 1st Use or hire of minor; deliver
+to minor other controlled
+substance.
+Page 54 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1012
+893.135(1)(a)1. 1st Trafficking in cannabis, more
+than 25 lbs., less than 2,000
+lbs.
+1013
+893.135 1st Trafficking in cocaine, more
+(1)(b)1.a. than 28 grams, less than 200
+grams.
+1014
+893.135 1st Trafficking in illegal drugs,
+(1)(c)1.a. more than 4 grams, less than 14
+grams.
+1015
+893.135 1st Trafficking in hydrocodone, 28
+(1)(c)2.a. grams or more, less than 50
+grams.
+1016
+893.135 1st Trafficking in hydrocodone, 50
+(1)(c)2.b. grams or more, less than 100
+grams.
+1017
+893.135 1st Trafficking in oxycodone, 7
+(1)(c)3.a. grams or more, less than 14
+grams.
+1018
+Page 55 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+893.135 1st Trafficking in oxycodone, 14
+(1)(c)3.b. grams or more, less than 25
+grams.
+1019
+893.135 1st Trafficking in fentanyl, 4
+(1)(c)4.b.(I) grams or more, less than 14
+grams.
+1020
+893.135 1st Trafficking in phencyclidine,
+(1)(d)1.a. 28 grams or more, less than 200
+grams.
+1021
+893.135(1)(e)1. 1st Trafficking in methaqualone,
+200 grams or more, less than 5
+kilograms.
+1022
+893.135(1)(f)1. 1st Trafficking in amphetamine, 14
+grams or more, less than 28
+grams.
+1023
+893.135 1st Trafficking in flunitrazepam, 4
+(1)(g)1.a. grams or more, less than 14
+grams.
+1024
+893.135 1st Trafficking in gamma-
+Page 56 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+(1)(h)1.a. hydroxybutyric acid (GHB), 1
+kilogram or more, less than 5
+kilograms.
+1025
+893.135 1st Trafficking in 1,4-Butanediol,
+(1)(j)1.a. 1 kilogram or more, less than 5
+kilograms.
+1026
+893.135 1st Trafficking in Phenethylamines,
+(1)(k)2.a. 10 grams or more, less than 200
+grams.
+1027
+893.135 1st Trafficking in synthetic
+(1)(m)2.a. cannabinoids, 280 grams or
+more, less than 500 grams.
+1028
+893.135 1st Trafficking in synthetic
+(1)(m)2.b. cannabinoids, 500 grams or
+more, less than 1,000 grams.
+1029
+893.135 1st Trafficking in n-benzyl
+(1)(n)2.a. phenethylamines, 14 grams or
+more, less than 100 grams.
+1030
+893.1351(2) 2nd Possession of place for
+Page 57 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+trafficking in or manufacturing
+of controlled substance.
+1031
+896.101(5)(a) 3rd Money laundering, financial
+transactions exceeding $300 but
+less than $20,000.
+1032
+896.104(4)(a)1. 3rd Structuring transactions to
+evade reporting or registration
+requirements, financial
+transactions exceeding $300 but
+less than $20,000.
+1033
+943.0435(4)(c) 2nd Sexual offender vacating
+permanent residence; failure to
+comply with reporting
+requirements.
+1034
+943.0435(8) 2nd Sexual offender; remains in
+state after indicating intent
+to leave; failure to comply
+with reporting requirements.
+1035
+943.0435(9)(a) 3rd Sexual offender; failure to
+comply with reporting
+Page 58 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+requirements.
+1036
+943.0435(13) 3rd Failure to report or providing
+false information about a
+sexual offender; harbor or
+conceal a sexual offender.
+1037
+943.0435(14) 3rd Sexual offender; failure to
+report and reregister; failure
+to respond to address
+verification; providing false
+registration information.
+1038
+944.607(9) 3rd Sexual offender; failure to
+comply with reporting
+requirements.
+1039
+944.607(10)(a) 3rd Sexual offender; failure to
+submit to the taking of a
+digitized photograph.
+1040
+944.607(12) 3rd Failure to report or providing
+false information about a
+sexual offender; harbor or
+conceal a sexual offender.
+Page 59 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 223 2026
+1041
+944.607(13) 3rd Sexual offender; failure to
+report and reregister; failure
+to respond to address
+verification; providing false
+registration information.
+1042
+985.4815(10) 3rd Sexual offender; failure to
+submit to the taking of a
+digitized photograph.
+1043
+985.4815(12) 3rd Failure to report or providing
+false information about a
+sexual offender; harbor or
+conceal a sexual offender.
+1044
+985.4815(13) 3rd Sexual offender; failure to
+report and reregister; failure
+to respond to address
+verification; providing false
+registration information.
+1045
+1046 Section 24. This act shall take effect December 31, 2026.
+Page 60 of 60
+CODING: Words stricken are deletions; words underlined are additions.
+hb223-00
+
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A 4 4 p a a d B o r d p t c c b a p p p 4 d p n]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a p l r i a d c p c c b a c f r r d r c d d s e 4]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r r p u 4 r n r n d r n t r c n f f t s d c c s c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES m a c r g c t t p a p c n b p c f h o d s t b a 4]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 9 b    B S   "S   4 f o w r d n I s b  (  ( i s aS]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES   4  (  ( w g  ( l w a N f t  ( s s o m D  ( a p s e  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t  ( r  (  ( i  (  1 h n C t o  2 " " t  a  b pS   4 t  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  (  ( n t i b t h l p o o M t a n d  (  1 d s  2  3 o p]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a t p  4  5  6 m t d o  7 i  8 d  ( t  ( d t a t  ( c u t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a p h p i p f p a s e m s t n m p p C p a  ( f s o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES n c E S o  (  (  (  (  (  (S   4  ( N t  ( n  ( u s  ( n o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p  (  ( a s  ( sS   4 t p p n d e a p r a r lS ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  4  ( p p o p  ( m 7S   4  ( d d c m  (  ( f  1 a o s  2]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES U b  3 t o p c h c r t t  ( c w a E  ( n  (  ( o d i t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( S E P A e a  ( a s p 1 t G d a o  ( l j t c  ( l o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t  ( f  ( l n  ( l t l t r nS   4 i t f rS   4 m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( i l p l e 4 r o e r  ( p cS   4 r  ( h e r e h]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES s  ( l r  ( n l a A  ( e d  ( e 4 r a e N t d e n e s]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES f d s o d p p  ( e dS   4 r  ( a w  ( r r e l a t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( t  ( p d nS   4 t  ( l  ( l f d  ( r d s  ( a r a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c c  ( t  ( u  ( t r k r u o m p t  ( a c  ( o  ( t r i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t a p  ( o w e p l a T p s  ( r a g h  ( r e m g c  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a o i i  ( t l r a  ( s f i s a u a  ( d r s  ( o s p]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p d d i i n t  ( m 8 o p d  ( w i o c h S t d s l t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES d w n e c d i p c p c u t f p i r t m p p a  ( p a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES s a p  ( w c w  ( s r t  ( p o t  ( d f o  ( p t l  ( m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( a  (  ( u  ( s o t a  1 s i s i  2 d t  3 o s s  ( s i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES h a t m a t  ( r a  ( c  ( i a v i  ( n s c c m  ( t o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES f pS   2 o  ( a  ( r w  1  2  3 c  4 c  5 4  6 c  7  8 4  9]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c  1  1  1  1 c  1 u  1 I  1 c  1 p  1 X  1 u  2  2 4  2 u  2 c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 c  2 p  2 c  2  2  2 T 4  3 pS   3 p  ( m n l s p p h]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a S A d h DS   4  ( l p n tS   4 f r  ( p m mS ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  4  ( w r  ( p m pS   4 w i  ( s c p m o  ( l s c p m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES o a t f t rS   4  ( c u l a p n oS   6  ( C  (  1 c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p l c d u 4 4 l c c d i p v h  2 p o w t f f o p m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 u u u sS   8 u t  ( c v p r d o d c o cS   9 r]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  (  (  F D D  1 A  3 D  1 C  3 V  2 M]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 M $  2 M t  3 P  2 P  3 P  3 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 P  3 P  3 P  3 P  3 P  3 P  3 P  3 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 D  3 P  3 P  3 P  3 D  1 C  3 F]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 M  3 F  3 S  3 S  3 F]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 A  2 K  2 K  2 K]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 A  2 A  2 A  3 A  3 A  1 A  1 A  1 A]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 A  1 A  1 A  2 L  2 L  1 H  1 H]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 S  1 D  2 M  2 P  2 P  2 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 P  3 F  1 L  1 L  2 L]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 L  1 L  2 M  2 B  2 B ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 2 B  2 B  1 P  2 P  2 P  2 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 G  1 T  1 S  2 R  1 C  1 C  2 S]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 O  1 I  1 M m s  3 O  3 O ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 3 F  2 T  2 N  2 E  2 N  3 I ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 2 U  2 P  3 G  2 B  2 U  2 U  2 B  3 I]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 U  3 I  3 S  2 T  2 A  1 E  1 K]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 S  1 S  1 U]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 T  1 T t  1 T m  1 T g  1 T g  1 T g ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES 1 T g  1 T g  1 T 2  1 T  1 T  1 T g  1 T]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES h  1 T 1  1 T 1  1 T c  1 T c  1 T p  2 P]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 M  3 S  2 S  2 S  3 S]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 F  3 S  3 S  3 S  3 F]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 S  3 S  3 F  3 S S  ]

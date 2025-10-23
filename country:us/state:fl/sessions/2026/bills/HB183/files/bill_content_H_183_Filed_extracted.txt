@@ -1,0 +1,1957 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 183 Filed
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+HB 183 2026
+1 A bill to be entitled
+2 An act relating to investments and deposits of public
+3 funds; amending s. 17.57, F.S.; providing definitions;
+4 providing the Chief Financial Officer and certain
+5 parties the option to invest certain moneys through
+6 qualified custodians and to deposit any remaining
+7 money and funds in certain qualified public
+8 depositories; providing the Chief Financial Officer
+9 the option to invest certain funds and to deposit any
+10 remaining funds in certain qualified public
+11 depositories; providing an option for certain money to
+12 be invested in digital assets and exchange-traded
+13 products under specified circumstances; authorizing
+14 the Chief Financial Officer, in managing state funds,
+15 to include digital assets and exchange-traded products
+16 as stores of value and potential hedges against
+17 inflation and to engage in certain acts relating to
+18 investments; authorizing the Chief Financial Officer
+19 to invest money in digital assets and exchange-traded
+20 products from certain public funds; providing limits
+21 to such investments; providing requirements for
+22 holding acquired digital assets; authorizing the Chief
+23 Financial Officer and other parties to loan digital
+24 assets in state funds if such loans are collateralized
+25 and comply with certain fiduciary standards; providing
+Page 1 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+26 rulemaking authority; requiring the Chief Financial
+27 Officer to maintain certain documentation and to cure
+28 any lapse in control over the digital assets in state
+29 funds within a specified timeframe; requiring taxes
+30 and fees paid in digital assets to be transferred to
+31 the General Revenue Fund; requiring designated funds
+32 to be reimbursed from the General Revenue Fund in
+33 United States currency for such payments; providing
+34 construction; amending s. 17.61, F.S.; authorizing the
+35 Chief Financial Officer to open and maintain certain
+36 accounts in credit unions; authorizing loans of
+37 digital assets to securities dealers and loans of
+38 securities, digital assets, and investments to
+39 financial institutions; amending s. 121.151, F.S.;
+40 authorizing the Board of Trustees of the State Board
+41 of Administration to invest and reinvest available
+42 funds of the System Trust Fund in digital assets;
+43 providing limits and custody requirements for such
+44 investments; providing definitions; amending s.
+45 215.47, F.S.; authorizing the Board of Trustees of the
+46 State Board of Administration to invest a portion of
+47 any fund in digital assets; providing limits and
+48 custody requirements; providing definitions; amending
+49 s. 280.03, F.S.; exempting certain deposits and
+50 investments from specified security requirements;
+Page 2 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+51 amending ss. 112.661, 215.4701, 215.473, 215.4735,
+52 215.475, 215.4755, 215.50, 215.555, 218.409, 1002.36,
+53 and 1002.395, F.S.; conforming cross-references;
+54 providing an effective date.
+55
+56 WHEREAS, inflation has eroded the purchasing power of
+57 assets held in state funds managed by the Chief Financial
+58 Officer, diminished the value of the state's reserves, and
+59 affected the financial stability and economic security of this
+60 state, its taxpayers, and its residents, and
+61 WHEREAS, although this state does not have direct control
+62 over the national money supply or the policies that influence
+63 inflation, it has a responsibility to safeguard Florida's
+64 financial resources against the impacts of inflation and other
+65 economic uncertainties, and
+66 WHEREAS, Bitcoin and other digital assets have
+67 significantly increased in value and are becoming more widely
+68 accepted as international stores of value and mediums of
+69 exchange, and countries around the world, including the United
+70 States, hold such assets within their treasury or reserve
+71 frameworks, and
+72 WHEREAS, Bitcoin and other digital assets are recognized by
+73 sovereign nations and prominent investment advisers, including
+74 BlackRock, Fidelity, and Franklin Templeton, as potential tools
+75 to strengthen long-term portfolio value, and
+Page 3 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+76 WHEREAS, on March 6, 2025, the President of the United
+77 States issued Executive Order No. 14233 establishing the
+78 Strategic Bitcoin Reserve and the United States Digital Asset
+79 Stockpile, to be administered by the United States Department of
+80 the Treasury and capitalized with lawfully forfeited digital
+81 assets, and
+82 WHEREAS, these federal executive actions recognize that
+83 Bitcoin and other digital assets can be strategically held by
+84 governmental institutions to support fiscal stability,
+85 strengthen national resilience, and serve public objectives
+86 without increasing taxpayer burdens, and
+87 WHEREAS, this state seeks to align its policy with these
+88 national directives by creating a secure, transparent framework
+89 to lawfully acquire, hold, and manage Bitcoin and other digital
+90 assets as part of its broader fiscal strategy, and
+91 WHEREAS, this state should have access to tools such as
+92 Bitcoin and other digital assets to enhance the long-term value
+93 and resilience of public funds, NOW, THEREFORE,
+94
+95 Be It Enacted by the Legislature of the State of Florida:
+96
+97 Section 1. Section 17.57, Florida Statutes, is amended to
+98 read:
+99 17.57 Deposits and investments of state money.—
+100 (1)(a) As used in this section subsection, the term:
+Page 4 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+101 (a) "Control" means control of a controllable electronic
+102 record, as determined under s. 669.105.
+103 (b) "Digital asset" means a controllable electronic
+104 record, as defined in s. 669.102(1), capable of being held or
+105 transferred electronically and representing economic,
+106 proprietary, or access rights. The term includes, but is not
+107 limited to:
+108 1. Virtual currency, including Bitcoin. As used in this
+109 subparagraph, the term "Bitcoin" means the decentralized digital
+110 currency launched in 2009 which allows online payments to be
+111 sent directly from one party to another without going through a
+112 financial institution.
+113 2. Digital commodities.
+114 3. Digital asset securities.
+115 4. Non-fungible tokens.
+116 5. Any other cryptographically secured or tokenized
+117 representation of value or rights recorded on a blockchain or
+118 similar distributed ledger technology, including assets eligible
+119 for inclusion in a national digital asset stockpile or strategic
+120 reserve pursuant to federal executive or statutory authority.
+121 (c) "Exchange-traded product" means a financial instrument
+122 that is traded on a national stock exchange and holds an
+123 underlying pool of assets, which may include digital assets,
+124 stocks, bonds, commodities, and indexes.
+125 (d) "Pecuniary factor" means a factor that the Chief
+Page 5 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+126 Financial Officer, or other party authorized to invest on his or
+127 her behalf, prudently determines is expected to have a material
+128 effect on the risk or returns of an investment based on
+129 appropriate investment horizons consistent with applicable
+130 investment objectives and funding policy. The term does not
+131 include the consideration of the furtherance of any social,
+132 political, or ideological interests.
+133 (e) "Qualified custodian" means any of the following:
+134 1. A financial institution that has deposits insured by
+135 the Federal Deposit Insurance Corporation or the National Credit
+136 Union Association.
+137 2. A trust company, whether incorporated or not, which:
+138 a. Does business under the laws of any state or of the
+139 United States, a substantial portion of the business of which
+140 consists of receiving deposits or exercising fiduciary powers
+141 similar to those authorized to national banks under the
+142 authority of the Comptroller of the Currency; and
+143 b. Is supervised and examined by state or federal
+144 authority having supervision over banks or credit unions.
+145 3. A broker-dealer registered under s. 15(b)(1) of the
+146 Securities Exchange Act of 1934, 15 U.S.C. s. 78o(b)(1), as
+147 amended, holding the client assets in customer accounts.
+148 4. A futures commission merchant registered under s. 6f(a)
+149 of the Commodity Exchange Act, as amended, holding the client
+150 assets in customer accounts.
+Page 6 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+151 (2)(a)(b) The Chief Financial Officer, or other parties
+152 with the permission of the Chief Financial Officer, shall:
+153 1. Deposit the money of this the state or any money in the
+154 State Treasury in such qualified public depositories of this the
+155 state as will offer satisfactory collateral security for such
+156 deposits, pursuant to chapter 280; or
+157 2. Invest the money of this state or any money in the
+158 State Treasury through a qualified custodian and deposit any
+159 remaining money of this state and the State Treasury in
+160 qualified public depositories described in subparagraph 1.
+161 (b) It is the duty of the Chief Financial Officer,
+162 consistent with the cash requirements of the state, to keep the
+163 such money of this state or any money in the State Treasury
+164 fully invested or deposited as provided in this section herein
+165 in order that the state may realize maximum earnings and
+166 benefits. Nothing in This section does not shall preclude credit
+167 unions designated as public depositories from participation.
+168 (c) Notwithstanding any other law except for s. 215.472,
+169 when deciding whether to invest and when investing, the Chief
+170 Financial Officer, or other party authorized to invest on his or
+171 her behalf, must make decisions based solely on pecuniary
+172 factors and may not subordinate the interests of the people of
+173 this state to other objectives, including sacrificing investment
+174 return or undertaking additional investment risk to promote any
+175 nonpecuniary factor. The weight given to any pecuniary factor
+Page 7 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+176 must appropriately reflect a prudent assessment of its impact on
+177 risk or returns.
+178 (3)(a)(2) The Chief Financial Officer shall make funds
+179 available to meet the disbursement needs of the state. Funds
+180 that which are not needed for this purpose shall be:
+181 1. Placed in qualified public depositories that will pay
+182 rates established by the Chief Financial Officer at levels not
+183 less than the prevailing rate for United States Treasury
+184 securities with a corresponding maturity; or
+185 2. Invested and the remaining funds placed in qualified
+186 public depositories described in subparagraph 1.
+187 (b) In the event money is available for interest-bearing
+188 time deposits or savings accounts as provided in this section
+189 herein and qualified public depositories are unwilling to accept
+190 such money and pay thereon the rates established above, then
+191 such money which qualified public depositories are unwilling to
+192 accept shall be invested in:
+193 1.(a) Direct United States Treasury obligations.
+194 2.(b) Obligations of the Federal Farm Credit Banks.
+195 3.(c) Obligations of the Federal Home Loan Bank and its
+196 district banks.
+197 4.(d) Obligations of the Federal Home Loan Mortgage
+198 Corporation, including participation certificates.
+199 5.(e) Obligations guaranteed by the Government National
+200 Mortgage Association.
+Page 8 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+201 6.(f) Obligations of the Federal National Mortgage
+202 Association.
+203 7.(g) Commercial paper of prime quality of the highest
+204 letter and numerical rating as provided for by at least one
+205 nationally recognized rating service.
+206 8.(h) Time drafts or bills of exchange drawn on and
+207 accepted by a commercial bank, otherwise known as "bankers
+208 acceptances," which are accepted by a member bank of the Federal
+209 Reserve System having total deposits of not less than $400
+210 million or which are accepted by a commercial bank which is not
+211 a member of the Federal Reserve System with deposits of not less
+212 than $400 million and which is licensed by a state government or
+213 the Federal Government, and whose senior debt issues are rated
+214 in one of the two highest rating categories by a nationally
+215 recognized rating service and which are held in custody by a
+216 domestic bank which is a member of the Federal Reserve System.
+217 9.(i) Corporate obligations or corporate master notes of
+218 any corporation within the United States, if the long-term
+219 obligations of such corporation are rated by at least two
+220 nationally recognized rating services in any one of the four
+221 highest classifications. However, if such obligations are rated
+222 by only one nationally recognized rating service, then the
+223 obligations shall be rated in any one of the two highest
+224 classifications.
+225 10.(j) Obligations of the Student Loan Marketing
+Page 9 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+226 Association.
+227 11.(k) Obligations of the Resolution Funding Corporation.
+228 12.(l) Mortgage-backed securities of the highest credit
+229 quality.
+230 13.(m) Asset-backed securities rated by at least two
+231 nationally recognized rating services in any one of the three
+232 highest classifications. However, if such obligations are rated
+233 by only one nationally recognized rating service, the
+234 obligations must be rated in any one of the two highest
+235 classifications.
+236 14.(n) Any obligations not previously listed which are
+237 guaranteed as to principal and interest by the full faith and
+238 credit of the United States Government or are obligations of
+239 United States agencies or instrumentalities which are rated in
+240 the highest category by a nationally recognized rating service.
+241 15.(o) Commingled no-load investment funds or no-load
+242 mutual funds in which all securities held by the funds are
+243 authorized in this subsection.
+244 16.(p) Money market mutual funds as defined and regulated
+245 by the Securities and Exchange Commission.
+246 17.(q) Obligations of state and local governments rated in
+247 any of the four highest classifications by at least two
+248 nationally recognized rating services. However, if such
+249 obligations are rated by only one nationally recognized rating
+250 service, then the obligations shall be rated in any one of the
+Page 10 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+251 two highest classifications.
+252 18.(r) Covered put and call options on investment
+253 instruments authorized in this subsection for the purpose of
+254 hedging transactions by investment managers to mitigate risk or
+255 to facilitate portfolio management.
+256 19.(s) Negotiable certificates of deposit issued by
+257 financial institutions whose long-term debt is rated in one of
+258 the three highest categories by at least two nationally
+259 recognized rating services, the investment in which may shall
+260 not be prohibited by any provision of chapter 280.
+261 20.(t) Foreign bonds denominated in United States dollars
+262 and registered with the Securities and Exchange Commission for
+263 sale in the United States, if the long-term obligations of such
+264 issuers are rated by at least two nationally recognized rating
+265 services in any one of the four highest classifications.
+266 However, if such obligations are rated by only one nationally
+267 recognized rating service, the obligations shall be rated in any
+268 one of the two highest classifications.
+269 21.(u) Convertible debt obligations of any corporation
+270 domiciled within the United States, if the convertible debt
+271 issue is rated by at least two nationally recognized rating
+272 services in any one of the four highest classifications.
+273 However, if such obligations are rated by only one nationally
+274 recognized rating service, then the obligations shall be rated
+275 in any one of the two highest classifications.
+Page 11 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+276 22.(v) Securities not otherwise described in this
+277 subsection. However, not more than 3 percent of the funds under
+278 the control of the Chief Financial Officer shall be invested in
+279 securities described in this subparagraph paragraph.
+280 23.(w) Derivatives of investment instruments authorized in
+281 subparagraphs 1.-22. paragraphs (a)-(v).
+282 24.(x) Futures and options on futures, provided the
+283 instruments for such purpose are traded on a securities exchange
+284 or board of trade regulated by the Securities and Exchange
+285 Commission or the Commodity Futures Trading Commission.
+286 25. Digital assets.
+287 26. Exchange-traded products.
+288
+289 These investments may be in varying maturities and may be in
+290 book-entry form. Investments made pursuant to this subsection
+291 may be under repurchase agreement or reverse repurchase
+292 agreement. The Chief Financial Officer may hire registered
+293 investment advisers and other consultants to assist in
+294 investment management and to pay fees directly from investment
+295 earnings. Investment securities, proprietary investment services
+296 related to contracts, performance evaluation services,
+297 investment-related equipment or software used directly to assist
+298 investment trading or investment accounting operations including
+299 bond calculators, telerates, Bloombergs, special program
+300 calculators, intercom systems, and software used in accounting,
+Page 12 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+301 communications, and trading, and advisory and consulting
+302 contracts made under this section are exempt from the provisions
+303 of chapter 287.
+304 (4)(3) In the event the financial institutions in the
+305 state do not make sufficient loan funds available for a
+306 residential conservation program pursuant to any plan approved
+307 by the Florida Public Service Commission under the Florida
+308 Energy Efficiency and Conservation Act, the board may authorize
+309 the investment of state funds, except retirement trust funds, in
+310 such a loan program at rates not less than prevailing United
+311 States Treasury bill rates. However, prior to investment of such
+312 funds, the Florida Public Service Commission shall develop a
+313 plan which must be approved by the Legislature before
+314 implementation.
+315 (5)(4) All earnings on any investments made pursuant to
+316 this section are hereby appropriated to the General Revenue
+317 Fund, except that earnings attributable to moneys made available
+318 pursuant to s. 17.61(3)(a) and (b) shall be credited pro rata to
+319 the funds from which such moneys were made available.
+320 (6)(5) The fact that a municipal officer or a state
+321 officer, including an officer of any municipal or state agency,
+322 board, bureau, commission, institution, or department, is a
+323 stockholder or an officer or director of a bank or savings and
+324 loan association will not bar such bank or savings and loan
+325 association from being a depository of funds coming under the
+Page 13 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+326 jurisdiction of any such municipal officer or state officer if
+327 it shall appear in the records of the municipal or state office
+328 that the governing body of such municipality or state agency has
+329 investigated and determined that such municipal or state officer
+330 is not favoring such banks or savings and loan associations over
+331 other qualified banks or savings and loan associations.
+332 (7)(6) The Chief Financial Officer is designated the cash
+333 management officer for the state and is charged with the
+334 coordination and supervision of procedures providing for the
+335 efficient handling of financial assets under the control of the
+336 State Treasury and each of the various state agencies, and of
+337 the judicial branch, as defined in s. 216.011. This
+338 responsibility shall include the supervision and approval of all
+339 banking relationships. Pursuant to this responsibility, the
+340 Chief Financial Officer may obtain information from financial
+341 institutions regarding depository accounts maintained by any
+342 agency or institution of the State of Florida.
+343 (8)(7) In addition to the deposits authorized under this
+344 section and notwithstanding any other provisions of law, funds
+345 that are not needed to meet the disbursement needs of the state
+346 may be deposited by the Chief Financial Officer in accordance
+347 with the following conditions:
+348 (a) The funds are initially deposited in a qualified
+349 public depository, as defined in s. 280.02, selected by the
+350 Chief Financial Officer.
+Page 14 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+351 (b) The selected depository arranges for depositing the
+352 funds in financial deposit instruments insured by:
+353 1. The Federal Deposit Insurance Corporation in one or
+354 more federally insured banks or savings and loan associations,
+355 wherever located, for the account of the state.
+356 2. For credit unions designated as qualified public
+357 depositories, the National Credit Union Share Insurance Fund.
+358 (c) The full amount of the principal and accrued interest
+359 of each financial deposit instrument is insured by the Federal
+360 Deposit Insurance Corporation or, for credit unions designated
+361 as qualified public depositories, the National Credit Union
+362 Share Insurance Fund.
+363 (d) The selected depository acts as custodian for the
+364 state with respect to each financial deposit instrument issued
+365 for its account.
+366 (9) The Chief Financial Officer may:
+367 (a) In managing state funds pursuant to this section and
+368 subject to the limitations of chapter 215, include digital
+369 assets or exchange-traded products as stores of value and
+370 potential hedges against inflation, thereby protecting the
+371 purchasing power of state funds.
+372 (b) Ensure that the investment strategies employed under
+373 this section align with the goal of enhancing this state's
+374 economic security and financial resilience.
+375 (c) Maintain flexibility in investment decisions to
+Page 15 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+376 respond to changing economic conditions and emerging
+377 opportunities that may offer better protection or returns on
+378 state funds.
+379 (10)(a)1. The Chief Financial Officer may invest money in
+380 digital assets or exchange-traded products from the following
+381 funds:
+382 a. The General Revenue Fund.
+383 b. The Budget Stabilization Fund.
+384 c. All the trust funds and all agency funds of each state
+385 agency and of the judicial branch, as defined in s. 216.011(1).
+386 d. Funds of any board, association, or entity created by
+387 the State Constitution or by law upon request of the board,
+388 association, or entity.
+389 e. Any other state fund deemed appropriate by the
+390 Legislature.
+391 2. The amount of public funds that the Chief Financial
+392 Officer may invest in digital assets or exchange-traded products
+393 may not exceed 10 percent of the total funds in any account.
+394 (b)1. The digital assets acquired under paragraph (a)
+395 shall be held in a manner that provides this state with control
+396 consistent with chapter 669 and may be held only:
+397 a. Directly by the Chief Financial Officer, who confers
+398 control to this state;
+399 b. On behalf of this state by a qualified custodian that:
+400 (I) Grants this state with control under chapter 669; or
+Page 16 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+401 (II) Credits this state with a security interest perfected
+402 under s. 679.3131; or
+403 c. In the form of an exchange-traded product issued by an
+404 investment company registered with the Securities and Exchange
+405 Commission under the Investment Company Act of 1940, as amended,
+406 provided that the custodian of records maintains control on
+407 behalf of this state pursuant to chapter 669.
+408 2. The Chief Financial Officer, and other parties with the
+409 permission of the Chief Financial Officer, may loan the digital
+410 assets in state funds to generate additional returns, provided
+411 that such loans:
+412 a. Are secured by collateral having a market value at
+413 least equal to 100 percent of the value of the assets loaned at
+414 the time the loans are made; and
+415 b. Comply with the fiduciary standards provided in chapter
+416 215.
+417
+418 The Chief Financial Officer may, by rule, require
+419 overcollateralization or impose additional safeguards to protect
+420 the financial interests of this state.
+421 3. The Chief Financial Officer shall maintain
+422 documentation evidencing this state's continuing control over
+423 each digital asset and shall cure any lapse in control within 5
+424 business days after discovery.
+425 (11) Taxes or fees paid to this state in digital assets
+Page 17 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+426 shall be transferred to the General Revenue Fund. The designated
+427 fund shall be reimbursed from the General Revenue Fund for the
+428 value of the digital asset payment in United States currency for
+429 such taxes or fees. A person who transfers a digital asset to
+430 the state warrants that the asset is a controllable electronic
+431 record free of adverse claims. This state takes the asset free
+432 of any security interest or other claim if this state acquires
+433 control for value and without notice of the claim, consistent
+434 with chapter 669.
+435 Section 2. Subsection (1) of section 17.61, Florida
+436 Statutes, is amended to read:
+437 17.61 Chief Financial Officer; powers and duties in the
+438 investment of certain funds.—
+439 (1) The Chief Financial Officer shall invest all general
+440 revenue funds and all the trust funds and all agency funds of
+441 each state agency, and of the judicial branch, as defined in s.
+442 216.011, and may, upon request, invest funds of any board,
+443 association, or entity created by the State Constitution or by
+444 law, except for the funds required to be invested pursuant to
+445 ss. 215.44-215.53, by the procedure and in the authorized
+446 securities or in digital assets prescribed in s. 17.57; for this
+447 purpose, the Chief Financial Officer may open and maintain one
+448 or more demand and safekeeping accounts in any bank or credit
+449 union savings association for the investment and reinvestment
+450 and the purchase, sale, and exchange of funds, and securities,
+Page 18 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+451 and digital assets in the accounts. Funds in such accounts used
+452 solely for investments and reinvestments shall be considered
+453 investment funds and not funds on deposit, and such funds shall
+454 be exempt from the provisions of chapter 280. In addition, the
+455 securities and other digital assets or investments purchased or
+456 held under the provisions of this section and s. 17.57 may be
+457 loaned to securities dealers and financial institutions banks
+458 and may be registered by the Chief Financial Officer in the name
+459 of a third-party nominee in order to facilitate such loans,
+460 provided the loan is collateralized by cash or United States
+461 Government securities having a market value of at least 100
+462 percent of the market value of the securities loaned. The Chief
+463 Financial Officer shall keep a separate account, designated by
+464 name and number, of each fund. Individual transactions and
+465 totals of all investments, or the share belonging to each fund,
+466 shall be recorded in the accounts.
+467 Section 3. Section 121.151, Florida Statutes, is amended
+468 to read:
+469 121.151 Investments.—
+470 (1) The Board of Administration, created by authority of
+471 the State Constitution, shall invest and reinvest available
+472 funds of the System Trust Fund in accordance with the provisions
+473 of ss. 215.44-215.53.
+474 (2)(a) The Board of Administration may also invest and
+475 reinvest available funds of the System Trust Fund in digital
+Page 19 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+476 assets. The amount of funds that the board may invest and
+477 reinvest in digital assets may not exceed 10 percent of the
+478 total funds.
+479 (b) The digital assets acquired under paragraph (a) shall
+480 be held:
+481 1. Directly by the board;
+482 2. On behalf of the board by a qualified custodian; or
+483 3. In the form of an exchange-traded product issued by an
+484 investment company registered with the Securities and Exchange
+485 Commission under the Investment Company Act of 1940, as amended.
+486 (c) As used in this subsection, the terms "digital asset,"
+487 "exchange-traded product," and "qualified custodian" have the
+488 same meanings as in s. 17.57(1).
+489 Section 4. Subsections (6) through (21) of section 215.47,
+490 Florida Statutes, are renumbered as subsections (7) through
+491 (22), respectively, and a new subsection (6) is added to that
+492 section to read:
+493 215.47 Investments; authorized securities; loan of
+494 securities.—Subject to the limitations and conditions of the
+495 State Constitution or of the trust agreement relating to a trust
+496 fund, moneys available for investments under ss. 215.44-215.53
+497 may be invested as follows:
+498 (6)(a) With no more than 10 percent of any fund in digital
+499 assets.
+500 (b) The digital assets acquired under paragraph (a) shall
+Page 20 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+501 be held:
+502 1. Directly by the board;
+503 2. On behalf of the board by a qualified custodian; or
+504 3. In the form of an exchange-traded product issued by an
+505 investment company registered with the Securities and Exchange
+506 Commission under the Investment Company Act of 1940, as amended.
+507 (c) Notwithstanding the limitation in paragraph (a), the
+508 board is authorized to hold any other investment authorized in
+509 this section as a digital asset, provided that it is held in
+510 accordance with paragraph (b).
+511 (d) As used in this subsection, the terms "digital asset,"
+512 "exchange-traded product," and "qualified custodian" have the
+513 same meanings as in s. 17.57(1).
+514 Section 5. Paragraph (f) of subsection (3) of section
+515 280.03, Florida Statutes, is amended to read:
+516 280.03 Public deposits to be secured; prohibitions;
+517 exemptions.—
+518 (3) The following are exempt from the requirements of, and
+519 protection under, this chapter:
+520 (f) Public deposits made in accordance with s. 17.57(8),
+521 s. 215.47(6), s. 17.57(7) or s. 218.415(23).
+522 Section 6. Paragraph (a) of subsection (5) and subsection
+523 (17) of section 112.661, Florida Statutes, are amended to read:
+524 112.661 Investment policies.—Investment of the assets of
+525 any local retirement system or plan must be consistent with a
+Page 21 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+526 written investment policy adopted by the board. Such policies
+527 shall be structured to maximize the financial return to the
+528 retirement system or plan consistent with the risks incumbent in
+529 each investment and shall be structured to establish and
+530 maintain an appropriate diversification of the retirement system
+531 or plan's assets.
+532 (5) AUTHORIZED INVESTMENTS.—
+533 (a) The investment policy shall list investments
+534 authorized by the board. Investments not listed in the
+535 investment policy are prohibited. Unless otherwise authorized by
+536 law or ordinance, the investment of the assets of any local
+537 retirement system or plan covered by this part shall be subject
+538 to the limitations and conditions set forth in s. 215.47(1)-(7),
+539 (9), (10), (12), and (18) s. 215.47(1)-(6), (8), (9), (11) and
+540 (17).
+541 (17) VALUATION OF ILLIQUID INVESTMENTS.—The investment
+542 policy shall provide for the valuation of illiquid investments
+543 for which a generally recognized market is not available or for
+544 which there is no consistent or generally accepted pricing
+545 mechanism. If those investments are utilized, the investment
+546 policy must include the criteria set forth in s. 215.47(6) and
+547 (7) s. 215.47(6), except that submission to the Investment
+548 Advisory Council is not required. The investment policy shall
+549 require that, for each actuarial valuation, the board must
+550 verify the determination of the fair market value for those
+Page 22 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+551 investments and ascertain that the determination complies with
+552 all applicable state and federal requirements. The investment
+553 policy shall require that the board disclose to the Department
+554 of Management Services and the plan's sponsor each such
+555 investment for which the fair market value is not provided.
+556 Section 7. Section 215.4701, Florida Statutes, is amended
+557 to read:
+558 215.4701 Trademarks, copyrights, or patents.—The State
+559 Board of Administration, on behalf of the Florida Retirement
+560 System or any other trust fund under its jurisdiction, may
+561 develop work products that are subject to trademark, copyright,
+562 or patent statutes. The board may, in its own name or through
+563 the growth initiative program created pursuant to s. 215.47(8)
+564 s. 215.47(7) or any other program developed with or for the
+565 board:
+566 (1) Perform all things necessary to secure letters of
+567 patent, copyrights, or trademarks on any work products and
+568 enforce its rights therein.
+569 (2) License, lease, assign, or otherwise give written
+570 consent to any person for the manufacture or use of its work
+571 products on a royalty basis or for such other consideration as
+572 the board deems proper.
+573 (3) Take any action necessary, including legal action, to
+574 protect its work products against improper or unlawful use or
+575 infringement.
+Page 23 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+576 (4) Enforce the collection of any sums due the board for
+577 the manufacture or use of its work products by any other party.
+578 (5) Sell any of its work products and execute all
+579 instruments necessary to consummate any such sale.
+580 (6) Do all other acts necessary and proper for the
+581 execution of powers and duties provided under this section.
+582 Section 8. Paragraph (b) of subsection (5) of section
+583 215.473, Florida Statutes, is amended to read:
+584 215.473 Divestiture by the State Board of Administration;
+585 Sudan; Iran.—
+586 (5) EXPIRATION.—This section expires upon the occurrence
+587 of all of the following:
+588 (b) If both of the following occur, the board may no
+589 longer scrutinize companies according to subparagraph (1)(dd)4.;
+590 may no longer assemble the Scrutinized Companies with Activities
+591 in Iran Terrorism Sectors List; and shall cease engagement,
+592 investment prohibitions, and divestment:
+593 1. The Congress and President of the United States
+594 affirmatively and unambiguously state, by means including, but
+595 not limited to, legislation, executive order, or written
+596 certification from the President to Congress, that the
+597 government of Iran has ceased to acquire weapons of mass
+598 destruction and support international terrorism; and
+599 2. The United States revokes all sanctions imposed against
+600 the government of Iran.
+Page 24 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+601
+602 The board, on behalf of the public fund, may reinvest in such
+603 companies if such companies do not satisfy the criteria for
+604 inclusion in the Scrutinized Companies with Activities in Sudan
+605 List. The board, acting as a fiduciary in accordance with s.
+606 215.47(11) s. 215.47(10), shall monitor events relating to
+607 subparagraphs 1. and 2., and, upon finding that the conditions
+608 in subparagraph 1. or subparagraph 2. have occurred, the board
+609 shall report such finding at a quarterly meeting of its
+610 trustees. At each quarterly meeting of the trustees, the board
+611 shall report on the status of events relating to subparagraphs
+612 1. and 2.
+613 Section 9. Paragraph (b) of subsection (2) of section
+614 215.4735, Florida Statutes, is amended to read:
+615 215.4735 Prohibited foreign investments.—
+616 (2)
+617 (b) The board must:
+618 1. Initiate, no later than June 1, 2024, a review of all
+619 current direct holdings to determine which direct holdings, if
+620 any, include securities of a Chinese company.
+621 2. Develop, no later than September 1, 2024, a divestment
+622 plan for all direct holdings in Chinese companies. The
+623 divestment plan must be developed and implemented consistent
+624 with the fiduciary standards set forth in s. 215.47(11) s.
+625 215.47(10).
+Page 25 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+626 3. Complete divestment from direct holdings in Chinese
+627 companies included in the divestment plan developed pursuant to
+628 subparagraph 2. no later than September 1, 2025, or at such
+629 later time if necessary for the board to implement the
+630 divestment plan consistent with the fiduciary standards set
+631 forth in s. 215.47(11) s. 215.47(10).
+632 Section 10.10. Subsection (1) of section 215.475, Florida
+633 Statutes, is amended to read:
+634 215.475 Investment policy statement.—
+635 (1) In making investments for the System Trust Fund
+636 pursuant to ss. 215.44-215.53, the board shall make no
+637 investment which is not in conformance with the Florida
+638 Retirement System Defined Benefit Plan Investment Policy
+639 Statement, hereinafter referred to as "the IPS," as developed by
+640 the executive director and approved by the board. The IPS must
+641 comply with s. 215.47(11) s. 215.47(10) and include, among other
+642 items, the investment objectives of the System Trust Fund;
+643 permitted types of securities in which the board may invest; and
+644 evaluation criteria necessary to measure the investment
+645 performance of the fund. As required from time to time, the
+646 executive director of the board may present recommended changes
+647 in the IPS to the board for approval.
+648 Section 11. Paragraph (b) of subsection (1) of section
+649 215.4755, Florida Statutes, is amended to read:
+650 215.4755 Certification and disclosure requirements for
+Page 26 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+651 investment advisers and managers.—
+652 (1) An investment adviser or manager who has discretionary
+653 investment authority for direct holdings and who is retained as
+654 provided in s. 215.44(2)(b) shall agree pursuant to contract to
+655 annually certify in writing to the board that:
+656 (b) All investment decisions made on behalf of the trust
+657 funds and the board are made based solely on pecuniary factors
+658 as defined in s. 215.47(11)(a) s. 215.47(10)(a) and do not
+659 subordinate the interests of the participants and beneficiaries
+660 of the funds to other objectives, including sacrificing
+661 investment return or undertaking additional investment risk to
+662 promote any nonpecuniary factor. This paragraph applies to any
+663 contract executed, amended, or renewed on or after July 1, 2023.
+664 Section 12. Subsection (4) of section 215.50, Florida
+665 Statutes, is amended to read:
+666 215.50 Custody of securities purchased; income.—
+667 (4) Securities that the board selects to use for options
+668 operations under s. 215.45 or for lending under s. 215.47(18) s.
+669 215.47(17) shall be registered by the Chief Financial Officer in
+670 the name of a third-party nominee in order to facilitate such
+671 operations.
+672 Section 13. Paragraph (a) of subsection (7) of section
+673 215.555, Florida Statutes, is amended to read:
+674 215.555 Florida Hurricane Catastrophe Fund.—
+675 (7) ADDITIONAL POWERS AND DUTIES.—
+Page 27 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+676 (a) The board may procure reinsurance from reinsurers
+677 acceptable to the Office of Insurance Regulation for the purpose
+678 of maximizing the capacity of the fund and may enter into
+679 capital market transactions, including, but not limited to,
+680 industry loss warranties, catastrophe bonds, side-car
+681 arrangements, or financial contracts permissible for the board's
+682 usage under s. 215.47(12) and (13) s. 215.47(11) and (12),
+683 consistent with prudent management of the fund.
+684 Section 14. Paragraph (a) of subsection (2) of section
+685 218.409, Florida Statutes, is amended to read:
+686 218.409 Administration of the trust fund.—
+687 (2)(a) The trustees shall ensure that the board or a
+688 professional money management firm administers the trust fund on
+689 behalf of the participants. The board or a professional money
+690 management firm shall have the power to invest such funds in
+691 accordance with a written investment policy. The investment
+692 policy shall be updated annually to conform to best investment
+693 practices. The standard of prudence to be used by investment
+694 officials shall be the fiduciary standards as set forth in s.
+695 215.47(11) s. 215.47(10), which shall be applied in the context
+696 of managing an overall portfolio. Portfolio managers acting in
+697 accordance with written procedures and an investment policy and
+698 exercising due diligence shall be relieved of personal
+699 responsibility for an individual security's credit risk or
+700 market price changes, provided deviations from expectations are
+Page 28 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+701 reported in a timely fashion and the liquidity and the sale of
+702 securities are carried out in accordance with the terms of this
+703 part.
+704 Section 15. Paragraph (e) of subsection (4) of section
+705 1002.36, Florida Statutes, is amended to read:
+706 1002.36 Florida School for the Deaf and the Blind.—
+707 (4) BOARD OF TRUSTEES.—
+708 (e) The board of trustees is invested with full power and
+709 authority to:
+710 1. Appoint a president, faculty, teachers, and other
+711 employees and remove the same as in its judgment may be best and
+712 fix their compensation.
+713 2. Procure professional services, such as medical, mental
+714 health, architectural, and engineering.
+715 3. Procure legal services without the prior written
+716 approval of the Attorney General.
+717 4. Determine eligibility of students and procedure for
+718 admission.
+719 5. Provide for the students of the school necessary
+720 bedding, clothing, food, and medical attendance and such other
+721 things as may be proper for the health and comfort of the
+722 students without cost to their parents, except that the board of
+723 trustees may set tuition and other fees for nonresidents.
+724 6. Provide for the proper keeping of accounts and records
+725 and for budgeting of funds.
+Page 29 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+726 7. Enter into contracts.
+727 8. Sue and be sued.
+728 9. Secure public liability insurance.
+729 10. Do and perform every other matter or thing requisite
+730 to the proper management, maintenance, support, and control of
+731 the school at the highest efficiency economically possible, the
+732 board of trustees taking into consideration the purposes of the
+733 establishment.
+734 11. Receive gifts, donations, and bequests of money or
+735 property, real or personal, tangible or intangible, from any
+736 person, firm, corporation, or other legal entity. However, the
+737 board of trustees may not obligate the state to any expenditure
+738 or policy that is not specifically authorized by law. If the
+739 bill of sale, will, trust indenture, deed, or other legal
+740 conveyance specifies terms and conditions concerning the use of
+741 such money or property, the board of trustees shall observe such
+742 terms and conditions.
+743 12. Deposit outside the State Treasury such moneys as are
+744 received as gifts, donations, or bequests and may disburse and
+745 expend such moneys, upon its own warrant, for the use and
+746 benefit of the Florida School for the Deaf and the Blind and its
+747 students, as the board of trustees deems to be in the best
+748 interest of the school and its students. Such money or property
+749 does not constitute and may not be considered a part of any
+750 legislative appropriation.
+Page 30 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+751 13. Sell or convey by bill of sale, deed, or other legal
+752 instrument any property, real or personal, received as a gift,
+753 donation, or bequest, upon such terms and conditions as the
+754 board of trustees deems to be in the best interest of the school
+755 and its students.
+756 14. Invest such moneys in securities enumerated under s.
+757 215.47(1), (2)(c), (3), (4), and (11) (10), and in The Common
+758 Fund, an Investment Management Fund exclusively for nonprofit
+759 educational institutions.
+760 15. After receiving approval from the Administration
+761 Commission, exercise the power of eminent domain in the manner
+762 provided in chapter 73 or chapter 74.
+763 Section 16. Subsection (13) of section 1002.395, Florida
+764 Statutes, is amended to read:
+765 1002.395 Florida Tax Credit Scholarship Program.—
+766 (13) DEPOSITS OF ELIGIBLE CONTRIBUTIONS.—All eligible
+767 contributions received by an eligible nonprofit scholarship-
+768 funding organization shall be deposited in a manner consistent
+769 with s. 17.57(3) s. 17.57(2).
+770 Section 17. This act shall take effect July 1, 2026.
+Page 31 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A f p p q m d t r d b p t t a i i t p t h F a a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r O a f a t t U c C a d s f a o f p i 2 S a c s i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a 2 a p   W a O a s  W o i f e  W s a e S f  W s B t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  W S S S t a  W B g s w  W n t a  W B a  B S   1  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( r  ( r t p l  1 s c s f  2  3  4  5 r s f r  ( t u s  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES F h e a i i p  (  1 t U  2  a U c s a  b a  3 S a  4 o a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( w  1 S s d  2 S r q  ( c s f i b u  ( w F h f t r n]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES m r  ( a t  1 r l s  2 p  ( t h s s a  1  2  3 d  4 C  5 M]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  6 A  7 l n  8 a a R m a t t i r d  9 a o n h b o c  1]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A  1  1 q  1 n h b o c  1 g c U t  1 m a  1 b  1 a n o s]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t  1 i h t  1 f t r n  2 a s i s H r o  2 d i s H r i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 s t s  2 s  2 i o C  2  2  T b m a i i e r i i b c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c c o  ( s r b E t s S f p i  ( t F p t  ( o b s l a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES j i t i i o  ( m c e S t r b C i a  ( s t m w  ( p C]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( f  1 m w  2 d  ( o D a S  ( s f  (  ( s a p p  ( t e  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r o s  ( d f  a  b  c a  d t a  e L  2 O m  ( s c  a c  b  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( u  c i C p b  2 p a t  a l t  b 2  T o t  3 d e b  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES s f v s t r o c wS   1 i  ( r e 2 a l s s p o u a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a s i b s h l a o p G p F n t sS   1  ( t f o  ( r]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a r t  ( b  1  2  3 i C  ( " sS   2 s S f m  ( a  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES b  1  2  3 i C  ( b t a  ( " sS   2 e  ( p  ( sS   1 a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES w s r e m o  (  ( a i l r t ( (  ( p f w m p ( A r v]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES i a p o iS   2 B S d o t s b  ( p e  ( c p t  ( p i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( t  ( i  ( eS   2 S  ( o  ( l m i i  1 a n c g d  2 t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  T c i L 2 s i s t s 1S   2  (  (  1 c a  2 p d w 2]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 c s l d fS   2  ( p i R S t c i p e p e iS   2]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES i  ( i p a  ( f a s o i p cS   2  ( o 2 t oS   2  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( a o c i a u cS   2  ( p b m a p p o 2 o a e r m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r s pS   1  (  ( a  1 e f  2 h  3 a  4 a  5 b t s t  6 a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  7  8  9  1 t t b e  1 p p b o b c s t  1 r e b s i d l]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 i d b a  1 2 F e  1 C pS   1  ( c f wS  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+1 A bill to be entitled
+2 An act relating to investments and deposits of public
+3 funds; amending s. 17.57, F.S.; providing definitions;
+4 providing the Chief Financial Officer and certain
+5 parties the option to invest certain moneys through
+6 qualified custodians and to deposit any remaining
+7 money and funds in certain qualified public
+8 depositories; providing the Chief Financial Officer
+9 the option to invest certain funds and to deposit any
+10 remaining funds in certain qualified public
+11 depositories; providing an option for certain money to
+12 be invested in digital assets and exchange-traded
+13 products under specified circumstances; authorizing
+14 the Chief Financial Officer, in managing state funds,
+15 to include digital assets and exchange-traded products
+16 as stores of value and potential hedges against
+17 inflation and to engage in certain acts relating to
+18 investments; authorizing the Chief Financial Officer
+19 to invest money in digital assets and exchange-traded
+20 products from certain public funds; providing limits
+21 to such investments; providing requirements for
+22 holding acquired digital assets; authorizing the Chief
+23 Financial Officer and other parties to loan digital
+24 assets in state funds if such loans are collateralized
+25 and comply with certain fiduciary standards; providing
+Page 1 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+26 rulemaking authority; requiring the Chief Financial
+27 Officer to maintain certain documentation and to cure
+28 any lapse in control over the digital assets in state
+29 funds within a specified timeframe; requiring taxes
+30 and fees paid in digital assets to be transferred to
+31 the General Revenue Fund; requiring designated funds
+32 to be reimbursed from the General Revenue Fund in
+33 United States currency for such payments; providing
+34 construction; amending s. 17.61, F.S.; authorizing the
+35 Chief Financial Officer to open and maintain certain
+36 accounts in credit unions; authorizing loans of
+37 digital assets to securities dealers and loans of
+38 securities, digital assets, and investments to
+39 financial institutions; amending s. 121.151, F.S.;
+40 authorizing the Board of Trustees of the State Board
+41 of Administration to invest and reinvest available
+42 funds of the System Trust Fund in digital assets;
+43 providing limits and custody requirements for such
+44 investments; providing definitions; amending s.
+45 215.47, F.S.; authorizing the Board of Trustees of the
+46 State Board of Administration to invest a portion of
+47 any fund in digital assets; providing limits and
+48 custody requirements; providing definitions; amending
+49 s. 280.03, F.S.; exempting certain deposits and
+50 investments from specified security requirements;
+Page 2 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+51 amending ss. 112.661, 215.4701, 215.473, 215.4735,
+52 215.475, 215.4755, 215.50, 215.555, 218.409, 1002.36,
+53 and 1002.395, F.S.; conforming cross-references;
+54 providing an effective date.
+55
+56 WHEREAS, inflation has eroded the purchasing power of
+57 assets held in state funds managed by the Chief Financial
+58 Officer, diminished the value of the state's reserves, and
+59 affected the financial stability and economic security of this
+60 state, its taxpayers, and its residents, and
+61 WHEREAS, although this state does not have direct control
+62 over the national money supply or the policies that influence
+63 inflation, it has a responsibility to safeguard Florida's
+64 financial resources against the impacts of inflation and other
+65 economic uncertainties, and
+66 WHEREAS, Bitcoin and other digital assets have
+67 significantly increased in value and are becoming more widely
+68 accepted as international stores of value and mediums of
+69 exchange, and countries around the world, including the United
+70 States, hold such assets within their treasury or reserve
+71 frameworks, and
+72 WHEREAS, Bitcoin and other digital assets are recognized by
+73 sovereign nations and prominent investment advisers, including
+74 BlackRock, Fidelity, and Franklin Templeton, as potential tools
+75 to strengthen long-term portfolio value, and
+Page 3 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+76 WHEREAS, on March 6, 2025, the President of the United
+77 States issued Executive Order No. 14233 establishing the
+78 Strategic Bitcoin Reserve and the United States Digital Asset
+79 Stockpile, to be administered by the United States Department of
+80 the Treasury and capitalized with lawfully forfeited digital
+81 assets, and
+82 WHEREAS, these federal executive actions recognize that
+83 Bitcoin and other digital assets can be strategically held by
+84 governmental institutions to support fiscal stability,
+85 strengthen national resilience, and serve public objectives
+86 without increasing taxpayer burdens, and
+87 WHEREAS, this state seeks to align its policy with these
+88 national directives by creating a secure, transparent framework
+89 to lawfully acquire, hold, and manage Bitcoin and other digital
+90 assets as part of its broader fiscal strategy, and
+91 WHEREAS, this state should have access to tools such as
+92 Bitcoin and other digital assets to enhance the long-term value
+93 and resilience of public funds, NOW, THEREFORE,
+94
+95 Be It Enacted by the Legislature of the State of Florida:
+96
+97 Section 1. Section 17.57, Florida Statutes, is amended to
+98 read:
+99 17.57 Deposits and investments of state money.—
+100 (1)(a) As used in this section subsection, the term:
+Page 4 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+101 (a) "Control" means control of a controllable electronic
+102 record, as determined under s. 669.105.
+103 (b) "Digital asset" means a controllable electronic
+104 record, as defined in s. 669.102(1), capable of being held or
+105 transferred electronically and representing economic,
+106 proprietary, or access rights. The term includes, but is not
+107 limited to:
+108 1. Virtual currency, including Bitcoin. As used in this
+109 subparagraph, the term "Bitcoin" means the decentralized digital
+110 currency launched in 2009 which allows online payments to be
+111 sent directly from one party to another without going through a
+112 financial institution.
+113 2. Digital commodities.
+114 3. Digital asset securities.
+115 4. Non-fungible tokens.
+116 5. Any other cryptographically secured or tokenized
+117 representation of value or rights recorded on a blockchain or
+118 similar distributed ledger technology, including assets eligible
+119 for inclusion in a national digital asset stockpile or strategic
+120 reserve pursuant to federal executive or statutory authority.
+121 (c) "Exchange-traded product" means a financial instrument
+122 that is traded on a national stock exchange and holds an
+123 underlying pool of assets, which may include digital assets,
+124 stocks, bonds, commodities, and indexes.
+125 (d) "Pecuniary factor" means a factor that the Chief
+Page 5 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+126 Financial Officer, or other party authorized to invest on his or
+127 her behalf, prudently determines is expected to have a material
+128 effect on the risk or returns of an investment based on
+129 appropriate investment horizons consistent with applicable
+130 investment objectives and funding policy. The term does not
+131 include the consideration of the furtherance of any social,
+132 political, or ideological interests.
+133 (e) "Qualified custodian" means any of the following:
+134 1. A financial institution that has deposits insured by
+135 the Federal Deposit Insurance Corporation or the National Credit
+136 Union Association.
+137 2. A trust company, whether incorporated or not, which:
+138 a. Does business under the laws of any state or of the
+139 United States, a substantial portion of the business of which
+140 consists of receiving deposits or exercising fiduciary powers
+141 similar to those authorized to national banks under the
+142 authority of the Comptroller of the Currency; and
+143 b. Is supervised and examined by state or federal
+144 authority having supervision over banks or credit unions.
+145 3. A broker-dealer registered under s. 15(b)(1) of the
+146 Securities Exchange Act of 1934, 15 U.S.C. s. 78o(b)(1), as
+147 amended, holding the client assets in customer accounts.
+148 4. A futures commission merchant registered under s. 6f(a)
+149 of the Commodity Exchange Act, as amended, holding the client
+150 assets in customer accounts.
+Page 6 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+151 (2)(a)(b) The Chief Financial Officer, or other parties
+152 with the permission of the Chief Financial Officer, shall:
+153 1. Deposit the money of this the state or any money in the
+154 State Treasury in such qualified public depositories of this the
+155 state as will offer satisfactory collateral security for such
+156 deposits, pursuant to chapter 280; or
+157 2. Invest the money of this state or any money in the
+158 State Treasury through a qualified custodian and deposit any
+159 remaining money of this state and the State Treasury in
+160 qualified public depositories described in subparagraph 1.
+161 (b) It is the duty of the Chief Financial Officer,
+162 consistent with the cash requirements of the state, to keep the
+163 such money of this state or any money in the State Treasury
+164 fully invested or deposited as provided in this section herein
+165 in order that the state may realize maximum earnings and
+166 benefits. Nothing in This section does not shall preclude credit
+167 unions designated as public depositories from participation.
+168 (c) Notwithstanding any other law except for s. 215.472,
+169 when deciding whether to invest and when investing, the Chief
+170 Financial Officer, or other party authorized to invest on his or
+171 her behalf, must make decisions based solely on pecuniary
+172 factors and may not subordinate the interests of the people of
+173 this state to other objectives, including sacrificing investment
+174 return or undertaking additional investment risk to promote any
+175 nonpecuniary factor. The weight given to any pecuniary factor
+Page 7 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+176 must appropriately reflect a prudent assessment of its impact on
+177 risk or returns.
+178 (3)(a)(2) The Chief Financial Officer shall make funds
+179 available to meet the disbursement needs of the state. Funds
+180 that which are not needed for this purpose shall be:
+181 1. Placed in qualified public depositories that will pay
+182 rates established by the Chief Financial Officer at levels not
+183 less than the prevailing rate for United States Treasury
+184 securities with a corresponding maturity; or
+185 2. Invested and the remaining funds placed in qualified
+186 public depositories described in subparagraph 1.
+187 (b) In the event money is available for interest-bearing
+188 time deposits or savings accounts as provided in this section
+189 herein and qualified public depositories are unwilling to accept
+190 such money and pay thereon the rates established above, then
+191 such money which qualified public depositories are unwilling to
+192 accept shall be invested in:
+193 1.(a) Direct United States Treasury obligations.
+194 2.(b) Obligations of the Federal Farm Credit Banks.
+195 3.(c) Obligations of the Federal Home Loan Bank and its
+196 district banks.
+197 4.(d) Obligations of the Federal Home Loan Mortgage
+198 Corporation, including participation certificates.
+199 5.(e) Obligations guaranteed by the Government National
+200 Mortgage Association.
+Page 8 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+201 6.(f) Obligations of the Federal National Mortgage
+202 Association.
+203 7.(g) Commercial paper of prime quality of the highest
+204 letter and numerical rating as provided for by at least one
+205 nationally recognized rating service.
+206 8.(h) Time drafts or bills of exchange drawn on and
+207 accepted by a commercial bank, otherwise known as "bankers
+208 acceptances," which are accepted by a member bank of the Federal
+209 Reserve System having total deposits of not less than $400
+210 million or which are accepted by a commercial bank which is not
+211 a member of the Federal Reserve System with deposits of not less
+212 than $400 million and which is licensed by a state government or
+213 the Federal Government, and whose senior debt issues are rated
+214 in one of the two highest rating categories by a nationally
+215 recognized rating service and which are held in custody by a
+216 domestic bank which is a member of the Federal Reserve System.
+217 9.(i) Corporate obligations or corporate master notes of
+218 any corporation within the United States, if the long-term
+219 obligations of such corporation are rated by at least two
+220 nationally recognized rating services in any one of the four
+221 highest classifications. However, if such obligations are rated
+222 by only one nationally recognized rating service, then the
+223 obligations shall be rated in any one of the two highest
+224 classifications.
+225 10.(j) Obligations of the Student Loan Marketing
+Page 9 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+226 Association.
+227 11.(k) Obligations of the Resolution Funding Corporation.
+228 12.(l) Mortgage-backed securities of the highest credit
+229 quality.
+230 13.(m) Asset-backed securities rated by at least two
+231 nationally recognized rating services in any one of the three
+232 highest classifications. However, if such obligations are rated
+233 by only one nationally recognized rating service, the
+234 obligations must be rated in any one of the two highest
+235 classifications.
+236 14.(n) Any obligations not previously listed which are
+237 guaranteed as to principal and interest by the full faith and
+238 credit of the United States Government or are obligations of
+239 United States agencies or instrumentalities which are rated in
+240 the highest category by a nationally recognized rating service.
+241 15.(o) Commingled no-load investment funds or no-load
+242 mutual funds in which all securities held by the funds are
+243 authorized in this subsection.
+244 16.(p) Money market mutual funds as defined and regulated
+245 by the Securities and Exchange Commission.
+246 17.(q) Obligations of state and local governments rated in
+247 any of the four highest classifications by at least two
+248 nationally recognized rating services. However, if such
+249 obligations are rated by only one nationally recognized rating
+250 service, then the obligations shall be rated in any one of the
+Page 10 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+251 two highest classifications.
+252 18.(r) Covered put and call options on investment
+253 instruments authorized in this subsection for the purpose of
+254 hedging transactions by investment managers to mitigate risk or
+255 to facilitate portfolio management.
+256 19.(s) Negotiable certificates of deposit issued by
+257 financial institutions whose long-term debt is rated in one of
+258 the three highest categories by at least two nationally
+259 recognized rating services, the investment in which may shall
+260 not be prohibited by any provision of chapter 280.
+261 20.(t) Foreign bonds denominated in United States dollars
+262 and registered with the Securities and Exchange Commission for
+263 sale in the United States, if the long-term obligations of such
+264 issuers are rated by at least two nationally recognized rating
+265 services in any one of the four highest classifications.
+266 However, if such obligations are rated by only one nationally
+267 recognized rating service, the obligations shall be rated in any
+268 one of the two highest classifications.
+269 21.(u) Convertible debt obligations of any corporation
+270 domiciled within the United States, if the convertible debt
+271 issue is rated by at least two nationally recognized rating
+272 services in any one of the four highest classifications.
+273 However, if such obligations are rated by only one nationally
+274 recognized rating service, then the obligations shall be rated
+275 in any one of the two highest classifications.
+Page 11 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+276 22.(v) Securities not otherwise described in this
+277 subsection. However, not more than 3 percent of the funds under
+278 the control of the Chief Financial Officer shall be invested in
+279 securities described in this subparagraph paragraph.
+280 23.(w) Derivatives of investment instruments authorized in
+281 subparagraphs 1.-22. paragraphs (a)-(v).
+282 24.(x) Futures and options on futures, provided the
+283 instruments for such purpose are traded on a securities exchange
+284 or board of trade regulated by the Securities and Exchange
+285 Commission or the Commodity Futures Trading Commission.
+286 25. Digital assets.
+287 26. Exchange-traded products.
+288
+289 These investments may be in varying maturities and may be in
+290 book-entry form. Investments made pursuant to this subsection
+291 may be under repurchase agreement or reverse repurchase
+292 agreement. The Chief Financial Officer may hire registered
+293 investment advisers and other consultants to assist in
+294 investment management and to pay fees directly from investment
+295 earnings. Investment securities, proprietary investment services
+296 related to contracts, performance evaluation services,
+297 investment-related equipment or software used directly to assist
+298 investment trading or investment accounting operations including
+299 bond calculators, telerates, Bloombergs, special program
+300 calculators, intercom systems, and software used in accounting,
+Page 12 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+301 communications, and trading, and advisory and consulting
+302 contracts made under this section are exempt from the provisions
+303 of chapter 287.
+304 (4)(3) In the event the financial institutions in the
+305 state do not make sufficient loan funds available for a
+306 residential conservation program pursuant to any plan approved
+307 by the Florida Public Service Commission under the Florida
+308 Energy Efficiency and Conservation Act, the board may authorize
+309 the investment of state funds, except retirement trust funds, in
+310 such a loan program at rates not less than prevailing United
+311 States Treasury bill rates. However, prior to investment of such
+312 funds, the Florida Public Service Commission shall develop a
+313 plan which must be approved by the Legislature before
+314 implementation.
+315 (5)(4) All earnings on any investments made pursuant to
+316 this section are hereby appropriated to the General Revenue
+317 Fund, except that earnings attributable to moneys made available
+318 pursuant to s. 17.61(3)(a) and (b) shall be credited pro rata to
+319 the funds from which such moneys were made available.
+320 (6)(5) The fact that a municipal officer or a state
+321 officer, including an officer of any municipal or state agency,
+322 board, bureau, commission, institution, or department, is a
+323 stockholder or an officer or director of a bank or savings and
+324 loan association will not bar such bank or savings and loan
+325 association from being a depository of funds coming under the
+Page 13 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+326 jurisdiction of any such municipal officer or state officer if
+327 it shall appear in the records of the municipal or state office
+328 that the governing body of such municipality or state agency has
+329 investigated and determined that such municipal or state officer
+330 is not favoring such banks or savings and loan associations over
+331 other qualified banks or savings and loan associations.
+332 (7)(6) The Chief Financial Officer is designated the cash
+333 management officer for the state and is charged with the
+334 coordination and supervision of procedures providing for the
+335 efficient handling of financial assets under the control of the
+336 State Treasury and each of the various state agencies, and of
+337 the judicial branch, as defined in s. 216.011. This
+338 responsibility shall include the supervision and approval of all
+339 banking relationships. Pursuant to this responsibility, the
+340 Chief Financial Officer may obtain information from financial
+341 institutions regarding depository accounts maintained by any
+342 agency or institution of the State of Florida.
+343 (8)(7) In addition to the deposits authorized under this
+344 section and notwithstanding any other provisions of law, funds
+345 that are not needed to meet the disbursement needs of the state
+346 may be deposited by the Chief Financial Officer in accordance
+347 with the following conditions:
+348 (a) The funds are initially deposited in a qualified
+349 public depository, as defined in s. 280.02, selected by the
+350 Chief Financial Officer.
+Page 14 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+351 (b) The selected depository arranges for depositing the
+352 funds in financial deposit instruments insured by:
+353 1. The Federal Deposit Insurance Corporation in one or
+354 more federally insured banks or savings and loan associations,
+355 wherever located, for the account of the state.
+356 2. For credit unions designated as qualified public
+357 depositories, the National Credit Union Share Insurance Fund.
+358 (c) The full amount of the principal and accrued interest
+359 of each financial deposit instrument is insured by the Federal
+360 Deposit Insurance Corporation or, for credit unions designated
+361 as qualified public depositories, the National Credit Union
+362 Share Insurance Fund.
+363 (d) The selected depository acts as custodian for the
+364 state with respect to each financial deposit instrument issued
+365 for its account.
+366 (9) The Chief Financial Officer may:
+367 (a) In managing state funds pursuant to this section and
+368 subject to the limitations of chapter 215, include digital
+369 assets or exchange-traded products as stores of value and
+370 potential hedges against inflation, thereby protecting the
+371 purchasing power of state funds.
+372 (b) Ensure that the investment strategies employed under
+373 this section align with the goal of enhancing this state's
+374 economic security and financial resilience.
+375 (c) Maintain flexibility in investment decisions to
+Page 15 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+376 respond to changing economic conditions and emerging
+377 opportunities that may offer better protection or returns on
+378 state funds.
+379 (10)(a)1. The Chief Financial Officer may invest money in
+380 digital assets or exchange-traded products from the following
+381 funds:
+382 a. The General Revenue Fund.
+383 b. The Budget Stabilization Fund.
+384 c. All the trust funds and all agency funds of each state
+385 agency and of the judicial branch, as defined in s. 216.011(1).
+386 d. Funds of any board, association, or entity created by
+387 the State Constitution or by law upon request of the board,
+388 association, or entity.
+389 e. Any other state fund deemed appropriate by the
+390 Legislature.
+391 2. The amount of public funds that the Chief Financial
+392 Officer may invest in digital assets or exchange-traded products
+393 may not exceed 10 percent of the total funds in any account.
+394 (b)1. The digital assets acquired under paragraph (a)
+395 shall be held in a manner that provides this state with control
+396 consistent with chapter 669 and may be held only:
+397 a. Directly by the Chief Financial Officer, who confers
+398 control to this state;
+399 b. On behalf of this state by a qualified custodian that:
+400 (I) Grants this state with control under chapter 669; or
+Page 16 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+401 (II) Credits this state with a security interest perfected
+402 under s. 679.3131; or
+403 c. In the form of an exchange-traded product issued by an
+404 investment company registered with the Securities and Exchange
+405 Commission under the Investment Company Act of 1940, as amended,
+406 provided that the custodian of records maintains control on
+407 behalf of this state pursuant to chapter 669.
+408 2. The Chief Financial Officer, and other parties with the
+409 permission of the Chief Financial Officer, may loan the digital
+410 assets in state funds to generate additional returns, provided
+411 that such loans:
+412 a. Are secured by collateral having a market value at
+413 least equal to 100 percent of the value of the assets loaned at
+414 the time the loans are made; and
+415 b. Comply with the fiduciary standards provided in chapter
+416 215.
+417
+418 The Chief Financial Officer may, by rule, require
+419 overcollateralization or impose additional safeguards to protect
+420 the financial interests of this state.
+421 3. The Chief Financial Officer shall maintain
+422 documentation evidencing this state's continuing control over
+423 each digital asset and shall cure any lapse in control within 5
+424 business days after discovery.
+425 (11) Taxes or fees paid to this state in digital assets
+Page 17 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+426 shall be transferred to the General Revenue Fund. The designated
+427 fund shall be reimbursed from the General Revenue Fund for the
+428 value of the digital asset payment in United States currency for
+429 such taxes or fees. A person who transfers a digital asset to
+430 the state warrants that the asset is a controllable electronic
+431 record free of adverse claims. This state takes the asset free
+432 of any security interest or other claim if this state acquires
+433 control for value and without notice of the claim, consistent
+434 with chapter 669.
+435 Section 2. Subsection (1) of section 17.61, Florida
+436 Statutes, is amended to read:
+437 17.61 Chief Financial Officer; powers and duties in the
+438 investment of certain funds.—
+439 (1) The Chief Financial Officer shall invest all general
+440 revenue funds and all the trust funds and all agency funds of
+441 each state agency, and of the judicial branch, as defined in s.
+442 216.011, and may, upon request, invest funds of any board,
+443 association, or entity created by the State Constitution or by
+444 law, except for the funds required to be invested pursuant to
+445 ss. 215.44-215.53, by the procedure and in the authorized
+446 securities or in digital assets prescribed in s. 17.57; for this
+447 purpose, the Chief Financial Officer may open and maintain one
+448 or more demand and safekeeping accounts in any bank or credit
+449 union savings association for the investment and reinvestment
+450 and the purchase, sale, and exchange of funds, and securities,
+Page 18 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+451 and digital assets in the accounts. Funds in such accounts used
+452 solely for investments and reinvestments shall be considered
+453 investment funds and not funds on deposit, and such funds shall
+454 be exempt from the provisions of chapter 280. In addition, the
+455 securities and other digital assets or investments purchased or
+456 held under the provisions of this section and s. 17.57 may be
+457 loaned to securities dealers and financial institutions banks
+458 and may be registered by the Chief Financial Officer in the name
+459 of a third-party nominee in order to facilitate such loans,
+460 provided the loan is collateralized by cash or United States
+461 Government securities having a market value of at least 100
+462 percent of the market value of the securities loaned. The Chief
+463 Financial Officer shall keep a separate account, designated by
+464 name and number, of each fund. Individual transactions and
+465 totals of all investments, or the share belonging to each fund,
+466 shall be recorded in the accounts.
+467 Section 3. Section 121.151, Florida Statutes, is amended
+468 to read:
+469 121.151 Investments.—
+470 (1) The Board of Administration, created by authority of
+471 the State Constitution, shall invest and reinvest available
+472 funds of the System Trust Fund in accordance with the provisions
+473 of ss. 215.44-215.53.
+474 (2)(a) The Board of Administration may also invest and
+475 reinvest available funds of the System Trust Fund in digital
+Page 19 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+476 assets. The amount of funds that the board may invest and
+477 reinvest in digital assets may not exceed 10 percent of the
+478 total funds.
+479 (b) The digital assets acquired under paragraph (a) shall
+480 be held:
+481 1. Directly by the board;
+482 2. On behalf of the board by a qualified custodian; or
+483 3. In the form of an exchange-traded product issued by an
+484 investment company registered with the Securities and Exchange
+485 Commission under the Investment Company Act of 1940, as amended.
+486 (c) As used in this subsection, the terms "digital asset,"
+487 "exchange-traded product," and "qualified custodian" have the
+488 same meanings as in s. 17.57(1).
+489 Section 4. Subsections (6) through (21) of section 215.47,
+490 Florida Statutes, are renumbered as subsections (7) through
+491 (22), respectively, and a new subsection (6) is added to that
+492 section to read:
+493 215.47 Investments; authorized securities; loan of
+494 securities.—Subject to the limitations and conditions of the
+495 State Constitution or of the trust agreement relating to a trust
+496 fund, moneys available for investments under ss. 215.44-215.53
+497 may be invested as follows:
+498 (6)(a) With no more than 10 percent of any fund in digital
+499 assets.
+500 (b) The digital assets acquired under paragraph (a) shall
+Page 20 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+501 be held:
+502 1. Directly by the board;
+503 2. On behalf of the board by a qualified custodian; or
+504 3. In the form of an exchange-traded product issued by an
+505 investment company registered with the Securities and Exchange
+506 Commission under the Investment Company Act of 1940, as amended.
+507 (c) Notwithstanding the limitation in paragraph (a), the
+508 board is authorized to hold any other investment authorized in
+509 this section as a digital asset, provided that it is held in
+510 accordance with paragraph (b).
+511 (d) As used in this subsection, the terms "digital asset,"
+512 "exchange-traded product," and "qualified custodian" have the
+513 same meanings as in s. 17.57(1).
+514 Section 5. Paragraph (f) of subsection (3) of section
+515 280.03, Florida Statutes, is amended to read:
+516 280.03 Public deposits to be secured; prohibitions;
+517 exemptions.—
+518 (3) The following are exempt from the requirements of, and
+519 protection under, this chapter:
+520 (f) Public deposits made in accordance with s. 17.57(8),
+521 s. 215.47(6), s. 17.57(7) or s. 218.415(23).
+522 Section 6. Paragraph (a) of subsection (5) and subsection
+523 (17) of section 112.661, Florida Statutes, are amended to read:
+524 112.661 Investment policies.—Investment of the assets of
+525 any local retirement system or plan must be consistent with a
+Page 21 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+526 written investment policy adopted by the board. Such policies
+527 shall be structured to maximize the financial return to the
+528 retirement system or plan consistent with the risks incumbent in
+529 each investment and shall be structured to establish and
+530 maintain an appropriate diversification of the retirement system
+531 or plan's assets.
+532 (5) AUTHORIZED INVESTMENTS.—
+533 (a) The investment policy shall list investments
+534 authorized by the board. Investments not listed in the
+535 investment policy are prohibited. Unless otherwise authorized by
+536 law or ordinance, the investment of the assets of any local
+537 retirement system or plan covered by this part shall be subject
+538 to the limitations and conditions set forth in s. 215.47(1)-(7),
+539 (9), (10), (12), and (18) s. 215.47(1)-(6), (8), (9), (11) and
+540 (17).
+541 (17) VALUATION OF ILLIQUID INVESTMENTS.—The investment
+542 policy shall provide for the valuation of illiquid investments
+543 for which a generally recognized market is not available or for
+544 which there is no consistent or generally accepted pricing
+545 mechanism. If those investments are utilized, the investment
+546 policy must include the criteria set forth in s. 215.47(6) and
+547 (7) s. 215.47(6), except that submission to the Investment
+548 Advisory Council is not required. The investment policy shall
+549 require that, for each actuarial valuation, the board must
+550 verify the determination of the fair market value for those
+Page 22 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+551 investments and ascertain that the determination complies with
+552 all applicable state and federal requirements. The investment
+553 policy shall require that the board disclose to the Department
+554 of Management Services and the plan's sponsor each such
+555 investment for which the fair market value is not provided.
+556 Section 7. Section 215.4701, Florida Statutes, is amended
+557 to read:
+558 215.4701 Trademarks, copyrights, or patents.—The State
+559 Board of Administration, on behalf of the Florida Retirement
+560 System or any other trust fund under its jurisdiction, may
+561 develop work products that are subject to trademark, copyright,
+562 or patent statutes. The board may, in its own name or through
+563 the growth initiative program created pursuant to s. 215.47(8)
+564 s. 215.47(7) or any other program developed with or for the
+565 board:
+566 (1) Perform all things necessary to secure letters of
+567 patent, copyrights, or trademarks on any work products and
+568 enforce its rights therein.
+569 (2) License, lease, assign, or otherwise give written
+570 consent to any person for the manufacture or use of its work
+571 products on a royalty basis or for such other consideration as
+572 the board deems proper.
+573 (3) Take any action necessary, including legal action, to
+574 protect its work products against improper or unlawful use or
+575 infringement.
+Page 23 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+576 (4) Enforce the collection of any sums due the board for
+577 the manufacture or use of its work products by any other party.
+578 (5) Sell any of its work products and execute all
+579 instruments necessary to consummate any such sale.
+580 (6) Do all other acts necessary and proper for the
+581 execution of powers and duties provided under this section.
+582 Section 8. Paragraph (b) of subsection (5) of section
+583 215.473, Florida Statutes, is amended to read:
+584 215.473 Divestiture by the State Board of Administration;
+585 Sudan; Iran.—
+586 (5) EXPIRATION.—This section expires upon the occurrence
+587 of all of the following:
+588 (b) If both of the following occur, the board may no
+589 longer scrutinize companies according to subparagraph (1)(dd)4.;
+590 may no longer assemble the Scrutinized Companies with Activities
+591 in Iran Terrorism Sectors List; and shall cease engagement,
+592 investment prohibitions, and divestment:
+593 1. The Congress and President of the United States
+594 affirmatively and unambiguously state, by means including, but
+595 not limited to, legislation, executive order, or written
+596 certification from the President to Congress, that the
+597 government of Iran has ceased to acquire weapons of mass
+598 destruction and support international terrorism; and
+599 2. The United States revokes all sanctions imposed against
+600 the government of Iran.
+Page 24 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+601
+602 The board, on behalf of the public fund, may reinvest in such
+603 companies if such companies do not satisfy the criteria for
+604 inclusion in the Scrutinized Companies with Activities in Sudan
+605 List. The board, acting as a fiduciary in accordance with s.
+606 215.47(11) s. 215.47(10), shall monitor events relating to
+607 subparagraphs 1. and 2., and, upon finding that the conditions
+608 in subparagraph 1. or subparagraph 2. have occurred, the board
+609 shall report such finding at a quarterly meeting of its
+610 trustees. At each quarterly meeting of the trustees, the board
+611 shall report on the status of events relating to subparagraphs
+612 1. and 2.
+613 Section 9. Paragraph (b) of subsection (2) of section
+614 215.4735, Florida Statutes, is amended to read:
+615 215.4735 Prohibited foreign investments.—
+616 (2)
+617 (b) The board must:
+618 1. Initiate, no later than June 1, 2024, a review of all
+619 current direct holdings to determine which direct holdings, if
+620 any, include securities of a Chinese company.
+621 2. Develop, no later than September 1, 2024, a divestment
+622 plan for all direct holdings in Chinese companies. The
+623 divestment plan must be developed and implemented consistent
+624 with the fiduciary standards set forth in s. 215.47(11) s.
+625 215.47(10).
+Page 25 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+626 3. Complete divestment from direct holdings in Chinese
+627 companies included in the divestment plan developed pursuant to
+628 subparagraph 2. no later than September 1, 2025, or at such
+629 later time if necessary for the board to implement the
+630 divestment plan consistent with the fiduciary standards set
+631 forth in s. 215.47(11) s. 215.47(10).
+632 Section 10.10. Subsection (1) of section 215.475, Florida
+633 Statutes, is amended to read:
+634 215.475 Investment policy statement.—
+635 (1) In making investments for the System Trust Fund
+636 pursuant to ss. 215.44-215.53, the board shall make no
+637 investment which is not in conformance with the Florida
+638 Retirement System Defined Benefit Plan Investment Policy
+639 Statement, hereinafter referred to as "the IPS," as developed by
+640 the executive director and approved by the board. The IPS must
+641 comply with s. 215.47(11) s. 215.47(10) and include, among other
+642 items, the investment objectives of the System Trust Fund;
+643 permitted types of securities in which the board may invest; and
+644 evaluation criteria necessary to measure the investment
+645 performance of the fund. As required from time to time, the
+646 executive director of the board may present recommended changes
+647 in the IPS to the board for approval.
+648 Section 11. Paragraph (b) of subsection (1) of section
+649 215.4755, Florida Statutes, is amended to read:
+650 215.4755 Certification and disclosure requirements for
+Page 26 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+651 investment advisers and managers.—
+652 (1) An investment adviser or manager who has discretionary
+653 investment authority for direct holdings and who is retained as
+654 provided in s. 215.44(2)(b) shall agree pursuant to contract to
+655 annually certify in writing to the board that:
+656 (b) All investment decisions made on behalf of the trust
+657 funds and the board are made based solely on pecuniary factors
+658 as defined in s. 215.47(11)(a) s. 215.47(10)(a) and do not
+659 subordinate the interests of the participants and beneficiaries
+660 of the funds to other objectives, including sacrificing
+661 investment return or undertaking additional investment risk to
+662 promote any nonpecuniary factor. This paragraph applies to any
+663 contract executed, amended, or renewed on or after July 1, 2023.
+664 Section 12. Subsection (4) of section 215.50, Florida
+665 Statutes, is amended to read:
+666 215.50 Custody of securities purchased; income.—
+667 (4) Securities that the board selects to use for options
+668 operations under s. 215.45 or for lending under s. 215.47(18) s.
+669 215.47(17) shall be registered by the Chief Financial Officer in
+670 the name of a third-party nominee in order to facilitate such
+671 operations.
+672 Section 13. Paragraph (a) of subsection (7) of section
+673 215.555, Florida Statutes, is amended to read:
+674 215.555 Florida Hurricane Catastrophe Fund.—
+675 (7) ADDITIONAL POWERS AND DUTIES.—
+Page 27 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+676 (a) The board may procure reinsurance from reinsurers
+677 acceptable to the Office of Insurance Regulation for the purpose
+678 of maximizing the capacity of the fund and may enter into
+679 capital market transactions, including, but not limited to,
+680 industry loss warranties, catastrophe bonds, side-car
+681 arrangements, or financial contracts permissible for the board's
+682 usage under s. 215.47(12) and (13) s. 215.47(11) and (12),
+683 consistent with prudent management of the fund.
+684 Section 14. Paragraph (a) of subsection (2) of section
+685 218.409, Florida Statutes, is amended to read:
+686 218.409 Administration of the trust fund.—
+687 (2)(a) The trustees shall ensure that the board or a
+688 professional money management firm administers the trust fund on
+689 behalf of the participants. The board or a professional money
+690 management firm shall have the power to invest such funds in
+691 accordance with a written investment policy. The investment
+692 policy shall be updated annually to conform to best investment
+693 practices. The standard of prudence to be used by investment
+694 officials shall be the fiduciary standards as set forth in s.
+695 215.47(11) s. 215.47(10), which shall be applied in the context
+696 of managing an overall portfolio. Portfolio managers acting in
+697 accordance with written procedures and an investment policy and
+698 exercising due diligence shall be relieved of personal
+699 responsibility for an individual security's credit risk or
+700 market price changes, provided deviations from expectations are
+Page 28 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+701 reported in a timely fashion and the liquidity and the sale of
+702 securities are carried out in accordance with the terms of this
+703 part.
+704 Section 15. Paragraph (e) of subsection (4) of section
+705 1002.36, Florida Statutes, is amended to read:
+706 1002.36 Florida School for the Deaf and the Blind.—
+707 (4) BOARD OF TRUSTEES.—
+708 (e) The board of trustees is invested with full power and
+709 authority to:
+710 1. Appoint a president, faculty, teachers, and other
+711 employees and remove the same as in its judgment may be best and
+712 fix their compensation.
+713 2. Procure professional services, such as medical, mental
+714 health, architectural, and engineering.
+715 3. Procure legal services without the prior written
+716 approval of the Attorney General.
+717 4. Determine eligibility of students and procedure for
+718 admission.
+719 5. Provide for the students of the school necessary
+720 bedding, clothing, food, and medical attendance and such other
+721 things as may be proper for the health and comfort of the
+722 students without cost to their parents, except that the board of
+723 trustees may set tuition and other fees for nonresidents.
+724 6. Provide for the proper keeping of accounts and records
+725 and for budgeting of funds.
+Page 29 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+726 7. Enter into contracts.
+727 8. Sue and be sued.
+728 9. Secure public liability insurance.
+729 10. Do and perform every other matter or thing requisite
+730 to the proper management, maintenance, support, and control of
+731 the school at the highest efficiency economically possible, the
+732 board of trustees taking into consideration the purposes of the
+733 establishment.
+734 11. Receive gifts, donations, and bequests of money or
+735 property, real or personal, tangible or intangible, from any
+736 person, firm, corporation, or other legal entity. However, the
+737 board of trustees may not obligate the state to any expenditure
+738 or policy that is not specifically authorized by law. If the
+739 bill of sale, will, trust indenture, deed, or other legal
+740 conveyance specifies terms and conditions concerning the use of
+741 such money or property, the board of trustees shall observe such
+742 terms and conditions.
+743 12. Deposit outside the State Treasury such moneys as are
+744 received as gifts, donations, or bequests and may disburse and
+745 expend such moneys, upon its own warrant, for the use and
+746 benefit of the Florida School for the Deaf and the Blind and its
+747 students, as the board of trustees deems to be in the best
+748 interest of the school and its students. Such money or property
+749 does not constitute and may not be considered a part of any
+750 legislative appropriation.
+Page 30 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 183 2026
+751 13. Sell or convey by bill of sale, deed, or other legal
+752 instrument any property, real or personal, received as a gift,
+753 donation, or bequest, upon such terms and conditions as the
+754 board of trustees deems to be in the best interest of the school
+755 and its students.
+756 14. Invest such moneys in securities enumerated under s.
+757 215.47(1), (2)(c), (3), (4), and (11) (10), and in The Common
+758 Fund, an Investment Management Fund exclusively for nonprofit
+759 educational institutions.
+760 15. After receiving approval from the Administration
+761 Commission, exercise the power of eminent domain in the manner
+762 provided in chapter 73 or chapter 74.
+763 Section 16. Subsection (13) of section 1002.395, Florida
+764 Statutes, is amended to read:
+765 1002.395 Florida Tax Credit Scholarship Program.—
+766 (13) DEPOSITS OF ELIGIBLE CONTRIBUTIONS.—All eligible
+767 contributions received by an eligible nonprofit scholarship-
+768 funding organization shall be deposited in a manner consistent
+769 with s. 17.57(3) s. 17.57(2).
+770 Section 17. This act shall take effect July 1, 2026.
+Page 31 of 31
+CODING: Words stricken are deletions; words underlined are additions.
+hb183-00
+
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A f p p q m d t r d b p t t a i i t p t h F a a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r O a f a t t U c C a d s f a o f p i 2 S a c s i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a 2 a p   W a O a s  W o i f e  W s a e S f  W s B t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  W S S S t a  W B g s w  W n t a  W B a  B S   1  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( r  ( r t p l  1 s c s f  2  3  4  5 r s f r  ( t u s  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES F h e a i i p  (  1 t U  2  a U c s a  b a  3 S a  4 o a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( w  1 S s d  2 S r q  ( c s f i b u  ( w F h f t r n]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES m r  ( a t  1 r l s  2 p  ( t h s s a  1  2  3 d  4 C  5 M]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  6 A  7 l n  8 a a R m a t t i r d  9 a o n h b o c  1]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A  1  1 q  1 n h b o c  1 g c U t  1 m a  1 b  1 a n o s]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t  1 i h t  1 f t r n  2 a s i s H r o  2 d i s H r i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  2 s t s  2 s  2 i o C  2  2  T b m a i i e r i i b c]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c c o  ( s r b E t s S f p i  ( t F p t  ( o b s l a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES j i t i i o  ( m c e S t r b C i a  ( s t m w  ( p C]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( f  1 m w  2 d  ( o D a S  ( s f  (  ( s a p p  ( t e  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r o s  ( d f  a  b  c a  d t a  e L  2 O m  ( s c  a c  b  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( u  c i C p b  2 p a t  a l t  b 2  T o t  3 d e b  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES s f v s t r o c wS   1 i  ( r e 2 a l s s p o u a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a s i b s h l a o p G p F n t sS   1  ( t f o  ( r]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES a r t  ( b  1  2  3 i C  ( " sS   2 s S f m  ( a  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES b  1  2  3 i C  ( b t a  ( " sS   2 e  ( p  ( sS   1 a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES w s r e m o  (  ( a i l r t ( (  ( p f w m p ( A r v]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES i a p o iS   2 B S d o t s b  ( p e  ( c p t  ( p i]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( t  ( i  ( eS   2 S  ( o  ( l m i i  1 a n c g d  2 t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  T c i L 2 s i s t s 1S   2  (  (  1 c a  2 p d w 2]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  3 c s l d fS   2  ( p i R S t c i p e p e iS   2]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES i  ( i p a  ( f a s o i p cS   2  ( o 2 t oS   2  (]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( a o c i a u cS   2  ( p b m a p p o 2 o a e r m]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES r s pS   1  (  ( a  1 e f  2 h  3 a  4 a  5 b t s t  6 a]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  7  8  9  1 t t b e  1 p p b o b c s t  1 r e b s i d l]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  1 i d b a  1 2 F e  1 C pS   1  ( c f wS  ]

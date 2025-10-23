@@ -1,0 +1,661 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 243 Filed
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+HB 243 2026
+1 A bill to be entitled
+2 An act relating to electric bicycles, scooters, and
+3 motorcycles; amending s. 316.003, F.S.; defining the
+4 term "electric motorcycle"; revising the definition of
+5 the term "motorcycle"; amending ss. 316.066 and
+6 316.068, F.S.; requiring certain crash reports to
+7 include specified information; amending s. 316.069,
+8 F.S.; requiring the state to maintain certain
+9 statistics; amending s. 316.20655, F.S.; providing
+10 penalties for knowingly modifying an electric bicycle;
+11 prohibiting a person from operating a class 3 electric
+12 bicycle without a certain license; providing
+13 requirements for such operation; providing penalties;
+14 amending s. 316.2085, F.S.; prohibiting certain
+15 persons from operating certain motorcycles; amending
+16 ss. 320.01 and 322.01, F.S.; revising the definition
+17 of the term "motorcycle"; amending s. 322.1615, F.S.;
+18 revising requirements for a certain learner's driver
+19 license education course; amending s. 322.12, F.S.;
+20 requiring a minimum number of questions in the test
+21 bank for a Class E driver license to cover safe
+22 electric bicycle and motorized scooter operation;
+23 amending ss. 316.306 and 655.960, F.S.; correcting
+24 cross-references; providing an effective date.
+25
+Page 1 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+26 Be It Enacted by the Legislature of the State of Florida:
+27
+28 Section 1. Subsections (24) through (112) of section
+29 316.003, Florida Statutes, are renumbered as subsections (25)
+30 through (113), respectively, present subsections (47) and (65)
+31 are amended, and a new subsection (24) is added to that section,
+32 to read:
+33 316.003 Definitions.—The following words and phrases, when
+34 used in this chapter, shall have the meanings respectively
+35 ascribed to them in this section, except where the context
+36 otherwise requires:
+37 (24) ELECTRIC MOTORCYCLE.—Any motorcycle powered by an
+38 electric motor of 750 watts or more that is capable of a speed
+39 greater than 28 miles per hour.
+40 (48)(47) MOTORCYCLE.—Any motor vehicle having a seat or
+41 saddle for the use of the rider and designed to travel on not
+42 more than three wheels in contact with the ground. The term
+43 includes an electric motorcycle and an autocycle, but does not
+44 include a tractor, a moped, an electric bicycle, or any vehicle
+45 in which the operator is enclosed by a cabin unless it meets the
+46 requirements set forth by the National Highway Traffic Safety
+47 Administration for a motorcycle.
+48 (66)(65) PRIVATE ROAD OR DRIVEWAY.—Except as otherwise
+49 provided in paragraph (91)(b) (90)(b), any privately owned way
+50 or place used for vehicular travel by the owner and those having
+Page 2 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+51 express or implied permission from the owner, but not by other
+52 persons.
+53 Section 2. Paragraphs (b) and (c) of subsection (1) of
+54 section 316.066, Florida Statutes, are amended to read:
+55 316.066 Written reports of crashes.—
+56 (1)
+57 (b) The Florida Traffic Crash Report, Long Form must
+58 include:
+59 1. The date, time, and location of the crash.
+60 2. A description of the vehicles involved, including
+61 whether the crash involved a motorized scooter, an electric
+62 bicycle, or an electric motorcycle.
+63 3. The names and addresses of the parties involved,
+64 including all drivers and passengers, and the identification of
+65 the vehicle in which each was a driver or a passenger.
+66 4. The names and addresses of witnesses.
+67 5. The name, badge number, and law enforcement agency of
+68 the officer investigating the crash.
+69 6. The names of the insurance companies for the respective
+70 parties involved in the crash.
+71 (c) In any crash for which a Florida Traffic Crash Report,
+72 Long Form is not required by this section and which occurs on
+73 the public roadways of this state, the law enforcement officer
+74 shall complete a short-form crash report or provide a driver
+75 exchange-of-information form, to be completed by all drivers and
+Page 3 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+76 passengers involved in the crash, which requires the
+77 identification of each vehicle that the drivers and passengers
+78 were in. The short-form report must include:
+79 1. The date, time, and location of the crash.
+80 2. A description of the vehicles involved, including
+81 whether the crash involved a motorized scooter, an electric
+82 bicycle, or an electric motorcycle.
+83 3. The names and addresses of the parties involved,
+84 including all drivers and passengers, and the identification of
+85 the vehicle in which each was a driver or a passenger.
+86 4. The names and addresses of witnesses.
+87 5. The name, badge number, and law enforcement agency of
+88 the officer investigating the crash.
+89 6. The names of the insurance companies for the respective
+90 parties involved in the crash.
+91 Section 3. Paragraph (b) of subsection (2) of section
+92 316.068, Florida Statutes, is amended to read:
+93 316.068 Crash report forms.—
+94 (2) Every crash report required to be made in writing must
+95 be made on the appropriate form approved by the department and
+96 must contain all the information required therein, including:
+97 (b) A description of the vehicles involved, including
+98 whether the crash involved a motorized scooter, an electric
+99 bicycle, or an electric motorcycle;
+100
+Page 4 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+101 unless not available. A member of a railroad train crew or a
+102 passenger on a railroad train is not a passenger for purposes of
+103 this section. In the event of a crash involving a railroad
+104 train, a member of the railroad train crew must furnish the
+105 information in paragraphs (a), (b), (c), and (e) and, upon
+106 request of the law enforcement officer having jurisdiction to
+107 investigate the crash, the railroad train engineer's or
+108 conductor's federal certification pursuant to 49 C.F.R. part 240
+109 or part 242. The absence of information in such written crash
+110 reports regarding the existence of passengers in the motor
+111 vehicles involved in the crash constitutes a rebuttable
+112 presumption that no such passengers were involved in the
+113 reported crash. Notwithstanding any other provisions of this
+114 section, a crash report produced electronically by a law
+115 enforcement officer must, at a minimum, contain the same
+116 information as is called for on those forms approved by the
+117 department.
+118 Section 4. Section 316.069, Florida Statutes, is amended
+119 to read:
+120 316.069 State to tabulate and analyze crash reports.—The
+121 state shall tabulate and may analyze all crash reports and shall
+122 publish, annually, or at more frequent intervals, statistical
+123 information based thereon as to the number and circumstances of
+124 traffic crashes. The state shall maintain separate statistics on
+125 the number and location of crashes involving tandem trailer
+Page 5 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+126 trucks, motorized scooters, electric bicycles, and electric
+127 motorcycles.
+128 Section 5. Subsections (3) and (4) of section 316.20655,
+129 Florida Statutes, are amended, and subsections (10) and (11) are
+130 added to that section, to read:
+131 316.20655 Electric bicycle regulations.—
+132 (3) Beginning January 1, 2021, Manufacturers and
+133 distributors of electric bicycles shall apply a label that is
+134 permanently affixed in a prominent location to each electric
+135 bicycle. The label must contain the classification number, top
+136 assisted speed, and motor wattage of the electric bicycle.
+137 (4) A person may not tamper with or modify an electric
+138 bicycle so as to change the motor-powered speed capability or
+139 engagement of an electric bicycle. Any person who knowingly
+140 modifies an electric bicycle as provided in this subsection
+141 commits a noncriminal traffic infraction, punishable by a fine
+142 of $100. Any person who commits a second or subsequent violation
+143 of this subsection within 3 years after a previous violation
+144 commits a noncriminal traffic infraction, punishable by a fine
+145 of $250, unless the label indicating the classification number
+146 required in subsection (3) is replaced after such modification.
+147 (10)(a) A person may not operate or rent a class 3
+148 electric bicycle unless he or she possesses a valid learner's
+149 driver license or driver license. An operator of a class 3
+150 electric bicycle must have his or her learner's driver license
+Page 6 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+151 or driver license on his or her immediate possession at all
+152 times when operating a class 3 electric bicycle and must present
+153 or submit the same upon demand of a law enforcement officer or
+154 an authorized representative of the department.
+155 (b) A person who fails to comply with paragraph (a) must
+156 first receive a verbal warning. Following the verbal warning, a
+157 person who fails to comply with paragraph (a) commits a
+158 noncriminal traffic infraction, punishable as a nonmoving
+159 violation as provided in chapter 318.
+160 (11) A person operating an electric bicycle on a shared
+161 pathway that is not located adjacent to a roadway, including a
+162 shared pathway located in a park or recreational area, must
+163 yield to pedestrians and must give an audible signal before
+164 overtaking and passing a pedestrian.
+165 Section 6. Paragraph (a) of subsection (6) of section
+166 316.2085, Florida Statutes, is amended to read:
+167 316.2085 Riding on motorcycles or mopeds.—
+168 (6) A person under 16 years of age may not:
+169 (a) Operate a motorcycle that has a motor with more than
+170 150 cubic centimeters displacement or an electric motor of 750
+171 watts or more.
+172 Section 7. Subsection (26) of section 320.01, Florida
+173 Statutes, is amended to read:
+174 320.01 Definitions, general.—As used in the Florida
+175 Statutes, except as otherwise provided, the term:
+Page 7 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+176 (26) "Motorcycle" means any motor vehicle having a seat or
+177 saddle for the use of the rider and designed to travel on not
+178 more than three wheels in contact with the ground. The term
+179 includes an electric motorcycle and an autocycle, as those terms
+180 are defined in s. 316.003, but excludes a tractor, a moped, or
+181 any vehicle in which the operator is enclosed by a cabin unless
+182 it meets the requirements set forth by the National Highway
+183 Traffic Safety Administration for a motorcycle.
+184 Section 8. Subsection (28) of section 322.01, Florida
+185 Statutes, is amended to read:
+186 322.01 Definitions.—As used in this chapter:
+187 (28) "Motorcycle" means a motor vehicle powered by a motor
+188 with a displacement of more than 50 cubic centimeters, having a
+189 seat or saddle for the use of the rider, and designed to travel
+190 on not more than three wheels in contact with the ground, but
+191 excluding a tractor, tri-vehicle, or moped. The term includes an
+192 electric motorcycle as defined in s. 316.003.
+193 Section 9. Paragraph (c) of subsection (1) of section
+194 322.1615, Florida Statutes, is amended to read:
+195 322.1615 Learner's driver license.—
+196 (1) The department may issue a learner's driver license to
+197 a person who is at least 15 years of age and who:
+198 (c) Has satisfactorily completed a driver education course
+199 approved by the department which meets or exceeds the Department
+200 of Education Driver Education/Traffic Safety-Classroom 1900300
+Page 8 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+201 course version description and which includes content on sharing
+202 the road with bicycles, including electric bicycles, motorized
+203 scooters, and other vulnerable road users; and
+204 Section 10. Paragraph (c) of subsection (3) of section
+205 322.12, Florida Statutes, is amended to read:
+206 322.12 Examination of applicants.—
+207 (3) For an applicant for a Class E driver license, such
+208 examination shall include all of the following:
+209 (c) A test of the applicant's ability to read and
+210 understand highway signs regulating, warning, and directing
+211 traffic; his or her knowledge of the traffic laws of this state,
+212 including laws regulating driving under the influence of alcohol
+213 or controlled substances, driving with an unlawful blood-alcohol
+214 level, and driving while intoxicated; and his or her knowledge
+215 of the effects of alcohol and controlled substances upon persons
+216 and the dangers of driving a motor vehicle while under the
+217 influence of alcohol or controlled substances. At least 25
+218 questions within the bank of test questions must address bicycle
+219 and pedestrian safety. At least five of the 25 questions
+220 addressing bicycle and pedestrian safety must specifically cover
+221 safe electric bicycle and motorized scooter operation for all
+222 road users.
+223 Section 11. Paragraph (a) of subsection (3) of section
+224 316.306, Florida Statutes, is amended to read:
+225 316.306 School and work zones; prohibition on the use of a
+Page 9 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+226 wireless communications device in a handheld manner.—
+227 (3)(a)1. A person may not operate a motor vehicle while
+228 using a wireless communications device in a handheld manner in a
+229 designated school crossing, school zone, or work zone area as
+230 defined in s. 316.003 s. 316.003(112). This subparagraph applies
+231 shall only be applicable to work zone areas if construction
+232 personnel are present or are operating equipment on the road or
+233 immediately adjacent to the work zone area. For the purposes of
+234 this paragraph, a motor vehicle that is stationary is not being
+235 operated and is not subject to the prohibition in this
+236 paragraph.
+237 2. Effective January 1, 2020, A law enforcement officer
+238 may stop motor vehicles and issue citations to persons who are
+239 driving while using a wireless communications device in a
+240 handheld manner in violation of subparagraph 1.
+241 Section 12. Subsection (1) of section 655.960, Florida
+242 Statutes, is amended to read:
+243 655.960 Definitions; ss. 655.960-655.965.—As used in this
+244 section and ss. 655.961-655.965, unless the context otherwise
+245 requires:
+246 (1) "Access area" means any paved walkway or sidewalk
+247 which is within 50 feet of any automated teller machine. The
+248 term does not include any street or highway open to the use of
+249 the public, as defined in s. 316.003(91)(a) or (b) s.
+250 316.003(90)(a) or (b), including any adjacent sidewalk, as
+Page 10 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+251 defined in s. 316.003.
+252 Section 13. This act shall take effect July 1, 2027.
+Page 11 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A m t t 3 i F s p p b r a p s o r l r b e a c ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES B S   3 u a o  ( e g  ( s m i i i r A  ( p o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES e pS   3  (  ( i  1  2 w b  3 i t  4  5 t  6 p  ( L t s e]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p i w  1  2 w b  3 i t  4  5 t  6 pS   3  ( b m  ( w b ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES u p t t i r i c o r v p r s e i dS   3 s p i t t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t mS   3  ( d p b a  ( b e m c o o c o r  ( e d e]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES o t o a  ( f p n v  ( p s y oS   3  (  ( 1 wS   3 S]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( s m i a a i TS   3  ( w s o e eS   3  ( a  ( a o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c t sS   3  ( e  ( u t i o l o a i q a a s rS   3]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES w  ( u d d s p i t o p  2 m d hS   6 s r  ( w t t 3]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES d   ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+1 A bill to be entitled
+2 An act relating to electric bicycles, scooters, and
+3 motorcycles; amending s. 316.003, F.S.; defining the
+4 term "electric motorcycle"; revising the definition of
+5 the term "motorcycle"; amending ss. 316.066 and
+6 316.068, F.S.; requiring certain crash reports to
+7 include specified information; amending s. 316.069,
+8 F.S.; requiring the state to maintain certain
+9 statistics; amending s. 316.20655, F.S.; providing
+10 penalties for knowingly modifying an electric bicycle;
+11 prohibiting a person from operating a class 3 electric
+12 bicycle without a certain license; providing
+13 requirements for such operation; providing penalties;
+14 amending s. 316.2085, F.S.; prohibiting certain
+15 persons from operating certain motorcycles; amending
+16 ss. 320.01 and 322.01, F.S.; revising the definition
+17 of the term "motorcycle"; amending s. 322.1615, F.S.;
+18 revising requirements for a certain learner's driver
+19 license education course; amending s. 322.12, F.S.;
+20 requiring a minimum number of questions in the test
+21 bank for a Class E driver license to cover safe
+22 electric bicycle and motorized scooter operation;
+23 amending ss. 316.306 and 655.960, F.S.; correcting
+24 cross-references; providing an effective date.
+25
+Page 1 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+26 Be It Enacted by the Legislature of the State of Florida:
+27
+28 Section 1. Subsections (24) through (112) of section
+29 316.003, Florida Statutes, are renumbered as subsections (25)
+30 through (113), respectively, present subsections (47) and (65)
+31 are amended, and a new subsection (24) is added to that section,
+32 to read:
+33 316.003 Definitions.—The following words and phrases, when
+34 used in this chapter, shall have the meanings respectively
+35 ascribed to them in this section, except where the context
+36 otherwise requires:
+37 (24) ELECTRIC MOTORCYCLE.—Any motorcycle powered by an
+38 electric motor of 750 watts or more that is capable of a speed
+39 greater than 28 miles per hour.
+40 (48)(47) MOTORCYCLE.—Any motor vehicle having a seat or
+41 saddle for the use of the rider and designed to travel on not
+42 more than three wheels in contact with the ground. The term
+43 includes an electric motorcycle and an autocycle, but does not
+44 include a tractor, a moped, an electric bicycle, or any vehicle
+45 in which the operator is enclosed by a cabin unless it meets the
+46 requirements set forth by the National Highway Traffic Safety
+47 Administration for a motorcycle.
+48 (66)(65) PRIVATE ROAD OR DRIVEWAY.—Except as otherwise
+49 provided in paragraph (91)(b) (90)(b), any privately owned way
+50 or place used for vehicular travel by the owner and those having
+Page 2 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+51 express or implied permission from the owner, but not by other
+52 persons.
+53 Section 2. Paragraphs (b) and (c) of subsection (1) of
+54 section 316.066, Florida Statutes, are amended to read:
+55 316.066 Written reports of crashes.—
+56 (1)
+57 (b) The Florida Traffic Crash Report, Long Form must
+58 include:
+59 1. The date, time, and location of the crash.
+60 2. A description of the vehicles involved, including
+61 whether the crash involved a motorized scooter, an electric
+62 bicycle, or an electric motorcycle.
+63 3. The names and addresses of the parties involved,
+64 including all drivers and passengers, and the identification of
+65 the vehicle in which each was a driver or a passenger.
+66 4. The names and addresses of witnesses.
+67 5. The name, badge number, and law enforcement agency of
+68 the officer investigating the crash.
+69 6. The names of the insurance companies for the respective
+70 parties involved in the crash.
+71 (c) In any crash for which a Florida Traffic Crash Report,
+72 Long Form is not required by this section and which occurs on
+73 the public roadways of this state, the law enforcement officer
+74 shall complete a short-form crash report or provide a driver
+75 exchange-of-information form, to be completed by all drivers and
+Page 3 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+76 passengers involved in the crash, which requires the
+77 identification of each vehicle that the drivers and passengers
+78 were in. The short-form report must include:
+79 1. The date, time, and location of the crash.
+80 2. A description of the vehicles involved, including
+81 whether the crash involved a motorized scooter, an electric
+82 bicycle, or an electric motorcycle.
+83 3. The names and addresses of the parties involved,
+84 including all drivers and passengers, and the identification of
+85 the vehicle in which each was a driver or a passenger.
+86 4. The names and addresses of witnesses.
+87 5. The name, badge number, and law enforcement agency of
+88 the officer investigating the crash.
+89 6. The names of the insurance companies for the respective
+90 parties involved in the crash.
+91 Section 3. Paragraph (b) of subsection (2) of section
+92 316.068, Florida Statutes, is amended to read:
+93 316.068 Crash report forms.—
+94 (2) Every crash report required to be made in writing must
+95 be made on the appropriate form approved by the department and
+96 must contain all the information required therein, including:
+97 (b) A description of the vehicles involved, including
+98 whether the crash involved a motorized scooter, an electric
+99 bicycle, or an electric motorcycle;
+100
+Page 4 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+101 unless not available. A member of a railroad train crew or a
+102 passenger on a railroad train is not a passenger for purposes of
+103 this section. In the event of a crash involving a railroad
+104 train, a member of the railroad train crew must furnish the
+105 information in paragraphs (a), (b), (c), and (e) and, upon
+106 request of the law enforcement officer having jurisdiction to
+107 investigate the crash, the railroad train engineer's or
+108 conductor's federal certification pursuant to 49 C.F.R. part 240
+109 or part 242. The absence of information in such written crash
+110 reports regarding the existence of passengers in the motor
+111 vehicles involved in the crash constitutes a rebuttable
+112 presumption that no such passengers were involved in the
+113 reported crash. Notwithstanding any other provisions of this
+114 section, a crash report produced electronically by a law
+115 enforcement officer must, at a minimum, contain the same
+116 information as is called for on those forms approved by the
+117 department.
+118 Section 4. Section 316.069, Florida Statutes, is amended
+119 to read:
+120 316.069 State to tabulate and analyze crash reports.—The
+121 state shall tabulate and may analyze all crash reports and shall
+122 publish, annually, or at more frequent intervals, statistical
+123 information based thereon as to the number and circumstances of
+124 traffic crashes. The state shall maintain separate statistics on
+125 the number and location of crashes involving tandem trailer
+Page 5 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+126 trucks, motorized scooters, electric bicycles, and electric
+127 motorcycles.
+128 Section 5. Subsections (3) and (4) of section 316.20655,
+129 Florida Statutes, are amended, and subsections (10) and (11) are
+130 added to that section, to read:
+131 316.20655 Electric bicycle regulations.—
+132 (3) Beginning January 1, 2021, Manufacturers and
+133 distributors of electric bicycles shall apply a label that is
+134 permanently affixed in a prominent location to each electric
+135 bicycle. The label must contain the classification number, top
+136 assisted speed, and motor wattage of the electric bicycle.
+137 (4) A person may not tamper with or modify an electric
+138 bicycle so as to change the motor-powered speed capability or
+139 engagement of an electric bicycle. Any person who knowingly
+140 modifies an electric bicycle as provided in this subsection
+141 commits a noncriminal traffic infraction, punishable by a fine
+142 of $100. Any person who commits a second or subsequent violation
+143 of this subsection within 3 years after a previous violation
+144 commits a noncriminal traffic infraction, punishable by a fine
+145 of $250, unless the label indicating the classification number
+146 required in subsection (3) is replaced after such modification.
+147 (10)(a) A person may not operate or rent a class 3
+148 electric bicycle unless he or she possesses a valid learner's
+149 driver license or driver license. An operator of a class 3
+150 electric bicycle must have his or her learner's driver license
+Page 6 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+151 or driver license on his or her immediate possession at all
+152 times when operating a class 3 electric bicycle and must present
+153 or submit the same upon demand of a law enforcement officer or
+154 an authorized representative of the department.
+155 (b) A person who fails to comply with paragraph (a) must
+156 first receive a verbal warning. Following the verbal warning, a
+157 person who fails to comply with paragraph (a) commits a
+158 noncriminal traffic infraction, punishable as a nonmoving
+159 violation as provided in chapter 318.
+160 (11) A person operating an electric bicycle on a shared
+161 pathway that is not located adjacent to a roadway, including a
+162 shared pathway located in a park or recreational area, must
+163 yield to pedestrians and must give an audible signal before
+164 overtaking and passing a pedestrian.
+165 Section 6. Paragraph (a) of subsection (6) of section
+166 316.2085, Florida Statutes, is amended to read:
+167 316.2085 Riding on motorcycles or mopeds.—
+168 (6) A person under 16 years of age may not:
+169 (a) Operate a motorcycle that has a motor with more than
+170 150 cubic centimeters displacement or an electric motor of 750
+171 watts or more.
+172 Section 7. Subsection (26) of section 320.01, Florida
+173 Statutes, is amended to read:
+174 320.01 Definitions, general.—As used in the Florida
+175 Statutes, except as otherwise provided, the term:
+Page 7 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+176 (26) "Motorcycle" means any motor vehicle having a seat or
+177 saddle for the use of the rider and designed to travel on not
+178 more than three wheels in contact with the ground. The term
+179 includes an electric motorcycle and an autocycle, as those terms
+180 are defined in s. 316.003, but excludes a tractor, a moped, or
+181 any vehicle in which the operator is enclosed by a cabin unless
+182 it meets the requirements set forth by the National Highway
+183 Traffic Safety Administration for a motorcycle.
+184 Section 8. Subsection (28) of section 322.01, Florida
+185 Statutes, is amended to read:
+186 322.01 Definitions.—As used in this chapter:
+187 (28) "Motorcycle" means a motor vehicle powered by a motor
+188 with a displacement of more than 50 cubic centimeters, having a
+189 seat or saddle for the use of the rider, and designed to travel
+190 on not more than three wheels in contact with the ground, but
+191 excluding a tractor, tri-vehicle, or moped. The term includes an
+192 electric motorcycle as defined in s. 316.003.
+193 Section 9. Paragraph (c) of subsection (1) of section
+194 322.1615, Florida Statutes, is amended to read:
+195 322.1615 Learner's driver license.—
+196 (1) The department may issue a learner's driver license to
+197 a person who is at least 15 years of age and who:
+198 (c) Has satisfactorily completed a driver education course
+199 approved by the department which meets or exceeds the Department
+200 of Education Driver Education/Traffic Safety-Classroom 1900300
+Page 8 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+201 course version description and which includes content on sharing
+202 the road with bicycles, including electric bicycles, motorized
+203 scooters, and other vulnerable road users; and
+204 Section 10. Paragraph (c) of subsection (3) of section
+205 322.12, Florida Statutes, is amended to read:
+206 322.12 Examination of applicants.—
+207 (3) For an applicant for a Class E driver license, such
+208 examination shall include all of the following:
+209 (c) A test of the applicant's ability to read and
+210 understand highway signs regulating, warning, and directing
+211 traffic; his or her knowledge of the traffic laws of this state,
+212 including laws regulating driving under the influence of alcohol
+213 or controlled substances, driving with an unlawful blood-alcohol
+214 level, and driving while intoxicated; and his or her knowledge
+215 of the effects of alcohol and controlled substances upon persons
+216 and the dangers of driving a motor vehicle while under the
+217 influence of alcohol or controlled substances. At least 25
+218 questions within the bank of test questions must address bicycle
+219 and pedestrian safety. At least five of the 25 questions
+220 addressing bicycle and pedestrian safety must specifically cover
+221 safe electric bicycle and motorized scooter operation for all
+222 road users.
+223 Section 11. Paragraph (a) of subsection (3) of section
+224 316.306, Florida Statutes, is amended to read:
+225 316.306 School and work zones; prohibition on the use of a
+Page 9 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+226 wireless communications device in a handheld manner.—
+227 (3)(a)1. A person may not operate a motor vehicle while
+228 using a wireless communications device in a handheld manner in a
+229 designated school crossing, school zone, or work zone area as
+230 defined in s. 316.003 s. 316.003(112). This subparagraph applies
+231 shall only be applicable to work zone areas if construction
+232 personnel are present or are operating equipment on the road or
+233 immediately adjacent to the work zone area. For the purposes of
+234 this paragraph, a motor vehicle that is stationary is not being
+235 operated and is not subject to the prohibition in this
+236 paragraph.
+237 2. Effective January 1, 2020, A law enforcement officer
+238 may stop motor vehicles and issue citations to persons who are
+239 driving while using a wireless communications device in a
+240 handheld manner in violation of subparagraph 1.
+241 Section 12. Subsection (1) of section 655.960, Florida
+242 Statutes, is amended to read:
+243 655.960 Definitions; ss. 655.960-655.965.—As used in this
+244 section and ss. 655.961-655.965, unless the context otherwise
+245 requires:
+246 (1) "Access area" means any paved walkway or sidewalk
+247 which is within 50 feet of any automated teller machine. The
+248 term does not include any street or highway open to the use of
+249 the public, as defined in s. 316.003(91)(a) or (b) s.
+250 316.003(90)(a) or (b), including any adjacent sidewalk, as
+Page 10 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 243 2026
+251 defined in s. 316.003.
+252 Section 13. This act shall take effect July 1, 2027.
+Page 11 of 11
+CODING: Words stricken are deletions; words underlined are additions.
+hb243-00
+
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A m t t 3 i F s p p b r a p s o r l r b e a c ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES B S   3 u a o  ( e g  ( s m i i i r A  ( p o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES e pS   3  (  ( i  1  2 w b  3 i t  4  5 t  6 p  ( L t s e]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES p i w  1  2 w b  3 i t  4  5 t  6 pS   3  ( b m  ( w b ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES u p t t i r i c o r v p r s e i dS   3 s p i t t]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES t mS   3  ( d p b a  ( b e m c o o c o r  ( e d e]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES o t o a  ( f p n v  ( p s y oS   3  (  ( 1 wS   3 S]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES  ( s m i a a i TS   3  ( w s o e eS   3  ( a  ( a o]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c t sS   3  ( e  ( u t i o l o a i q a a s rS   3]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES w  ( u d d s p i t o p  2 m d hS   6 s r  ( w t t 3]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES d   ]

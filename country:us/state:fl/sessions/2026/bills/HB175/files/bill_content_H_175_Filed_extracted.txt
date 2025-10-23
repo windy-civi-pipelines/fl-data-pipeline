@@ -1,0 +1,248 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 175 Filed
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+HB 175 2026
+1 A bill to be entitled
+2 An act relating to issuers of digital assets; amending
+3 s. 560.103, F.S.; providing definitions; creating s.
+4 560.2053, F.S.; providing requirements to qualify as
+5 recognized payment stablecoin issuers; providing that
+6 recognized payment stablecoin issuers are not required
+7 to obtain specified separate licenses or registration
+8 for certain purposes; providing violations and
+9 penalties; providing that the Office of Financial
+10 Regulation of the Financial Services Commission has
+11 jurisdiction to determine certain compliance;
+12 authorizing the office to bring actions under certain
+13 enforcement provisions; providing an effective date.
+14
+15 Be It Enacted by the Legislature of the State of Florida:
+16
+17 Section 1. Subsections (31), (32), (33), (34), (35), and
+18 (36) of section 560.103, Florida Statutes, are renumbered as
+19 subsections (32), (33), (34), (36), (37), and (38),
+20 respectively, and new subsections (31) and (35) are added to
+21 that section, to read:
+22 560.103 Definitions.—As used in this chapter, the term:
+23 (31)(a) "Payment stablecoin" means a stablecoin that meets
+24 all of the following requirements:
+25 1. Is fully backed by reserve assets limited to United
+Page 1 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 175 2026
+26 States currency, demand deposits at insured depository
+27 institutions, United States Treasury bills having a remaining
+28 maturity of 90 days or less, or reverse repurchase agreements
+29 collateralized by such treasury bills.
+30 2. Is redeemable by the issuer or its agent at all times
+31 at a 1-to-1 ratio for United States dollars.
+32 3. Does not pay interest or dividend to holders.
+33 4. Meets any additional criteria for a permitted payment
+34 stablecoin under federal law, including the GENIUS Act of 2025.
+35 (b) The term does not include a central bank digital
+36 currency issued directly or indirectly by a central bank,
+37 monetary authority, or other governmental agency, whether
+38 foreign or domestic. The term is not a security, as defined in
+39 s. 517.021.
+40 (c) As used in this subsection, the term "stablecoin"
+41 means a digital asset designed, through collateralization,
+42 algorithmic mechanisms, or both, to maintain a stable value
+43 relative to one or more fiat currencies, commodities, or other
+44 reference assets. As used in this paragraph, the term "digital
+45 asset":
+46 1. Means a controllable electronic record, as defined in
+47 s. 669.102(1), capable of being held or transferred
+48 electronically and representing economic, proprietary, or access
+49 rights.
+50 2. Includes virtual currency, digital commodities, digital
+Page 2 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 175 2026
+51 asset securities, and non-fungible tokens. As used in this
+52 subparagraph, the term "non-fungible token" means a digital
+53 asset that represents unique ownership rights to a particular
+54 item or content and is not interchangeable on a one-for-one
+55 basis with other tokens of the same type.
+56 (35) "Recognized payment stablecoin issuer" means a person
+57 that meets the requirements of s. 560.2053.
+58 Section 2. Section 560.2053, Florida Statutes, is created
+59 to read:
+60 560.2053 Recognized payment stablecoin issuers; safe
+61 harbor.—
+62 (1) A person is a recognized payment stablecoin issuer in
+63 this state if the person meets and maintains the requirements of
+64 subsection (2) at all times. A recognized payment stablecoin
+65 issuer is not required to obtain a separate license or
+66 registration under this chapter solely to issue or redeem
+67 payment stablecoins.
+68 (2) To qualify as a recognized payment stablecoin issuer,
+69 a person must meet all of the following requirements:
+70 (a) Maintain reserve assets described in s.
+71 560.103(31)(a)1. in an amount equal to or greater than the
+72 aggregate outstanding payment stablecoins.
+73 (b) Redeem payment stablecoins at par value upon demand by
+74 a holder.
+75 (c) Prohibit the lending, pledging, or encumbrance of
+Page 3 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 175 2026
+76 reserve assets.
+77 (d) Publicly disclose, at least monthly, the composition
+78 and value of reserve assets. Each disclosure must be published
+79 in a report that has been examined by a registered public
+80 accounting firm and certified by the issuer's chief executive
+81 officer and chief financial officer, consistent with the
+82 requirements of the federal GENIUS Act of 2025.
+83 (3) A person that knowingly represents itself as a
+84 recognized payment stablecoin issuer without meeting the
+85 requirements of this section violates this chapter and is
+86 subject to the disciplinary and enforcement provisions of part I
+87 of this chapter.
+88 (4) The office has jurisdiction to determine compliance
+89 with this section and may bring an action under the enforcement
+90 provisions of this chapter.
+91 Section 3. This act shall take effect July 1, 2026.
+Page 4 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES A A s 5 r r t f p R j a e  B S   5  ( a  1]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES S i m c  2 a  3  4 s  ( c m f s  ( m a r r a  1 s e r  2]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES a s a i b  ( tS   5 h  ( t s i r p  ( a  ( 5 a  ( a  (]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES r  ( a i a o r  ( r r s o  ( w pS  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 175 2026
+1 A bill to be entitled
+2 An act relating to issuers of digital assets; amending
+3 s. 560.103, F.S.; providing definitions; creating s.
+4 560.2053, F.S.; providing requirements to qualify as
+5 recognized payment stablecoin issuers; providing that
+6 recognized payment stablecoin issuers are not required
+7 to obtain specified separate licenses or registration
+8 for certain purposes; providing violations and
+9 penalties; providing that the Office of Financial
+10 Regulation of the Financial Services Commission has
+11 jurisdiction to determine certain compliance;
+12 authorizing the office to bring actions under certain
+13 enforcement provisions; providing an effective date.
+14
+15 Be It Enacted by the Legislature of the State of Florida:
+16
+17 Section 1. Subsections (31), (32), (33), (34), (35), and
+18 (36) of section 560.103, Florida Statutes, are renumbered as
+19 subsections (32), (33), (34), (36), (37), and (38),
+20 respectively, and new subsections (31) and (35) are added to
+21 that section, to read:
+22 560.103 Definitions.—As used in this chapter, the term:
+23 (31)(a) "Payment stablecoin" means a stablecoin that meets
+24 all of the following requirements:
+25 1. Is fully backed by reserve assets limited to United
+Page 1 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 175 2026
+26 States currency, demand deposits at insured depository
+27 institutions, United States Treasury bills having a remaining
+28 maturity of 90 days or less, or reverse repurchase agreements
+29 collateralized by such treasury bills.
+30 2. Is redeemable by the issuer or its agent at all times
+31 at a 1-to-1 ratio for United States dollars.
+32 3. Does not pay interest or dividend to holders.
+33 4. Meets any additional criteria for a permitted payment
+34 stablecoin under federal law, including the GENIUS Act of 2025.
+35 (b) The term does not include a central bank digital
+36 currency issued directly or indirectly by a central bank,
+37 monetary authority, or other governmental agency, whether
+38 foreign or domestic. The term is not a security, as defined in
+39 s. 517.021.
+40 (c) As used in this subsection, the term "stablecoin"
+41 means a digital asset designed, through collateralization,
+42 algorithmic mechanisms, or both, to maintain a stable value
+43 relative to one or more fiat currencies, commodities, or other
+44 reference assets. As used in this paragraph, the term "digital
+45 asset":
+46 1. Means a controllable electronic record, as defined in
+47 s. 669.102(1), capable of being held or transferred
+48 electronically and representing economic, proprietary, or access
+49 rights.
+50 2. Includes virtual currency, digital commodities, digital
+Page 2 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 175 2026
+51 asset securities, and non-fungible tokens. As used in this
+52 subparagraph, the term "non-fungible token" means a digital
+53 asset that represents unique ownership rights to a particular
+54 item or content and is not interchangeable on a one-for-one
+55 basis with other tokens of the same type.
+56 (35) "Recognized payment stablecoin issuer" means a person
+57 that meets the requirements of s. 560.2053.
+58 Section 2. Section 560.2053, Florida Statutes, is created
+59 to read:
+60 560.2053 Recognized payment stablecoin issuers; safe
+61 harbor.—
+62 (1) A person is a recognized payment stablecoin issuer in
+63 this state if the person meets and maintains the requirements of
+64 subsection (2) at all times. A recognized payment stablecoin
+65 issuer is not required to obtain a separate license or
+66 registration under this chapter solely to issue or redeem
+67 payment stablecoins.
+68 (2) To qualify as a recognized payment stablecoin issuer,
+69 a person must meet all of the following requirements:
+70 (a) Maintain reserve assets described in s.
+71 560.103(31)(a)1. in an amount equal to or greater than the
+72 aggregate outstanding payment stablecoins.
+73 (b) Redeem payment stablecoins at par value upon demand by
+74 a holder.
+75 (c) Prohibit the lending, pledging, or encumbrance of
+Page 3 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 175 2026
+76 reserve assets.
+77 (d) Publicly disclose, at least monthly, the composition
+78 and value of reserve assets. Each disclosure must be published
+79 in a report that has been examined by a registered public
+80 accounting firm and certified by the issuer's chief executive
+81 officer and chief financial officer, consistent with the
+82 requirements of the federal GENIUS Act of 2025.
+83 (3) A person that knowingly represents itself as a
+84 recognized payment stablecoin issuer without meeting the
+85 requirements of this section violates this chapter and is
+86 subject to the disciplinary and enforcement provisions of part I
+87 of this chapter.
+88 (4) The office has jurisdiction to determine compliance
+89 with this section and may bring an action under the enforcement
+90 provisions of this chapter.
+91 Section 3. This act shall take effect July 1, 2026.
+Page 4 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-00
+
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES A A s 5 r r t f p R j a e  B S   5  ( a  1]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES S i m c  2 a  3  4 s  ( c m f s  ( m a r r a  1 s e r  2]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES a s a i b  ( tS   5 h  ( t s i r p  ( a  ( 5 a  ( a  (]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES r  ( a i a o r  ( r r s o  ( w pS  ]

@@ -1,0 +1,297 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 73 Filed
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+HB 73 2026
+1 A bill to be entitled
+2 An act relating to restoration of voting rights
+3 database; amending s. 20.32, F.S.; requiring the
+4 Florida Commission on Offender Review to develop and
+5 maintain a database containing certain information for
+6 a certain purpose; requiring certain governmental
+7 entities to provide certain information to the
+8 commission on a monthly basis; requiring the
+9 Department of Management Services, acting through the
+10 Florida Digital Service, to provide certain technical
+11 assistance to the commission; authorizing the
+12 department to adopt rules; requiring the commission to
+13 make available to the public the database on an
+14 Internet website by a date certain; requiring the
+15 commission to update the database monthly and publish
+16 certain information on the website; requiring the
+17 commission to provide to the Governor and Legislature
+18 a comprehensive plan by a date certain; providing
+19 requirements for the comprehensive plan; providing
+20 that a person who takes certain actions in reasonable
+21 reliance on the database may not be charged with
+22 certain violations of criminal law; requiring the
+23 commission to adopt rules; providing an effective
+24 date.
+25
+Page 1 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+26 Be It Enacted by the Legislature of the State of Florida:
+27
+28 Section 1. Subsection (4) is added to section 20.32,
+29 Florida Statutes, to read:
+30 20.32 Florida Commission on Offender Review.—
+31 (4)(a) For the purpose of assisting a person who has been
+32 disqualified from voting based on a felony conviction other than
+33 murder or a felony sexual offense in determining whether he or
+34 she has met the requirements under s. 98.0751 and had his or her
+35 voting rights restored pursuant to s. 4, Art. VI of the State
+36 Constitution, the commission shall develop and maintain a
+37 database that contains for each such person all of the following
+38 information:
+39 1. His or her name and any other personal identifying
+40 information.
+41 2. The remaining length of any term of supervision,
+42 including, but not limited to, probation, community control, or
+43 parole, ordered by a court as a part of his or her sentence.
+44 3. The remaining amount of any restitution owed to a
+45 victim as ordered by a court as a part of his or her sentence.
+46 4. The remaining amount due of any fines or fees that were
+47 initially ordered by a court as a part of his or her sentence or
+48 as a condition of any form of supervision, including, but not
+49 limited to, probation, community control, or parole.
+50 5. The completion status of any other term ordered by a
+Page 2 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+51 court as a part of his or her sentence.
+52 6. Any other information needed to determine whether he or
+53 she has met the requirements for restoration of voting rights
+54 under s. 98.0751.
+55 (b) Each month, the Department of State, the Department of
+56 Corrections, the clerks of the circuit courts, the county
+57 comptrollers, and the Board of Executive Clemency shall provide
+58 to the commission any information held by such governmental
+59 entity which is required under paragraph (a).
+60 (c) The Department of Management Services, acting through
+61 the Florida Digital Service, shall provide any technical
+62 assistance necessary for the commission to develop and maintain
+63 the database. The Department of Management Services may adopt
+64 rules to provide such assistance.
+65 (d) By July 1, 2029, the commission shall make available
+66 to the public the database on an Internet website. The
+67 commission must update the database monthly with the information
+68 received under paragraph (b). The commission shall publish on
+69 the website clear instructions that a person who has been
+70 disqualified from voting based on a felony conviction other than
+71 murder or a felony sexual offense may follow to have his or her
+72 voting rights restored and to register to vote.
+73 (e) By July 1, 2027, the commission shall provide to the
+74 Governor, the President of the Senate, and the Speaker of the
+75 House of Representatives a comprehensive plan that includes the
+Page 3 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+76 following:
+77 1. The governmental entities from which and the methods by
+78 which the commission shall collect, centralize, analyze, and
+79 secure the information required to be included in the database.
+80 2. A description of any infrastructure and services,
+81 including, but not limited to, software, hardware, and
+82 information technology services, that may be necessary to create
+83 and maintain the database.
+84 3. The anticipated number of additional employees
+85 necessary for:
+86 a. The commission to develop and maintain the database.
+87 b. A governmental entity to provide the information
+88 required under paragraph (b).
+89 c. The Florida Digital Service to provide the assistance
+90 required under paragraph (c).
+91 4. The anticipated cost to initially develop the database,
+92 annual cost to maintain the database, and annual appropriation
+93 required to fund the anticipated costs of the commission, each
+94 governmental entity, and the Florida Digital Service.
+95 5. Any legal authority necessary for the commission to
+96 develop and maintain the database.
+97 6. Prepare proposed legislation to implement the
+98 comprehensive plan.
+99 (f) Notwithstanding any law to the contrary, a person who
+100 registers to vote or who votes in reasonable reliance on
+Page 4 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+101 information contained in the database indicating that his or her
+102 voting rights have been restored pursuant to s. 4, Art. VI of
+103 the State Constitution has an affirmative right to register and
+104 to vote and may not be charged with a violation of any criminal
+105 law of this state relating to fraudulently voting or registering
+106 to vote.
+107 (g) The commission shall adopt rules to implement this
+108 subsection.
+109 Section 2. This act shall take effect July 1, 2026.
+Page 5 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A d F m a e c D F a d m I c c c a r t r c c d ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES B S   2  ( d m s v C d i  1 i  2 i p  3 v  4 i a l  5]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c  6 s u  ( C c t e  ( t a t r  ( t c r t d m v  ( G H]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES f  1 w s  2 i i a  3 n  a  b r  c r  4 a r g  5 d  6 c  ( r]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES i v t t l t  ( sS  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+1 A bill to be entitled
+2 An act relating to restoration of voting rights
+3 database; amending s. 20.32, F.S.; requiring the
+4 Florida Commission on Offender Review to develop and
+5 maintain a database containing certain information for
+6 a certain purpose; requiring certain governmental
+7 entities to provide certain information to the
+8 commission on a monthly basis; requiring the
+9 Department of Management Services, acting through the
+10 Florida Digital Service, to provide certain technical
+11 assistance to the commission; authorizing the
+12 department to adopt rules; requiring the commission to
+13 make available to the public the database on an
+14 Internet website by a date certain; requiring the
+15 commission to update the database monthly and publish
+16 certain information on the website; requiring the
+17 commission to provide to the Governor and Legislature
+18 a comprehensive plan by a date certain; providing
+19 requirements for the comprehensive plan; providing
+20 that a person who takes certain actions in reasonable
+21 reliance on the database may not be charged with
+22 certain violations of criminal law; requiring the
+23 commission to adopt rules; providing an effective
+24 date.
+25
+Page 1 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+26 Be It Enacted by the Legislature of the State of Florida:
+27
+28 Section 1. Subsection (4) is added to section 20.32,
+29 Florida Statutes, to read:
+30 20.32 Florida Commission on Offender Review.—
+31 (4)(a) For the purpose of assisting a person who has been
+32 disqualified from voting based on a felony conviction other than
+33 murder or a felony sexual offense in determining whether he or
+34 she has met the requirements under s. 98.0751 and had his or her
+35 voting rights restored pursuant to s. 4, Art. VI of the State
+36 Constitution, the commission shall develop and maintain a
+37 database that contains for each such person all of the following
+38 information:
+39 1. His or her name and any other personal identifying
+40 information.
+41 2. The remaining length of any term of supervision,
+42 including, but not limited to, probation, community control, or
+43 parole, ordered by a court as a part of his or her sentence.
+44 3. The remaining amount of any restitution owed to a
+45 victim as ordered by a court as a part of his or her sentence.
+46 4. The remaining amount due of any fines or fees that were
+47 initially ordered by a court as a part of his or her sentence or
+48 as a condition of any form of supervision, including, but not
+49 limited to, probation, community control, or parole.
+50 5. The completion status of any other term ordered by a
+Page 2 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+51 court as a part of his or her sentence.
+52 6. Any other information needed to determine whether he or
+53 she has met the requirements for restoration of voting rights
+54 under s. 98.0751.
+55 (b) Each month, the Department of State, the Department of
+56 Corrections, the clerks of the circuit courts, the county
+57 comptrollers, and the Board of Executive Clemency shall provide
+58 to the commission any information held by such governmental
+59 entity which is required under paragraph (a).
+60 (c) The Department of Management Services, acting through
+61 the Florida Digital Service, shall provide any technical
+62 assistance necessary for the commission to develop and maintain
+63 the database. The Department of Management Services may adopt
+64 rules to provide such assistance.
+65 (d) By July 1, 2029, the commission shall make available
+66 to the public the database on an Internet website. The
+67 commission must update the database monthly with the information
+68 received under paragraph (b). The commission shall publish on
+69 the website clear instructions that a person who has been
+70 disqualified from voting based on a felony conviction other than
+71 murder or a felony sexual offense may follow to have his or her
+72 voting rights restored and to register to vote.
+73 (e) By July 1, 2027, the commission shall provide to the
+74 Governor, the President of the Senate, and the Speaker of the
+75 House of Representatives a comprehensive plan that includes the
+Page 3 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+76 following:
+77 1. The governmental entities from which and the methods by
+78 which the commission shall collect, centralize, analyze, and
+79 secure the information required to be included in the database.
+80 2. A description of any infrastructure and services,
+81 including, but not limited to, software, hardware, and
+82 information technology services, that may be necessary to create
+83 and maintain the database.
+84 3. The anticipated number of additional employees
+85 necessary for:
+86 a. The commission to develop and maintain the database.
+87 b. A governmental entity to provide the information
+88 required under paragraph (b).
+89 c. The Florida Digital Service to provide the assistance
+90 required under paragraph (c).
+91 4. The anticipated cost to initially develop the database,
+92 annual cost to maintain the database, and annual appropriation
+93 required to fund the anticipated costs of the commission, each
+94 governmental entity, and the Florida Digital Service.
+95 5. Any legal authority necessary for the commission to
+96 develop and maintain the database.
+97 6. Prepare proposed legislation to implement the
+98 comprehensive plan.
+99 (f) Notwithstanding any law to the contrary, a person who
+100 registers to vote or who votes in reasonable reliance on
+Page 4 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 73 2026
+101 information contained in the database indicating that his or her
+102 voting rights have been restored pursuant to s. 4, Art. VI of
+103 the State Constitution has an affirmative right to register and
+104 to vote and may not be charged with a violation of any criminal
+105 law of this state relating to fraudulently voting or registering
+106 to vote.
+107 (g) The commission shall adopt rules to implement this
+108 subsection.
+109 Section 2. This act shall take effect July 1, 2026.
+Page 5 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb73-00
+
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES A A d F m a e c D F a d m I c c c a r t r c c d ]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES B S   2  ( d m s v C d i  1 i  2 i p  3 v  4 i a l  5]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES c  6 s u  ( C c t e  ( t a t r  ( t c r t d m v  ( G H]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES f  1 w s  2 i i a  3 n  a  b r  c r  4 a r g  5 d  6 c  ( r]
+[DELETED:  32 LORIDA HOUSE OF REPRESENTATIVES i v t t l t  ( sS  ]

@@ -1,0 +1,1803 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 141 Filed
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+HB 141 2026
+1 A bill to be entitled
+2 An act relating to the Florida Health Choices Program;
+3 amending s. 408.910, F.S.; renaming the "Florida
+4 Health Choices Program" as the "Florida Employee
+5 Health Choices Program"; revising legislative findings
+6 and intent; revising definitions; revising the purpose
+7 and components of the program; revising eligibility
+8 and participation requirements for vendors under the
+9 program; revising the types of health insurance
+10 products that are available for purchase through the
+11 program; deleting certain pricing transparency
+12 requirements to conform to changes made by the act;
+13 revising the structure of the insurance marketplace
+14 process under the program; deleting the option for
+15 risk pooling under the program; deleting exemptions
+16 from certain requirements of the Florida Insurance
+17 Code under the program; renaming the corporation
+18 administering the program as "Florida Employee Health
+19 Choices, Inc."; revising membership of the board of
+20 directors; authorizing the corporation to exercise
+21 certain powers; revising duties of the board and the
+22 corporation; revising the fiscal year in which the
+23 corporation's annual report is due; amending ss.
+24 409.821, 409.9122, and 409.977, F.S.; conforming
+25 provisions to changes made by the act; providing an
+Page 1 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+26 effective date.
+27
+28 Be It Enacted by the Legislature of the State of Florida:
+29
+30 Section 1. Section 408.910, Florida Statutes, is amended
+31 to read:
+32 408.910 Florida Employee Health Choices Program.—
+33 (1) LEGISLATIVE INTENT.—The Legislature finds that a
+34 significant number of employers and employees in the residents
+35 of this state do not have adequate access to affordable, quality
+36 health insurance that meets their needs care. The Legislature
+37 further finds that individual coverage health reimbursement
+38 arrangements offer a novel way for employers of any size to give
+39 health care contributions directly to employees to empower them
+40 to choose their own health plan in a broad marketplace based on
+41 individual financial needs and health factors. The Legislature
+42 further finds that increasing access to affordable, quality
+43 health care through individual coverage health reimbursement
+44 arrangements can be best accomplished by establishing a
+45 competitive marketplace market for employees who receive
+46 employer premium contributions through individual coverage
+47 health reimbursement arrangements purchasing health insurance
+48 and health services. It is therefore the intent of the
+49 Legislature to create the Florida Employee Health Choices
+50 Program to do the following:
+Page 2 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+51 (a) Expand opportunities for employers and employees
+52 Floridians to access purchase affordable health insurance in
+53 this state and health services.
+54 (b) Create a platform that streamlines the purchase of
+55 individual coverage for employees enrolled in individual
+56 coverage health reimbursement arrangements Preserve the benefits
+57 of employment-sponsored insurance while easing the
+58 administrative burden for employers who offer these benefits.
+59 (c) Enable individual choice in both the manner and amount
+60 of health care purchased.
+61 (d) Provide for the purchase of individual, portable
+62 health care coverage.
+63 (e) Disseminate information to employers and employees
+64 about individual coverage health reimbursement arrangements
+65 consumers on the price and quality of health services.
+66 (f) Sponsor a competitive marketplace market that
+67 stimulates product innovation, quality improvement, and
+68 efficiency in the production and delivery of individual health
+69 insurance plans to employees enrolled in individual coverage
+70 health reimbursement arrangements health services.
+71 (2) DEFINITIONS.—As used in this section, the term:
+72 (a) "Corporation" means the Florida Employee Health
+73 Choices, Inc., established under this section.
+74 (b) "Corporation's marketplace" means the single,
+75 centralized market established by the program which that
+Page 3 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+76 facilitates the purchase of products made available in the
+77 marketplace.
+78 (c) "Health insurance agent" means an agent licensed under
+79 part IV of chapter 626.
+80 (d) "Insurer" means an entity licensed under chapter 624
+81 which offers an individual health insurance policy or a group
+82 health insurance policy, a preferred provider organization as
+83 defined in s. 627.6471, an exclusive provider organization as
+84 defined in s. 627.6472, or a health maintenance organization
+85 licensed under part I of chapter 641, or a prepaid limited
+86 health service organization or discount plan organization
+87 licensed under chapter 636.
+88 (e) "Program" means the Florida Employee Health Choices
+89 Program established by this section.
+90 (3) PROGRAM PURPOSE AND COMPONENTS.—The Florida Employee
+91 Health Choices Program is created as a single, centralized
+92 marketplace market for the sale and purchase of individual
+93 health insurance plans by employees enrolled in an individual
+94 coverage health reimbursement arrangement various products that
+95 enable individuals to pay for health care. These products
+96 include, but are not limited to, health insurance plans, health
+97 maintenance organization plans, prepaid services, service
+98 contracts, and flexible spending accounts. The components of the
+99 program include:
+100 (a) Enrollment of employers.
+Page 4 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+101 (b) Administrative services for participating employers,
+102 including:
+103 1. Assistance in seeking federal approval of cafeteria
+104 plans.
+105 2. Collection of premiums and other payments.
+106 3. Management of individual benefit accounts.
+107 4. Distribution of premiums to insurers and payments to
+108 other eligible vendors.
+109 5. Assistance for participants in complying with reporting
+110 requirements.
+111 (c) Services to individual participants, including:
+112 1. Information about available products and participating
+113 vendors.
+114 2. Assistance with assessing the benefits and limits of
+115 each product, including information necessary to distinguish
+116 between policies offering creditable coverage and other products
+117 available through the program.
+118 3. Account information to assist individual participants
+119 with managing available resources.
+120 4. Services that promote healthy behaviors.
+121 (d) Recruitment of vendors, including insurers and, health
+122 maintenance organizations, prepaid clinic service providers,
+123 provider service networks, and other providers.
+124 (e) Certification of vendors to ensure capability,
+125 reliability, and validity of offerings.
+Page 5 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+126 (f) Collection of data, monitoring, assessment, and
+127 reporting of vendor performance.
+128 (g) Information services for individuals and employers.
+129 (h) Program evaluation.
+130 (4) ELIGIBILITY AND PARTICIPATION.—Participation in the
+131 program is voluntary and shall be available to employers,
+132 individuals, vendors, and health insurance agents as specified
+133 in this subsection.
+134 (a) Employers eligible to enroll in the program include
+135 those employers that meet criteria established by the
+136 corporation and elect to make their employees eligible through
+137 the program.
+138 (b) Individuals eligible to participate in the program
+139 include:
+140 1. Individual employees of enrolled employers.
+141 2. Other individuals that meet criteria established by the
+142 corporation.
+143 (c) Employers who choose to participate in the program may
+144 enroll by complying with the procedures established by the
+145 corporation. The procedures must include, but are not limited
+146 to:
+147 1. Submission of required information.
+148 2. Compliance with federal tax requirements for the
+149 establishment of a cafeteria plan, pursuant to s. 125 of the
+150 Internal Revenue Code, including designation of the employer's
+Page 6 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+151 plan as a premium payment plan, a salary reduction plan that has
+152 flexible spending arrangements, or a salary reduction plan that
+153 has a premium payment and flexible spending arrangements.
+154 3. Determination of the employer's contribution, if any,
+155 per employee, provided that such contribution is equal for each
+156 eligible employee.
+157 4. Establishment of payroll deduction procedures, subject
+158 to the agreement of each individual employee who voluntarily
+159 participates in the program.
+160 5. Designation of the corporation as the third-party
+161 administrator for the employer's health benefit plan.
+162 6. Identification of eligible employees.
+163 7. Arrangement for periodic payments.
+164 8. Employer notification to employees of the intent to
+165 transfer from an existing employee health plan to the program at
+166 least 90 days before the transition.
+167 (d) All eligible vendors who choose to participate and the
+168 products and services that the vendors are permitted to sell are
+169 as follows:
+170 1. Insurers licensed under chapter 624 may sell health
+171 insurance policies, limited benefit policies, other risk-bearing
+172 coverage, and other products or services.
+173 2. Health maintenance organizations licensed under part I
+174 of chapter 641 may sell health maintenance contracts, limited
+175 benefit policies, other risk-bearing products, and other
+Page 7 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+176 products or services.
+177 3. Prepaid limited health service organizations may sell
+178 products and services as authorized under part I of chapter 636,
+179 and discount plan organizations may sell products and services
+180 as authorized under part II of chapter 636.
+181 4. Prepaid health clinic service providers licensed under
+182 part II of chapter 641 may sell prepaid service contracts and
+183 other arrangements for a specified amount and type of health
+184 services or treatments.
+185 5. Health care providers, including hospitals and other
+186 licensed health facilities, health care clinics, licensed health
+187 professionals, pharmacies, and other licensed health care
+188 providers, may sell service contracts and arrangements for a
+189 specified amount and type of health services or treatments.
+190 6. Provider organizations, including service networks,
+191 group practices, professional associations, and other
+192 incorporated organizations of providers, may sell service
+193 contracts and arrangements for a specified amount and type of
+194 health services or treatments.
+195 7. Corporate entities providing specific health services
+196 in accordance with applicable state law may sell service
+197 contracts and arrangements for a specified amount and type of
+198 health services or treatments.
+199
+200 A vendor described in subparagraphs 3.-7. may not sell products
+Page 8 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+201 that provide risk-bearing coverage unless that vendor is
+202 authorized under a certificate of authority issued by the Office
+203 of Insurance Regulation and is authorized to provide coverage in
+204 the relevant geographic area. Otherwise Eligible vendors may be
+205 excluded from participating in the program for deceptive or
+206 predatory practices, financial insolvency, or failure to comply
+207 with the terms of the participation agreement or other standards
+208 set by the corporation.
+209 (e) Eligible individuals may participate in the program
+210 voluntarily. Individuals who join the program may participate by
+211 complying with the procedures established by the corporation.
+212 These procedures must include, but are not limited to:
+213 1. Submission of required information.
+214 2. Authorization for payroll deduction.
+215 3. Compliance with federal tax requirements.
+216 4. Arrangements for payment.
+217 5. Selection of products and services.
+218 (f) Vendors who choose to participate in the program may
+219 enroll by complying with the procedures established by the
+220 corporation. These procedures may include, but are not limited
+221 to:
+222 1. Submission of required information, including a
+223 complete description of the coverage, services, provider
+224 network, payment restrictions, and other requirements of each
+225 product offered through the program.
+Page 9 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+226 2. Execution of an agreement to comply with requirements
+227 established by the corporation.
+228 3. Execution of an agreement that prohibits refusal to
+229 sell any offered product or service to a participant who elects
+230 to buy it.
+231 4. Establishment of product prices based on applicable
+232 criteria.
+233 5. Arrangements for receiving payment for enrolled
+234 participants.
+235 5.6. Participation in ongoing reporting processes
+236 established by the corporation.
+237 6.7. Compliance with grievance procedures established by
+238 the corporation.
+239 (g) Health insurance agents licensed under part IV of
+240 chapter 626 are eligible to voluntarily participate as buyers'
+241 representatives. A buyer's representative acts on behalf of an
+242 individual purchasing health insurance and health services
+243 through the program by providing information about products and
+244 services available through the program and assisting the
+245 individual with both the decision and the procedure of selecting
+246 specific products. Serving as a buyer's representative does not
+247 constitute a conflict of interest with continuing
+248 responsibilities as a health insurance agent if the relationship
+249 between each agent and any participating vendor is disclosed
+250 before advising an individual participant about the products and
+Page 10 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+251 services available through the program. In order to participate,
+252 a health insurance agent shall comply with the procedures
+253 established by the corporation, including:
+254 1. Completion of training requirements.
+255 2. Execution of a participation agreement specifying the
+256 terms and conditions of participation.
+257 3. Disclosure of any appointments to solicit insurance or
+258 procure applications for vendors participating in the program.
+259 4. Arrangements to receive payment from the corporation
+260 for services as a buyer's representative.
+261 (5) PRODUCTS.—
+262 (a) The products that may be made available for purchase
+263 through the program include, but are not limited to:
+264 1. health insurance policies and.
+265 2. health maintenance contracts.
+266 3. Limited benefit plans.
+267 4. Prepaid clinic services.
+268 5. Service contracts.
+269 6. Arrangements for purchase of specific amounts and types
+270 of health services and treatments.
+271 7. Flexible spending accounts.
+272 (b) Health insurance policies, health maintenance
+273 contracts, limited benefit plans, prepaid service contracts, and
+274 other contracts for services must ensure the availability of
+275 covered services.
+Page 11 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+276 (c) Products may be offered for multiyear periods provided
+277 the price of the product is specified for the entire period or
+278 for each separately priced segment of the policy or contract.
+279 (d) The corporation shall provide a disclosure form for
+280 consumers to acknowledge their understanding of the nature of,
+281 and any limitations to, the benefits provided by the products
+282 and services being purchased by the consumer.
+283 (e) The corporation must determine that making the plan
+284 available through the program is in the interest of eligible
+285 individuals and eligible employers in the state.
+286 (6) SURCHARGE PRICING.—Prices for the products and
+287 services sold through the program must be transparent to
+288 participants and established by the vendors. The corporation
+289 shall annually assess a surcharge for each premium or price set
+290 by a participating vendor. The surcharge may not be more than
+291 2.5 percent of the price and must shall be used to generate
+292 funding for administrative services provided by the corporation
+293 and payments to buyers' representatives.
+294 (7) THE MARKETPLACE PROCESS.—The program shall provide a
+295 single, centralized marketplace market for access to purchase of
+296 health insurance and, health maintenance contracts by an
+297 employee enrolled in an individual coverage health reimbursement
+298 arrangement, and other health products and services. Purchases
+299 may be made by participating individuals over the Internet or
+300 through the services of a participating health insurance agent.
+Page 12 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+301 Information about each product and service available through the
+302 program must shall be made available through printed material
+303 and an interactive Internet website. A participant needing
+304 personal assistance to select products and services must shall
+305 be referred to a participating agent in his or her area.
+306 (a) Participation in the program may begin at any time
+307 during a year after the employer completes enrollment and meets
+308 the requirements specified by the corporation pursuant to
+309 paragraph (4)(c).
+310 (b) Initial selection of products and services must be
+311 made by an individual participant within the applicable open
+312 enrollment period.
+313 (c) Initial enrollment periods for each product selected
+314 by an individual participant must last at least 12 months,
+315 unless the individual participant specifically agrees to a
+316 different enrollment period.
+317 (d) If an individual has selected one or more products and
+318 enrolled in those products for at least 12 months or any other
+319 period specifically agreed to by the individual participant,
+320 changes in selected products and services may only be made
+321 during the annual enrollment period established by the
+322 corporation.
+323 (e) The limits established in paragraphs (b)-(d) apply to
+324 any risk-bearing product that promises future payment or
+325 coverage for a variable amount of benefits or services. The
+Page 13 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+326 limits do not apply to initiation of flexible spending plans if
+327 those plans are not associated with specific high-deductible
+328 insurance policies or the use of spending accounts for any
+329 products offering individual participants specific amounts and
+330 types of health services and treatments at a contracted price.
+331 (8) CONSUMER INFORMATION.—The corporation shall:
+332 (a) Establish a secure website to facilitate the purchase
+333 of products and services by participating individuals. The
+334 website must provide information about each product or service
+335 available through the program.
+336 (b) Inform individuals about other public health care
+337 programs.
+338 (9) RISK POOLING.—The program may use methods for pooling
+339 the risk of individual participants and preventing selection
+340 bias. These methods may include, but are not limited to, a
+341 postenrollment risk adjustment of the premium payments to the
+342 vendors. The corporation may establish a methodology for
+343 assessing the risk of enrolled individual participants based on
+344 data reported annually by the vendors about their enrollees.
+345 Distribution of payments to the vendors may be adjusted based on
+346 the assessed relative risk profile of the enrollees in each
+347 risk-bearing product for the most recent period for which data
+348 is available.
+349 (10) EXEMPTION EXEMPTIONS.—
+350 (a) Products, other than the products set forth in
+Page 14 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+351 subparagraphs (4)(d)1.-4., sold as part of the program are not
+352 subject to the licensing requirements of the Florida Insurance
+353 Code, as defined in s. 624.01 or the mandated offerings or
+354 coverages established in part VI of chapter 627 and chapter 641.
+355 (b) The corporation may act as an administrator as defined
+356 in s. 626.88 but is not required to be certified pursuant to
+357 part VII of chapter 626. However, a third party administrator
+358 used by the corporation must be certified under part VII of
+359 chapter 626.
+360 (c) Any standard forms, website design, or marketing
+361 communication developed by the corporation and used by the
+362 corporation, or any vendor that meets the requirements of
+363 paragraph (4)(f) is not subject to the Florida Insurance Code,
+364 as established in s. 624.01.
+365 (10) CORPORATION.—There is created Florida Employee Health
+366 Choices, Inc., which shall be registered, incorporated,
+367 organized, and operated in compliance with part III of chapter
+368 112 and chapters 119, 286, and 617. The purpose of the
+369 corporation is to administer the program created in this section
+370 and to conduct such other business as may further the
+371 administration of the program. The Department of Management
+372 Services shall facilitate the formation of the corporation and
+373 provide administrative support for the corporation until January
+374 1, 2029. The corporation must be self-sustaining and no longer
+375 require administrative assistance from the Department of
+Page 15 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+376 Management Services by January 1, 2029.
+377 (a) The corporation shall be governed by an eight-member
+378 board of directors. Board members shall be appointed for terms
+379 of up to 3 years and shall be eligible for reappointment. A
+380 vacancy on the board shall be filled for the unexpired portion
+381 of the term in the same manner as the original appointment.
+382 Board members may not include an individual who is affiliated
+383 with or employed by an eligible vendor or a subsidiary of an
+384 eligible vendor. Board members shall serve without compensation,
+385 but are entitled to receive, from funds of the corporation,
+386 reimbursement for per diem and travel expenses as provided in s.
+387 112.061. The membership of the board shall consist of:
+388 1. Three members appointed by the Governor.
+389 2. Two members appointed by the President of the Senate.
+390 3. Two members appointed by the Speaker of the House of
+391 Representatives.
+392 4. The Secretary of Management Services or a designee with
+393 expertise in state employee benefits and procurement, as an ex
+394 officio nonvoting member.
+395 (b) The corporation may exercise all powers granted to it
+396 under chapter 617 necessary to carry out the purposes of this
+397 section, including, but not limited to, the power to receive and
+398 accept grants, loans, or advances of funds from any public or
+399 private agency and to receive and accept from any source
+400 contributions of money, property, labor, or any other thing of
+Page 16 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+401 value to be held, used, and applied for the purposes of this
+402 section.
+403 (c) There is no liability on the part of, and a cause of
+404 action may not arise against, any member of the board or its
+405 employees or agents for any action taken by them in exercising
+406 their powers and performing their duties under this section.
+407 (d) The board shall develop and adopt bylaws and other
+408 corporate procedures necessary for the operation of the
+409 corporation and carrying out the purposes of this section. At a
+410 minimum, the bylaws must:
+411 1. Specify procedures for selection of officers and
+412 qualifications for reappointment, provided that a board member
+413 may not serve more than 9 consecutive years.
+414 2. Require an annual membership meeting that provides an
+415 opportunity for input and interaction with individual
+416 participants in the program.
+417 3. Specify policies and procedures regarding conflicts of
+418 interest, including part III of chapter 112, which prohibit a
+419 member from participating in any decision that would inure to
+420 the benefit of the member or the organization that employs the
+421 member. The policies and procedures must also require public
+422 disclosure of the interest that prevents the member from
+423 participating in a decision on a particular matter.
+424 4. Specify procedures for adopting an annual budget.
+425 5. Specify procedures for selecting a chief executive
+Page 17 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+426 officer for the corporation who shall be responsible for
+427 securing staff and consultant services necessary for the
+428 operation of the program as may be authorized by the
+429 corporation's operating budget.
+430 (e) The corporation shall establish policies and
+431 procedures for application, enrollment, plan administration,
+432 performance monitoring, and consumer education, and other
+433 policies and procedures necessary for the operation of the
+434 program, including, but not limited to:
+435 1. Criteria for participation in the program and
+436 procedures for determining the eligibility of employers,
+437 vendors, individuals, and health insurance agents and employers
+438 to participate in the program.
+439 2. Exclusion of vendors pursuant to paragraph (4)(d).
+440 3. Collection of contributions from participating
+441 employers and individuals.
+442 4. Payment of premiums and other appropriate disbursements
+443 based on the selections of products and services by
+444 participating individuals.
+445 5. Disenrollment of participating individuals based on
+446 failure to pay the individual's share of any contribution
+447 required to maintain enrollment in selected products.
+448 (f) The corporation shall procure a vendor to facilitate a
+449 platform that streamlines the purchase of individual coverage
+450 for employees enrolled in individual coverage health
+Page 18 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+451 reimbursement arrangements.
+452 1. Within 90 days after the formation of the corporation,
+453 the department shall, as directed by the board, issue an
+454 invitation to negotiate to procure the vendor. Responsive
+455 bidders must demonstrate the ability to establish a platform
+456 fully operational for open enrollment by January 1, 2028, and
+457 provide for initial, open, and special enrollment periods.
+458 2. The department shall evaluate and score the procurement
+459 bids, enter into negotiations at the direction of the board, and
+460 make recommendations to the board related to the contract award.
+461 The corporation shall select the vendor and execute the contract
+462 within 180 days after the issuance of the invitation to
+463 negotiate.
+464 (g) The corporation shall develop and implement a plan for
+465 promoting public awareness of and participation in the program
+466 and shall establish a toll-free hotline to respond to requests
+467 for assistance from employers and plan enrollees.
+468 (h) The corporation may evaluate and implement additional
+469 options for employer participation which conform with common
+470 insurance practices.
+471 (11) CORPORATION.—There is created the Florida Health
+472 Choices, Inc., which shall be registered, incorporated,
+473 organized, and operated in compliance with part III of chapter
+474 112 and chapters 119, 286, and 617. The purpose of the
+475 corporation is to administer the program created in this section
+Page 19 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+476 and to conduct such other business as may further the
+477 administration of the program.
+478 (a) The corporation shall be governed by a 15-member board
+479 of directors consisting of:
+480 1. Three ex officio, nonvoting members to include:
+481 a. The Secretary of Health Care Administration or a
+482 designee with expertise in health care services.
+483 b. The Secretary of Management Services or a designee with
+484 expertise in state employee benefits.
+485 c. The commissioner of the Office of Insurance Regulation
+486 or a designee with expertise in insurance regulation.
+487 2. Four members appointed by and serving at the pleasure
+488 of the Governor.
+489 3. Four members appointed by and serving at the pleasure
+490 of the President of the Senate.
+491 4. Four members appointed by and serving at the pleasure
+492 of the Speaker of the House of Representatives.
+493 5. Board members may not include insurers, health
+494 insurance agents or brokers, health care providers, health
+495 maintenance organizations, prepaid service providers, or any
+496 other entity, affiliate or subsidiary of eligible vendors.
+497 (b) Members shall be appointed for terms of up to 3 years.
+498 Any member is eligible for reappointment. A vacancy on the board
+499 shall be filled for the unexpired portion of the term in the
+500 same manner as the original appointment.
+Page 20 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+501 (c) The board shall select a chief executive officer for
+502 the corporation who shall be responsible for the selection of
+503 such other staff as may be authorized by the corporation's
+504 operating budget as adopted by the board.
+505 (d) Board members are entitled to receive, from funds of
+506 the corporation, reimbursement for per diem and travel expenses
+507 as provided by s. 112.061. No other compensation is authorized.
+508 (e) There is no liability on the part of, and no cause of
+509 action shall arise against, any member of the board or its
+510 employees or agents for any action taken by them in the
+511 performance of their powers and duties under this section.
+512 (f) The board shall develop and adopt bylaws and other
+513 corporate procedures as necessary for the operation of the
+514 corporation and carrying out the purposes of this section. The
+515 bylaws shall:
+516 1. Specify procedures for selection of officers and
+517 qualifications for reappointment, provided that no board member
+518 shall serve more than 9 consecutive years.
+519 2. Require an annual membership meeting that provides an
+520 opportunity for input and interaction with individual
+521 participants in the program.
+522 3. Specify policies and procedures regarding conflicts of
+523 interest, including the provisions of part III of chapter 112,
+524 which prohibit a member from participating in any decision that
+525 would inure to the benefit of the member or the organization
+Page 21 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+526 that employs the member. The policies and procedures shall also
+527 require public disclosure of the interest that prevents the
+528 member from participating in a decision on a particular matter.
+529 (g) The corporation may exercise all powers granted to it
+530 under chapter 617 necessary to carry out the purposes of this
+531 section, including, but not limited to, the power to receive and
+532 accept grants, loans, or advances of funds from any public or
+533 private agency and to receive and accept from any source
+534 contributions of money, property, labor, or any other thing of
+535 value to be held, used, and applied for the purposes of this
+536 section.
+537 (h) The corporation shall:
+538 1. Determine eligibility of employers, vendors,
+539 individuals, and agents in accordance with subsection (4).
+540 2. Establish procedures necessary for the operation of the
+541 program, including, but not limited to, procedures for
+542 application, enrollment, risk assessment, risk adjustment, plan
+543 administration, performance monitoring, and consumer education.
+544 3. Arrange for collection of contributions from
+545 participating employers and individuals.
+546 4. Arrange for payment of premiums and other appropriate
+547 disbursements based on the selections of products and services
+548 by the individual participants.
+549 5. Establish criteria for disenrollment of participating
+550 individuals based on failure to pay the individual's share of
+Page 22 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+551 any contribution required to maintain enrollment in selected
+552 products.
+553 6. Establish criteria for exclusion of vendors pursuant to
+554 paragraph (4)(d).
+555 7. Develop and implement a plan for promoting public
+556 awareness of and participation in the program.
+557 8. Secure staff and consultant services necessary to the
+558 operation of the program.
+559 9. Establish policies and procedures regarding
+560 participation in the program for individuals, vendors, health
+561 insurance agents, and employers.
+562 10. Provide for the operation of a toll-free hotline to
+563 respond to requests for assistance.
+564 11. Provide for initial, open, and special enrollment
+565 periods.
+566 12. Evaluate options for employer participation which may
+567 conform with common insurance practices.
+568 (11)(12) REPORT.—Beginning in the 2027-2028 2009-2010
+569 fiscal year, the corporation shall submit by February 1 an
+570 annual report to the Governor, the President of the Senate, and
+571 the Speaker of the House of Representatives documenting the
+572 corporation's activities in compliance with the duties
+573 delineated in this section.
+574 (12)(13) PROGRAM INTEGRITY.—To ensure program integrity
+575 and to safeguard the financial transactions made under the
+Page 23 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+576 auspices of the program, the corporation is authorized to
+577 establish qualifying criteria and certification procedures for
+578 vendors, require performance bonds or other guarantees of
+579 ability to complete contractual obligations, monitor the
+580 performance of vendors, and enforce the agreements of the
+581 program through financial penalty or disqualification from the
+582 program.
+583 (13)(14) EXEMPTION FROM PUBLIC RECORDS REQUIREMENTS.—
+584 (a) Definitions.—For purposes of this subsection, the
+585 term:
+586 1. "Buyer's representative" means a participating
+587 insurance agent as described in paragraph (4)(g).
+588 2. "Enrollee" means an employer who is eligible to enroll
+589 in the program pursuant to paragraph (4)(a).
+590 3. "Participant" means an individual who is eligible to
+591 participate in the program pursuant to paragraph (4)(b).
+592 4. "Proprietary confidential business information" means
+593 information, regardless of form or characteristics, that is
+594 owned or controlled by a vendor requesting confidentiality under
+595 this section; that is intended to be and is treated by the
+596 vendor as private in that the disclosure of the information
+597 would cause harm to the business operations of the vendor; that
+598 has not been disclosed unless disclosed pursuant to a statutory
+599 provision, an order of a court or administrative body, or a
+600 private agreement providing that the information may be released
+Page 24 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+601 to the public; and that is information concerning:
+602 a. Business plans.
+603 b. Internal auditing controls and reports of internal
+604 auditors.
+605 c. Reports of external auditors for privately held
+606 companies.
+607 d. Client and customer lists.
+608 e. Potentially patentable material.
+609 f. A trade secret as defined in s. 688.002.
+610 5. "Vendor" means a participating insurer or other
+611 provider of services as described in paragraph (4)(d).
+612 (b) Public record exemptions.—
+613 1. Personal identifying information of an enrollee or
+614 participant who has applied for or participates in the Florida
+615 Employee Health Choices Program is confidential and exempt from
+616 s. 119.07(1) and s. 24(a), Art. I of the State Constitution.
+617 2. Client and customer lists of a buyer's representative
+618 held by the corporation are confidential and exempt from s.
+619 119.07(1) and s. 24(a), Art. I of the State Constitution.
+620 3. Proprietary confidential business information held by
+621 the corporation is confidential and exempt from s. 119.07(1) and
+622 s. 24(a), Art. I of the State Constitution.
+623 (c) Retroactive application.—The public record exemptions
+624 provided for in paragraph (b) apply to information held by the
+625 corporation before, on, or after the effective date of this
+Page 25 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+626 exemption.
+627 (d) Authorized release.—
+628 1. Upon request, information made confidential and exempt
+629 pursuant to this subsection must shall be disclosed to:
+630 a. Another governmental entity in the performance of its
+631 official duties and responsibilities.
+632 b. Any person who has the written consent of the program
+633 applicant.
+634 c. The Florida Kidcare program for the purpose of
+635 administering the program authorized in ss. 409.810-409.821.
+636 2. Paragraph (b) does not prohibit a participant's legal
+637 guardian from obtaining confirmation of coverage, dates of
+638 coverage, the name of the participant's health plan, and the
+639 amount of premium being paid.
+640 (e) Penalty.—A person who knowingly and willfully violates
+641 this subsection commits a misdemeanor of the second degree,
+642 punishable as provided in s. 775.082 or s. 775.083.
+643 Section 2. Paragraph (a) of subsection (2) of section
+644 409.821, Florida Statutes, is amended to read:
+645 409.821 Florida Kidcare program public records exemption.—
+646 (2)(a) Upon request, such information shall be disclosed
+647 to:
+648 1. Another governmental entity in the performance of its
+649 official duties and responsibilities;
+650 2. The Department of Revenue for purposes of administering
+Page 26 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+651 the state Title IV-D program;
+652 3. The Florida Employee Health Choices, Inc., for the
+653 purpose of administering the program authorized pursuant to s.
+654 408.910; or
+655 4. Any person who has the written consent of the program
+656 applicant.
+657 Section 3. Subsection (3) of section 409.9122, Florida
+658 Statutes, is amended to read:
+659 409.9122 Medicaid managed care enrollment; HIV/AIDS
+660 patients; procedures; data collection; accounting; information
+661 system; medical loss ratio.—
+662 (3) The agency shall develop a process to enable any
+663 recipient with access to employer-sponsored health care coverage
+664 to opt out of all eligible plans in the Medicaid program and to
+665 use Medicaid financial assistance to pay for the recipient's
+666 share of cost in any such employer-sponsored coverage.
+667 Contingent on federal approval, the agency shall also enable
+668 recipients with access to other insurance or related products
+669 that provide access to health care services created pursuant to
+670 state law, including any plan or product available pursuant to
+671 the Florida Employee Health Choices Program or any health
+672 exchange, to opt out. The amount of financial assistance
+673 provided for each recipient may not exceed the amount of the
+674 Medicaid premium that would have been paid to a plan for that
+675 recipient.
+Page 27 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+676 Section 4. Subsection (4) of section 409.977, Florida
+677 Statutes, is amended to read:
+678 409.977 Enrollment.—
+679 (4) The agency shall develop a process to enable a
+680 recipient with access to employer-sponsored health care coverage
+681 to opt out of all managed care plans and to use Medicaid
+682 financial assistance to pay for the recipient's share of the
+683 cost in such employer-sponsored coverage. The agency shall also
+684 enable recipients with access to other insurance or related
+685 products providing access to health care services created
+686 pursuant to state law, including any product available under the
+687 Florida Employee Health Choices Program, or any health exchange,
+688 to opt out. The amount of financial assistance provided for each
+689 recipient may not exceed the amount of the Medicaid premium that
+690 would have been paid to a managed care plan for that recipient.
+691 The agency shall require Medicaid recipients with access to
+692 employer-sponsored health care coverage to enroll in that
+693 coverage and use Medicaid financial assistance to pay for the
+694 recipient's share of the cost for such coverage. The amount of
+695 financial assistance provided for each recipient may not exceed
+696 the amount of the Medicaid premium that would have been paid to
+697 a managed care plan for that recipient. The agency may exceed
+698 this amount for a high-cost patient if it determines it would be
+699 cost effective to do so. The agency shall annually, beginning
+700 June 30, 2026, submit an annual report on the program to the
+Page 28 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+701 Legislature including, but not limited to, the level of
+702 participation; participant demographics, income levels, type of
+703 employer-based coverage, and amount of health care utilization;
+704 and a cost-effectiveness analysis both in the aggregate and on
+705 an individual patient basis.
+706 Section 5. This act shall take effect July 1, 2026.
+Page 29 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES A A a H H a a a p p p r r p r f C a C d c c c 4 p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES e  B S   4  ( s o h f a h t i f h a c e h a L P]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( F t  ( i c o a  ( o  ( h  ( a c  ( s e i h  (  ( C  ( c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES f m  ( p  ( w h d d l h l  ( P  ( H m h c e i m c p  (]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( i  1 p  2  3  4 o  5 r  (  1 v  2 e b a  3 w  4  ( m p  ( r]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( r  (  (  ( p i i  ( t c t  ( i  1  2 c  ( e c t  1  2 e I]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES p f h  3 p e  4 t p  5 a  6  7  8 t l  ( p a  1 i c  2 o b]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES p  3 p a a  4 p o s  5 l p p s  6 g i c h  7 i c h  A]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t a o t e p w s  ( v c T  1  2  3  4  5  ( e c t  1 c n p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  2 e  3 s t  4 c  5 p  5 e  6 t  ( c r i t s i s c r b b]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES s a e  1  2 t  3 p  4 f  (  ( t  1  2  3  4  5  6 o  7  ( c o c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( t f  ( c a a  ( a i  ( s p s b 2 f a  ( s h e a m t]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES I p a p b  ( d t p  ( m e  ( b u d  ( e p c d c  ( a c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES l t i p t  (  ( o w a  ( p  ( t b p v a d D t r i  (  (]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES s s C c  ( i p u c  ( c c p a  ( C o 1 c a a S p 1 r]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES M  ( b o v o B w e b r 1  1  2  3 R  4 e o  ( u s a p c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES v s  ( a e t  ( c c m  1 q m  2 o p  3 i m t m d p  4  5]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES o s o c  ( p p p p  1 p v t  2  3 e  4 b p  5 f r  ( p f]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES r  1 t i b f p  2 b m T w n  ( p a f  ( o i  ( C o 1 c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a a  ( o  1  a d  b e  c o  2 o  3 o  4 o  5 i m o  ( A s s]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( t s o  ( t a  ( a e p  ( c c b  1 q s  2 o p  3 i w w]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t r m  ( u s a p c v s  (  1 i  2 p a a  3 p  4 d b  5 i]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a p  6 p  7 a  8 o  9 p i  1 r  1 p  1 c  ( f a t c d  ( a]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a e v a p p p  (  ( t  1 i  2 i  3 p  4 i o t v w h p p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t  a  b a  c c  d  e  f  5 p  (  1 p E s  2 h 1  3 t s  ( p c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES e  (  1 p  a o  b a  c a  2 g c a  ( t pS   4  ( t  1 o  2]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t  3 p 4  4 aS   4 p s  ( r t u s C r t s t e p M r]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVESS   4  ( r t f c e p p F t r w T e c r f t a t c J]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES L p e a aS  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+1 A bill to be entitled
+2 An act relating to the Florida Health Choices Program;
+3 amending s. 408.910, F.S.; renaming the "Florida
+4 Health Choices Program" as the "Florida Employee
+5 Health Choices Program"; revising legislative findings
+6 and intent; revising definitions; revising the purpose
+7 and components of the program; revising eligibility
+8 and participation requirements for vendors under the
+9 program; revising the types of health insurance
+10 products that are available for purchase through the
+11 program; deleting certain pricing transparency
+12 requirements to conform to changes made by the act;
+13 revising the structure of the insurance marketplace
+14 process under the program; deleting the option for
+15 risk pooling under the program; deleting exemptions
+16 from certain requirements of the Florida Insurance
+17 Code under the program; renaming the corporation
+18 administering the program as "Florida Employee Health
+19 Choices, Inc."; revising membership of the board of
+20 directors; authorizing the corporation to exercise
+21 certain powers; revising duties of the board and the
+22 corporation; revising the fiscal year in which the
+23 corporation's annual report is due; amending ss.
+24 409.821, 409.9122, and 409.977, F.S.; conforming
+25 provisions to changes made by the act; providing an
+Page 1 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+26 effective date.
+27
+28 Be It Enacted by the Legislature of the State of Florida:
+29
+30 Section 1. Section 408.910, Florida Statutes, is amended
+31 to read:
+32 408.910 Florida Employee Health Choices Program.—
+33 (1) LEGISLATIVE INTENT.—The Legislature finds that a
+34 significant number of employers and employees in the residents
+35 of this state do not have adequate access to affordable, quality
+36 health insurance that meets their needs care. The Legislature
+37 further finds that individual coverage health reimbursement
+38 arrangements offer a novel way for employers of any size to give
+39 health care contributions directly to employees to empower them
+40 to choose their own health plan in a broad marketplace based on
+41 individual financial needs and health factors. The Legislature
+42 further finds that increasing access to affordable, quality
+43 health care through individual coverage health reimbursement
+44 arrangements can be best accomplished by establishing a
+45 competitive marketplace market for employees who receive
+46 employer premium contributions through individual coverage
+47 health reimbursement arrangements purchasing health insurance
+48 and health services. It is therefore the intent of the
+49 Legislature to create the Florida Employee Health Choices
+50 Program to do the following:
+Page 2 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+51 (a) Expand opportunities for employers and employees
+52 Floridians to access purchase affordable health insurance in
+53 this state and health services.
+54 (b) Create a platform that streamlines the purchase of
+55 individual coverage for employees enrolled in individual
+56 coverage health reimbursement arrangements Preserve the benefits
+57 of employment-sponsored insurance while easing the
+58 administrative burden for employers who offer these benefits.
+59 (c) Enable individual choice in both the manner and amount
+60 of health care purchased.
+61 (d) Provide for the purchase of individual, portable
+62 health care coverage.
+63 (e) Disseminate information to employers and employees
+64 about individual coverage health reimbursement arrangements
+65 consumers on the price and quality of health services.
+66 (f) Sponsor a competitive marketplace market that
+67 stimulates product innovation, quality improvement, and
+68 efficiency in the production and delivery of individual health
+69 insurance plans to employees enrolled in individual coverage
+70 health reimbursement arrangements health services.
+71 (2) DEFINITIONS.—As used in this section, the term:
+72 (a) "Corporation" means the Florida Employee Health
+73 Choices, Inc., established under this section.
+74 (b) "Corporation's marketplace" means the single,
+75 centralized market established by the program which that
+Page 3 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+76 facilitates the purchase of products made available in the
+77 marketplace.
+78 (c) "Health insurance agent" means an agent licensed under
+79 part IV of chapter 626.
+80 (d) "Insurer" means an entity licensed under chapter 624
+81 which offers an individual health insurance policy or a group
+82 health insurance policy, a preferred provider organization as
+83 defined in s. 627.6471, an exclusive provider organization as
+84 defined in s. 627.6472, or a health maintenance organization
+85 licensed under part I of chapter 641, or a prepaid limited
+86 health service organization or discount plan organization
+87 licensed under chapter 636.
+88 (e) "Program" means the Florida Employee Health Choices
+89 Program established by this section.
+90 (3) PROGRAM PURPOSE AND COMPONENTS.—The Florida Employee
+91 Health Choices Program is created as a single, centralized
+92 marketplace market for the sale and purchase of individual
+93 health insurance plans by employees enrolled in an individual
+94 coverage health reimbursement arrangement various products that
+95 enable individuals to pay for health care. These products
+96 include, but are not limited to, health insurance plans, health
+97 maintenance organization plans, prepaid services, service
+98 contracts, and flexible spending accounts. The components of the
+99 program include:
+100 (a) Enrollment of employers.
+Page 4 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+101 (b) Administrative services for participating employers,
+102 including:
+103 1. Assistance in seeking federal approval of cafeteria
+104 plans.
+105 2. Collection of premiums and other payments.
+106 3. Management of individual benefit accounts.
+107 4. Distribution of premiums to insurers and payments to
+108 other eligible vendors.
+109 5. Assistance for participants in complying with reporting
+110 requirements.
+111 (c) Services to individual participants, including:
+112 1. Information about available products and participating
+113 vendors.
+114 2. Assistance with assessing the benefits and limits of
+115 each product, including information necessary to distinguish
+116 between policies offering creditable coverage and other products
+117 available through the program.
+118 3. Account information to assist individual participants
+119 with managing available resources.
+120 4. Services that promote healthy behaviors.
+121 (d) Recruitment of vendors, including insurers and, health
+122 maintenance organizations, prepaid clinic service providers,
+123 provider service networks, and other providers.
+124 (e) Certification of vendors to ensure capability,
+125 reliability, and validity of offerings.
+Page 5 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+126 (f) Collection of data, monitoring, assessment, and
+127 reporting of vendor performance.
+128 (g) Information services for individuals and employers.
+129 (h) Program evaluation.
+130 (4) ELIGIBILITY AND PARTICIPATION.—Participation in the
+131 program is voluntary and shall be available to employers,
+132 individuals, vendors, and health insurance agents as specified
+133 in this subsection.
+134 (a) Employers eligible to enroll in the program include
+135 those employers that meet criteria established by the
+136 corporation and elect to make their employees eligible through
+137 the program.
+138 (b) Individuals eligible to participate in the program
+139 include:
+140 1. Individual employees of enrolled employers.
+141 2. Other individuals that meet criteria established by the
+142 corporation.
+143 (c) Employers who choose to participate in the program may
+144 enroll by complying with the procedures established by the
+145 corporation. The procedures must include, but are not limited
+146 to:
+147 1. Submission of required information.
+148 2. Compliance with federal tax requirements for the
+149 establishment of a cafeteria plan, pursuant to s. 125 of the
+150 Internal Revenue Code, including designation of the employer's
+Page 6 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+151 plan as a premium payment plan, a salary reduction plan that has
+152 flexible spending arrangements, or a salary reduction plan that
+153 has a premium payment and flexible spending arrangements.
+154 3. Determination of the employer's contribution, if any,
+155 per employee, provided that such contribution is equal for each
+156 eligible employee.
+157 4. Establishment of payroll deduction procedures, subject
+158 to the agreement of each individual employee who voluntarily
+159 participates in the program.
+160 5. Designation of the corporation as the third-party
+161 administrator for the employer's health benefit plan.
+162 6. Identification of eligible employees.
+163 7. Arrangement for periodic payments.
+164 8. Employer notification to employees of the intent to
+165 transfer from an existing employee health plan to the program at
+166 least 90 days before the transition.
+167 (d) All eligible vendors who choose to participate and the
+168 products and services that the vendors are permitted to sell are
+169 as follows:
+170 1. Insurers licensed under chapter 624 may sell health
+171 insurance policies, limited benefit policies, other risk-bearing
+172 coverage, and other products or services.
+173 2. Health maintenance organizations licensed under part I
+174 of chapter 641 may sell health maintenance contracts, limited
+175 benefit policies, other risk-bearing products, and other
+Page 7 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+176 products or services.
+177 3. Prepaid limited health service organizations may sell
+178 products and services as authorized under part I of chapter 636,
+179 and discount plan organizations may sell products and services
+180 as authorized under part II of chapter 636.
+181 4. Prepaid health clinic service providers licensed under
+182 part II of chapter 641 may sell prepaid service contracts and
+183 other arrangements for a specified amount and type of health
+184 services or treatments.
+185 5. Health care providers, including hospitals and other
+186 licensed health facilities, health care clinics, licensed health
+187 professionals, pharmacies, and other licensed health care
+188 providers, may sell service contracts and arrangements for a
+189 specified amount and type of health services or treatments.
+190 6. Provider organizations, including service networks,
+191 group practices, professional associations, and other
+192 incorporated organizations of providers, may sell service
+193 contracts and arrangements for a specified amount and type of
+194 health services or treatments.
+195 7. Corporate entities providing specific health services
+196 in accordance with applicable state law may sell service
+197 contracts and arrangements for a specified amount and type of
+198 health services or treatments.
+199
+200 A vendor described in subparagraphs 3.-7. may not sell products
+Page 8 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+201 that provide risk-bearing coverage unless that vendor is
+202 authorized under a certificate of authority issued by the Office
+203 of Insurance Regulation and is authorized to provide coverage in
+204 the relevant geographic area. Otherwise Eligible vendors may be
+205 excluded from participating in the program for deceptive or
+206 predatory practices, financial insolvency, or failure to comply
+207 with the terms of the participation agreement or other standards
+208 set by the corporation.
+209 (e) Eligible individuals may participate in the program
+210 voluntarily. Individuals who join the program may participate by
+211 complying with the procedures established by the corporation.
+212 These procedures must include, but are not limited to:
+213 1. Submission of required information.
+214 2. Authorization for payroll deduction.
+215 3. Compliance with federal tax requirements.
+216 4. Arrangements for payment.
+217 5. Selection of products and services.
+218 (f) Vendors who choose to participate in the program may
+219 enroll by complying with the procedures established by the
+220 corporation. These procedures may include, but are not limited
+221 to:
+222 1. Submission of required information, including a
+223 complete description of the coverage, services, provider
+224 network, payment restrictions, and other requirements of each
+225 product offered through the program.
+Page 9 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+226 2. Execution of an agreement to comply with requirements
+227 established by the corporation.
+228 3. Execution of an agreement that prohibits refusal to
+229 sell any offered product or service to a participant who elects
+230 to buy it.
+231 4. Establishment of product prices based on applicable
+232 criteria.
+233 5. Arrangements for receiving payment for enrolled
+234 participants.
+235 5.6. Participation in ongoing reporting processes
+236 established by the corporation.
+237 6.7. Compliance with grievance procedures established by
+238 the corporation.
+239 (g) Health insurance agents licensed under part IV of
+240 chapter 626 are eligible to voluntarily participate as buyers'
+241 representatives. A buyer's representative acts on behalf of an
+242 individual purchasing health insurance and health services
+243 through the program by providing information about products and
+244 services available through the program and assisting the
+245 individual with both the decision and the procedure of selecting
+246 specific products. Serving as a buyer's representative does not
+247 constitute a conflict of interest with continuing
+248 responsibilities as a health insurance agent if the relationship
+249 between each agent and any participating vendor is disclosed
+250 before advising an individual participant about the products and
+Page 10 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+251 services available through the program. In order to participate,
+252 a health insurance agent shall comply with the procedures
+253 established by the corporation, including:
+254 1. Completion of training requirements.
+255 2. Execution of a participation agreement specifying the
+256 terms and conditions of participation.
+257 3. Disclosure of any appointments to solicit insurance or
+258 procure applications for vendors participating in the program.
+259 4. Arrangements to receive payment from the corporation
+260 for services as a buyer's representative.
+261 (5) PRODUCTS.—
+262 (a) The products that may be made available for purchase
+263 through the program include, but are not limited to:
+264 1. health insurance policies and.
+265 2. health maintenance contracts.
+266 3. Limited benefit plans.
+267 4. Prepaid clinic services.
+268 5. Service contracts.
+269 6. Arrangements for purchase of specific amounts and types
+270 of health services and treatments.
+271 7. Flexible spending accounts.
+272 (b) Health insurance policies, health maintenance
+273 contracts, limited benefit plans, prepaid service contracts, and
+274 other contracts for services must ensure the availability of
+275 covered services.
+Page 11 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+276 (c) Products may be offered for multiyear periods provided
+277 the price of the product is specified for the entire period or
+278 for each separately priced segment of the policy or contract.
+279 (d) The corporation shall provide a disclosure form for
+280 consumers to acknowledge their understanding of the nature of,
+281 and any limitations to, the benefits provided by the products
+282 and services being purchased by the consumer.
+283 (e) The corporation must determine that making the plan
+284 available through the program is in the interest of eligible
+285 individuals and eligible employers in the state.
+286 (6) SURCHARGE PRICING.—Prices for the products and
+287 services sold through the program must be transparent to
+288 participants and established by the vendors. The corporation
+289 shall annually assess a surcharge for each premium or price set
+290 by a participating vendor. The surcharge may not be more than
+291 2.5 percent of the price and must shall be used to generate
+292 funding for administrative services provided by the corporation
+293 and payments to buyers' representatives.
+294 (7) THE MARKETPLACE PROCESS.—The program shall provide a
+295 single, centralized marketplace market for access to purchase of
+296 health insurance and, health maintenance contracts by an
+297 employee enrolled in an individual coverage health reimbursement
+298 arrangement, and other health products and services. Purchases
+299 may be made by participating individuals over the Internet or
+300 through the services of a participating health insurance agent.
+Page 12 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+301 Information about each product and service available through the
+302 program must shall be made available through printed material
+303 and an interactive Internet website. A participant needing
+304 personal assistance to select products and services must shall
+305 be referred to a participating agent in his or her area.
+306 (a) Participation in the program may begin at any time
+307 during a year after the employer completes enrollment and meets
+308 the requirements specified by the corporation pursuant to
+309 paragraph (4)(c).
+310 (b) Initial selection of products and services must be
+311 made by an individual participant within the applicable open
+312 enrollment period.
+313 (c) Initial enrollment periods for each product selected
+314 by an individual participant must last at least 12 months,
+315 unless the individual participant specifically agrees to a
+316 different enrollment period.
+317 (d) If an individual has selected one or more products and
+318 enrolled in those products for at least 12 months or any other
+319 period specifically agreed to by the individual participant,
+320 changes in selected products and services may only be made
+321 during the annual enrollment period established by the
+322 corporation.
+323 (e) The limits established in paragraphs (b)-(d) apply to
+324 any risk-bearing product that promises future payment or
+325 coverage for a variable amount of benefits or services. The
+Page 13 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+326 limits do not apply to initiation of flexible spending plans if
+327 those plans are not associated with specific high-deductible
+328 insurance policies or the use of spending accounts for any
+329 products offering individual participants specific amounts and
+330 types of health services and treatments at a contracted price.
+331 (8) CONSUMER INFORMATION.—The corporation shall:
+332 (a) Establish a secure website to facilitate the purchase
+333 of products and services by participating individuals. The
+334 website must provide information about each product or service
+335 available through the program.
+336 (b) Inform individuals about other public health care
+337 programs.
+338 (9) RISK POOLING.—The program may use methods for pooling
+339 the risk of individual participants and preventing selection
+340 bias. These methods may include, but are not limited to, a
+341 postenrollment risk adjustment of the premium payments to the
+342 vendors. The corporation may establish a methodology for
+343 assessing the risk of enrolled individual participants based on
+344 data reported annually by the vendors about their enrollees.
+345 Distribution of payments to the vendors may be adjusted based on
+346 the assessed relative risk profile of the enrollees in each
+347 risk-bearing product for the most recent period for which data
+348 is available.
+349 (10) EXEMPTION EXEMPTIONS.—
+350 (a) Products, other than the products set forth in
+Page 14 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+351 subparagraphs (4)(d)1.-4., sold as part of the program are not
+352 subject to the licensing requirements of the Florida Insurance
+353 Code, as defined in s. 624.01 or the mandated offerings or
+354 coverages established in part VI of chapter 627 and chapter 641.
+355 (b) The corporation may act as an administrator as defined
+356 in s. 626.88 but is not required to be certified pursuant to
+357 part VII of chapter 626. However, a third party administrator
+358 used by the corporation must be certified under part VII of
+359 chapter 626.
+360 (c) Any standard forms, website design, or marketing
+361 communication developed by the corporation and used by the
+362 corporation, or any vendor that meets the requirements of
+363 paragraph (4)(f) is not subject to the Florida Insurance Code,
+364 as established in s. 624.01.
+365 (10) CORPORATION.—There is created Florida Employee Health
+366 Choices, Inc., which shall be registered, incorporated,
+367 organized, and operated in compliance with part III of chapter
+368 112 and chapters 119, 286, and 617. The purpose of the
+369 corporation is to administer the program created in this section
+370 and to conduct such other business as may further the
+371 administration of the program. The Department of Management
+372 Services shall facilitate the formation of the corporation and
+373 provide administrative support for the corporation until January
+374 1, 2029. The corporation must be self-sustaining and no longer
+375 require administrative assistance from the Department of
+Page 15 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+376 Management Services by January 1, 2029.
+377 (a) The corporation shall be governed by an eight-member
+378 board of directors. Board members shall be appointed for terms
+379 of up to 3 years and shall be eligible for reappointment. A
+380 vacancy on the board shall be filled for the unexpired portion
+381 of the term in the same manner as the original appointment.
+382 Board members may not include an individual who is affiliated
+383 with or employed by an eligible vendor or a subsidiary of an
+384 eligible vendor. Board members shall serve without compensation,
+385 but are entitled to receive, from funds of the corporation,
+386 reimbursement for per diem and travel expenses as provided in s.
+387 112.061. The membership of the board shall consist of:
+388 1. Three members appointed by the Governor.
+389 2. Two members appointed by the President of the Senate.
+390 3. Two members appointed by the Speaker of the House of
+391 Representatives.
+392 4. The Secretary of Management Services or a designee with
+393 expertise in state employee benefits and procurement, as an ex
+394 officio nonvoting member.
+395 (b) The corporation may exercise all powers granted to it
+396 under chapter 617 necessary to carry out the purposes of this
+397 section, including, but not limited to, the power to receive and
+398 accept grants, loans, or advances of funds from any public or
+399 private agency and to receive and accept from any source
+400 contributions of money, property, labor, or any other thing of
+Page 16 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+401 value to be held, used, and applied for the purposes of this
+402 section.
+403 (c) There is no liability on the part of, and a cause of
+404 action may not arise against, any member of the board or its
+405 employees or agents for any action taken by them in exercising
+406 their powers and performing their duties under this section.
+407 (d) The board shall develop and adopt bylaws and other
+408 corporate procedures necessary for the operation of the
+409 corporation and carrying out the purposes of this section. At a
+410 minimum, the bylaws must:
+411 1. Specify procedures for selection of officers and
+412 qualifications for reappointment, provided that a board member
+413 may not serve more than 9 consecutive years.
+414 2. Require an annual membership meeting that provides an
+415 opportunity for input and interaction with individual
+416 participants in the program.
+417 3. Specify policies and procedures regarding conflicts of
+418 interest, including part III of chapter 112, which prohibit a
+419 member from participating in any decision that would inure to
+420 the benefit of the member or the organization that employs the
+421 member. The policies and procedures must also require public
+422 disclosure of the interest that prevents the member from
+423 participating in a decision on a particular matter.
+424 4. Specify procedures for adopting an annual budget.
+425 5. Specify procedures for selecting a chief executive
+Page 17 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+426 officer for the corporation who shall be responsible for
+427 securing staff and consultant services necessary for the
+428 operation of the program as may be authorized by the
+429 corporation's operating budget.
+430 (e) The corporation shall establish policies and
+431 procedures for application, enrollment, plan administration,
+432 performance monitoring, and consumer education, and other
+433 policies and procedures necessary for the operation of the
+434 program, including, but not limited to:
+435 1. Criteria for participation in the program and
+436 procedures for determining the eligibility of employers,
+437 vendors, individuals, and health insurance agents and employers
+438 to participate in the program.
+439 2. Exclusion of vendors pursuant to paragraph (4)(d).
+440 3. Collection of contributions from participating
+441 employers and individuals.
+442 4. Payment of premiums and other appropriate disbursements
+443 based on the selections of products and services by
+444 participating individuals.
+445 5. Disenrollment of participating individuals based on
+446 failure to pay the individual's share of any contribution
+447 required to maintain enrollment in selected products.
+448 (f) The corporation shall procure a vendor to facilitate a
+449 platform that streamlines the purchase of individual coverage
+450 for employees enrolled in individual coverage health
+Page 18 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+451 reimbursement arrangements.
+452 1. Within 90 days after the formation of the corporation,
+453 the department shall, as directed by the board, issue an
+454 invitation to negotiate to procure the vendor. Responsive
+455 bidders must demonstrate the ability to establish a platform
+456 fully operational for open enrollment by January 1, 2028, and
+457 provide for initial, open, and special enrollment periods.
+458 2. The department shall evaluate and score the procurement
+459 bids, enter into negotiations at the direction of the board, and
+460 make recommendations to the board related to the contract award.
+461 The corporation shall select the vendor and execute the contract
+462 within 180 days after the issuance of the invitation to
+463 negotiate.
+464 (g) The corporation shall develop and implement a plan for
+465 promoting public awareness of and participation in the program
+466 and shall establish a toll-free hotline to respond to requests
+467 for assistance from employers and plan enrollees.
+468 (h) The corporation may evaluate and implement additional
+469 options for employer participation which conform with common
+470 insurance practices.
+471 (11) CORPORATION.—There is created the Florida Health
+472 Choices, Inc., which shall be registered, incorporated,
+473 organized, and operated in compliance with part III of chapter
+474 112 and chapters 119, 286, and 617. The purpose of the
+475 corporation is to administer the program created in this section
+Page 19 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+476 and to conduct such other business as may further the
+477 administration of the program.
+478 (a) The corporation shall be governed by a 15-member board
+479 of directors consisting of:
+480 1. Three ex officio, nonvoting members to include:
+481 a. The Secretary of Health Care Administration or a
+482 designee with expertise in health care services.
+483 b. The Secretary of Management Services or a designee with
+484 expertise in state employee benefits.
+485 c. The commissioner of the Office of Insurance Regulation
+486 or a designee with expertise in insurance regulation.
+487 2. Four members appointed by and serving at the pleasure
+488 of the Governor.
+489 3. Four members appointed by and serving at the pleasure
+490 of the President of the Senate.
+491 4. Four members appointed by and serving at the pleasure
+492 of the Speaker of the House of Representatives.
+493 5. Board members may not include insurers, health
+494 insurance agents or brokers, health care providers, health
+495 maintenance organizations, prepaid service providers, or any
+496 other entity, affiliate or subsidiary of eligible vendors.
+497 (b) Members shall be appointed for terms of up to 3 years.
+498 Any member is eligible for reappointment. A vacancy on the board
+499 shall be filled for the unexpired portion of the term in the
+500 same manner as the original appointment.
+Page 20 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+501 (c) The board shall select a chief executive officer for
+502 the corporation who shall be responsible for the selection of
+503 such other staff as may be authorized by the corporation's
+504 operating budget as adopted by the board.
+505 (d) Board members are entitled to receive, from funds of
+506 the corporation, reimbursement for per diem and travel expenses
+507 as provided by s. 112.061. No other compensation is authorized.
+508 (e) There is no liability on the part of, and no cause of
+509 action shall arise against, any member of the board or its
+510 employees or agents for any action taken by them in the
+511 performance of their powers and duties under this section.
+512 (f) The board shall develop and adopt bylaws and other
+513 corporate procedures as necessary for the operation of the
+514 corporation and carrying out the purposes of this section. The
+515 bylaws shall:
+516 1. Specify procedures for selection of officers and
+517 qualifications for reappointment, provided that no board member
+518 shall serve more than 9 consecutive years.
+519 2. Require an annual membership meeting that provides an
+520 opportunity for input and interaction with individual
+521 participants in the program.
+522 3. Specify policies and procedures regarding conflicts of
+523 interest, including the provisions of part III of chapter 112,
+524 which prohibit a member from participating in any decision that
+525 would inure to the benefit of the member or the organization
+Page 21 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+526 that employs the member. The policies and procedures shall also
+527 require public disclosure of the interest that prevents the
+528 member from participating in a decision on a particular matter.
+529 (g) The corporation may exercise all powers granted to it
+530 under chapter 617 necessary to carry out the purposes of this
+531 section, including, but not limited to, the power to receive and
+532 accept grants, loans, or advances of funds from any public or
+533 private agency and to receive and accept from any source
+534 contributions of money, property, labor, or any other thing of
+535 value to be held, used, and applied for the purposes of this
+536 section.
+537 (h) The corporation shall:
+538 1. Determine eligibility of employers, vendors,
+539 individuals, and agents in accordance with subsection (4).
+540 2. Establish procedures necessary for the operation of the
+541 program, including, but not limited to, procedures for
+542 application, enrollment, risk assessment, risk adjustment, plan
+543 administration, performance monitoring, and consumer education.
+544 3. Arrange for collection of contributions from
+545 participating employers and individuals.
+546 4. Arrange for payment of premiums and other appropriate
+547 disbursements based on the selections of products and services
+548 by the individual participants.
+549 5. Establish criteria for disenrollment of participating
+550 individuals based on failure to pay the individual's share of
+Page 22 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+551 any contribution required to maintain enrollment in selected
+552 products.
+553 6. Establish criteria for exclusion of vendors pursuant to
+554 paragraph (4)(d).
+555 7. Develop and implement a plan for promoting public
+556 awareness of and participation in the program.
+557 8. Secure staff and consultant services necessary to the
+558 operation of the program.
+559 9. Establish policies and procedures regarding
+560 participation in the program for individuals, vendors, health
+561 insurance agents, and employers.
+562 10. Provide for the operation of a toll-free hotline to
+563 respond to requests for assistance.
+564 11. Provide for initial, open, and special enrollment
+565 periods.
+566 12. Evaluate options for employer participation which may
+567 conform with common insurance practices.
+568 (11)(12) REPORT.—Beginning in the 2027-2028 2009-2010
+569 fiscal year, the corporation shall submit by February 1 an
+570 annual report to the Governor, the President of the Senate, and
+571 the Speaker of the House of Representatives documenting the
+572 corporation's activities in compliance with the duties
+573 delineated in this section.
+574 (12)(13) PROGRAM INTEGRITY.—To ensure program integrity
+575 and to safeguard the financial transactions made under the
+Page 23 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+576 auspices of the program, the corporation is authorized to
+577 establish qualifying criteria and certification procedures for
+578 vendors, require performance bonds or other guarantees of
+579 ability to complete contractual obligations, monitor the
+580 performance of vendors, and enforce the agreements of the
+581 program through financial penalty or disqualification from the
+582 program.
+583 (13)(14) EXEMPTION FROM PUBLIC RECORDS REQUIREMENTS.—
+584 (a) Definitions.—For purposes of this subsection, the
+585 term:
+586 1. "Buyer's representative" means a participating
+587 insurance agent as described in paragraph (4)(g).
+588 2. "Enrollee" means an employer who is eligible to enroll
+589 in the program pursuant to paragraph (4)(a).
+590 3. "Participant" means an individual who is eligible to
+591 participate in the program pursuant to paragraph (4)(b).
+592 4. "Proprietary confidential business information" means
+593 information, regardless of form or characteristics, that is
+594 owned or controlled by a vendor requesting confidentiality under
+595 this section; that is intended to be and is treated by the
+596 vendor as private in that the disclosure of the information
+597 would cause harm to the business operations of the vendor; that
+598 has not been disclosed unless disclosed pursuant to a statutory
+599 provision, an order of a court or administrative body, or a
+600 private agreement providing that the information may be released
+Page 24 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+601 to the public; and that is information concerning:
+602 a. Business plans.
+603 b. Internal auditing controls and reports of internal
+604 auditors.
+605 c. Reports of external auditors for privately held
+606 companies.
+607 d. Client and customer lists.
+608 e. Potentially patentable material.
+609 f. A trade secret as defined in s. 688.002.
+610 5. "Vendor" means a participating insurer or other
+611 provider of services as described in paragraph (4)(d).
+612 (b) Public record exemptions.—
+613 1. Personal identifying information of an enrollee or
+614 participant who has applied for or participates in the Florida
+615 Employee Health Choices Program is confidential and exempt from
+616 s. 119.07(1) and s. 24(a), Art. I of the State Constitution.
+617 2. Client and customer lists of a buyer's representative
+618 held by the corporation are confidential and exempt from s.
+619 119.07(1) and s. 24(a), Art. I of the State Constitution.
+620 3. Proprietary confidential business information held by
+621 the corporation is confidential and exempt from s. 119.07(1) and
+622 s. 24(a), Art. I of the State Constitution.
+623 (c) Retroactive application.—The public record exemptions
+624 provided for in paragraph (b) apply to information held by the
+625 corporation before, on, or after the effective date of this
+Page 25 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+626 exemption.
+627 (d) Authorized release.—
+628 1. Upon request, information made confidential and exempt
+629 pursuant to this subsection must shall be disclosed to:
+630 a. Another governmental entity in the performance of its
+631 official duties and responsibilities.
+632 b. Any person who has the written consent of the program
+633 applicant.
+634 c. The Florida Kidcare program for the purpose of
+635 administering the program authorized in ss. 409.810-409.821.
+636 2. Paragraph (b) does not prohibit a participant's legal
+637 guardian from obtaining confirmation of coverage, dates of
+638 coverage, the name of the participant's health plan, and the
+639 amount of premium being paid.
+640 (e) Penalty.—A person who knowingly and willfully violates
+641 this subsection commits a misdemeanor of the second degree,
+642 punishable as provided in s. 775.082 or s. 775.083.
+643 Section 2. Paragraph (a) of subsection (2) of section
+644 409.821, Florida Statutes, is amended to read:
+645 409.821 Florida Kidcare program public records exemption.—
+646 (2)(a) Upon request, such information shall be disclosed
+647 to:
+648 1. Another governmental entity in the performance of its
+649 official duties and responsibilities;
+650 2. The Department of Revenue for purposes of administering
+Page 26 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+651 the state Title IV-D program;
+652 3. The Florida Employee Health Choices, Inc., for the
+653 purpose of administering the program authorized pursuant to s.
+654 408.910; or
+655 4. Any person who has the written consent of the program
+656 applicant.
+657 Section 3. Subsection (3) of section 409.9122, Florida
+658 Statutes, is amended to read:
+659 409.9122 Medicaid managed care enrollment; HIV/AIDS
+660 patients; procedures; data collection; accounting; information
+661 system; medical loss ratio.—
+662 (3) The agency shall develop a process to enable any
+663 recipient with access to employer-sponsored health care coverage
+664 to opt out of all eligible plans in the Medicaid program and to
+665 use Medicaid financial assistance to pay for the recipient's
+666 share of cost in any such employer-sponsored coverage.
+667 Contingent on federal approval, the agency shall also enable
+668 recipients with access to other insurance or related products
+669 that provide access to health care services created pursuant to
+670 state law, including any plan or product available pursuant to
+671 the Florida Employee Health Choices Program or any health
+672 exchange, to opt out. The amount of financial assistance
+673 provided for each recipient may not exceed the amount of the
+674 Medicaid premium that would have been paid to a plan for that
+675 recipient.
+Page 27 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+676 Section 4. Subsection (4) of section 409.977, Florida
+677 Statutes, is amended to read:
+678 409.977 Enrollment.—
+679 (4) The agency shall develop a process to enable a
+680 recipient with access to employer-sponsored health care coverage
+681 to opt out of all managed care plans and to use Medicaid
+682 financial assistance to pay for the recipient's share of the
+683 cost in such employer-sponsored coverage. The agency shall also
+684 enable recipients with access to other insurance or related
+685 products providing access to health care services created
+686 pursuant to state law, including any product available under the
+687 Florida Employee Health Choices Program, or any health exchange,
+688 to opt out. The amount of financial assistance provided for each
+689 recipient may not exceed the amount of the Medicaid premium that
+690 would have been paid to a managed care plan for that recipient.
+691 The agency shall require Medicaid recipients with access to
+692 employer-sponsored health care coverage to enroll in that
+693 coverage and use Medicaid financial assistance to pay for the
+694 recipient's share of the cost for such coverage. The amount of
+695 financial assistance provided for each recipient may not exceed
+696 the amount of the Medicaid premium that would have been paid to
+697 a managed care plan for that recipient. The agency may exceed
+698 this amount for a high-cost patient if it determines it would be
+699 cost effective to do so. The agency shall annually, beginning
+700 June 30, 2026, submit an annual report on the program to the
+Page 28 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 141 2026
+701 Legislature including, but not limited to, the level of
+702 participation; participant demographics, income levels, type of
+703 employer-based coverage, and amount of health care utilization;
+704 and a cost-effectiveness analysis both in the aggregate and on
+705 an individual patient basis.
+706 Section 5. This act shall take effect July 1, 2026.
+Page 29 of 29
+CODING: Words stricken are deletions; words underlined are additions.
+hb141-00
+
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES A A a H H a a a p p p r r p r f C a C d c c c 4 p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES e  B S   4  ( s o h f a h t i f h a c e h a L P]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( F t  ( i c o a  ( o  ( h  ( a c  ( s e i h  (  ( C  ( c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES f m  ( p  ( w h d d l h l  ( P  ( H m h c e i m c p  (]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( i  1 p  2  3  4 o  5 r  (  1 v  2 e b a  3 w  4  ( m p  ( r]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( r  (  (  ( p i i  ( t c t  ( i  1  2 c  ( e c t  1  2 e I]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES p f h  3 p e  4 t p  5 a  6  7  8 t l  ( p a  1 i c  2 o b]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES p  3 p a a  4 p o s  5 l p p s  6 g i c h  7 i c h  A]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t a o t e p w s  ( v c T  1  2  3  4  5  ( e c t  1 c n p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  2 e  3 s t  4 c  5 p  5 e  6 t  ( c r i t s i s c r b b]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES s a e  1  2 t  3 p  4 f  (  ( t  1  2  3  4  5  6 o  7  ( c o c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( t f  ( c a a  ( a i  ( s p s b 2 f a  ( s h e a m t]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES I p a p b  ( d t p  ( m e  ( b u d  ( e p c d c  ( a c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES l t i p t  (  ( o w a  ( p  ( t b p v a d D t r i  (  (]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES s s C c  ( i p u c  ( c c p a  ( C o 1 c a a S p 1 r]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES M  ( b o v o B w e b r 1  1  2  3 R  4 e o  ( u s a p c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES v s  ( a e t  ( c c m  1 q m  2 o p  3 i m t m d p  4  5]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES o s o c  ( p p p p  1 p v t  2  3 e  4 b p  5 f r  ( p f]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES r  1 t i b f p  2 b m T w n  ( p a f  ( o i  ( C o 1 c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a a  ( o  1  a d  b e  c o  2 o  3 o  4 o  5 i m o  ( A s s]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( t s o  ( t a  ( a e p  ( c c b  1 q s  2 o p  3 i w w]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t r m  ( u s a p c v s  (  1 i  2 p a a  3 p  4 d b  5 i]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a p  6 p  7 a  8 o  9 p i  1 r  1 p  1 c  ( f a t c d  ( a]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a e v a p p p  (  ( t  1 i  2 i  3 p  4 i o t v w h p p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t  a  b a  c c  d  e  f  5 p  (  1 p E s  2 h 1  3 t s  ( p c]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES e  (  1 p  a o  b a  c a  2 g c a  ( t pS   4  ( t  1 o  2]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES t  3 p 4  4 aS   4 p s  ( r t u s C r t s t e p M r]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVESS   4  ( r t f c e p p F t r w T e c r f t a t c J]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES L p e a aS  ]

@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - S 44 Filed
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Florida Senate - 2026 SB 44 By Senator Rouson 16-00083-26 202644__ 1 A bill to be entitled 2 An act relating to electronic payment of public 3 records fees; amending s. 119.07, F.S.; requiring an 4 agency subject to ch. 119, F.S., to provide an 5 electronic option for payment of fees associated with 6 a public records request; providing an effective date. 7 8 Be It Enacted by the Legislature of the State of Florida: 9 10 Section 1.âPresent subsections (5) through (9) of section 11 119.07, Florida Statutes, are redesignated as subsections (6) 12 through (10), respectively, and a new subsection (5) is added to 13 that section, to read: 14 119.07âInspection and copying of records; photographing 15 public records; fees; exemptions.â 16 (5)âAn agency shall provide an electronic option for the 17 payment of any fee associated with a request to inspect or copy 18 public records. 19 Section 2.âThis act shall take effect July 1, 2026.
+
+
+================================================================================
+
+Raw Text:
+Florida Senate - 2026 SB 44 By Senator Rouson 16-00083-26 202644__ 1 A bill to be entitled 2 An act relating to electronic payment of public 3 records fees; amending s. 119.07, F.S.; requiring an 4 agency subject to ch. 119, F.S., to provide an 5 electronic option for payment of fees associated with 6 a public records request; providing an effective date. 7 8 Be It Enacted by the Legislature of the State of Florida: 9 10 Section 1.âPresent subsections (5) through (9) of section 11 119.07, Florida Statutes, are redesignated as subsections (6) 12 through (10), respectively, and a new subsection (5) is added to 13 that section, to read: 14 119.07âInspection and copying of records; photographing 15 public records; fees; exemptions.â 16 (5)âAn agency shall provide an electronic option for the 17 payment of any fee associated with a request to inspect or copy 18 public records. 19 Section 2.âThis act shall take effect July 1, 2026.
