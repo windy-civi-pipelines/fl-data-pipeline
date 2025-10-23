@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 48",
+  "title": "Housing",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure",
+    "relations",
+    "social welfare"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Housing;  Authorizing a landlord to accept reusable tenant screening reports and require a specified statement; defining the term \u201cprimary dwelling unit\u201d; requiring, rather than authorizing, local governments to adopt, by a specified date, an ordinance to allow accessory dwelling units in certain areas; requiring the Office of Program Policy Analysis and Government Accountability to evaluate the efficacy of using mezzanine finance and the potential of tiny homes for specified purposes, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-09-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Community Affairs; Appropriations Committee on Transportation, Tourism, and Economic Development; Rules",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gaetz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gaetz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Osgood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 48 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/48/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

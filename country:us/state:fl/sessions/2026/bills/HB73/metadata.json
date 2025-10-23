@@ -1,0 +1,143 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 73",
+  "title": "Restoration of Rights Voting Database",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "executive branch"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Restoration of Rights Voting Database;  Requires Florida Commission on Offender Review to develop & maintain database containing certain information for certain purpose; requires certain governmental entities to provide certain information to commission; requires DMS, acting through Florida Digital Service, to provide certain technical assistance to commission; requires commission to make available to public database on Internet website by date certain; requires commission to update database monthly & publish certain information on website; requires commission to provide to Governor & Legislature comprehensive plan by date certain; provides requirements for comprehensive plan; provides that person who takes certain actions in reasonable reliance on database may not be charged with certain violations of criminal law."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-09-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Information Technology Budget & Policy Subcommittee",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Criminal Justice Subcommittee",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Government Operations Subcommittee",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Now in Information Technology Budget & Policy Subcommittee",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Robinson, F.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robinson, F.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 73 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/73/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "20.32",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/20.32"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/73/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

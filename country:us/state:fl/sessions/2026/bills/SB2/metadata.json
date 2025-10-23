@@ -1,0 +1,92 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 2",
+  "title": "Relief of the Estate of Danielle Maudsley by the Department of Highway Safety and Motor Vehicles",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "(claims bills)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relief of the Estate of Danielle Maudsley by the Department of Highway Safety and Motor Vehicles;  Providing for the relief of the Estate of Danielle Maudsley; providing an appropriation to compensate the estate for Ms. Maudsley\u2019s death as a result of the alleged negligence of Trooper Daniel Cole and the Florida Highway Patrol, a division of the Department of Highway Safety and Motor Vehicles; providing a limitation on the payment of compensation and attorney fees, etc.\r\n    \r\n        CLAIM WITH APPROPRIATION:\r\n        $1,750,000"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Special Master on Claim Bills; Judiciary; Appropriations Committee on Transportation, Tourism, and Economic Development; Appropriations",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jones",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 2 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/2/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/2/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/2/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

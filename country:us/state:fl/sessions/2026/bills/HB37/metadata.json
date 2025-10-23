@@ -1,0 +1,142 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 37",
+  "title": "Removal, Storage, and Cleanup of Electric Vehicles",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "motor vehicles",
+    "municipalities",
+    "real and personal property",
+    "relations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Removal, Storage, and Cleanup of Electric Vehicles;  Requires counties to establish daily administration fee for proper storage of certain electric vehicles; authorizes municipalities to establish daily administration fee for proper storage of certain electric vehicles; provides maximum amount for such fees; defines \"daily administration fee\" & \"proper storage\"; provides that motor vehicle insurers are not required to pay certain costs; provides that reasonable fee for service includes any daily administration fee."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-09-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Intergovernmental Affairs Subcommittee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Industries & Professional Activities Subcommittee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Now in Intergovernmental Affairs Subcommittee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nix",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 37 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/37/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "125.0103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/125.0103"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "166.043",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/166.043"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/37/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

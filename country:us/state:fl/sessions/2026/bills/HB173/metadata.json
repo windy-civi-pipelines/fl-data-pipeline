@@ -1,0 +1,229 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 173",
+  "title": "Parental Rights",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "k",
+    "public health",
+    "regulation of professions and occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Parental Rights;  Requires parental consent for minor's treatment for certain diseases; revises informed consent requirements; requires consent from parent or guardian for certain services provided by mobile response team; revises responsibility for cost of substance abuse services, confidentiality requirements, & requirements for voluntary admission for substance abuse impairment services; requires school district to provide parents with specified information before district administers certain questionnaires or forms to students; requires school district to give parent opportunity to opt his or her student out of such questionnaire or form; revises exceptions for certain parental rights; creates parental right to review, inspect, & consent to survey or questionnaire provided to parent's minor child; creates parental right to know certain information about survey or questionnaire at time of consent; creates parental right to consent in writing to use of biofeedback device on parent's minor child; defines \"biofeedback device\"; requires that results from use of such device be provided to parent; requires that such results be held as confidential medical record; revises exceptions for specified requirements of parental consent."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Education & Employment Committee",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kendall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kendall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 173 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/173/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "381.0051",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/381.0051"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "384.30",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/384.30"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.459",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.459"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.4784",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.4784"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.495",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.495"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "397.431",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/397.431"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "397.501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/397.501"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "397.601",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/397.601"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "408.813",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/408.813"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "456.072",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.072"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1001.42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1001.42"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1014.04",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1014.04"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1014.06",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1014.06"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/173/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

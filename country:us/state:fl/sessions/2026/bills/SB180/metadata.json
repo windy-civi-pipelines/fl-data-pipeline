@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 180",
+  "title": "Sale, Transfer, and Storage of Firearms",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "crimes",
+    "criminal procedure and corrections",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Sale, Transfer, and Storage of Firearms;  Revising the standard by which adults and minors are considered criminally negligent in the storage of a firearm under specified circumstances; revising an exception to the prohibition on storing or leaving a loaded firearm within the reach or easy access of a minor who obtains it and commits a specified violation; revising the definition of the term \u201cminor\u201d; revising requirements for the safe storage of loaded firearms; providing criminal penalties if a person is found to have failed to properly secure or store a firearm, resulting in a minor gaining access to the weapon, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Polsky",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Polsky\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 180 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/180/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/180/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "409.175",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.175"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "784.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.05"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "790.115",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/790.115"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "790.174",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/790.174"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "790.175",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/790.175"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.0022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.0022"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/180/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

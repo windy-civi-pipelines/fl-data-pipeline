@@ -1,0 +1,80 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 172",
+  "title": "Pregnant Women In Custody",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Pregnant Women In Custody;  Citing this act as \"Ava's law\"; requiring that, upon her request, every female arrested and not released on bond within 72 hours after arrest be administered a pregnancy test within a specified timeframe; requiring each municipal detention facility or county detention facility to notify each arrested female upon booking at the facility of her right to request a pregnancy test; defining the term \u201cpregnant woman\u201d; requiring the court to consider specified factors in determining whether to grant a pregnant woman\u2019s request to stay the beginning of the period of incarceration, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jones",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 172 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/172/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/172/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/172/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

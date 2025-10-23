@@ -1,0 +1,307 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 32",
+  "title": "Injunctions for Protection in Cases of Repeat or Serious Violence",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure",
+    "crimes",
+    "criminal procedure and corrections",
+    "domestic relations",
+    "judicial branch",
+    "public health",
+    "public officers, employees, and records"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Injunctions for Protection in Cases of Repeat or Serious Violence;  Replacing the term \u201crepeat violence\u201d with the term \u201crepeat or serious violence\u201d; defining the term \u201crepeat or serious violence\u201d; expanding the grounds for an existing cause of action for an injunction of protection to include serious violence in addition to repeat violence; revising the name of an existing cause of action to an injunction for protection in cases of repeat or serious violence, rather than in cases of repeat violence, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-09-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Criminal Justice; Appropriations Committee on Criminal and Civil Justice; Fiscal Policy",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sharief",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sharief\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 32 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/32/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/32/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "28.2221",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.2221"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "44.407",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/44.407"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.1825",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.1825"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.1827",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.1827"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "119.0714",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/119.0714"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.4597",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.4597"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.4598",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.4598"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.2901",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.2901"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.30",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.30"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.311"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.313"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.315",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.315"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "784.046",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.046"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "784.047",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.047"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "784.048",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.048"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "790.06",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/790.06"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "790.065",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/790.065"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "790.401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/790.401"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "901.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/901.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "901.41",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/901.41"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.141",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.141"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.1425",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.1425"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.1427",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.1427"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "934.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/934.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "934.425",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/934.425"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.05"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/32/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

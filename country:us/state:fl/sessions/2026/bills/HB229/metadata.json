@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 229",
+  "title": "Violation of State Immigration Law",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "subject index",
+    "torts"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Violation of State Immigration Law ;  Requires FDLE to impose fine for certain violations; requires moneys be used for specified purpose; defines \"unauthorized alien\"; authorizes department to develop program to compensate certain persons; provides requirements to receive compensation; defines \"unauthorized alien\"; creates cause of action against certain local governmental entities & law enforcement agencies; requires plaintiff to prove certain elements by preponderance of evidence; provides that state waives sovereign immunity for liability in certain circumstances."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jacques",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jacques\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 229 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/229/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "768.28",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/768.28"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "908.11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/908.11"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/229/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

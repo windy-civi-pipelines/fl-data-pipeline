@@ -1,0 +1,187 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 166",
+  "title": "Parental Rights",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "k",
+    "public health",
+    "regulation of professions and occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Parental Rights;  Revising requirements for the provision of maternal health and contraceptive information and services to minors; requiring consent from a parent or guardian for a minor\u2019s treatment for certain diseases; repealing a provision relating to minors\u2019 access to outpatient crisis intervention services and treatment; requiring school districts to provide parents with specified information before the district administers certain questionnaires or forms to students, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Grall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Grall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 166 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/166/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/166/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "381.0051",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/381.0051"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "384.30",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/384.30"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.459",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.459"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.4784",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.4784"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.495",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.495"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "397.431",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/397.431"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "397.501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/397.501"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "397.601",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/397.601"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "408.813",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/408.813"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "456.072",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.072"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1001.42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1001.42"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1014.04",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1014.04"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1014.06",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1014.06"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/166/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

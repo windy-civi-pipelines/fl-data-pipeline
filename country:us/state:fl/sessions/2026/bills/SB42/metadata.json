@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 42",
+  "title": "Specific Medical Diagnoses in Child Protective Investigations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "judicial branch"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Specific Medical Diagnoses in Child Protective Investigations;  Providing an exception to the requirement that the Department of Children and Families immediately forward certain allegations to a law enforcement agency; requiring a child protective investigator to inform the subject of an investigation of a certain duty; requiring Child Protection Teams to consult with a licensed physician or advanced practice registered nurse when evaluating certain reports; authorizing, under a certain circumstance, a parent or legal custodian from whom a child was removed to request specified examinations of the child, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-09-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Children, Families, and Elder Affairs; Appropriations Committee on Health and Human Services; Fiscal Policy",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sharief",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sharief\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 42 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "39.301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.301"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.303"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.304"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/42/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

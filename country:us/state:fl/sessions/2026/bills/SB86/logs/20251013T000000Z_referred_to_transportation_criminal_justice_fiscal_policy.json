@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Transportation; Criminal Justice; Fiscal Policy",
+    "date": "2025-10-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 86"
+}

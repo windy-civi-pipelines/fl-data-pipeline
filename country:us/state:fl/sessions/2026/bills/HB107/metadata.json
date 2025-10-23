@@ -1,0 +1,134 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 107",
+  "title": "Termination of Rental Agreement by Victim of Domestic Violence, Dating Violence, Sexual Violence, or Stalking",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Termination of Rental Agreement by Victim of Domestic Violence, Dating Violence, Sexual Violence, or Stalking;  Prohibits landlord from evicting tenant or terminating rental agreement because tenant or tenant's minor child is victim of actual or threatened domestic violence, dating violence, sexual violence, or stalking; specifies that rental agreement may not contain certain provisions; authorizes victim of such actual or threatened violence or stalking to terminate rental agreement; requires certain documentation & written notice to landlord; provides for liability for rent for both tenant & perpetrator, if applicable; specifies that tenant does not forfeit certain money paid to landlord for terminating rental agreement; requires landlord to change locks of dwelling unit within specified time period; authorizes tenant to change locks of dwelling unit; prohibits certain actions by landlord; authorizes filing of civil action & award of damages, fees, & costs; prohibits waiver of certain provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Civil Justice & Claims Subcommittee",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Now in Civil Justice & Claims Subcommittee",
+      "date": "2025-10-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 107 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/107/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/107/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

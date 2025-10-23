@@ -1,0 +1,92 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 10",
+  "title": "Relief of Maury Hernandez by the Department of Corrections",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "(claims bills)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relief of Maury Hernandez by the Department of Corrections;  Providing for the relief of Maury Hernandez; providing an appropriation to compensate former Broward County Sheriff\u2019s Deputy Maury Hernandez for injuries and damages sustained as a consequence of the Department of Corrections\u2019 failures to enforce probation laws, regulations, and policies; providing legislative intent that certain liens be waived; providing a limitation on the payment of compensation and attorney fees, etc.\r\n    \r\n        CLAIM WITH APPROPRIATION:\r\n        $5,000,000"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Special Master on Claim Bills; Judiciary; Appropriations Committee on Criminal and Civil Justice; Appropriations",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rodriguez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodriguez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 10 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/10/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/10/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/10/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}

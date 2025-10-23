@@ -1,0 +1,92 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 18",
+  "title": "Relief of the Estate of M.N. by the Broward County Sheriff\u2019s Office",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "(claims bills)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relief of the Estate of M.N. by the Broward County Sheriff\u2019s Office;  Providing for the relief of the Estate of M.N. by the Broward County Sheriff\u2019s Office; providing an appropriation to compensate the estate for injuries sustained by M.N. and her subsequent death as a result of the negligence of the Broward County Sheriff\u2019s Office; providing a limitation on compensation and the payment of attorney fees, etc.\r\n    \r\n        CLAIM:\r\n        $2,588,259"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Special Master on Claim Bills; Judiciary; Community Affairs; Rules",
+      "date": "2025-10-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Martin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Martin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 18 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/18/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/18/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/18/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T19:01:22Z"
+  }
+}
