@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 278",
+  "title": "Limitation on the Assessed Value of New Homestead Property",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "concurrent)",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Limitation on the Assessed Value of New Homestead Property;  Proposing amendments to the State Constitution to limit the assessed value of new homestead property established after a change of ownership which had an assessed value of less than a certain amount to no more than 150 percent of the assessed value of the property for the preceding year for ad valorem taxation purposes and to provide an effective date, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T19:43:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bernard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bernard\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 278 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/278/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/278/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/278/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T19:43:28Z"
+  }
+}

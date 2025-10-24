@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 282",
+  "title": "Limitation on the Assessed Value of Property Owned and Used for Commercial Purposes by Small Businesses",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "concurrent)",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Limitation on the Assessed Value of Property Owned and Used for Commercial Purposes by Small Businesses;  Proposing amendments to the State Constitution to limit the assessed value of real property owned and used for commercial purposes by a small business for ad valorem taxation purposes so that such assessed value may not exceed 3 percent or the percentage change in the Consumer Price Index, whichever is lower, and to provide an effective date, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T19:43:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bernard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bernard\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 282 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/282/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/282/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/282/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T19:43:28Z"
+  }
+}
