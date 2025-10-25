@@ -30,6 +30,18 @@
       "_processing": {
         "log_file_created": "2025-10-24T19:43:28Z"
       }
+    },
+    {
+      "description": "Withdrawn prior to introduction",
+      "date": "2025-10-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:18:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -113,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-24T19:43:28Z"
+    "logs_latest_update": "2025-10-25T00:18:36Z"
   }
 }

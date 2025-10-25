@@ -1,0 +1,78 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 290",
+  "title": "Department of Agriculture and Consumer Services",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Department of Agriculture and Consumer Services;  Prohibiting counties and municipalities, respectively, from enacting or enforcing any law that restricts or prohibits the use of gasoline-powered farm equipment or gasoline-powered landscape equipment or that distinguishes such equipment from any other equipment under certain circumstances; requiring the Acquisition and Restoration Council to determine whether certain surplused lands are suitable for bona fide agricultural purposes; establishing the Food Animal Veterinary Medicine Loan Repayment Program; revising the Florida Forest Service powers, authority, and duties; authorizing the Forest Service to manage the Welaka Training Center; establishing the Farmers Feeding Florida Program for specified purposes; limiting the number of incorporated state fair associations per county; prohibiting the possession, manufacture, sale, importation, distribution, or use of a signal jamming device, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:18:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Truenow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Truenow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 290 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/290/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/290/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/290/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T00:18:36Z"
+  }
+}
