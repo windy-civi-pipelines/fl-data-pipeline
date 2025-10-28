@@ -41,6 +41,16 @@
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Community Affairs, 11/04/25, 3:30 pm, 37 Senate Building",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T00:01:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-10-28T00:01:02Z",
     "text_extraction_latest_update": "2025-10-23T19:19:20.840236Z"
   }
 }

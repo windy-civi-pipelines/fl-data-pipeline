@@ -41,6 +41,16 @@
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Military and Veterans Affairs, Space, and Domestic Security, 11/04/25, 10:00 am, 301 Senate Building",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T00:01:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,7 +81,23 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "803306 - Amendment (Delete All) to S 96 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/Amendment/803306/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/Amendment/803306/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -87,7 +113,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-10-28T00:01:02Z",
     "text_extraction_latest_update": "2025-10-23T19:12:41.309465Z"
   }
 }

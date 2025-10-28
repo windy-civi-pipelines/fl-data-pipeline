@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SPB 7002",
+  "title": "OGSR/Department of Military Affairs/United States Department of Defense",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "OGSR/Department of Military Affairs/United States Department of Defense;  Amending a provision which provides an exemption from public records requirements for certain information held by the Department of Military Affairs stored in a United States Department of Defense system of records, transmitted using a United States Department of Defense network or communications device, or pertaining to the United States Department of Defense; deleting the scheduled repeal of the exemption, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Submitted for consideration by Military and Veterans Affairs, Space, and Domestic Security",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T00:01:02Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Military and Veterans Affairs, Space, and Domestic Security, 11/04/25, 10:00 am, 301 Senate Building",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T00:01:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Military and Veterans Affairs, Space, and Domestic Security",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Military and Veterans Affairs, Space, and Domestic Security\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 7002 pb",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7002/BillText/pb/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7002/BillText/pb/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7002/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-28T00:01:02Z"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 265",
+  "title": "Prohibition of Pyramid Promotional Schemes",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "crimes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Prohibition of Pyramid Promotional Schemes;  Prohibits person from establishing, promoting, operating, or participating in pyramid promotional scheme; requires DLA to issue & serve complaint & cease & desist order; establishes procedures for cease & desist orders; provides for restitution; authorizes DLA to apply for injunction; provides requirements for injunction; authorizes court to appoint receiver; provides for powers & duties of such receivership; authorizes court to issue order to stay certain actions & requires such actions be assigned to judge who appointed receiver; provides that specified provisions & penalties are in addition to civil, administrative, or criminal actions provided by law."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T00:01:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chamberlin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chamberlin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 265 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/265/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "849.091",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/849.091"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/265/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-28T00:01:02Z"
+  }
+}

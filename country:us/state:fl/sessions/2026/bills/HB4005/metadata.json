@@ -1,0 +1,76 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 4005",
+  "title": "City of Naples Airport Authority, Collier County",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "local bills"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "City of Naples Airport Authority, Collier County;  Provides for City of Naples Airport Authority memberships by election rather than by appointment; removes provisions relating to authority members' duties & responsibilities; removes provisions that prohibit officers and employees of the city from being authority members; removes provisions that prohibit authority members from receiving compensation."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T00:01:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Botana",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Botana\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 4005 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4005/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/4005/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-28T00:01:02Z"
+  }
+}
