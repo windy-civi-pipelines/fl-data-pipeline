@@ -1,0 +1,121 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 277",
+  "title": "Violent Criminal Offenses",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "domestic relations",
+    "insurance",
+    "railroads and other regulated utilities",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Violent Criminal Offenses;  Requires emergency communications state plan to include system to flag specified addresses; requires emergency medical technicians, paramedics, & firefighters to have training in domestic violence, dating violence, & strangulation; authorizes & requires court to order electronic monitoring in domestic & dating violence cases; authorizes certain persons to participate in domestic violence diversion program; provides requirements for such program; revises information law enforcement officer must provide to victim of alleged incident of domestic or dating violence; requires, if lethality assessment is performed, law enforcement officer or designated liaison to follow up with victim in a certain manner within specified amount of time; requires certain law enforcement officers to have their body camera turned on & recording when investigating allegation of domestic & dating violence; revises petitions for injunctions for domestic & dating violence; provides enhancement penalties for violation of injunction for protection against domestic & dating violence; increases dollar amounts for relocation assistance for victims of domestic violence."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T00:38:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tendrich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tendrich\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 277 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/277/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "365.171",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/365.171"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "401.27",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/401.27"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "633.408",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/633.408"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.28",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.28"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.281",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.281"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/277/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-29T00:38:18Z"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 269",
+  "title": "Victims of Domestic Violence and Dating Violence",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "domestic relations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Victims of Domestic Violence and Dating Violence;  Creates HAVEN Coordinating Council within FDLE; requires department to provide certain services; specifies composition of coordinating council; provides requirements for member appointments, election of chair, & meetings; requires that member appointments be completed & first meeting of coordinating council be held by dates certain; specifies duties of coordinating council; authorizes counties to create county-level HAVEN councils; authorizes county-level HAVEN councils to take certain actions; requires coordinating council to provide certain quarterly reports; requires coordinating council to annually submit certain report to specified entities & persons, Governor, & Legislature by specified date; requires county-level HAVEN councils to annually submit certain report to FDLE & coordinating council by specified date; provides for funding of coordinating council; specifies that act supersedes certain local regulations; provides for legislative review & repeal of coordinating council; provides that victims of dating violence may apply to participate in Attorney General's address confidentiality program; requires Attorney General to designate certain entities to assist victims of dating violence applying to be address confidentiality program participants."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T00:38:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gossett-Seidman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 269 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/269/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/269/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-29T00:38:18Z"
+  }
+}

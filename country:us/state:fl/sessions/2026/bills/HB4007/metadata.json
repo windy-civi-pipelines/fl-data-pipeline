@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 4007",
+  "title": "Martin County",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "local bills"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Martin County ;  Requires Martin County Board of County Commissioners to create by ordinance process for distribution of funds from County Health Care Fund to all licensed hospitals in county; provides criteria to be qualified as indigent residents of county, for purpose of receiving county payments for hospital care; removes provisions relating to County Health Care Review Board."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T00:38:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Snyder",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Snyder\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 4007 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4007/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "1965-1906",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/1965/1906"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "1965-1906",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/1965/1906"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "1965-1907",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/1965/1907"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "1967-1702",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/1967/1702"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/4007/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-29T00:38:18Z"
+  }
+}

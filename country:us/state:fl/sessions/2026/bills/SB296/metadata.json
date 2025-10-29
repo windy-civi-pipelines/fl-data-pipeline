@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 296",
+  "title": "Victims of Domestic Violence and Dating Violence",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "domestic relations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Victims of Domestic Violence and Dating Violence;  Creating the \u201cHelping Abuse Victims Escape Now (HAVEN) Act\u201d; creating the HAVEN Coordinating Council within the Department of Law Enforcement; authorizing counties to create county-level HAVEN councils; authorizing county-level HAVEN councils to take certain actions; defining the term \u201cdating violence\u201d; providing that victims of dating violence may apply to participate in the Attorney General\u2019s address confidentiality program, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T00:38:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 296 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/296/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/296/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/296/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-29T00:38:18Z"
+  }
+}

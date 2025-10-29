@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 302",
+  "title": "Nature-based Solutions for Improving Coastal Resilience",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "appropriations",
+    "reclamation, and use"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Nature-based Solutions for Improving Coastal Resilience;  Requiring the Department of Environmental Protection to adopt rules and guidelines for nature-based solutions for improving coastal resilience; requiring the department, in consultation with the Division of Insurance Agent and Agency Services of the Department of Financial Services, to conduct a statewide feasibility study regarding the value of nature-based solutions being used for a specified purpose, etc.\r\n    \r\n        APPROPRIATION:\r\n        $250,000"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T00:38:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Garcia",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 302 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/302/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-29T00:38:18Z"
+  }
+}
