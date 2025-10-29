@@ -1,0 +1,189 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 281 Filed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HB 281 2026
+1 A bill to be entitled
+2 An act relating to the use of artificial intelligence
+3 in psychological, clinical, counseling, and therapy
+4 services; creating ss. 490.016 and 491.019, F.S.;
+5 defining the term "artificial intelligence";
+6 prohibiting the use of artificial intelligence in the
+7 practice of psychology, clinical social work, marriage
+8 and family therapy, and mental health counseling;
+9 providing exceptions; providing an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Florida:
+12
+13 Section 1. Section 490.016, Florida Statutes, is created
+14 to read:
+15 490.016 Use of artificial intelligence.—
+16 (1) As used in this section, the term "artificial
+17 intelligence" means any machine-based system that varies in
+18 level of autonomy and that, for any explicit or implicit
+19 objective, infers from the inputs the system receives how to
+20 generate outputs, including, but not limited to, content,
+21 decisions, predictions, or recommendations that can influence
+22 physical or virtual environments.
+23 (2) Except as otherwise provided in this section, a
+24 licensee may not use artificial intelligence in the practice of
+25 psychology or school psychology. A licensee may use artificial
+Page 1 of 3
+CODING: Words stricken are deletions; words underlined are additions.
+hb281-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 281 2026
+26 intelligence to:
+27 (a) Assist in administrative or supplementary support
+28 services. Administrative and supplementary support services
+29 include, but are not limited to, all of the following:
+30 1. Managing appointment scheduling and reminders.
+31 2. Drafting general communications related to therapy
+32 logistics that do not involve therapeutic advice.
+33 3. Processing billing and insurance claims.
+34 4. Preparing and managing patient records.
+35 5. Analyzing data for operational purposes.
+36 (b) Record or transcribe a counseling or therapy session
+37 if a licensee obtains written, informed consent at least 24
+38 hours before the provision of services.
+39 Section 2. Section 491.019, Florida Statutes, is created
+40 to read:
+41 491.019 Use of artificial intelligence.—
+42 (1) As used in this section, the term "artificial
+43 intelligence" means any machine-based system that varies in
+44 level of autonomy and that, for any explicit or implicit
+45 objective, infers from the inputs the system receives how to
+46 generate outputs, including, but not limited to, content,
+47 decisions, predictions, or recommendations that can influence
+48 physical or virtual environments.
+49 (2) Except as otherwise provided in this section, a
+50 licensee, registered intern, or certificateholder may not use
+Page 2 of 3
+CODING: Words stricken are deletions; words underlined are additions.
+hb281-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 281 2026
+51 artificial intelligence in the practice of clinical social work,
+52 marriage and family therapy, or mental health counseling. A
+53 licensee, registered intern, or certificateholder may use
+54 artificial intelligence to:
+55 (a) Assist in administrative or supplementary support
+56 services. Administrative and supplementary support services
+57 include, but are not limited to, all of the following:
+58 1. Managing appointment scheduling and reminders.
+59 2. Drafting general communications related to therapy
+60 logistics that do not involve therapeutic advice.
+61 3. Processing billing and insurance claims.
+62 4. Preparing and managing patient records.
+63 5. Analyzing data for operational purposes.
+64 (b) Record or transcribe a counseling or therapy session
+65 if a licensee, registered intern, or certificateholder obtains
+66 written, informed consent at least 24 hours before the provision
+67 of services.
+68 Section 3. This act shall take effect July 1, 2026.
+Page 3 of 3
+CODING: Words stricken are deletions; words underlined are additions.
+hb281-00
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES A A i s d p p a p  B S   4  ( i l o g d p  ( l p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES i  ( s i  1  2 l  3  4  5  ( i hS   4  ( i l o g d p  ( l]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a m l a  ( s i  1  2 l  3  4  5  ( i w oS  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 281 2026
+1 A bill to be entitled
+2 An act relating to the use of artificial intelligence
+3 in psychological, clinical, counseling, and therapy
+4 services; creating ss. 490.016 and 491.019, F.S.;
+5 defining the term "artificial intelligence";
+6 prohibiting the use of artificial intelligence in the
+7 practice of psychology, clinical social work, marriage
+8 and family therapy, and mental health counseling;
+9 providing exceptions; providing an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Florida:
+12
+13 Section 1. Section 490.016, Florida Statutes, is created
+14 to read:
+15 490.016 Use of artificial intelligence.—
+16 (1) As used in this section, the term "artificial
+17 intelligence" means any machine-based system that varies in
+18 level of autonomy and that, for any explicit or implicit
+19 objective, infers from the inputs the system receives how to
+20 generate outputs, including, but not limited to, content,
+21 decisions, predictions, or recommendations that can influence
+22 physical or virtual environments.
+23 (2) Except as otherwise provided in this section, a
+24 licensee may not use artificial intelligence in the practice of
+25 psychology or school psychology. A licensee may use artificial
+Page 1 of 3
+CODING: Words stricken are deletions; words underlined are additions.
+hb281-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 281 2026
+26 intelligence to:
+27 (a) Assist in administrative or supplementary support
+28 services. Administrative and supplementary support services
+29 include, but are not limited to, all of the following:
+30 1. Managing appointment scheduling and reminders.
+31 2. Drafting general communications related to therapy
+32 logistics that do not involve therapeutic advice.
+33 3. Processing billing and insurance claims.
+34 4. Preparing and managing patient records.
+35 5. Analyzing data for operational purposes.
+36 (b) Record or transcribe a counseling or therapy session
+37 if a licensee obtains written, informed consent at least 24
+38 hours before the provision of services.
+39 Section 2. Section 491.019, Florida Statutes, is created
+40 to read:
+41 491.019 Use of artificial intelligence.—
+42 (1) As used in this section, the term "artificial
+43 intelligence" means any machine-based system that varies in
+44 level of autonomy and that, for any explicit or implicit
+45 objective, infers from the inputs the system receives how to
+46 generate outputs, including, but not limited to, content,
+47 decisions, predictions, or recommendations that can influence
+48 physical or virtual environments.
+49 (2) Except as otherwise provided in this section, a
+50 licensee, registered intern, or certificateholder may not use
+Page 2 of 3
+CODING: Words stricken are deletions; words underlined are additions.
+hb281-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 281 2026
+51 artificial intelligence in the practice of clinical social work,
+52 marriage and family therapy, or mental health counseling. A
+53 licensee, registered intern, or certificateholder may use
+54 artificial intelligence to:
+55 (a) Assist in administrative or supplementary support
+56 services. Administrative and supplementary support services
+57 include, but are not limited to, all of the following:
+58 1. Managing appointment scheduling and reminders.
+59 2. Drafting general communications related to therapy
+60 logistics that do not involve therapeutic advice.
+61 3. Processing billing and insurance claims.
+62 4. Preparing and managing patient records.
+63 5. Analyzing data for operational purposes.
+64 (b) Record or transcribe a counseling or therapy session
+65 if a licensee, registered intern, or certificateholder obtains
+66 written, informed consent at least 24 hours before the provision
+67 of services.
+68 Section 3. This act shall take effect July 1, 2026.
+Page 3 of 3
+CODING: Words stricken are deletions; words underlined are additions.
+hb281-00
+
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES A A i s d p p a p  B S   4  ( i l o g d p  ( l p]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES i  ( s i  1  2 l  3  4  5  ( i hS   4  ( i l o g d p  ( l]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a m l a  ( s i  1  2 l  3  4  5  ( i w oS  ]
