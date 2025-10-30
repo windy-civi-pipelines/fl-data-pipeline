@@ -10,23 +10,23 @@
     "and solicitations",
     "civil practice and procedure",
     "civil rights",
+    "criminal procedure and corrections",
     "industry",
     "insurance",
+    "k",
     "limitations",
-    "military affairs and related matters",
     "motor vehicles",
     "planning and development",
     "public business",
-    "public health",
     "public lands and property",
+    "public officers, employees, and records",
     "public transportation",
     "railroads and other regulated utilities",
     "real and personal property",
     "reclamation, and use",
     "relations",
     "subject index",
-    "taxation and finance",
-    "torts"
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -94,6 +94,16 @@
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
       }
+    },
+    {
+      "description": "Added to Civil Justice & Claims Subcommittee agenda",
+      "date": "2025-10-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-30T00:04:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,7 +130,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (10/29/2025 2:36 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -593,7 +615,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-10-30T00:04:21Z",
     "text_extraction_latest_update": "2025-10-23T19:18:59.657194Z"
   }
 }

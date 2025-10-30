@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Banking and Insurance; Appropriations Committee on Health and Human Services; Fiscal Policy",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 46"
+}
