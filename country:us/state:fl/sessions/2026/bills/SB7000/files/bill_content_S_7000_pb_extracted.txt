@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - S 7000 pb
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Florida Senate - 2026 (PROPOSED BILL) SPB 7000 FOR CONSIDERATION By the Committee on Military and Veterans Affairs, Space, and Domestic Security 583-00258-26 20267000pb 1 A bill to be entitled 2 An act relating to a review under the Open Government 3 Sunset Review Act; amending s. 252.385, F.S., which 4 provides an exemption from public records requirements 5 for the addresses and telephone numbers of persons 6 provided public emergency shelter and held by the 7 agency that provided the emergency shelter; deleting 8 the scheduled repeal of the exemption; providing an 9 effective date. 10 11 Be It Enacted by the Legislature of the State of Florida: 12 13 Section 1.âSubsection (5) of section 252.385, Florida 14 Statutes, is amended to read: 15 252.385âPublic shelter space; public records exemption.â 16 (5)âThe address and telephone number of a person provided 17 public emergency shelter during a storm or catastrophic event 18 and held by the agency, as defined in s. 119.011, that provided 19 the emergency shelter is exempt from s. 119.07(1) and s. 24(a), 20 Art. I of the State Constitution. This subsection is subject to 21 the Open Government Sunset Review Act in accordance with s. 22 119.15 and shall stand repealed on October 2, 2026, unless 23 reviewed and saved from repeal through reenactment by the 24 Legislature. 25 Section 2.âThis act shall take effect October 1, 2026.
+
+
+================================================================================
+
+Raw Text:
+Florida Senate - 2026 (PROPOSED BILL) SPB 7000 FOR CONSIDERATION By the Committee on Military and Veterans Affairs, Space, and Domestic Security 583-00258-26 20267000pb 1 A bill to be entitled 2 An act relating to a review under the Open Government 3 Sunset Review Act; amending s. 252.385, F.S., which 4 provides an exemption from public records requirements 5 for the addresses and telephone numbers of persons 6 provided public emergency shelter and held by the 7 agency that provided the emergency shelter; deleting 8 the scheduled repeal of the exemption; providing an 9 effective date. 10 11 Be It Enacted by the Legislature of the State of Florida: 12 13 Section 1.âSubsection (5) of section 252.385, Florida 14 Statutes, is amended to read: 15 252.385âPublic shelter space; public records exemption.â 16 (5)âThe address and telephone number of a person provided 17 public emergency shelter during a storm or catastrophic event 18 and held by the agency, as defined in s. 119.011, that provided 19 the emergency shelter is exempt from s. 119.07(1) and s. 24(a), 20 Art. I of the State Constitution. This subsection is subject to 21 the Open Government Sunset Review Act in accordance with s. 22 119.15 and shall stand repealed on October 2, 2026, unless 23 reviewed and saved from repeal through reenactment by the 24 Legislature. 25 Section 2.âThis act shall take effect October 1, 2026.

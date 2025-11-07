@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - S 384 Filed
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Florida Senate - 2026 SB 384 By Senator Truenow 13-00742-26 2026384__ 1 A bill to be entitled 2 An act relating to Department of Transportation 3 contractor liability; amending s. 337.195, F.S.; 4 providing that a contractor is considered an agent of 5 the state in certain circumstances; requiring contract 6 documents to indemnify the department for liability 7 caused by the negligence of the contractor or its 8 employees; providing an effective date. 9 10 Be It Enacted by the Legislature of the State of Florida: 11 12 Section 1.âSubsection (6) is added to section 337.195, 13 Florida Statutes, to read: 14 337.195âLimits on liability.â 15 (6)âFor purposes of this section, a contractor is 16 considered an agent of the state while acting within the scope 17 of the contract documents. The contract documents must, to the 18 extent permitted by law, provide for the indemnification of the 19 department for any liability, including reasonable attorney 20 fees, incurred up to the limits set forth in this chapter to the 21 extent that such liability is caused by the negligence of the 22 contractor or its employees. 23 Section 2.âThis act shall take effect July 1, 2026.
+
+
+================================================================================
+
+Raw Text:
+Florida Senate - 2026 SB 384 By Senator Truenow 13-00742-26 2026384__ 1 A bill to be entitled 2 An act relating to Department of Transportation 3 contractor liability; amending s. 337.195, F.S.; 4 providing that a contractor is considered an agent of 5 the state in certain circumstances; requiring contract 6 documents to indemnify the department for liability 7 caused by the negligence of the contractor or its 8 employees; providing an effective date. 9 10 Be It Enacted by the Legislature of the State of Florida: 11 12 Section 1.âSubsection (6) is added to section 337.195, 13 Florida Statutes, to read: 14 337.195âLimits on liability.â 15 (6)âFor purposes of this section, a contractor is 16 considered an agent of the state while acting within the scope 17 of the contract documents. The contract documents must, to the 18 extent permitted by law, provide for the indemnification of the 19 department for any liability, including reasonable attorney 20 fees, incurred up to the limits set forth in this chapter to the 21 extent that such liability is caused by the negligence of the 22 contractor or its employees. 23 Section 2.âThis act shall take effect July 1, 2026.

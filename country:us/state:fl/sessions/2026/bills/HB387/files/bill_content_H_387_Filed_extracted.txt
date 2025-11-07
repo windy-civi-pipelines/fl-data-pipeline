@@ -1,0 +1,110 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 387 Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HB 387 2026
+1 A bill to be entitled
+2 An act relating to automatic dependent surveillance
+3 broadcasts; creating s. 330.42, F.S.; providing
+4 definitions; prohibiting certain entities from using
+5 information broadcast or collected by automatic
+6 dependent surveillance broadcast systems for specified
+7 purposes; providing an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Florida:
+10
+11 Section 1. Section 330.42, Florida Statutes, is created to
+12 read:
+13 330.42 Automatic dependent surveillance broadcasts.—
+14 (1) For purposes of this section, the term:
+15 (a) "Aircraft" has the same meaning as in s. 330.27,
+16 except that the aircraft must have a gross weight of 12,499
+17 pounds or less and operate under 14 C.F.R. part 91.
+18 (b) "Automatic dependent surveillance broadcast" means an
+19 advanced aviation surveillance technology that combines an
+20 aircraft's positioning source, aircraft avionics, and a ground
+21 infrastructure to create an accurate surveillance interface
+22 between an aircraft and air traffic control. The term includes
+23 two different services, ADS-B In and ADS-B Out, that can provide
+24 information, such as an aircraft's global positioning system
+25 location, altitude, ground speed, and other data, to ground
+Page 1 of 2
+CODING: Words stricken are deletions; words underlined are additions.
+hb387-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 387 2026
+26 stations and other aircraft, as well as weather and
+27 traffic information to aircraft operators.
+28 (2) An aircraft or a public or private entity may not use
+29 information broadcast or collected by automatic dependent
+30 surveillance broadcast systems, regardless of whether that data
+31 originates from ADS-B In or ADS-B Out, as a means for
+32 calculating, generating, and collecting fees from aircraft
+33 owners or operators who operate aircraft within the geographic
+34 boundaries of this state.
+35 Section 2. This act shall take effect July 1, 2026.
+Page 2 of 2
+CODING: Words stricken are deletions; words underlined are additions.
+hb387-00
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES A A b d i d p  B S   3  (  ( e p  ( a a i b t i l]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES s t  ( i s o c o b   ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 387 2026
+1 A bill to be entitled
+2 An act relating to automatic dependent surveillance
+3 broadcasts; creating s. 330.42, F.S.; providing
+4 definitions; prohibiting certain entities from using
+5 information broadcast or collected by automatic
+6 dependent surveillance broadcast systems for specified
+7 purposes; providing an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Florida:
+10
+11 Section 1. Section 330.42, Florida Statutes, is created to
+12 read:
+13 330.42 Automatic dependent surveillance broadcasts.—
+14 (1) For purposes of this section, the term:
+15 (a) "Aircraft" has the same meaning as in s. 330.27,
+16 except that the aircraft must have a gross weight of 12,499
+17 pounds or less and operate under 14 C.F.R. part 91.
+18 (b) "Automatic dependent surveillance broadcast" means an
+19 advanced aviation surveillance technology that combines an
+20 aircraft's positioning source, aircraft avionics, and a ground
+21 infrastructure to create an accurate surveillance interface
+22 between an aircraft and air traffic control. The term includes
+23 two different services, ADS-B In and ADS-B Out, that can provide
+24 information, such as an aircraft's global positioning system
+25 location, altitude, ground speed, and other data, to ground
+Page 1 of 2
+CODING: Words stricken are deletions; words underlined are additions.
+hb387-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 387 2026
+26 stations and other aircraft, as well as weather and
+27 traffic information to aircraft operators.
+28 (2) An aircraft or a public or private entity may not use
+29 information broadcast or collected by automatic dependent
+30 surveillance broadcast systems, regardless of whether that data
+31 originates from ADS-B In or ADS-B Out, as a means for
+32 calculating, generating, and collecting fees from aircraft
+33 owners or operators who operate aircraft within the geographic
+34 boundaries of this state.
+35 Section 2. This act shall take effect July 1, 2026.
+Page 2 of 2
+CODING: Words stricken are deletions; words underlined are additions.
+hb387-00
+
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES A A b d i d p  B S   3  (  ( e p  ( a a i b t i l]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES s t  ( i s o c o b   ]

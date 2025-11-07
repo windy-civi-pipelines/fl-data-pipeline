@@ -1,0 +1,1047 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 295 Filed
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+HB 295 2026
+1 A bill to be entitled
+2 An act relating to prosecuting children as adults;
+3 amending s. 985.265, F.S.; prohibiting a jail or other
+4 facility intended or used for the detention of adults
+5 from holding a child who has been transferred to adult
+6 court for criminal prosecution before a specified
+7 hearing is held to determine if the child should be
+8 prosecuted as an adult, unless the child waives his or
+9 her right to such hearing; amending s. 985.556, F.S.;
+10 deleting provisions requiring a state attorney to
+11 request a court to transfer and certify a child for
+12 prosecution as an adult or to provide written reasons
+13 to the court for not making such request, or to
+14 proceed under a specified provision; amending s.
+15 985.557, F.S.; deleting references to the state
+16 attorney's discretion to direct file a juvenile;
+17 revising discretionary direct file criteria; requiring
+18 a court to advise a child and his or her parent or
+19 legal guardian of the child's right to a due process
+20 evidentiary hearing before a judge upon the filing by
+21 a state attorney of an information transferring the
+22 child to adult court; requiring that the child or the
+23 child's parent or legal guardian be afforded such
+24 hearing; requiring the judge to conduct the hearing
+25 within a certain timeframe; requiring the judge to
+Page 1 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+26 consider specified information and factors during such
+27 hearing; authorizing the judge to consider, and
+28 certain parties to the action to examine, certain
+29 reports; providing for continued jurisdiction of the
+30 adult court with regard to the child unless the court
+31 makes a specified finding by a preponderance of the
+32 evidence; requiring the adult court to render an order
+33 that includes certain findings of fact; authorizing
+34 immediate review of the order; providing that the
+35 order is reviewable on appeal under specified rules;
+36 amending ss. 985.15 and 985.565, F.S.; conforming
+37 provisions to changes made by the act; amending s.
+38 985.03, F.S.; conforming a cross-reference; providing
+39 an effective date.
+40
+41 Be It Enacted by the Legislature of the State of Florida:
+42
+43 Section 1. Subsection (5) of section 985.265, Florida
+44 Statutes, is amended to read:
+45 985.265 Detention transfer and release; education; adult
+46 jails.—
+47 (5) The court shall order the delivery of a child to a
+48 jail or other facility intended or used for the detention of
+49 adults:
+50 (a) When the child has been transferred or indicted for
+Page 2 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+51 criminal prosecution as an adult under part X, except that:
+52 1. The court may not order or allow a child alleged to
+53 have committed a misdemeanor who is being transferred for
+54 criminal prosecution pursuant to either s. 985.556 or s. 985.557
+55 to be detained or held in a jail or other facility intended or
+56 used for the detention of adults; however, such child may be
+57 held temporarily in a detention facility; and
+58 2. A child who has been transferred for criminal
+59 prosecution as an adult pursuant to s. 985.557 may not be held
+60 in a jail or other facility intended or used for the detention
+61 of adults before a court finding, as a result of a hearing under
+62 s. 985.557(3), that the child should be prosecuted as an adult,
+63 unless the child waives his or her right to such hearing; or
+64 (b) When a child taken into custody in this state is
+65 wanted by another jurisdiction for prosecution as an adult.
+66
+67 The child shall be housed separately from adult inmates to
+68 prohibit a child from having regular contact with incarcerated
+69 adults, including trusties. "Regular contact" means sight and
+70 sound contact. Separation of children from adults shall permit
+71 no more than haphazard or accidental contact. The receiving jail
+72 or other facility shall contain a separate section for children
+73 and shall have an adequate staff to supervise and monitor the
+74 child's activities at all times. Supervision and monitoring of
+75 children includes physical observation and documented checks by
+Page 3 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+76 jail or receiving facility supervisory personnel at intervals
+77 not to exceed 10 minutes. This subsection does not prohibit
+78 placing two or more children in the same cell. Under no
+79 circumstances shall a child be placed in the same cell with an
+80 adult.
+81 Section 2. Subsections (4) and (5) of section 985.556,
+82 Florida Statutes, are renumbered as subsections (3) and (4),
+83 respectively, and subsection (2) and present subsection (3) of
+84 that section are amended to read:
+85 985.556 Waiver of juvenile court jurisdiction; hearing.—
+86 (2) INVOLUNTARY DISCRETIONARY WAIVER.—Except as provided
+87 in subsection (3), The state attorney may file a motion
+88 requesting the court to transfer the child for criminal
+89 prosecution if the child was 14 years of age or older at the
+90 time the alleged delinquent act or violation of law was
+91 committed.
+92 (3) INVOLUNTARY MANDATORY WAIVER.—
+93 (a) If the child was 14 years of age or older, and if the
+94 child has been previously adjudicated delinquent for an act
+95 classified as a felony, which adjudication was for the
+96 commission of, attempt to commit, or conspiracy to commit
+97 murder, sexual battery, armed or strong-armed robbery,
+98 carjacking, home-invasion robbery, aggravated battery,
+99 aggravated assault, or burglary with an assault or battery, and
+100 the child is currently charged with a second or subsequent
+Page 4 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+101 violent crime against a person; or
+102 (b) If the child was 14 years of age or older at the time
+103 of commission of a fourth or subsequent alleged felony offense
+104 and the child was previously adjudicated delinquent or had
+105 adjudication withheld for or was found to have committed, or to
+106 have attempted or conspired to commit, three offenses that are
+107 felony offenses if committed by an adult, and one or more of
+108 such felony offenses involved the use or possession of a firearm
+109 or violence against a person;
+110
+111 the state attorney shall request the court to transfer and
+112 certify the child for prosecution as an adult or shall provide
+113 written reasons to the court for not making such request, or
+114 proceed under s. 985.557(1). Upon the state attorney's request,
+115 the court shall either enter an order transferring the case and
+116 certifying the case for trial as if the child were an adult or
+117 provide written reasons for not issuing such an order.
+118 Section 3. Section 985.557, Florida Statutes, is amended
+119 to read:
+120 985.557 Prosecuting children as adults Direct filing of an
+121 information; discretionary criteria.—
+122 (1) DISCRETIONARY PROSECUTION OF CHILDREN AS ADULTS DIRECT
+123 FILE.—
+124 (a) With respect to any child who was 14 or 15 years of
+125 age at the time the alleged offense was committed, the state
+Page 5 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+126 attorney may file an information when in the state attorney's
+127 judgment and discretion the public interest requires that adult
+128 sanctions be considered or imposed and when the offense charged
+129 is for the commission of, attempt to commit, or conspiracy to
+130 commit:
+131 1. Arson;
+132 2. Sexual battery;
+133 3. Robbery;
+134 4. Kidnapping;
+135 5. Aggravated child abuse;
+136 6. Aggravated assault;
+137 7. Aggravated stalking;
+138 8. Murder;
+139 9. Manslaughter;
+140 10. Unlawful throwing, placing, or discharging of a
+141 destructive device or bomb;
+142 11. Armed burglary in violation of s. 810.02(2)(b) or
+143 specified burglary of a dwelling or structure in violation of s.
+144 810.02(2)(c), or burglary with an assault or battery in
+145 violation of s. 810.02(2)(a);
+146 12. Aggravated battery;
+147 13. Any lewd or lascivious offense committed upon or in
+148 the presence of a person less than 16 years of age;
+149 14. Carrying, displaying, using, threatening, or
+150 attempting to use a weapon or firearm during the commission of a
+Page 6 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+151 felony;
+152 15. Grand theft in violation of s. 812.014(2)(a);
+153 16. Possessing or discharging any weapon or firearm on
+154 school property in violation of s. 790.115;
+155 17. Home invasion robbery;
+156 18. Carjacking; or
+157 19. Grand theft of a motor vehicle in violation of s.
+158 812.014(2)(c)6. or grand theft of a motor vehicle valued at
+159 $20,000 or more in violation of s. 812.014(2)(b) if the child
+160 has a previous adjudication for grand theft of a motor vehicle
+161 in violation of s. 812.014(2)(c)6. or s. 812.014(2)(b).
+162 (b) With respect to any child who was 16 or 17 years of
+163 age at the time the alleged forcible felony as defined in s.
+164 776.08 offense was committed, the state attorney may file an
+165 information when in the state attorney's judgment and discretion
+166 the public interest requires that adult sanctions be considered
+167 or imposed. However, the state attorney may not file an
+168 information on a child charged with a misdemeanor, unless the
+169 child has had at least two previous adjudications or
+170 adjudications withheld for delinquent acts, one of which
+171 involved an offense classified as a forcible felony as defined
+172 in s. 776.08 under state law.
+173 (2) NOTIFICATION TO PARENT OR GUARDIAN.—Upon the filing by
+174 the state attorney of an information transferring a child to
+175 adult court, the court must advise the child and his or her
+Page 7 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+176 parent or legal guardian that the child has the right to a due
+177 process evidentiary hearing before a judge.
+178 (3) DUE PROCESS EVIDENTIARY HEARING.—Notwithstanding any
+179 other law, and in all cases, a child charged with a crime or his
+180 or her parent or legal guardian must be afforded a due process
+181 evidentiary hearing before a judge after the state attorney
+182 files an information in adult court under this section.
+183 (a) The judge shall conduct the hearing within 30 days
+184 after the information is filed, excluding Saturdays, Sundays,
+185 and legal holidays, unless the child or the child's attorney
+186 shows good cause for a delay. The purpose of the hearing is for
+187 the court to determine whether it is necessary for the
+188 community's protection that the child be prosecuted in adult
+189 court. The judge shall consider all of the following:
+190 1. Evaluations and assessments completed by the
+191 department.
+192 2. The sophistication and maturity of the child,
+193 including:
+194 a. The effect, if any, of immaturity, impetuosity, or
+195 failure to appreciate risks and consequences on the child's
+196 participation in the alleged offense.
+197 b. The child's age, maturity, intellectual capacity, and
+198 mental and emotional health at the time of the alleged offense.
+199 c. The effect, if any, of characteristics attributable to
+200 the child's youth on his or her judgment.
+Page 8 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+201 3. The record and previous history of the child,
+202 including:
+203 a. Previous contacts with the department, the Department
+204 of Corrections, the Department of Children and Families, other
+205 law enforcement agencies, and the courts.
+206 b. Prior periods of probation.
+207 c. Prior adjudications that the child committed a
+208 delinquent act or violation of law, with greater weight being
+209 given if a court previously found that the child committed a
+210 delinquent act or violation of law involving violence to
+211 persons.
+212 d. Prior commitments to institutions of the department,
+213 the Department of Corrections, or agencies under contract with
+214 either department.
+215 e. Any history of trauma, abuse or neglect, foster care
+216 placements, failed adoption, fetal alcohol syndrome, exposure to
+217 controlled substances at birth, or below-average intellectual
+218 functioning.
+219 f. Identification of the child as a student requiring
+220 exceptional student education or having previously received
+221 psychological services.
+222 4. The nature of the alleged offense and the child's
+223 participation in it, including:
+224 a. Whether the alleged offense is punishable by death or
+225 life imprisonment.
+Page 9 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+226 b. Whether the alleged offense was against persons or
+227 property.
+228 c. Whether the alleged offense is alleged to have been
+229 committed in an aggressive, violent, or premeditated manner.
+230 d. The extent of the child's participation in the alleged
+231 offense.
+232 e. The effect, if any, of familial pressure or peer
+233 pressure on the child's actions.
+234 5. The prospects for adequate protection of the public and
+235 the likelihood of reasonable rehabilitation of the child, if the
+236 child is found to have committed the alleged offense:
+237 a. By the use of procedures, services, and facilities
+238 currently available to the juvenile court.
+239 b. By the use of procedures, services, and facilities
+240 currently available to the adult court, including whether the
+241 lowest permissible sentence under the Criminal Punishment Code
+242 is a nonstate prison sanction.
+243 6. Whether the child could obtain habilitative or
+244 rehabilitative services available in the juvenile justice
+245 system.
+246 7. Whether the child could receive a sentence in juvenile
+247 court which would provide adequate safety and protection for the
+248 community.
+249 8. Whether the child's best interests would be served by
+250 prosecuting the child in juvenile court.
+Page 10 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+251 (b) The judge may consider any reports that may assist the
+252 court, including prior predisposition reports, psychosocial
+253 assessments, individual educational plans, developmental
+254 assessments, school records, abuse or neglect reports, home
+255 studies, protective investigations, and psychological and
+256 psychiatric evaluations. The child, the child's parent or legal
+257 guardian, the child's defense counsel, and the state attorney
+258 may examine these reports and, at the hearing, question the
+259 parties responsible for creating such reports.
+260 (c) The adult court shall retain jurisdiction unless the
+261 court finds by a preponderance of the evidence that the factors
+262 listed in paragraph (a) support returning the child to juvenile
+263 court.
+264 (d) The adult court shall render an order that includes
+265 specific findings of fact and the reasons for its decision. The
+266 prosecution or defense may seek immediate review of the order
+267 through interlocutory appeal. The order is reviewable on appeal
+268 under the Florida Rules of Appellate Procedure.
+269 (4)(2) EFFECT OF PROSECUTING CHILDREN AS ADULTS DIRECT
+270 FILE.—
+271 (a) Once a child has been transferred for criminal
+272 prosecution pursuant to an information and has been found to
+273 have committed the presenting offense or a lesser included
+274 offense, the child shall be handled thereafter in every respect
+275 as if an adult for any subsequent violation of state law, unless
+Page 11 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+276 the court imposes juvenile sanctions under s. 985.565.
+277 (b) When a child is transferred for criminal prosecution
+278 as an adult, the court shall immediately transfer and certify to
+279 the adult circuit court all felony cases pertaining to the
+280 child, for prosecution of the child as an adult, which have not
+281 yet resulted in a plea of guilty or nolo contendere or in which
+282 a finding of guilt has not been made. If a child is acquitted of
+283 all charged offenses or lesser included offenses contained in
+284 the original case transferred to adult court, all felony cases
+285 that were transferred to adult court as a result of this
+286 paragraph shall be subject to the same penalties to which such
+287 cases would have been subject before being transferred to adult
+288 court.
+289 (c) When a child has been transferred for criminal
+290 prosecution as an adult and has been found to have committed a
+291 violation of state law, the disposition of the case may be made
+292 under s. 985.565 and may include the enforcement of any
+293 restitution ordered in any juvenile proceeding.
+294 (5)(3) CHARGES THAT MAY BE INCLUDED IN INFORMATION.—An
+295 information filed pursuant to this section may include all
+296 charges that are based on the same act, criminal episode, or
+297 transaction as the primary offenses.
+298 Section 4. Subsection (1) of section 985.15, Florida
+299 Statutes, is amended to read:
+300 985.15 Filing decisions.—
+Page 12 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+301 (1) The state attorney may in all cases take action
+302 independent of the action or lack of action of the juvenile
+303 probation officer and shall determine the action that is in the
+304 best interest of the public and the child. If the child meets
+305 the criteria requiring prosecution as an adult under s. 985.556,
+306 the state attorney shall request the court to transfer and
+307 certify the child for prosecution as an adult or shall provide
+308 written reasons to the court for not making such a request. In
+309 all other cases, The state attorney may:
+310 (a) File a petition for dependency;
+311 (b) File a petition under chapter 984;
+312 (c) File a petition for delinquency;
+313 (d) File a petition for delinquency with a motion to
+314 transfer and certify the child for prosecution as an adult;
+315 (e) File an information under s. 985.557;
+316 (f) Refer the case to a grand jury;
+317 (g) Refer the child to a diversionary, pretrial
+318 intervention, arbitration, or mediation program, or to some
+319 other treatment or care program if such program commitment is
+320 voluntarily accepted by the child or the child's parents or
+321 legal guardian; or
+322 (h) Decline to file.
+323 Section 5. Paragraphs (a) and (b) of subsection (4) of
+324 section 985.565, Florida Statutes, are amended to read:
+325 985.565 Sentencing powers; procedures; alternatives for
+Page 13 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+326 juveniles prosecuted as adults.—
+327 (4) SENTENCING ALTERNATIVES.—
+328 (a) Adult sanctions.—
+329 1. Cases prosecuted on indictment.—If the child is found
+330 to have committed the offense punishable by death or life
+331 imprisonment, the child shall be sentenced as an adult. If the
+332 juvenile is not found to have committed the indictable offense
+333 but is found to have committed a lesser included offense or any
+334 other offense for which he or she was indicted as a part of the
+335 criminal episode, the court may sentence as follows:
+336 a. As an adult;
+337 b. Under chapter 958; or
+338 c. As a juvenile under this section.
+339 2. Other cases.—If a child who has been transferred for
+340 criminal prosecution pursuant to information or waiver of
+341 juvenile court jurisdiction is found to have committed a
+342 violation of state law or a lesser included offense for which he
+343 or she was charged as a part of the criminal episode, the court
+344 may sentence as follows:
+345 a. As an adult;
+346 b. Under chapter 958; or
+347 c. As a juvenile under this section.
+348 3. Notwithstanding any other provision to the contrary, if
+349 the state attorney is required to file a motion to transfer and
+350 certify the juvenile for prosecution as an adult under s.
+Page 14 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+351 985.556(3) and that motion is granted, the court must impose
+352 adult sanctions.
+353 3.4. Any sentence imposing adult sanctions is presumed
+354 appropriate, and the court is not required to set forth specific
+355 findings or enumerate the criteria in this subsection as any
+356 basis for its decision to impose adult sanctions.
+357 4.5. When a child has been transferred for criminal
+358 prosecution as an adult and has been found to have committed a
+359 violation of state law, the disposition of the case may include
+360 the enforcement of any restitution ordered in any juvenile
+361 proceeding.
+362 (b) Juvenile sanctions.—For juveniles transferred to adult
+363 court but who do not qualify for such transfer under s.
+364 985.556(3), the court may impose juvenile sanctions under this
+365 paragraph. If juvenile sentences are imposed, the court shall,
+366 under this paragraph, adjudge the child to have committed a
+367 delinquent act. Adjudication of delinquency may not be deemed a
+368 conviction, nor shall it operate to impose any of the civil
+369 disabilities ordinarily resulting from a conviction. The court
+370 shall impose an adult sanction or a juvenile sanction and may
+371 not sentence the child to a combination of adult and juvenile
+372 punishments. An adult sanction or a juvenile sanction may
+373 include enforcement of an order of restitution or probation
+374 previously ordered in any juvenile proceeding. However, if the
+375 court imposes a juvenile sanction and the department determines
+Page 15 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+376 that the sanction is unsuitable for the child, the department
+377 shall return custody of the child to the sentencing court for
+378 further proceedings, including the imposition of adult
+379 sanctions. Upon adjudicating a child delinquent under subsection
+380 (1), the court may:
+381 1. Place the child in a probation program under the
+382 supervision of the department for an indeterminate period of
+383 time until the child reaches the age of 19 years or sooner if
+384 discharged by order of the court.
+385 2. Commit the child to the department for treatment in an
+386 appropriate program for children for an indeterminate period of
+387 time until the child is 21 or sooner if discharged by the
+388 department. The department shall notify the court of its intent
+389 to discharge no later than 14 days before discharge. Failure of
+390 the court to timely respond to the department's notice shall be
+391 considered approval for discharge.
+392 3. Order disposition under ss. 985.435, 985.437, 985.439,
+393 985.441, 985.45, and 985.455 as an alternative to youthful
+394 offender or adult sentencing if the court determines not to
+395 impose youthful offender or adult sanctions.
+396
+397 It is the intent of the Legislature that the criteria and
+398 guidelines in this subsection are mandatory and that a
+399 determination of disposition under this subsection is subject to
+400 the right of the child to appellate review under s. 985.534.
+Page 16 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+401 Section 6. Subsection (55) of section 985.03, Florida
+402 Statutes, is amended to read:
+403 985.03 Definitions.—As used in this chapter, the term:
+404 (55) "Waiver hearing" means a hearing provided for under
+405 s. 985.556(3) s. 985.556(4).
+406 Section 7. This act shall take effect July 1, 2026.
+Page 17 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES A A a f f c h p h d r p t p 9 a r a l e a c c h w]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c h c r a m e t i o a p 9 a  B S   9 j  ( j a  (]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c  1 h c t u h  2 p i o s u  ( w  T p a s n o a c c]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES j n p c aS   9  ( i r p t c  (  ( c c c m c a t]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES v  ( o a a h f s o  t c w p t c pS   9 i  ( F  ( a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES a j s i c  1  2  3  4  5  6  7  8  9  1 d  1 s 8 v  1  1 t  1 a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES f  1  1 s  1  1  1 8 $ h i  ( a 7 i t o i c a i i  ( t a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES p p  ( o o e f  ( a a s t c c  1 d  2 i  a f p  b m  c t]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  3 i  a o l  b  c d g d p  d t e  e p c f  f e p  4 p  a l]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  b p  c c  d o  e p  5 t c  a c  b c l i  6 r s  7 c c  8 p]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  ( c a a s p g m p  ( c l c  ( s p t u  ( F  ( p h o a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES t  ( a t c y a a t t p c c  ( p v u r  ( i c tS   9]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  ( i p b t t c w a  (  (  (  ( t  (  (  ( i o v l  (S   9]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES j  (  (  1 t i j b o c  a  b  c  2 c j v o m  a  b  c  3 t c]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES 9 a  3 a f b  4 p v t p  ( c 9 p u d c d s n p i p c]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES t s f s (  1 s t d  2 a t d t t c  3 9 o i  I g d t]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVESS   9  ( sS  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+1 A bill to be entitled
+2 An act relating to prosecuting children as adults;
+3 amending s. 985.265, F.S.; prohibiting a jail or other
+4 facility intended or used for the detention of adults
+5 from holding a child who has been transferred to adult
+6 court for criminal prosecution before a specified
+7 hearing is held to determine if the child should be
+8 prosecuted as an adult, unless the child waives his or
+9 her right to such hearing; amending s. 985.556, F.S.;
+10 deleting provisions requiring a state attorney to
+11 request a court to transfer and certify a child for
+12 prosecution as an adult or to provide written reasons
+13 to the court for not making such request, or to
+14 proceed under a specified provision; amending s.
+15 985.557, F.S.; deleting references to the state
+16 attorney's discretion to direct file a juvenile;
+17 revising discretionary direct file criteria; requiring
+18 a court to advise a child and his or her parent or
+19 legal guardian of the child's right to a due process
+20 evidentiary hearing before a judge upon the filing by
+21 a state attorney of an information transferring the
+22 child to adult court; requiring that the child or the
+23 child's parent or legal guardian be afforded such
+24 hearing; requiring the judge to conduct the hearing
+25 within a certain timeframe; requiring the judge to
+Page 1 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+26 consider specified information and factors during such
+27 hearing; authorizing the judge to consider, and
+28 certain parties to the action to examine, certain
+29 reports; providing for continued jurisdiction of the
+30 adult court with regard to the child unless the court
+31 makes a specified finding by a preponderance of the
+32 evidence; requiring the adult court to render an order
+33 that includes certain findings of fact; authorizing
+34 immediate review of the order; providing that the
+35 order is reviewable on appeal under specified rules;
+36 amending ss. 985.15 and 985.565, F.S.; conforming
+37 provisions to changes made by the act; amending s.
+38 985.03, F.S.; conforming a cross-reference; providing
+39 an effective date.
+40
+41 Be It Enacted by the Legislature of the State of Florida:
+42
+43 Section 1. Subsection (5) of section 985.265, Florida
+44 Statutes, is amended to read:
+45 985.265 Detention transfer and release; education; adult
+46 jails.—
+47 (5) The court shall order the delivery of a child to a
+48 jail or other facility intended or used for the detention of
+49 adults:
+50 (a) When the child has been transferred or indicted for
+Page 2 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+51 criminal prosecution as an adult under part X, except that:
+52 1. The court may not order or allow a child alleged to
+53 have committed a misdemeanor who is being transferred for
+54 criminal prosecution pursuant to either s. 985.556 or s. 985.557
+55 to be detained or held in a jail or other facility intended or
+56 used for the detention of adults; however, such child may be
+57 held temporarily in a detention facility; and
+58 2. A child who has been transferred for criminal
+59 prosecution as an adult pursuant to s. 985.557 may not be held
+60 in a jail or other facility intended or used for the detention
+61 of adults before a court finding, as a result of a hearing under
+62 s. 985.557(3), that the child should be prosecuted as an adult,
+63 unless the child waives his or her right to such hearing; or
+64 (b) When a child taken into custody in this state is
+65 wanted by another jurisdiction for prosecution as an adult.
+66
+67 The child shall be housed separately from adult inmates to
+68 prohibit a child from having regular contact with incarcerated
+69 adults, including trusties. "Regular contact" means sight and
+70 sound contact. Separation of children from adults shall permit
+71 no more than haphazard or accidental contact. The receiving jail
+72 or other facility shall contain a separate section for children
+73 and shall have an adequate staff to supervise and monitor the
+74 child's activities at all times. Supervision and monitoring of
+75 children includes physical observation and documented checks by
+Page 3 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+76 jail or receiving facility supervisory personnel at intervals
+77 not to exceed 10 minutes. This subsection does not prohibit
+78 placing two or more children in the same cell. Under no
+79 circumstances shall a child be placed in the same cell with an
+80 adult.
+81 Section 2. Subsections (4) and (5) of section 985.556,
+82 Florida Statutes, are renumbered as subsections (3) and (4),
+83 respectively, and subsection (2) and present subsection (3) of
+84 that section are amended to read:
+85 985.556 Waiver of juvenile court jurisdiction; hearing.—
+86 (2) INVOLUNTARY DISCRETIONARY WAIVER.—Except as provided
+87 in subsection (3), The state attorney may file a motion
+88 requesting the court to transfer the child for criminal
+89 prosecution if the child was 14 years of age or older at the
+90 time the alleged delinquent act or violation of law was
+91 committed.
+92 (3) INVOLUNTARY MANDATORY WAIVER.—
+93 (a) If the child was 14 years of age or older, and if the
+94 child has been previously adjudicated delinquent for an act
+95 classified as a felony, which adjudication was for the
+96 commission of, attempt to commit, or conspiracy to commit
+97 murder, sexual battery, armed or strong-armed robbery,
+98 carjacking, home-invasion robbery, aggravated battery,
+99 aggravated assault, or burglary with an assault or battery, and
+100 the child is currently charged with a second or subsequent
+Page 4 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+101 violent crime against a person; or
+102 (b) If the child was 14 years of age or older at the time
+103 of commission of a fourth or subsequent alleged felony offense
+104 and the child was previously adjudicated delinquent or had
+105 adjudication withheld for or was found to have committed, or to
+106 have attempted or conspired to commit, three offenses that are
+107 felony offenses if committed by an adult, and one or more of
+108 such felony offenses involved the use or possession of a firearm
+109 or violence against a person;
+110
+111 the state attorney shall request the court to transfer and
+112 certify the child for prosecution as an adult or shall provide
+113 written reasons to the court for not making such request, or
+114 proceed under s. 985.557(1). Upon the state attorney's request,
+115 the court shall either enter an order transferring the case and
+116 certifying the case for trial as if the child were an adult or
+117 provide written reasons for not issuing such an order.
+118 Section 3. Section 985.557, Florida Statutes, is amended
+119 to read:
+120 985.557 Prosecuting children as adults Direct filing of an
+121 information; discretionary criteria.—
+122 (1) DISCRETIONARY PROSECUTION OF CHILDREN AS ADULTS DIRECT
+123 FILE.—
+124 (a) With respect to any child who was 14 or 15 years of
+125 age at the time the alleged offense was committed, the state
+Page 5 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+126 attorney may file an information when in the state attorney's
+127 judgment and discretion the public interest requires that adult
+128 sanctions be considered or imposed and when the offense charged
+129 is for the commission of, attempt to commit, or conspiracy to
+130 commit:
+131 1. Arson;
+132 2. Sexual battery;
+133 3. Robbery;
+134 4. Kidnapping;
+135 5. Aggravated child abuse;
+136 6. Aggravated assault;
+137 7. Aggravated stalking;
+138 8. Murder;
+139 9. Manslaughter;
+140 10. Unlawful throwing, placing, or discharging of a
+141 destructive device or bomb;
+142 11. Armed burglary in violation of s. 810.02(2)(b) or
+143 specified burglary of a dwelling or structure in violation of s.
+144 810.02(2)(c), or burglary with an assault or battery in
+145 violation of s. 810.02(2)(a);
+146 12. Aggravated battery;
+147 13. Any lewd or lascivious offense committed upon or in
+148 the presence of a person less than 16 years of age;
+149 14. Carrying, displaying, using, threatening, or
+150 attempting to use a weapon or firearm during the commission of a
+Page 6 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+151 felony;
+152 15. Grand theft in violation of s. 812.014(2)(a);
+153 16. Possessing or discharging any weapon or firearm on
+154 school property in violation of s. 790.115;
+155 17. Home invasion robbery;
+156 18. Carjacking; or
+157 19. Grand theft of a motor vehicle in violation of s.
+158 812.014(2)(c)6. or grand theft of a motor vehicle valued at
+159 $20,000 or more in violation of s. 812.014(2)(b) if the child
+160 has a previous adjudication for grand theft of a motor vehicle
+161 in violation of s. 812.014(2)(c)6. or s. 812.014(2)(b).
+162 (b) With respect to any child who was 16 or 17 years of
+163 age at the time the alleged forcible felony as defined in s.
+164 776.08 offense was committed, the state attorney may file an
+165 information when in the state attorney's judgment and discretion
+166 the public interest requires that adult sanctions be considered
+167 or imposed. However, the state attorney may not file an
+168 information on a child charged with a misdemeanor, unless the
+169 child has had at least two previous adjudications or
+170 adjudications withheld for delinquent acts, one of which
+171 involved an offense classified as a forcible felony as defined
+172 in s. 776.08 under state law.
+173 (2) NOTIFICATION TO PARENT OR GUARDIAN.—Upon the filing by
+174 the state attorney of an information transferring a child to
+175 adult court, the court must advise the child and his or her
+Page 7 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+176 parent or legal guardian that the child has the right to a due
+177 process evidentiary hearing before a judge.
+178 (3) DUE PROCESS EVIDENTIARY HEARING.—Notwithstanding any
+179 other law, and in all cases, a child charged with a crime or his
+180 or her parent or legal guardian must be afforded a due process
+181 evidentiary hearing before a judge after the state attorney
+182 files an information in adult court under this section.
+183 (a) The judge shall conduct the hearing within 30 days
+184 after the information is filed, excluding Saturdays, Sundays,
+185 and legal holidays, unless the child or the child's attorney
+186 shows good cause for a delay. The purpose of the hearing is for
+187 the court to determine whether it is necessary for the
+188 community's protection that the child be prosecuted in adult
+189 court. The judge shall consider all of the following:
+190 1. Evaluations and assessments completed by the
+191 department.
+192 2. The sophistication and maturity of the child,
+193 including:
+194 a. The effect, if any, of immaturity, impetuosity, or
+195 failure to appreciate risks and consequences on the child's
+196 participation in the alleged offense.
+197 b. The child's age, maturity, intellectual capacity, and
+198 mental and emotional health at the time of the alleged offense.
+199 c. The effect, if any, of characteristics attributable to
+200 the child's youth on his or her judgment.
+Page 8 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+201 3. The record and previous history of the child,
+202 including:
+203 a. Previous contacts with the department, the Department
+204 of Corrections, the Department of Children and Families, other
+205 law enforcement agencies, and the courts.
+206 b. Prior periods of probation.
+207 c. Prior adjudications that the child committed a
+208 delinquent act or violation of law, with greater weight being
+209 given if a court previously found that the child committed a
+210 delinquent act or violation of law involving violence to
+211 persons.
+212 d. Prior commitments to institutions of the department,
+213 the Department of Corrections, or agencies under contract with
+214 either department.
+215 e. Any history of trauma, abuse or neglect, foster care
+216 placements, failed adoption, fetal alcohol syndrome, exposure to
+217 controlled substances at birth, or below-average intellectual
+218 functioning.
+219 f. Identification of the child as a student requiring
+220 exceptional student education or having previously received
+221 psychological services.
+222 4. The nature of the alleged offense and the child's
+223 participation in it, including:
+224 a. Whether the alleged offense is punishable by death or
+225 life imprisonment.
+Page 9 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+226 b. Whether the alleged offense was against persons or
+227 property.
+228 c. Whether the alleged offense is alleged to have been
+229 committed in an aggressive, violent, or premeditated manner.
+230 d. The extent of the child's participation in the alleged
+231 offense.
+232 e. The effect, if any, of familial pressure or peer
+233 pressure on the child's actions.
+234 5. The prospects for adequate protection of the public and
+235 the likelihood of reasonable rehabilitation of the child, if the
+236 child is found to have committed the alleged offense:
+237 a. By the use of procedures, services, and facilities
+238 currently available to the juvenile court.
+239 b. By the use of procedures, services, and facilities
+240 currently available to the adult court, including whether the
+241 lowest permissible sentence under the Criminal Punishment Code
+242 is a nonstate prison sanction.
+243 6. Whether the child could obtain habilitative or
+244 rehabilitative services available in the juvenile justice
+245 system.
+246 7. Whether the child could receive a sentence in juvenile
+247 court which would provide adequate safety and protection for the
+248 community.
+249 8. Whether the child's best interests would be served by
+250 prosecuting the child in juvenile court.
+Page 10 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+251 (b) The judge may consider any reports that may assist the
+252 court, including prior predisposition reports, psychosocial
+253 assessments, individual educational plans, developmental
+254 assessments, school records, abuse or neglect reports, home
+255 studies, protective investigations, and psychological and
+256 psychiatric evaluations. The child, the child's parent or legal
+257 guardian, the child's defense counsel, and the state attorney
+258 may examine these reports and, at the hearing, question the
+259 parties responsible for creating such reports.
+260 (c) The adult court shall retain jurisdiction unless the
+261 court finds by a preponderance of the evidence that the factors
+262 listed in paragraph (a) support returning the child to juvenile
+263 court.
+264 (d) The adult court shall render an order that includes
+265 specific findings of fact and the reasons for its decision. The
+266 prosecution or defense may seek immediate review of the order
+267 through interlocutory appeal. The order is reviewable on appeal
+268 under the Florida Rules of Appellate Procedure.
+269 (4)(2) EFFECT OF PROSECUTING CHILDREN AS ADULTS DIRECT
+270 FILE.—
+271 (a) Once a child has been transferred for criminal
+272 prosecution pursuant to an information and has been found to
+273 have committed the presenting offense or a lesser included
+274 offense, the child shall be handled thereafter in every respect
+275 as if an adult for any subsequent violation of state law, unless
+Page 11 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+276 the court imposes juvenile sanctions under s. 985.565.
+277 (b) When a child is transferred for criminal prosecution
+278 as an adult, the court shall immediately transfer and certify to
+279 the adult circuit court all felony cases pertaining to the
+280 child, for prosecution of the child as an adult, which have not
+281 yet resulted in a plea of guilty or nolo contendere or in which
+282 a finding of guilt has not been made. If a child is acquitted of
+283 all charged offenses or lesser included offenses contained in
+284 the original case transferred to adult court, all felony cases
+285 that were transferred to adult court as a result of this
+286 paragraph shall be subject to the same penalties to which such
+287 cases would have been subject before being transferred to adult
+288 court.
+289 (c) When a child has been transferred for criminal
+290 prosecution as an adult and has been found to have committed a
+291 violation of state law, the disposition of the case may be made
+292 under s. 985.565 and may include the enforcement of any
+293 restitution ordered in any juvenile proceeding.
+294 (5)(3) CHARGES THAT MAY BE INCLUDED IN INFORMATION.—An
+295 information filed pursuant to this section may include all
+296 charges that are based on the same act, criminal episode, or
+297 transaction as the primary offenses.
+298 Section 4. Subsection (1) of section 985.15, Florida
+299 Statutes, is amended to read:
+300 985.15 Filing decisions.—
+Page 12 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+301 (1) The state attorney may in all cases take action
+302 independent of the action or lack of action of the juvenile
+303 probation officer and shall determine the action that is in the
+304 best interest of the public and the child. If the child meets
+305 the criteria requiring prosecution as an adult under s. 985.556,
+306 the state attorney shall request the court to transfer and
+307 certify the child for prosecution as an adult or shall provide
+308 written reasons to the court for not making such a request. In
+309 all other cases, The state attorney may:
+310 (a) File a petition for dependency;
+311 (b) File a petition under chapter 984;
+312 (c) File a petition for delinquency;
+313 (d) File a petition for delinquency with a motion to
+314 transfer and certify the child for prosecution as an adult;
+315 (e) File an information under s. 985.557;
+316 (f) Refer the case to a grand jury;
+317 (g) Refer the child to a diversionary, pretrial
+318 intervention, arbitration, or mediation program, or to some
+319 other treatment or care program if such program commitment is
+320 voluntarily accepted by the child or the child's parents or
+321 legal guardian; or
+322 (h) Decline to file.
+323 Section 5. Paragraphs (a) and (b) of subsection (4) of
+324 section 985.565, Florida Statutes, are amended to read:
+325 985.565 Sentencing powers; procedures; alternatives for
+Page 13 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+326 juveniles prosecuted as adults.—
+327 (4) SENTENCING ALTERNATIVES.—
+328 (a) Adult sanctions.—
+329 1. Cases prosecuted on indictment.—If the child is found
+330 to have committed the offense punishable by death or life
+331 imprisonment, the child shall be sentenced as an adult. If the
+332 juvenile is not found to have committed the indictable offense
+333 but is found to have committed a lesser included offense or any
+334 other offense for which he or she was indicted as a part of the
+335 criminal episode, the court may sentence as follows:
+336 a. As an adult;
+337 b. Under chapter 958; or
+338 c. As a juvenile under this section.
+339 2. Other cases.—If a child who has been transferred for
+340 criminal prosecution pursuant to information or waiver of
+341 juvenile court jurisdiction is found to have committed a
+342 violation of state law or a lesser included offense for which he
+343 or she was charged as a part of the criminal episode, the court
+344 may sentence as follows:
+345 a. As an adult;
+346 b. Under chapter 958; or
+347 c. As a juvenile under this section.
+348 3. Notwithstanding any other provision to the contrary, if
+349 the state attorney is required to file a motion to transfer and
+350 certify the juvenile for prosecution as an adult under s.
+Page 14 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+351 985.556(3) and that motion is granted, the court must impose
+352 adult sanctions.
+353 3.4. Any sentence imposing adult sanctions is presumed
+354 appropriate, and the court is not required to set forth specific
+355 findings or enumerate the criteria in this subsection as any
+356 basis for its decision to impose adult sanctions.
+357 4.5. When a child has been transferred for criminal
+358 prosecution as an adult and has been found to have committed a
+359 violation of state law, the disposition of the case may include
+360 the enforcement of any restitution ordered in any juvenile
+361 proceeding.
+362 (b) Juvenile sanctions.—For juveniles transferred to adult
+363 court but who do not qualify for such transfer under s.
+364 985.556(3), the court may impose juvenile sanctions under this
+365 paragraph. If juvenile sentences are imposed, the court shall,
+366 under this paragraph, adjudge the child to have committed a
+367 delinquent act. Adjudication of delinquency may not be deemed a
+368 conviction, nor shall it operate to impose any of the civil
+369 disabilities ordinarily resulting from a conviction. The court
+370 shall impose an adult sanction or a juvenile sanction and may
+371 not sentence the child to a combination of adult and juvenile
+372 punishments. An adult sanction or a juvenile sanction may
+373 include enforcement of an order of restitution or probation
+374 previously ordered in any juvenile proceeding. However, if the
+375 court imposes a juvenile sanction and the department determines
+Page 15 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+376 that the sanction is unsuitable for the child, the department
+377 shall return custody of the child to the sentencing court for
+378 further proceedings, including the imposition of adult
+379 sanctions. Upon adjudicating a child delinquent under subsection
+380 (1), the court may:
+381 1. Place the child in a probation program under the
+382 supervision of the department for an indeterminate period of
+383 time until the child reaches the age of 19 years or sooner if
+384 discharged by order of the court.
+385 2. Commit the child to the department for treatment in an
+386 appropriate program for children for an indeterminate period of
+387 time until the child is 21 or sooner if discharged by the
+388 department. The department shall notify the court of its intent
+389 to discharge no later than 14 days before discharge. Failure of
+390 the court to timely respond to the department's notice shall be
+391 considered approval for discharge.
+392 3. Order disposition under ss. 985.435, 985.437, 985.439,
+393 985.441, 985.45, and 985.455 as an alternative to youthful
+394 offender or adult sentencing if the court determines not to
+395 impose youthful offender or adult sanctions.
+396
+397 It is the intent of the Legislature that the criteria and
+398 guidelines in this subsection are mandatory and that a
+399 determination of disposition under this subsection is subject to
+400 the right of the child to appellate review under s. 985.534.
+Page 16 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 295 2026
+401 Section 6. Subsection (55) of section 985.03, Florida
+402 Statutes, is amended to read:
+403 985.03 Definitions.—As used in this chapter, the term:
+404 (55) "Waiver hearing" means a hearing provided for under
+405 s. 985.556(3) s. 985.556(4).
+406 Section 7. This act shall take effect July 1, 2026.
+Page 17 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb295-00
+
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES A A a f f c h p h d r p t p 9 a r a l e a c c h w]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c h c r a m e t i o a p 9 a  B S   9 j  ( j a  (]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c  1 h c t u h  2 p i o s u  ( w  T p a s n o a c c]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES j n p c aS   9  ( i r p t c  (  ( c c c m c a t]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES v  ( o a a h f s o  t c w p t c pS   9 i  ( F  ( a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES a j s i c  1  2  3  4  5  6  7  8  9  1 d  1 s 8 v  1  1 t  1 a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES f  1  1 s  1  1  1 8 $ h i  ( a 7 i t o i c a i i  ( t a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES p p  ( o o e f  ( a a s t c c  1 d  2 i  a f p  b m  c t]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  3 i  a o l  b  c d g d p  d t e  e p c f  f e p  4 p  a l]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  b p  c c  d o  e p  5 t c  a c  b c l i  6 r s  7 c c  8 p]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  ( c a a s p g m p  ( c l c  ( s p t u  ( F  ( p h o a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES t  ( a t c y a a t t p c c  ( p v u r  ( i c tS   9]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES  ( i p b t t c w a  (  (  (  ( t  (  (  ( i o v l  (S   9]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES j  (  (  1 t i j b o c  a  b  c  2 c j v o m  a  b  c  3 t c]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES 9 a  3 a f b  4 p v t p  ( c 9 p u d c d s n p i p c]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES t s f s (  1 s t d  2 a t d t t c  3 9 o i  I g d t]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVESS   9  ( sS  ]
