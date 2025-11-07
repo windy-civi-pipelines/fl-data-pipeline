@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 365",
+  "title": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "motor vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requires DHSMV to establish program to improve communication between individuals with autism spectrum disorder & law enforcement officers under certain circumstances; requires DHSMV to develop & make available to such individuals certain envelope by specified date; provides requirements for envelope; authorizes such individuals to request envelope from DHSMV or tax collector's office, beginning on specified date; requires Criminal Justice Standards & Training Commission within FDLE to establish employment training component relating to such individuals; requires that such component be developed jointly by commission & organization that meets certain requirements; provides requirements for training law enforcement officers on interacting with such individuals; requires commission to adopt certain rules requiring such training as part of basic recruit training & as part of required instruction for continued employment & appointment as law enforcement officers."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vald\u00e9s",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 365 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/365/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/365/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

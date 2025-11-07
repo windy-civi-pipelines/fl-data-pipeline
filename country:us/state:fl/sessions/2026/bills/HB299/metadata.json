@@ -1,0 +1,76 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 299",
+  "title": "Blue Ribbon Projects",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "relations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Blue Ribbon Projects;  Requires that development project meet certain requirements to qualify as blue ribbon project; authorizes development of development area in phases; requires that blue ribbon project have blue ribbon plan; requires that project receive dollar-for-dollar credits from local government; specifies that project may be located on land with any future land use designation or zoning designation; prohibits required amendment of comprehensive plan or required rezoning for approval of project; authorizes landowner to apply to local government for approval of project; requires that project that meets certain requirements receive administrative approval; authorizes applicant to appeal denial of project application to Department of Commerce; authorizes person whose substantial interests are or may be affected by approval of project to file petition with Department of Commerce requesting administrative hearing."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Melo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Melo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 299 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/299/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/299/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

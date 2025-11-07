@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 418",
+  "title": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "motor vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requiring the Department of Highway Safety and Motor Vehicles to establish a program to improve communication between individuals with autism spectrum disorder and law enforcement officers under certain circumstances; requiring the department to develop and make available to individuals with autism spectrum disorder a certain envelope by a specified date; defining the terms \u201cagency\u201d and \u201cautism spectrum disorder\u201d; requiring the Criminal Justice Standards and Training Commission within the Department of Law Enforcement to establish an employment training component relating to individuals with autism spectrum disorder, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jones",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 418 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/418/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/418/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/418/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

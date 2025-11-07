@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 381",
+  "title": "Office of Financial Regulation",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "and solicitations",
+    "banks and banking"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Office of Financial Regulation;  Requires loan originators, mortgage brokers, & mortgage lenders & money services businesses to develop, implement, & maintain comprehensive written information security programs for protection of information systems & nonpublic personal information; requires loan originators, mortgage brokers, & mortgage lenders & money services businesses to establish written incident response plans for specified purposes &  to conduct investigations of cybersecurity events; provides requirements for notices of security breaches; revises list of general law provisions that are waived upon approval of Financial Technology Sandbox application; revises conditions under which waiver of requirement may be granted; revises requirements for permission to organize credit unions; removes provisions that impose limitations on investments in real estate & equipment for credit unions; revises requirements & factors for approving applications for organizing banks & trust companies; revises requirements for directors of certain banks & trust companies."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barnaby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 381 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/381/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/381/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

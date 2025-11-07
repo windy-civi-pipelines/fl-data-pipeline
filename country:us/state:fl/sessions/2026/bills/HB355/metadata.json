@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 355",
+  "title": "Health Care Patient Protection",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "public health"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Health Care Patient Protection;  Requires hospital emergency departments to develop & implement policies & procedures, conduct training, record weights in certain manner, designate pediatric emergency care coordinator, & conduct specified assessments; authorizes hospital with emergency department to conduct National Pediatric Readiness Project's Open Assessment under certain conditions; requires agency to adopt certain rules for comprehensive emergency management plans, and, in consultation with Florida Emergency Medical Services for Children State Partnership Program, establish minimum standards for pediatric patient care in hospital emergency departments; requires agency to collect & publish results of specified assessments submitted by hospitals by specified dates; provides requirements for collection & publication of such assessment scores."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Oliver",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Oliver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 355 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/355/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "395.1012",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/395.1012"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "395.1055",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/395.1055"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "408.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/408.05"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/355/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

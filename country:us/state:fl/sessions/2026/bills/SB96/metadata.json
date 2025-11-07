@@ -1,18 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 96",
-  "title": "Dental Care for Veterans",
+  "title": "Veterans Dental Care Grant Program",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "appropriations",
     "veterans"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Dental Care for Veterans;  Creating the Veterans Dental Care Program within the Department of Veterans\u2019 Affairs; requiring the program to provide specified dental services; providing that funding for the program is subject to legislative appropriation; authorizing the department to seek federal matching funds, private donations, or grants to fund the program, etc."
+      "abstract": "Veterans Dental Care Grant Program;  Revising the purpose of the Veterans Dental Care Grant Program, etc.\r\n    \r\n        APPROPRIATION:\r\n        $500,000"
     }
   ],
   "other_titles": [],
@@ -51,9 +52,67 @@
       "_processing": {
         "log_file_created": "2025-10-28T00:01:02Z"
       }
+    },
+    {
+      "description": "CS by Military and Veterans Affairs, Space, and Domestic Security; YEAS 4 NAYS 1",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Fiscal Policy",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations Committee on Health and Human Services; Appropriations",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Military and Veterans Affairs, Space, and Domestic Security",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Military and Veterans Affairs, Space, and Domestic Security\"}"
+    },
     {
       "name": "Sharief",
       "classification": "primary",
@@ -79,9 +138,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 96 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Bill Analysis -- Military and Veterans Affairs, Space, and Domestic Security (Pre-Meeting) (11/3/2025 9:19 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/Analyses/2026s00096.pre.ms.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Military and Veterans Affairs, Space, and Domestic Security (Post-Meeting) (11/4/2025 3:12 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/Analyses/2026s00096.ms.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "803306 - Amendment (Delete All) to S 96 Filed",
       "links": [
@@ -98,7 +194,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "295.157",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/295.157"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/96/ByCategory",
@@ -113,7 +218,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T00:01:02Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-28T04:18:49.031344Z"
   }
 }

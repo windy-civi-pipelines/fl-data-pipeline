@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 295",
+  "title": "Prosecuting Children as Adults",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Prosecuting Children as Adults ;  Prohibits jail or other adult facility from holding child transferred to adult court for criminal prosecution before hearing to determine if child should be prosecuted as adult, unless hearing waived; removes requirement for state attorney to request court to transfer & certify child for prosecution as adult or to provide written reasons for not making such request; removes references to state attorney's discretion to direct file juvenile; revises discretionary direct file criteria; provides for due process evidentiary hearing before judge upon filing by state attorney of information transferring child to adult court; provides for continued jurisdiction of adult court with regard to child unless court makes specified finding; provides requirements for order to transfer child to adult court; provides for immediate appellate review of order."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 295 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/295/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "985.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.265",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.265"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.556",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.556"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.557",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.557"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.565",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.565"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/295/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

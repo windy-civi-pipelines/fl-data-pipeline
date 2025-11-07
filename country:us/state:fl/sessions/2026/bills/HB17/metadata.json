@@ -74,9 +74,63 @@
       "_processing": {
         "log_file_created": "2025-10-30T00:04:21Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Baker",
       "classification": "primary",
@@ -99,6 +153,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bartleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bartleman\"}",
       "organization_id": null
     },
     {
@@ -126,6 +188,14 @@
       "organization_id": null
     },
     {
+      "name": "Chambliss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chambliss\"}",
+      "organization_id": null
+    },
+    {
       "name": "Conerly",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -139,6 +209,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Duggan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gottlieb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gottlieb\"}",
       "organization_id": null
     },
     {
@@ -166,11 +244,27 @@
       "organization_id": null
     },
     {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Partington",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Partington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plakon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plakon\"}",
       "organization_id": null
     },
     {
@@ -195,6 +289,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sapp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Skidmore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Skidmore\"}",
       "organization_id": null
     },
     {
@@ -234,14 +336,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 17 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/17/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (10/29/2025 4:11 PM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (11/6/2025 2:42 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/17/Analyses/h0017.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/17/Analyses/h0017a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "066761 - Amendment to H 17 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/17/Amendment/066761/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -305,7 +429,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-30T00:04:21Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-30T04:18:42.211606Z"
   }
 }

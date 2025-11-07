@@ -53,6 +53,28 @@
       "_processing": {
         "log_file_created": "2025-10-28T00:01:02Z"
       }
+    },
+    {
+      "description": "Favorable by Community Affairs; YEAS 7 NAYS 0",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +92,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pizzo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pizzo\"}",
       "organization_id": null
     }
   ],
@@ -91,7 +121,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (11/3/2025 3:49 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Analyses/2026s00048.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (11/4/2025 5:07 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Analyses/2026s00048.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -107,7 +160,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T00:01:02Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-28T04:19:09.691126Z"
   }
 }

@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 333",
+  "title": "Public Accountancy",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Public Accountancy;  Authorizes Board of Accountancy to competitively procure contracted services with certain corporations not for profit for performance of certain duties assigned to Division of Certified Public Accounting of DBPR; authorizes board to rescind such contracted services at any time by majority vote; revises education & work experience requirements for certified public accountant license; directs board to prescribe specified coursework for licensure; revises requirements for licensure of international applicants; removes obsolete language; revises requirements for approval of providers who administer continuing  education on ethics for certified public accountants; requires board to give preference to certain providers; revises requirements for certified public accountants licensed in another state or territory of United States to practice in this state without obtaining license."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blanco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blanco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 333 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/333/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "473.301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.301"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.302"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.3035",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.3035"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.306"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.308"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.311"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.312"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.3141",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.3141"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/333/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 369",
+  "title": "Patient-directed Medical Orders",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil rights",
+    "domestic relations",
+    "public health",
+    "social welfare"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Patient-directed Medical Orders;  Authorizes execution of patient-directed medical order for specified purpose; provides requirements for valid patient-directed medical orders; authorizes use of telehealth for specified purpose; requires that certain health care services be provided to principal regardless of decision to withhold or withdraw life-prolonging procedures; authorizes physicians, physician assistants, & advanced practice registered nurses to withhold or withdraw life-prolonging procedures without penalty; requires AHCA to create & update database for storage of patient-directed medical orders."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Plasencia",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Plasencia\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 369 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/369/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "395.1041",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/395.1041"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "400.142",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/400.142"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "400.487",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/400.487"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "400.605",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/400.605"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "400.6095",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/400.6095"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "400.611",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/400.611"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "401.35",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/401.35"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "401.45",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/401.45"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "429.255",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/429.255"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "429.73",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/429.73"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "744.4431",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/744.4431"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "752.001",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/752.001"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "765.101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/765.101"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "765.102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/765.102"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "765.110",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/765.110"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "765.204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/765.204"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "765.205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/765.205"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/369/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

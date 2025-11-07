@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Health Policy; Appropriations Committee on Health and Human Services; Fiscal Policy",
+    "date": "2025-11-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 190"
+}

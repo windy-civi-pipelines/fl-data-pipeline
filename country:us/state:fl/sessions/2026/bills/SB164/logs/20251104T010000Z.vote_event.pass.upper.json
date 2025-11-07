@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-04T01:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "cd39453c-bb6a-11f0-9986-bee53dfa0ead",
+  "bill_action": null,
+  "bill_identifier": "SB 164",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gaetz",
+      "voter_id": "~{\"name\": \"Gaetz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hooper",
+      "voter_id": "~{\"name\": \"Hooper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Trumbull",
+      "voter_id": "~{\"name\": \"Trumbull\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burton",
+      "voter_id": "~{\"name\": \"Burton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yarborough",
+      "voter_id": "~{\"name\": \"Yarborough\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Berman",
+      "voter_id": "~{\"name\": \"Berman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Leek",
+      "voter_id": "~{\"name\": \"Leek\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Passidomo",
+      "voter_id": "~{\"name\": \"Passidomo\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Polsky",
+      "voter_id": "~{\"name\": \"Polsky\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "DiCeglie",
+      "voter_id": "~{\"name\": \"DiCeglie\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Osgood",
+      "voter_id": "~{\"name\": \"Osgood\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/164/Vote/2025-11-04 0100PM~S00164 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -51,6 +51,28 @@
       "_processing": {
         "log_file_created": "2025-10-28T00:01:02Z"
       }
+    },
+    {
+      "description": "Favorable by Judiciary; YEAS 5 NAYS 4",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,7 +103,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (11/3/2025 12:45 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/164/Analyses/2026s00164.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (11/5/2025 11:22 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/164/Analyses/2026s00164.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -122,7 +167,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T00:01:02Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-28T04:19:20.495272Z"
   }
 }

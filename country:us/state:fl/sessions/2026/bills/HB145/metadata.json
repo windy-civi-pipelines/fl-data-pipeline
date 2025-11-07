@@ -13,20 +13,23 @@
     "criminal procedure and corrections",
     "industry",
     "insurance",
-    "k",
+    "labor",
     "limitations",
+    "military affairs and related matters",
     "motor vehicles",
     "planning and development",
     "public business",
+    "public health",
     "public lands and property",
     "public officers, employees, and records",
     "public transportation",
     "railroads and other regulated utilities",
     "real and personal property",
-    "reclamation, and use",
     "relations",
+    "social welfare",
     "subject index",
-    "taxation and finance"
+    "taxation and finance",
+    "torts"
   ],
   "abstracts": [
     {
@@ -104,6 +107,18 @@
       "_processing": {
         "log_file_created": "2025-10-30T00:04:21Z"
       }
+    },
+    {
+      "description": "Favorable by Civil Justice & Claims Subcommittee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -132,10 +147,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (10/29/2025 2:36 PM)",
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (11/5/2025 1:50 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145.CIV.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145a.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -615,7 +630,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-30T00:04:21Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-30T04:19:03.441290Z"
   }
 }

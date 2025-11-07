@@ -1,0 +1,79 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 313",
+  "title": "Housing",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure",
+    "relations",
+    "social welfare",
+    "t"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Housing ;  Authorizes landlord to accept reusable tenant screening reports & require specified statement; prohibits landlord from charging certain fees to applicant using reusable tenant screening report; provides construction; defines \"primary dwelling unit\"; requires, rather than authorizes, local governments to adopt, by specified date, ordinance to allow accessory dwelling units in certain areas; requires that such ordinances apply prospectively; prohibits inclusion of certain requirements or prohibitions in such ordinances; removes requirement that application for building permit to construct accessory dwelling unit include certain affidavit; revises accessory dwelling units that apply toward satisfying certain component of local government's comprehensive plan; prohibits denial of homestead exemption for certain portions of property on specified basis; requires that rented accessory dwelling unit be assessed separately from homestead property & taxed according to its use; authorizes local government to provide density bonus incentive to landowners who make certain real property donations to assist in provision of affordable housing for military families; requires OPPAGA to evaluate efficacy of using mezzanine finance & potential of tiny homes for specified purposes; requires office to consult with certain entities; requires office to submit certain report to Legislature by specified date."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nix",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 313 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/313/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/313/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

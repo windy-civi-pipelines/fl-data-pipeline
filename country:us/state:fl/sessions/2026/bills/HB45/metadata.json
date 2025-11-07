@@ -8,13 +8,13 @@
   ],
   "subject": [
     "and solicitations",
-    "crimes",
-    "criminal procedure and corrections"
+    "criminal procedure and corrections",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sexual Offenders and Sexual Predators ;  Revises definitions of terms \"public swimming pool\" & \"public pool\"; defines \"public bathing place\"; revises residency restrictions for persons convicted of certain sexual offenses; revises requirements for search of sexual predator or sexual offender registration information by state agency or governmental subdivision before appointing or employing person to work; revises special conditions for certain sexual offenders subject to conditional release supervision; revises standard conditions of probation or community control for certain sexual offenders."
+      "abstract": "Sexual Offenders and Sexual Predators;  Defines \"public bathing place\" & \"public swimming pool\"; revises residency restrictions for persons convicted of certain sexual offenses occurring on or after specified date; provides applicability; revises requirements for search of sexual predator or sexual offender registration information by state agency or governmental subdivision before appointing or employing person to work at specified locations; revises special conditions for certain sexual offenders subject to conditional release supervision for offenses committed on or after specified date; revises conditions of probation or community control for certain sexual offenders for offenses committed on or after specified date."
     }
   ],
   "other_titles": [],
@@ -87,9 +87,63 @@
       "_processing": {
         "log_file_created": "2025-10-30T00:04:21Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Plakon",
       "classification": "primary",
@@ -127,14 +181,47 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 45 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/45/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (10/29/2025 4:46 PM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (11/6/2025 2:57 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/45/Analyses/h0045.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/45/Analyses/h0045a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "439963 - Strike All Amendment to H 45 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/45/Amendment/439963/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "292141 - Amendment to Amendment (439963) to H 45 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/45/Amendment/292141/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -143,14 +230,6 @@
     }
   ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "514.011",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/514.011"
-    },
     {
       "publication": "Florida Statues",
       "citation": "775.215",
@@ -214,7 +293,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-30T00:04:21Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-30T04:18:48.901859Z"
   }
 }

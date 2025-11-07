@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 325",
+  "title": "Education and Workforce Development for Current and Former Inmates",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "labor",
+    "public transportation"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Education and Workforce Development for Current and Former Inmates;  Provides that DFS may reimburse, subject to appropriation, employers for cost of certain workers' compensation & auto liability premiums; provides requirements for reimbursement application; provides requirements & restrictions for reimbursement; requires department to process application & notify applicant within specified timeframe; requires department to coordinate with employer for certain purpose; provides that reimbursements are made on first-come, first-serve basis; authorizes Correctional Education Program to develop & implement vocational curriculum in which certain inmates can earn specified commercial driver licenses; provides for eligibility of certain inmates in Open Door Grant Program."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kendall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kendall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 325 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/325/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "334.044",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/334.044"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "334.62",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/334.62"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/325/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

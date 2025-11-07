@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "Bill",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-04T10:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "1043a7c4-bb6f-11f0-9986-bee53dfa0ead",
+  "bill_action": null,
+  "bill_identifier": "SB 7000",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Burgess",
+      "voter_id": "~{\"name\": \"Burgess\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jones",
+      "voter_id": "~{\"name\": \"Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharief",
+      "voter_id": "~{\"name\": \"Sharief\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Truenow",
+      "voter_id": "~{\"name\": \"Truenow\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7000/Vote/2025-11-04 1000AM~S07000 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

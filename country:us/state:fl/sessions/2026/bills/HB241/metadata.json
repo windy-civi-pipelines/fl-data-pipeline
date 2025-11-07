@@ -8,7 +8,7 @@
   ],
   "subject": [
     "civil practice and procedure",
-    "regulation of professions and occupations"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -75,6 +75,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-29T00:38:18Z"
+      }
+    },
+    {
+      "description": "Withdrawn prior to introduction",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
       }
     }
   ],
@@ -151,7 +163,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T00:38:18Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-29T04:22:31.227429Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on Table under Rule 7.18(a)",
+    "date": "2025-11-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 45"
+}

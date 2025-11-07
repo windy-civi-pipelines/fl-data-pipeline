@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "criminal procedure and corrections",
+    "public health",
     "subject index"
   ],
   "abstracts": [
@@ -86,9 +86,63 @@
       "_processing": {
         "log_file_created": "2025-10-30T00:04:21Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Maney",
       "classification": "primary",
@@ -110,14 +164,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 199 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/199/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (10/29/2025 4:11 PM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (11/6/2025 9:22 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/199/Analyses/h0199.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/199/Analyses/h0199a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "937651 - Amendment to H 199 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/199/Amendment/937651/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -157,7 +233,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-30T00:04:21Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-30T04:18:52.073829Z"
   }
 }

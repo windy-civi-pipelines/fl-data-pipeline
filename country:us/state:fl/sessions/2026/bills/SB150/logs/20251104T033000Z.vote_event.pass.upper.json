@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-04T03:30:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "8ab9b642-bb6a-11f0-9986-bee53dfa0ead",
+  "bill_action": null,
+  "bill_identifier": "SB 150",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Arrington",
+      "voter_id": "~{\"name\": \"Arrington\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Avila",
+      "voter_id": "~{\"name\": \"Avila\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harrell",
+      "voter_id": "~{\"name\": \"Harrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Polsky",
+      "voter_id": "~{\"name\": \"Polsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rodriguez",
+      "voter_id": "~{\"name\": \"Rodriguez\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "DiCeglie",
+      "voter_id": "~{\"name\": \"DiCeglie\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Mayfield",
+      "voter_id": "~{\"name\": \"Mayfield\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/150/Vote/2025-11-04 0330PM~S00150 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

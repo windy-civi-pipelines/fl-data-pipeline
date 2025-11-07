@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "k"
+    "insurance"
   ],
   "abstracts": [
     {
@@ -28,6 +28,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Education Pre-K - 12; Appropriations Committee on Pre-K - 12 Education; Appropriations",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
       }
     }
   ],
@@ -84,7 +96,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-23T19:22:05.385554Z"
   }
 }

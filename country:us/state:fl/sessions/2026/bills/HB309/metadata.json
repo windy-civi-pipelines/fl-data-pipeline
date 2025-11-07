@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 309",
+  "title": "Controlled Substances",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "crimes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Controlled Substances;  Adds to list of Schedule I controlled substances 7-Hydroxymitragynine concentrated at above 400 parts per million on dry-weight basis; excepts from list of Schedule I controlled substances certain xylazine animal drug products approved by USDA & used for certain purposes; provides criminal penalties & requires mandatory minimum term of imprisonment if person sells, manufactures, or delivers or possesses with intent to sell, manufacture, or deliver xylazine; creates offense of trafficking in xylazine; provides criminal penalties & requires mandatory minimum terms of imprisonment & mandatory fines for specified offenses involving xylazine."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bankson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bankson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 309 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/309/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "893.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/893.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "893.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/893.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "893.131",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/893.131"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "893.135",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/893.135"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/309/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-07T00:18:32Z"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-04T03:30:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "90c855a4-bb68-11f0-9986-bee53dfa0ead",
+  "bill_action": null,
+  "bill_identifier": "SB 34",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jones",
+      "voter_id": "~{\"name\": \"Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leek",
+      "voter_id": "~{\"name\": \"Leek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Passidomo",
+      "voter_id": "~{\"name\": \"Passidomo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pizzo",
+      "voter_id": "~{\"name\": \"Pizzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharief",
+      "voter_id": "~{\"name\": \"Sharief\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Trumbull",
+      "voter_id": "~{\"name\": \"Trumbull\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McClain",
+      "voter_id": "~{\"name\": \"McClain\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/34/Vote/2025-11-04 0330PM~S00034 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

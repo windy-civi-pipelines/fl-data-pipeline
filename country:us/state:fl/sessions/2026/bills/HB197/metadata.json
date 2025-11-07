@@ -73,6 +73,38 @@
       "_processing": {
         "log_file_created": "2025-10-29T00:38:18Z"
       }
+    },
+    {
+      "description": "Favorable by Industries & Professional Activities Subcommittee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T00:18:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,10 +149,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (10/28/2025 2:15 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (11/6/2025 11:06 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/197/Analyses/h0197.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/197/Analyses/h0197a.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -152,7 +184,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T00:38:18Z",
+    "logs_latest_update": "2025-11-07T00:18:32Z",
     "text_extraction_latest_update": "2025-10-29T04:24:00.904161Z"
   }
 }
