@@ -1,0 +1,16 @@
+Title: None
+Official Title: 
+Number of Sections: 1
+Source: versions - S 442 Filed
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Florida Senate - 2026 SB 442 By Senator Yarborough 4-00808-26 2026442__ 1 A bill to be entitled 2 An act relating to return of certain search warrants; 3 amending s. 933.05, F.S.; extending the time period 4 within which a search warrant issued for computers, 5 computer systems, or electronic devices that are in 6 the actual possession of a law enforcement agency at 7 the time the warrant is issued must be returned to the 8 court; providing an effective date. 9 10 Be It Enacted by the Legislature of the State of Florida: 11 12 Section 1.âSection 933.05, Florida Statutes, is amended to 13 read: 14 933.05âIssuance in blank prohibited.âA search warrant 15 cannot be issued except upon probable cause supported by 16 affidavit or affidavits, naming or describing the person, place, 17 or thing to be searched and particularly describing the property 18 or thing to be seized; a no search warrant may not shall be 19 issued in blank, and any such warrant must shall be returned 20 within 10 days after issuance thereof, except that a search 21 warrant issued for a computer, a computer system, or an 22 electronic device, as those terms are defined in s. 815.03, that 23 is in the actual possession of a law enforcement agency at the 24 time such warrant is issued must shall be returned to the court 25 within 365 45 days after issuance thereof. 26 Section 2.âThis act shall take effect July 1, 2026.
+
+
+================================================================================
+
+Raw Text:
+Florida Senate - 2026 SB 442 By Senator Yarborough 4-00808-26 2026442__ 1 A bill to be entitled 2 An act relating to return of certain search warrants; 3 amending s. 933.05, F.S.; extending the time period 4 within which a search warrant issued for computers, 5 computer systems, or electronic devices that are in 6 the actual possession of a law enforcement agency at 7 the time the warrant is issued must be returned to the 8 court; providing an effective date. 9 10 Be It Enacted by the Legislature of the State of Florida: 11 12 Section 1.âSection 933.05, Florida Statutes, is amended to 13 read: 14 933.05âIssuance in blank prohibited.âA search warrant 15 cannot be issued except upon probable cause supported by 16 affidavit or affidavits, naming or describing the person, place, 17 or thing to be searched and particularly describing the property 18 or thing to be seized; a no search warrant may not shall be 19 issued in blank, and any such warrant must shall be returned 20 within 10 days after issuance thereof, except that a search 21 warrant issued for a computer, a computer system, or an 22 electronic device, as those terms are defined in s. 815.03, that 23 is in the actual possession of a law enforcement agency at the 24 time such warrant is issued must shall be returned to the court 25 within 365 45 days after issuance thereof. 26 Section 2.âThis act shall take effect July 1, 2026.
