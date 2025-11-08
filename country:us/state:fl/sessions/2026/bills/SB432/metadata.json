@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 432",
+  "title": "Controlled Substances",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "crimes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Controlled Substances;  Adding 7-Hydroxymitragynine as a Schedule I controlled substance; excepting from the list of Schedule I controlled substances certain xylazine animal drug products approved by the United States Food and Drug Administration and used for certain purposes; providing criminal penalties and requiring a mandatory minimum term of imprisonment if a person sells, manufactures, or delivers or possesses with intent to sell, manufacture, or deliver xylazine; creating the offense of trafficking in xylazine; providing criminal penalties and requiring a mandatory minimum term of imprisonment and fines based on the quantity of the controlled substance involved in the offense, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T00:32:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yarborough",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yarborough\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 432 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/432/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/432/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "893.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/893.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "893.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/893.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "893.135",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/893.135"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/432/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-08T00:32:24Z"
+  }
+}

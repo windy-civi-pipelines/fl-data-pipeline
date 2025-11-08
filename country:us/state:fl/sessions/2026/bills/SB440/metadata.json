@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 440",
+  "title": "Florida Employee Health Choices Program",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Florida Employee Health Choices Program;  Renaming the \u201cFlorida Health Choices Program\u201d as the \u201cFlorida Employee Health Choices Program\u201d; revising eligibility and participation requirements for vendors under the program; revising the types of health insurance products that are available for purchase through the program; deleting exemptions from certain requirements of the Florida Insurance Code under the program, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T00:32:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Leek",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Leek\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 440 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/440/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/440/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "408.910",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/408.910"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.821",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.821"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.9122",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.9122"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.977",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.977"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/440/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-08T00:32:24Z"
+  }
+}

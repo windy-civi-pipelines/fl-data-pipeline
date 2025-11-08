@@ -120,6 +120,28 @@
       "_processing": {
         "log_file_created": "2025-11-07T00:18:32Z"
       }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T00:32:24Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T00:32:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -201,6 +223,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Conerly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daley\"}",
       "organization_id": null
     },
     {
@@ -429,7 +459,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T00:18:32Z",
+    "logs_latest_update": "2025-11-08T00:32:24Z",
     "text_extraction_latest_update": "2025-11-07T08:48:41.214503Z"
   }
 }
