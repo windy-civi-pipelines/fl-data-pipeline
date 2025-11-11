@@ -1,4 +1,9 @@
 {
+  "SPB7004": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB234": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -329,6 +334,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SPB7006": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB380": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -609,6 +619,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SB444": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB268": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -790,6 +805,11 @@
     "date_folder": "2026-2026"
   },
   "SB7000": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "SPB7008": {
     "session_id": "2026",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"

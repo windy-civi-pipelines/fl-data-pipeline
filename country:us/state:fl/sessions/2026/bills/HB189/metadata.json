@@ -8,7 +8,7 @@
   ],
   "subject": [
     "and solicitations",
-    "crimes"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -76,6 +76,16 @@
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
       }
+    },
+    {
+      "description": "PCS added to Industries & Professional Activities Subcommittee agenda",
+      "date": "2025-11-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T01:10:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -135,7 +145,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-11-11T01:10:12Z",
     "text_extraction_latest_update": "2025-10-23T19:18:09.046582Z"
   }
 }

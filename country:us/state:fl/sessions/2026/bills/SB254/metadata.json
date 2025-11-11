@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "regulation of professions and occupations"
   ],
   "abstracts": [
     {
@@ -40,6 +40,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Health Policy, 11/18/25, 10:00 am, 412 Knott Building",
+      "date": "2025-11-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T01:10:12Z"
       }
     }
   ],
@@ -104,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T00:18:32Z",
+    "logs_latest_update": "2025-11-11T01:10:12Z",
     "text_extraction_latest_update": "2025-11-07T08:48:05.452498Z"
   }
 }

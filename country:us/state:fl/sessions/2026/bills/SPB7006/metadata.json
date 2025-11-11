@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SPB 7006",
+  "title": "OGSR/Florida Public Service Commission",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "OGSR/Florida Public Service Commission;  Deleting the scheduled repeal of an exemption from public meeting requirements for portions of a hearing before the Florida Public Service Commission wherein certain proprietary confidential business information is discussed, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Submitted for consideration by Regulated Industries",
+      "date": "2025-11-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T01:10:12Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Regulated Industries, 11/18/25, 1:00 pm, 412 Knott Building",
+      "date": "2025-11-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T01:10:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 7006 pb",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/BillText/pb/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/BillText/pb/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7006/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-11T01:10:12Z"
+  }
+}

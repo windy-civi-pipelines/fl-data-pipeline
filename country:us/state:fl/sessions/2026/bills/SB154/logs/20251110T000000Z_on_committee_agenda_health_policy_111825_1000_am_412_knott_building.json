@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Health Policy, 11/18/25, 10:00 am, 412 Knott Building",
+    "date": "2025-11-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 154"
+}

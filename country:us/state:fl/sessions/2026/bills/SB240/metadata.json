@@ -42,6 +42,16 @@
       "_processing": {
         "log_file_created": "2025-11-07T00:18:32Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Environment and Natural Resources, 11/18/25, 3:30 pm, 110 Senate Building",
+      "date": "2025-11-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T01:10:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -129,7 +139,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T00:18:32Z",
+    "logs_latest_update": "2025-11-11T01:10:12Z",
     "text_extraction_latest_update": "2025-11-07T08:50:18.395225Z"
   }
 }
