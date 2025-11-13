@@ -1,0 +1,85 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 397",
+  "title": "Violations of Pretrial Release Conditions for Violent Crimes",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Violations of Pretrial Release Conditions for Violent Crimes;  Provides that person who is on pretrial release for specified violent crime commits separate criminal offense if such person willfully violates condition of pretrial release; specifies procedures at person's first appearance hearing; requires court to consider certain factors in determining whether to order pretrial detention or grant pretrial release; provides that law enforcement officer is not liable in civil action for arrest of person based on probable cause to believe that person has violated condition of pretrial release in specified circumstances; authorizes law enforcement officer to arrest without warrant any person suspected of violating condition of pretrial release if original arrest was for specified violent crime."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Daley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Daley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 397 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/397/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "901.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/901.15"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/397/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T01:14:02Z"
+  }
+}

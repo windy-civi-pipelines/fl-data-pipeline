@@ -1,0 +1,151 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 474",
+  "title": "Military Affairs",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Military Affairs;  Revising the authorization to be granted a leave of absence for military service to include the Coast Guard; revising the authorization to be granted a leave of absence for reserve or guard training to include members of the Florida State Guard; specifying that an authorization for a leave of absence for all employees of the state and the counties, municipalities, and political subdivisions of the state to perform active military service for a specified timeframe is based on a single order; deleting positions from the Department of Military Affairs from compulsory participation in the Senior Management Service Class, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wright",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wright\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 474 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "115.01",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/115.01"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "115.06",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/115.06"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "115.07",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/115.07"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "115.08",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/115.08"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "115.09",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/115.09"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "115.14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/115.14"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "121.055",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/121.055"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "250.10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/250.10"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "250.116",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/250.116"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/474/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T01:14:02Z"
+  }
+}

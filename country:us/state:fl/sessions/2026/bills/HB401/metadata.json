@@ -1,0 +1,76 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 401",
+  "title": "Security for Statewide Constitutional Office Candidates",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "electors and elections"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Security for Statewide Constitutional Office Candidates ;  Requires FDLE to provide certain candidates with protective security detail for specified time period."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sirois",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sirois\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 401 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/401/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/401/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T01:14:02Z"
+  }
+}

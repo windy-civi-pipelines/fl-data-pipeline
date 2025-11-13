@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 405",
+  "title": "Commercial Construction Projects",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "and solicitations",
+    "public business"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Commercial Construction Projects;  Provides that provisions contained in public construction contracts which purport to waive, release, or extinguish certain rights of contractor are void & unenforceable; requires Florida Building Commission, in consultation with DBPR, to create uniform commercial building permit application; requires such application to include certain information & be accepted statewide; prohibits such application from being modified; authorizes local enforcement agencies to require supplemental forms or additional documentation or plans for specified commercial construction projects; provides requirements for such supplemental forms; requires local enforcement agencies to allow certain reviews to take place simultaneously; requires commission to electronically publish on its website & make available to local enforcement agencies & applicants such application by specified date; requires local enforcement agencies to reduce permit fees for commercial construction projects by certain percentages; prohibits local enforcement agencies from collecting any fees for commercial construction projects."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Griffitts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Griffitts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 405 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/405/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/405/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T01:14:02Z"
+  }
+}

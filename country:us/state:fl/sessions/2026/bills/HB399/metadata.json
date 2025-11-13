@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 399",
+  "title": "Land Use and Development Regulations",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "relations",
+    "veterans"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Land Use and Development Regulations;  Prohibits local governments from adopting certain local land development regulations; establishes requirements for certain local land development regulations that impose fee, charge, or exaction; declares certain local land development regulations null & void; requires OPPAGA to perform study to identify effect of removing Urban Development Boundary or similar boundaries in Miami-Dade County and other counties; requiring OPPAGA to submit specified report to Legislature by specified date."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Borrero",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Borrero\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 399 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "163.3164",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3164"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "163.3202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3202"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/399/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T01:14:02Z"
+  }
+}

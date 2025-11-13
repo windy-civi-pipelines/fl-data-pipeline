@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 395",
+  "title": "Dependent Children",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "judicial branch",
+    "social welfare"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Dependent Children;  Requires DCF & each community-based care lead agency to coordinate with certain organizations & meet quarterly for specified purpose; authorizes such meeting to be in person or via teleconference or other electronic means; requires such meetings to have formal agenda; requires department & each community-based care lead agency to make certain information available on their respective websites; requires, beginning in specified year, department & each community-based care lead agency to publish on their respective websites biannual report containing specified information; requires caregiver to provide weekly cash allowance to each child in his or her care beginning when child attains certain age; prohibits caregiver from withholding child's allowance as punishment; provides that child is not expected to use his or her allowance for certain items; provides amount of such weekly allowance."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rizo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rizo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 395 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/395/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "39.4085",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.4085"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.145",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.145"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/395/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T01:14:02Z"
+  }
+}

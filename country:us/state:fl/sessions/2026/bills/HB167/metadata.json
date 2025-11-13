@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "public health",
     "reclamation, and use",
+    "subject index",
     "torts"
   ],
   "abstracts": [
@@ -107,6 +107,16 @@
       "_processing": {
         "log_file_created": "2025-11-07T00:18:32Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,6 +126,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"McClure\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gentry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gentry\"}",
       "organization_id": null
     }
   ],
@@ -139,6 +157,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/167/Analyses/h0167a.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (11/12/2025 11:12 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/167/Analyses/h0167b.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -170,7 +199,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T00:18:32Z",
+    "logs_latest_update": "2025-11-13T01:14:02Z",
     "text_extraction_latest_update": "2025-11-07T08:46:54.136952Z"
   }
 }

@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "public health",
     "subject index",
     "torts"
   ],
@@ -107,6 +106,16 @@
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
       }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2025-11-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T01:14:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -155,6 +164,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/6003/Analyses/h6003a.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (11/12/2025 2:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/6003/Analyses/h6003b.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -210,7 +230,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-11-13T01:14:02Z",
     "text_extraction_latest_update": "2025-10-23T19:15:54.750400Z"
   }
 }
