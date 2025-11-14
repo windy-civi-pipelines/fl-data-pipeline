@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Added to Select Committee on Property Taxes agenda",
+    "date": "2025-11-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJR 203"
+}

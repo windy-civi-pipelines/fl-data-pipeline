@@ -7,8 +7,8 @@
     "joint resolution"
   ],
   "subject": [
-    "concurrent)",
-    "subject index"
+    "constitutional amendments",
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -76,6 +76,16 @@
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
       }
+    },
+    {
+      "description": "Added to Select Committee on Property Taxes agenda",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T00:17:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,7 +112,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Select Committee on Property Taxes (Post-Meeting) (11/13/2025 3:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/213/Analyses/h0213.SPT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -118,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-11-14T00:17:55Z",
     "text_extraction_latest_update": "2025-10-23T19:19:05.464532Z"
   }
 }

@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 413",
+  "title": "Attorney Fees, Suit Money, and Costs",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure",
+    "domestic relations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Attorney Fees, Suit Money, and Costs;  Authorizes court to order attorney fees, suit money, & costs in appellate proceedings; provides that award of attorney fees, suit money, & costs may be awarded retroactively & prospectively; authorizes inclusion of certain fees, money, & costs in award of attorney fees, suit money, & costs; authorizes court to consider if good faith offer of settlement was rejected when awarding attorney fees, suit money, & costs; authorizes court to award, deny, or reduce attorney fees, suit money, & costs; requires court to make certain written findings; provides applicability."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T00:17:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gottlieb",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gottlieb\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 413 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/413/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "61.16",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.16"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "742.045",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/742.045"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/413/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T00:17:55Z"
+  }
+}

@@ -10,26 +10,21 @@
     "and solicitations",
     "civil practice and procedure",
     "civil rights",
-    "criminal procedure and corrections",
     "industry",
-    "insurance",
-    "labor",
     "limitations",
     "military affairs and related matters",
-    "motor vehicles",
     "planning and development",
     "public business",
-    "public health",
     "public lands and property",
-    "public officers, employees, and records",
     "public transportation",
     "railroads and other regulated utilities",
     "real and personal property",
+    "reclamation, and use",
     "relations",
     "social welfare",
     "subject index",
-    "taxation and finance",
-    "torts"
+    "torts",
+    "transportation designations"
   ],
   "abstracts": [
     {
@@ -118,6 +113,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T00:17:55Z"
+      }
+    },
+    {
+      "description": "Now in Budget Committee",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T00:17:55Z"
       }
     }
   ],
@@ -630,7 +645,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T00:18:32Z",
+    "logs_latest_update": "2025-11-14T00:17:55Z",
     "text_extraction_latest_update": "2025-11-07T08:54:34.557061Z"
   }
 }
