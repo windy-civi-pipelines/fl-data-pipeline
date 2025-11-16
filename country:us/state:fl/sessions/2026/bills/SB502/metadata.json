@@ -1,0 +1,80 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 502",
+  "title": "Concurrent Legislative Jurisdiction over United States Military Installations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "military affairs and related matters"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Concurrent Legislative Jurisdiction over United States Military Installations;  Declaring that the state accepts the relinquishment of exclusive legislative jurisdiction from the United States in accordance with specified provisions; providing that this state has concurrent legislative jurisdiction with the United States over United States military installations located within the boundaries of this state; specifying that such jurisdiction is effective upon the Governor\u2019s written acceptance of a request filed by the principal officer, or other specified representative who has supervision or control over the military installation, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T00:37:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wright",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wright\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 502 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/502/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/502/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/502/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-16T00:37:33Z"
+  }
+}
