@@ -30,6 +30,18 @@
       "_processing": {
         "log_file_created": "2025-10-29T00:38:18Z"
       }
+    },
+    {
+      "description": "Referred to Environment and Natural Resources; Appropriations Committee on Agriculture, Environment, and General Government; Fiscal Policy",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +88,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T00:38:18Z",
+    "logs_latest_update": "2025-11-18T02:08:54Z",
     "text_extraction_latest_update": "2025-10-29T04:23:34.720797Z"
   }
 }

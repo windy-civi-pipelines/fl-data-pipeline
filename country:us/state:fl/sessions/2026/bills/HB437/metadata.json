@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 437",
+  "title": "Public Records",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "public business",
+    "public officers, employees, and records",
+    "railroads and other regulated utilities",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Public Records;  Provides that it is a violation of ch. 119, F.S., to fail to acknowledge public records request promptly & respond to such request in good faith; revises various provisions relating to custodians of public records, agencies, fees, & penalties; requires written, detailed cost estimate be provided upon request to persons seeking to inspect or copy public record; requires courts to assess specified costs, fees, & penalties; requires certain public records exemption provisions be repealed after specified timeframe unless Legislature reenacts such exemption."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Andrade",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andrade\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 437 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/437/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "119.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/119.011"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "119.07",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/119.07"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "119.10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/119.10"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "119.12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/119.12"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "119.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/119.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "282.711",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/282.711"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.0022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.0022"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/437/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T02:08:54Z"
+  }
+}

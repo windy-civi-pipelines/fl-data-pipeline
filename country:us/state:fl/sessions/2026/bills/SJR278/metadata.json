@@ -8,7 +8,7 @@
   ],
   "subject": [
     "concurrent)",
-    "subject index"
+    "constitutional amendments"
   ],
   "abstracts": [
     {
@@ -29,6 +29,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-24T19:43:28Z"
+      }
+    },
+    {
+      "description": "Referred to Finance and Tax; Appropriations; Rules",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
       }
     }
   ],
@@ -76,7 +88,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-24T19:43:28Z",
+    "logs_latest_update": "2025-11-18T02:08:54Z",
     "text_extraction_latest_update": "2025-10-25T04:18:24.937203Z"
   }
 }

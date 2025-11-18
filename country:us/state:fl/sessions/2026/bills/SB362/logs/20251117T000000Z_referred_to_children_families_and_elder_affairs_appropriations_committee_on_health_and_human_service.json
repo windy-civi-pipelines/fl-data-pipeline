@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Children, Families, and Elder Affairs; Appropriations Committee on Health and Human Services; Fiscal Policy",
+    "date": "2025-11-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 362"
+}

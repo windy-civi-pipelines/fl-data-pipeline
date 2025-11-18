@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 435",
+  "title": "Placement of Child in Certified Domestic Violence Center",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure",
+    "judicial branch"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Placement of Child in Certified Domestic Violence Center;  Provides that certified domestic violence center may be considered placement priority for child; provides that DCF does not have to provide home study to court if placing child in certified domestic violence center; authorizes court to place child & his or her proposed legal custodian in certified domestic violence center; provides that placement of minor in certified domestic violence center constitutes at-risk placement; authorizes certified domestic violence center to serve as temporary legal residence for minor; waiving preliminary home study requirements; provides that department is not required to conduct in-person home study of certified domestic violence center; provides construction; prohibits department from compelling minor to return to previously approved residence if certain conditions are met; requires court to consider totality of circumstances & not make certain assumptions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Campbell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 435 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/435/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "39.01",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.01"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.4021",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.4021"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.521",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.521"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "63.092",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/63.092"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/435/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T02:08:54Z"
+  }
+}

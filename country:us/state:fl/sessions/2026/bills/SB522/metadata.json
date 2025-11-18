@@ -1,0 +1,192 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 522",
+  "title": "Motor Vehicle Insurance",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "appropriations",
+    "crimes",
+    "motor vehicles",
+    "public health",
+    "real and personal property",
+    "regulation of professions and occupations",
+    "social welfare",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Motor Vehicle Insurance;  Repealing provisions which comprise the Florida Motor Vehicle No-Fault Law; revising garage liability insurance requirements for recreational vehicle dealer license applicants; revising minimum liability coverage requirements for motor vehicle owners or operators; revising requirements for motor vehicle liability policies relating to coverage, and exclusion from coverage, for certain drivers and vehicles; revising coverages that may provide for a reduction in motor vehicle insurance policy premium charges under certain circumstances; revising the legal liability of an uninsured motorist coverage insurer; providing a prohibition, requirements, applicability, and construction relating to motor vehicle insurance policies as of a certain date, etc.\r\n    \r\n        APPROPRIATION:\r\n        $83,651"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Grall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Grall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 522 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/522/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/522/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "316.2122",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.2122"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.646",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.646"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "318.18",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/318.18"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.02",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.02"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.0609",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.0609"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.27",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.27"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.771",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.771"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "322.251",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.251"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "322.34",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.34"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "324.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/324.011"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "324.021",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/324.021"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "324.022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/324.022"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "324.0221",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/324.0221"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/522/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T02:08:54Z"
+  }
+}

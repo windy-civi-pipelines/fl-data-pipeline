@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 433",
+  "title": "Department of Agriculture and Consumer Services",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "and solicitations",
+    "business organizations",
+    "crimes",
+    "criminal procedure and corrections",
+    "industry",
+    "motor vehicles",
+    "municipalities",
+    "public business",
+    "public health",
+    "public lands and property",
+    "reclamation, and use",
+    "regulation of professions and occupations",
+    "relations",
+    "taxation and finance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Department of Agriculture and Consumer Services;  Prohibits counties & municipalities from enacting or enforcing any law that restricts or prohibits use of gasoline-powered farm equipment or gasoline-powered landscape equipment or that distinguishes such equipment from any other equipment; requires Acquisition & Restoration Council to determine whether certain surplused lands are suitable for bona fide agricultural purposes; prohibits local governmental entity from transferring future development rights for surplused lands determined to be suitable for bona fide agricultural purposes; requires DEP, in coordination with DACS, to determine whether state-owned conservation lands are suitable for bona fide agricultural purposes; authorizes DEP to surplus specified state-owned lands determined to be suitable for bona fide agricultural purposes; prohibits person from wearing or displaying item that displays words \"concealed weapon permit\" or \"concealed weapon permit holder\" with intent to mislead another to believe that person is authorized to wear or display such item; prohibits possession, manufacture, sale, importation, distribution, or use of signal jamming device."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alvarez, D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alvarez, D.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 433 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/433/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/433/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T02:08:54Z"
+  }
+}

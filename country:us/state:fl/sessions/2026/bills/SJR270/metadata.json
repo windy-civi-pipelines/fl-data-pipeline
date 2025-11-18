@@ -6,11 +6,14 @@
   "classification": [
     "joint resolution"
   ],
-  "subject": [],
+  "subject": [
+    "concurrent)",
+    "constitutional amendments"
+  ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Homestead Property Exemption for Persons Age 65 or Older;  Proposing an amendment to the State Constitution to exempt homestead property from all levies other than school district levies for persons who have attained age 65, prohibit counties and municipalities from reducing total funding for law enforcement, etc."
+      "abstract": "Homestead Property Exemption for Persons Age 65 or Older;  Proposing amendments to the State Constitution to create a total exemption of homestead property from ad valorem taxation, other than school district levies, for persons 65 years of age or older who have owned and maintained the property as their permanent residence for at least 5 years and whose household income does not exceed a certain amount, adjusted annually by the cost-of-living index, and to provide an effective date, etc."
     }
   ],
   "other_titles": [],
@@ -26,6 +29,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-23T19:01:22Z"
+      }
+    },
+    {
+      "description": "Referred to Finance and Tax; Appropriations; Rules",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
       }
     }
   ],
@@ -73,7 +88,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:01:22Z",
+    "logs_latest_update": "2025-11-18T02:08:54Z",
     "text_extraction_latest_update": "2025-10-23T19:11:07.633460Z"
   }
 }

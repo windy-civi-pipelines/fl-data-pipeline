@@ -1,0 +1,140 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 532",
+  "title": "Court Fees",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure",
+    "domestic relations",
+    "judicial branch",
+    "real and personal property"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Court Fees;  Increasing the service charges a clerk of the circuit court charges for certain services rendered by the clerk\u2019s office; increasing certain filing fees that may be charged by the clerk in probate matters; increasing certain filing fees and service charges in trial and appellate proceedings; increasing certain filing fees and service charges for civil actions, suits, or proceedings in county court; increasing the service charge the clerk is entitled to for disbursement of surplus proceeds for certain judicial sales procedures, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 532 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/532/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/532/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "28.24",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.24"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "28.2401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.2401"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "28.241",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.241"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "34.041",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/34.041"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "45.035",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/45.035"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "721.83",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/721.83"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "744.3678",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/744.3678"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/532/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T02:08:54Z"
+  }
+}

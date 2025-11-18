@@ -9,13 +9,14 @@
   "subject": [
     "and solicitations",
     "civil rights",
+    "crimes",
     "criminal procedure and corrections",
     "executive branch",
     "k",
     "labor",
     "motor vehicles",
     "public health",
-    "subject index"
+    "regulation of professions and occupations"
   ],
   "abstracts": [
     {
@@ -36,6 +37,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce and Tourism; Appropriations Committee on Transportation, Tourism, and Economic Development; Fiscal Policy",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
       }
     }
   ],
@@ -292,7 +305,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T00:18:32Z",
+    "logs_latest_update": "2025-11-18T02:08:54Z",
     "text_extraction_latest_update": "2025-11-07T08:53:11.147701Z"
   }
 }

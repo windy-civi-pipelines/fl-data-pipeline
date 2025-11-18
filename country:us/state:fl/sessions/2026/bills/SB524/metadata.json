@@ -1,0 +1,146 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 524",
+  "title": "Department of Law Enforcement",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "public health"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Department of Law Enforcement;  Specifying the circumstances under which an appointment or reappointment to the Medical Examiners Commission is considered in force; requiring the commission, rather than the Governor, to appoint district medical examiners for each medical examiner district; specifying that upon approval by the commission, rather than by the Governor, a physician member of the commission is eligible to serve as a district medical examiner; requiring the commission, rather than the Department of Law Enforcement, to establish or develop specified training components or courses, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T02:08:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 524 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/524/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/524/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "406.02",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/406.02"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "406.06",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/406.06"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.11"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.1395",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.1395"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.1726",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.1726"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.17261",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.17261"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.1727",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.1727"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.17299",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.17299"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/524/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T02:08:54Z"
+  }
+}
