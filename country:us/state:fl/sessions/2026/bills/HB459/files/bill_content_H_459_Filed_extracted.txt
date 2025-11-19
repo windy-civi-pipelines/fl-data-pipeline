@@ -1,0 +1,829 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 459 Filed
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+HB 459 2026
+1 A bill to be entitled
+2 An act relating to property insurance claims; amending
+3 s. 627.7015, F.S.; establishing a mandatory procedure
+4 for resolution of disputed property insurance claims;
+5 deleting obsolete provisions; revising legislative
+6 intent and purpose; requiring certain entities to
+7 administer a specified law in a certain manner;
+8 requiring insurers, at specified times, to notify
+9 policyholders of the mandatory procedure; requiring
+10 the Department of Financial Services to prepare a
+11 consumer information pamphlet to be provided to
+12 policyholders at specified times; authorizing a
+13 policyholder or an insurer to file a petition with the
+14 Division of Administrative Hearings to resolve certain
+15 claims; specifying requirements for the filing and
+16 service of such petition; requiring the department to
+17 inform policyholders of the location of the Division
+18 of Administrative Hearings and the division's website
+19 address; specifying that the parties to the claim must
+20 bear the cost of certain conferences; requiring an
+21 administrative law judge to review the petition upon
+22 receiving it; requiring the administrative law judge
+23 to dismiss petitions that do not contain specified
+24 information; requiring that the petition include a
+25 certain certification; specifying that dismissal of a
+Page 1 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+26 petition or a portion of a petition is without
+27 prejudice and does not require a hearing; specifying
+28 that motions to dismiss must be handled in a specified
+29 manner; requiring the insurer to pay the requested
+30 claim or file a response to the petition within a
+31 specified timeframe; specifying filing and content
+32 requirements for the insurer's response to the
+33 petition; requiring the administrative law judge to
+34 conduct proceedings in a specified manner; providing
+35 an exception; requiring the administrative law judge
+36 to make a final determination of total coverage amount
+37 within a specified timeframe; requiring such amount to
+38 be paid in a specified manner; revising the definition
+39 of the term "claim"; repealing ss. 627.70151,
+40 627.70152, 627.70153, and 627.70154, F.S., relating to
+41 appraisal clauses in property insurance contracts,
+42 suits arising under a property insurance policy,
+43 consolidation of residential property insurance
+44 actions, and mandatory binding arbitration of property
+45 insurance policies, respectively; amending ss.
+46 627.351, 627.70131, and 627.7074, F.S.; conforming
+47 provisions to changes made by the act; providing an
+48 effective date.
+49
+50 Be It Enacted by the Legislature of the State of Florida:
+Page 2 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+51
+52 Section 1. Section 627.7015, Florida Statutes, is amended
+53 to read:
+54 627.7015 Mandatory Alternative procedure for resolution of
+55 disputed property insurance claims.—
+56 (1) This section sets forth a nonadversarial alternative
+57 dispute resolution procedure for an a mediated claim resolution
+58 conference prompted by the need for effective, fair, and timely
+59 resolution handling of disputed property insurance claims. There
+60 is a particular need for a mandatory an informal, nonthreatening
+61 forum, available at the election of either party, for helping
+62 parties who elect this procedure to resolve their claims
+63 disputes regarding because most homeowner and commercial
+64 residential insurance policies obligate policyholders to
+65 participate in a potentially expensive and time-consuming
+66 adversarial appraisal process before litigation. The procedure
+67 set forth in this section is designed to bring the parties
+68 together to ensure the efficient delivery of the coverage
+69 offered under the policy, helping to restore an owner's property
+70 and livelihood to normalcy after a disaster or loss while
+71 maintaining reasonable costs to the insurer for a mediated
+72 claims settlement conference without any of the trappings or
+73 drawbacks of an adversarial process. Before participating in
+74 resorting to these procedures, policyholders and insurers are
+75 encouraged to resolve claims as quickly and fairly as possible.
+Page 3 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+76 The department, the office, and the Division of Administrative
+77 Hearings shall administer this section in a manner that
+78 facilitates the self-execution of the system and the process of
+79 ensuring a prompt and cost-effective delivery of payments to
+80 insureds This section is available with respect to claims under
+81 personal lines and commercial residential policies before
+82 commencing the appraisal process , or before commencing
+83 litigation. Mediation may be requested only by the policyholder,
+84 as a first-party claimant, a third-party, as an assignee of the
+85 policy benefits, or the insurer. However, an insurer is not
+86 required to participate in any mediation requested by a third-
+87 party assignee of the policy benefits. If requested by the
+88 policyholder, Participation by legal counsel is permitted but is
+89 not required. Expert testimony may be used in the procedure,
+90 regardless of whether legal counsel is participating. Mediation
+91 under this section is also available to litigants referred to
+92 the department by a county court or circuit court. This section
+93 does not apply to commercial coverages, to private passenger
+94 motor vehicle insurance coverages, or to disputes relating to
+95 liability coverages in policies of property insurance.
+96 (2) At the time of issuance and renewal of a policy or at
+97 the time a first-party claim within the scope of this section is
+98 filed by the policyholder, the insurer shall notify the
+99 policyholder of the mandatory procedure its right to participate
+100 in the mediation program under this section. A claim becomes
+Page 4 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+101 eligible for mediation after the insurer complies with s.
+102 627.70131(7) or elects to reinspect pursuant to s.
+103 627.70152(4)(a)3. If the insurer has not complied with s.
+104 627.70131(7) or elected to reinspect pursuant to s.
+105 627.70152(4)(a)3. within 90 days after notice of the loss, the
+106 insurer may not require mediation under this section. This
+107 subsection does not impair the right of an insurance company to
+108 request mediation after a determination of coverage pursuant to
+109 this section or require appraisal or another method of
+110 alternative dispute resolution pursuant to s. 627.70152(4)(b).
+111 The department shall prepare a consumer information pamphlet for
+112 distribution to be provided to policyholders at the time of
+113 issuance and renewal of the policy and upon the Governor's
+114 declaration of a state of emergency within the policyholder's
+115 county persons participating in mediation.
+116 (3) A policyholder or an insurer may, for any claim that
+117 is ripe, due, and owing, file a petition with the Division of
+118 Administrative Hearings to resolve claims which meets the
+119 requirements of this section. A party represented by an attorney
+120 shall file by electronic means. A party not represented by an
+121 attorney may file by certified mail or by electronic means. The
+122 department shall inform policyholders of the location of the
+123 Division of Administrative Hearings and the division's website
+124 address for purposes of filing a petition for resolving a claim.
+125 The policyholder shall also serve, by certified mail or
+Page 5 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+126 electronic means, copies of the petition to resolve claims on
+127 the insurer. The costs of the procedure mediation must be
+128 reasonable, and the parties insurer must bear all of the cost of
+129 conducting mediation conferences, except as otherwise provided
+130 in this section. If a policyholder fails to appear at the
+131 conference, the conference must be rescheduled upon the
+132 policyholder's payment of the costs of a rescheduled conference.
+133 If the insurer fails to appear at the conference, the insurer
+134 must pay the policyholder's actual cash expenses incurred in
+135 attending the conference if the insurer's failure to attend was
+136 not due to a good cause acceptable to the department. An insurer
+137 will be deemed to have failed to appear if the insurer's
+138 representative lacks authority to settle the full value of the
+139 claim. The insurer shall incur an additional fee for a
+140 rescheduled conference necessitated by the insurer's failure to
+141 appear at a scheduled conference. The fees assessed by the
+142 department must include a charge necessary to defray the
+143 expenses of the department related to its duties under this
+144 section and must be deposited in the Insurance Regulatory Trust
+145 Fund. The department may suspend the insurer's authority to
+146 appoint licensees if the insurer does not timely pay the
+147 required fees.
+148 (4) Upon receipt of the petition, an administrative law
+149 judge shall review it and shall dismiss any petition or any
+150 portion of such petition which does not on its face specifically
+Page 6 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+151 identify or itemize all of the following information:
+152 (a) The policyholder's name, address, telephone number,
+153 and social security number.
+154 (b) The insurer's name, address, and telephone number.
+155 (c) A detailed description of the loss or damage for which
+156 the claim has been filed, including the date it occurred.
+157 (d) The alleged acts or omissions of the insurer giving
+158 rise to the dispute, including, if applicable, a denial of
+159 coverage.
+160 (e) An estimate of damages, if known, and the amount that
+161 is disputed by the insurer.
+162 (f) A specific explanation of any other disputed issue
+163 that the administrative law judge will be called to rule upon
+164 The department shall adopt by rule a property insurance
+165 mediation program to be administered by the department or its
+166 designee. The department may also adopt special rules which are
+167 applicable in cases of an emergency within the state. The rules
+168 shall be modeled after practices and procedures set forth in
+169 mediation rules of procedure adopted by the Supreme Court. The
+170 rules shall provide for:
+171 (a) Reasonable requirement for processing and scheduling
+172 of requests for mediation.
+173 (b) Qualifications , denial of application, suspension ,
+174 revocation of approval, and other penalties for mediators as
+175 provided in s. 627.745 and the Florida Rules for Certified and
+Page 7 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+176 Court-Appointed Mediators.
+177 (c) Provisions governing who may attend mediation
+178 conferences.
+179 (d) Selection of mediators.
+180 (e) Criteria for the conduct of mediation conferences.
+181 (f) Right to legal counsel.
+182 (5) The petition must include a certification by the
+183 policyholder or, if the policyholder is represented by counsel,
+184 the policyholder's attorney stating that the policyholder or
+185 attorney, as applicable, has made a good faith effort to resolve
+186 the dispute with the insurer and that the policyholder or
+187 attorney was unable to resolve the dispute with the insurer All
+188 statements made and documents produced at a mediation conference
+189 shall be deemed to be settlement negotiations in anticipation of
+190 litigation within the scope of s. 90.408. All parties to the
+191 mediation must negotiate in good faith and must have the
+192 authority to immediately settle the claim. Mediators are deemed
+193 to be agents of the department and shall have the immunity from
+194 suit provided in s. 44.107.
+195 (6)(a) The dismissal of any petition or portion of such a
+196 petition under this section is without prejudice and does not
+197 require a hearing Mediation is nonbinding; however, if a written
+198 settlement is reached, the policyholder has 3 business days
+199 within which the policyholder may rescind the settlement unless
+200 the policyholder has cashed or deposited any check or draft
+Page 8 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+201 disbursed to the policyholder for the disputed matters as a
+202 result of the conference. If a settlement agreement is reached
+203 and is not rescinded, it is binding and acts as a release of all
+204 specific claims that were presented in that mediation
+205 conference.
+206 (b) At the conclusion of the mediation, the mediator shall
+207 provide a written report of the results of mediation, including
+208 any settlement amount, to the insurer, the policyholder, and the
+209 policyholder's representative if the policyholder is represented
+210 at the mediation.
+211 (7) All motions to dismiss must be handled as specified in
+212 s. 440.192(5) If the insurer fails to comply with subsection (2)
+213 by failing to notify a policyholder of its right to participate
+214 in the mediation program under this section or if the insurer
+215 requests the mediation, and the mediation results are rejected
+216 by either party, the policyholder is not required to submit to
+217 or participate in any contractual loss appraisal process of the
+218 property loss damage as a precondition to legal action for
+219 breach of contract against the insurer for its failure to pay
+220 the policyholder's claims covered by the policy.
+221 (8) Within 14 days after receipt of the petition, the
+222 insurer shall pay the requested claim or file a response to the
+223 petition with the Division of Administrative Hearings. If the
+224 insurer files a response to the petition, the response must be
+225 filed by electronic means. Such response must specify all claims
+Page 9 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+226 requested but not paid and explain the insurer's reason for
+227 nonpayment. The insurer shall provide copies of the response to
+228 the policyholder by certified mail or by electronic means. In
+229 ruling on the petition and response to the petition, the
+230 administrative law judge shall conduct proceedings in a manner
+231 consistent with the process outlined in s. 440.25, except that
+232 the administrative law judge shall make a determination within
+233 60 days after the filing of the policyholder's petition. After
+234 determining coverage, the administrative law judge shall make a
+235 final determination of the total coverage amount within 180 days
+236 after the filing of the petition, which must be paid to the
+237 policyholder or held in escrow on the policyholder's behalf
+238 until exhausted for covered claims The department may designate
+239 an entity or person to serve as administrator to carry out any
+240 of the provisions of this section and may take this action by
+241 means of a written contract or agreement.
+242 (9) For purposes of this section, the term "claim" refers
+243 to any dispute between an insurer and a policyholder relating to
+244 a material issue of fact other than a dispute:
+245 (a) With respect to which the insurer has a reasonable
+246 basis to suspect fraud;
+247 (b) When the insurer has determined, based on agreed-upon
+248 facts as to the cause of loss, there is no coverage under the
+249 policy;
+250 (c) With respect to which the insurer has a reasonable
+Page 10 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+251 basis to believe that the policyholder has intentionally made a
+252 material misrepresentation of fact which is relevant to the
+253 claim, and the entire request for payment of a loss has been
+254 denied on the basis of the material misrepresentation;
+255 (d) With respect to which the amount in controversy is
+256 less than $500, unless the parties agree to mediate a dispute
+257 involving a lesser amount; or
+258 (e) With respect to a loss that does not comply with s.
+259 627.70132.
+260 Section 2. Section 627.70151, Florida Statutes, is
+261 repealed.
+262 Section 3. Section 627.70152, Florida Statutes, is
+263 repealed.
+264 Section 4. Section 627.70153, Florida Statutes, is
+265 repealed.
+266 Section 5. Section 627.70154, Florida Statutes, is
+267 repealed.
+268 Section 6. Paragraph (ll) of subsection (6) of section
+269 627.351, Florida Statutes, is amended to read:
+270 627.351 Insurance risk apportionment plans.—
+271 (6) CITIZENS PROPERTY INSURANCE CORPORATION.—
+272 (ll)1. In addition to any other method of alternative
+273 dispute resolution authorized by state law, the corporation may
+274 adopt policy forms that provide for the resolution of disputes
+275 regarding its claim determinations, including disputes regarding
+Page 11 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+276 coverage for, or the scope and value of, a claim, in a
+277 proceeding before the Division of Administrative Hearings. Any
+278 such policies are not subject to s. 627.70154. All proceedings
+279 in the Division of Administrative Hearings pursuant to such
+280 policies are subject to ss. 57.105 and 768.79 as if filed in the
+281 courts of this state and are not considered chapter 120
+282 administrative proceedings. Rule 1.442, Florida Rules of Civil
+283 Procedure, applies to any offer served pursuant to s. 768.79,
+284 except that, notwithstanding any provision in Rule 1.442,
+285 Florida Rules of Civil Procedure, to the contrary, an offer
+286 shall not be served earlier than 10 days after filing the
+287 request for hearing with the Division of Administrative Hearings
+288 and shall not be served later than 10 days before the date set
+289 for the final hearing. The administrative law judge in such
+290 proceedings shall award attorney fees and other relief pursuant
+291 to ss. 57.105 and 768.79. The corporation may not seek, and the
+292 office may not approve, a maximum hourly rate for attorney fees.
+293 2. The corporation may contract with the division to
+294 conduct proceedings to resolve disputes regarding its claim
+295 determinations as may be provided for in the applicable policies
+296 of insurance. This subparagraph expires July 1, 2026.
+297 Section 7. Paragraph (a) of subsection (8) of section
+298 627.70131, Florida Statutes, is amended to read:
+299 627.70131 Insurer's duty to acknowledge communications
+300 regarding claims; investigation.—
+Page 12 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+301 (8) The requirements of this section are tolled:
+302 (a) During the pendency of any proceedings mediation
+303 proceeding under s. 627.7015 or any alternative dispute
+304 resolution proceeding provided for in the insurance contract.
+305 The tolling period ends upon the end of the proceedings
+306 mediation or alternative dispute resolution proceeding.
+307 Section 8. Subsection (3) of section 627.7074, Florida
+308 Statutes, is amended to read:
+309 627.7074 Alternative procedure for resolution of disputed
+310 sinkhole insurance claims.—
+311 (3) If there is coverage available under the policy and
+312 the claim was submitted within the timeframe provided in s.
+313 627.706(5), following the receipt of the report provided under
+314 s. 627.7073 or the denial of a claim for a sinkhole loss, the
+315 insurer shall notify the policyholder of his or her right to
+316 participate in the neutral evaluation program under this
+317 section. Neutral evaluation supersedes the alternative dispute
+318 resolution process under s. 627.7015 but does not invalidate the
+319 appraisal clause of the insurance policy. The insurer shall
+320 provide to the policyholder the consumer information pamphlet
+321 prepared by the department pursuant to subsection (1)
+322 electronically or by United States mail.
+323 Section 9. This act shall take effect July 1, 2026.
+Page 13 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES A A s f d i a r p t c p p D c s i o a b a r t i c]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES p p t m c s r p c a t w b o 6 a s c a i 6 p e    B]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES S   6 d  ( d c r i f p d r p a s t o a m c d r e]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES T H f e i p c l a p r p p n r u t d m l  ( t f p i]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES e 6 6 6 6 i s r t a T d i d c  ( i A r s a d D a T]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES e t r c i c p I m a n w r c r a d e s F a r  ( j p]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES i  ( a  (  ( t  ( r c  ( i  ( t T m d a s m r  ( o  ( r p]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES C  ( c  (  (  (  ( p t a t a s s l m a t s  ( p r s w t]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES d r a s c  ( p a p a  ( s b i r b o p b t  ( i p i f]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES r n t r a c t 6 d f a p u a o m  ( t a  ( b  ( f p  (]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES b m c d  ( l i  ( 6S   rS   rS   rS   rS   6  (  ( d a r]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES c p s i p c a P e F s r a f p t o  2 c d oS   6 r]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES  (  ( p r T mS   6 s  ( t 6 s i p s r a p p eS  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+1 A bill to be entitled
+2 An act relating to property insurance claims; amending
+3 s. 627.7015, F.S.; establishing a mandatory procedure
+4 for resolution of disputed property insurance claims;
+5 deleting obsolete provisions; revising legislative
+6 intent and purpose; requiring certain entities to
+7 administer a specified law in a certain manner;
+8 requiring insurers, at specified times, to notify
+9 policyholders of the mandatory procedure; requiring
+10 the Department of Financial Services to prepare a
+11 consumer information pamphlet to be provided to
+12 policyholders at specified times; authorizing a
+13 policyholder or an insurer to file a petition with the
+14 Division of Administrative Hearings to resolve certain
+15 claims; specifying requirements for the filing and
+16 service of such petition; requiring the department to
+17 inform policyholders of the location of the Division
+18 of Administrative Hearings and the division's website
+19 address; specifying that the parties to the claim must
+20 bear the cost of certain conferences; requiring an
+21 administrative law judge to review the petition upon
+22 receiving it; requiring the administrative law judge
+23 to dismiss petitions that do not contain specified
+24 information; requiring that the petition include a
+25 certain certification; specifying that dismissal of a
+Page 1 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+26 petition or a portion of a petition is without
+27 prejudice and does not require a hearing; specifying
+28 that motions to dismiss must be handled in a specified
+29 manner; requiring the insurer to pay the requested
+30 claim or file a response to the petition within a
+31 specified timeframe; specifying filing and content
+32 requirements for the insurer's response to the
+33 petition; requiring the administrative law judge to
+34 conduct proceedings in a specified manner; providing
+35 an exception; requiring the administrative law judge
+36 to make a final determination of total coverage amount
+37 within a specified timeframe; requiring such amount to
+38 be paid in a specified manner; revising the definition
+39 of the term "claim"; repealing ss. 627.70151,
+40 627.70152, 627.70153, and 627.70154, F.S., relating to
+41 appraisal clauses in property insurance contracts,
+42 suits arising under a property insurance policy,
+43 consolidation of residential property insurance
+44 actions, and mandatory binding arbitration of property
+45 insurance policies, respectively; amending ss.
+46 627.351, 627.70131, and 627.7074, F.S.; conforming
+47 provisions to changes made by the act; providing an
+48 effective date.
+49
+50 Be It Enacted by the Legislature of the State of Florida:
+Page 2 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+51
+52 Section 1. Section 627.7015, Florida Statutes, is amended
+53 to read:
+54 627.7015 Mandatory Alternative procedure for resolution of
+55 disputed property insurance claims.—
+56 (1) This section sets forth a nonadversarial alternative
+57 dispute resolution procedure for an a mediated claim resolution
+58 conference prompted by the need for effective, fair, and timely
+59 resolution handling of disputed property insurance claims. There
+60 is a particular need for a mandatory an informal, nonthreatening
+61 forum, available at the election of either party, for helping
+62 parties who elect this procedure to resolve their claims
+63 disputes regarding because most homeowner and commercial
+64 residential insurance policies obligate policyholders to
+65 participate in a potentially expensive and time-consuming
+66 adversarial appraisal process before litigation. The procedure
+67 set forth in this section is designed to bring the parties
+68 together to ensure the efficient delivery of the coverage
+69 offered under the policy, helping to restore an owner's property
+70 and livelihood to normalcy after a disaster or loss while
+71 maintaining reasonable costs to the insurer for a mediated
+72 claims settlement conference without any of the trappings or
+73 drawbacks of an adversarial process. Before participating in
+74 resorting to these procedures, policyholders and insurers are
+75 encouraged to resolve claims as quickly and fairly as possible.
+Page 3 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+76 The department, the office, and the Division of Administrative
+77 Hearings shall administer this section in a manner that
+78 facilitates the self-execution of the system and the process of
+79 ensuring a prompt and cost-effective delivery of payments to
+80 insureds This section is available with respect to claims under
+81 personal lines and commercial residential policies before
+82 commencing the appraisal process , or before commencing
+83 litigation. Mediation may be requested only by the policyholder,
+84 as a first-party claimant, a third-party, as an assignee of the
+85 policy benefits, or the insurer. However, an insurer is not
+86 required to participate in any mediation requested by a third-
+87 party assignee of the policy benefits. If requested by the
+88 policyholder, Participation by legal counsel is permitted but is
+89 not required. Expert testimony may be used in the procedure,
+90 regardless of whether legal counsel is participating. Mediation
+91 under this section is also available to litigants referred to
+92 the department by a county court or circuit court. This section
+93 does not apply to commercial coverages, to private passenger
+94 motor vehicle insurance coverages, or to disputes relating to
+95 liability coverages in policies of property insurance.
+96 (2) At the time of issuance and renewal of a policy or at
+97 the time a first-party claim within the scope of this section is
+98 filed by the policyholder, the insurer shall notify the
+99 policyholder of the mandatory procedure its right to participate
+100 in the mediation program under this section. A claim becomes
+Page 4 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+101 eligible for mediation after the insurer complies with s.
+102 627.70131(7) or elects to reinspect pursuant to s.
+103 627.70152(4)(a)3. If the insurer has not complied with s.
+104 627.70131(7) or elected to reinspect pursuant to s.
+105 627.70152(4)(a)3. within 90 days after notice of the loss, the
+106 insurer may not require mediation under this section. This
+107 subsection does not impair the right of an insurance company to
+108 request mediation after a determination of coverage pursuant to
+109 this section or require appraisal or another method of
+110 alternative dispute resolution pursuant to s. 627.70152(4)(b).
+111 The department shall prepare a consumer information pamphlet for
+112 distribution to be provided to policyholders at the time of
+113 issuance and renewal of the policy and upon the Governor's
+114 declaration of a state of emergency within the policyholder's
+115 county persons participating in mediation.
+116 (3) A policyholder or an insurer may, for any claim that
+117 is ripe, due, and owing, file a petition with the Division of
+118 Administrative Hearings to resolve claims which meets the
+119 requirements of this section. A party represented by an attorney
+120 shall file by electronic means. A party not represented by an
+121 attorney may file by certified mail or by electronic means. The
+122 department shall inform policyholders of the location of the
+123 Division of Administrative Hearings and the division's website
+124 address for purposes of filing a petition for resolving a claim.
+125 The policyholder shall also serve, by certified mail or
+Page 5 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+126 electronic means, copies of the petition to resolve claims on
+127 the insurer. The costs of the procedure mediation must be
+128 reasonable, and the parties insurer must bear all of the cost of
+129 conducting mediation conferences, except as otherwise provided
+130 in this section. If a policyholder fails to appear at the
+131 conference, the conference must be rescheduled upon the
+132 policyholder's payment of the costs of a rescheduled conference.
+133 If the insurer fails to appear at the conference, the insurer
+134 must pay the policyholder's actual cash expenses incurred in
+135 attending the conference if the insurer's failure to attend was
+136 not due to a good cause acceptable to the department. An insurer
+137 will be deemed to have failed to appear if the insurer's
+138 representative lacks authority to settle the full value of the
+139 claim. The insurer shall incur an additional fee for a
+140 rescheduled conference necessitated by the insurer's failure to
+141 appear at a scheduled conference. The fees assessed by the
+142 department must include a charge necessary to defray the
+143 expenses of the department related to its duties under this
+144 section and must be deposited in the Insurance Regulatory Trust
+145 Fund. The department may suspend the insurer's authority to
+146 appoint licensees if the insurer does not timely pay the
+147 required fees.
+148 (4) Upon receipt of the petition, an administrative law
+149 judge shall review it and shall dismiss any petition or any
+150 portion of such petition which does not on its face specifically
+Page 6 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+151 identify or itemize all of the following information:
+152 (a) The policyholder's name, address, telephone number,
+153 and social security number.
+154 (b) The insurer's name, address, and telephone number.
+155 (c) A detailed description of the loss or damage for which
+156 the claim has been filed, including the date it occurred.
+157 (d) The alleged acts or omissions of the insurer giving
+158 rise to the dispute, including, if applicable, a denial of
+159 coverage.
+160 (e) An estimate of damages, if known, and the amount that
+161 is disputed by the insurer.
+162 (f) A specific explanation of any other disputed issue
+163 that the administrative law judge will be called to rule upon
+164 The department shall adopt by rule a property insurance
+165 mediation program to be administered by the department or its
+166 designee. The department may also adopt special rules which are
+167 applicable in cases of an emergency within the state. The rules
+168 shall be modeled after practices and procedures set forth in
+169 mediation rules of procedure adopted by the Supreme Court. The
+170 rules shall provide for:
+171 (a) Reasonable requirement for processing and scheduling
+172 of requests for mediation.
+173 (b) Qualifications , denial of application, suspension ,
+174 revocation of approval, and other penalties for mediators as
+175 provided in s. 627.745 and the Florida Rules for Certified and
+Page 7 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+176 Court-Appointed Mediators.
+177 (c) Provisions governing who may attend mediation
+178 conferences.
+179 (d) Selection of mediators.
+180 (e) Criteria for the conduct of mediation conferences.
+181 (f) Right to legal counsel.
+182 (5) The petition must include a certification by the
+183 policyholder or, if the policyholder is represented by counsel,
+184 the policyholder's attorney stating that the policyholder or
+185 attorney, as applicable, has made a good faith effort to resolve
+186 the dispute with the insurer and that the policyholder or
+187 attorney was unable to resolve the dispute with the insurer All
+188 statements made and documents produced at a mediation conference
+189 shall be deemed to be settlement negotiations in anticipation of
+190 litigation within the scope of s. 90.408. All parties to the
+191 mediation must negotiate in good faith and must have the
+192 authority to immediately settle the claim. Mediators are deemed
+193 to be agents of the department and shall have the immunity from
+194 suit provided in s. 44.107.
+195 (6)(a) The dismissal of any petition or portion of such a
+196 petition under this section is without prejudice and does not
+197 require a hearing Mediation is nonbinding; however, if a written
+198 settlement is reached, the policyholder has 3 business days
+199 within which the policyholder may rescind the settlement unless
+200 the policyholder has cashed or deposited any check or draft
+Page 8 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+201 disbursed to the policyholder for the disputed matters as a
+202 result of the conference. If a settlement agreement is reached
+203 and is not rescinded, it is binding and acts as a release of all
+204 specific claims that were presented in that mediation
+205 conference.
+206 (b) At the conclusion of the mediation, the mediator shall
+207 provide a written report of the results of mediation, including
+208 any settlement amount, to the insurer, the policyholder, and the
+209 policyholder's representative if the policyholder is represented
+210 at the mediation.
+211 (7) All motions to dismiss must be handled as specified in
+212 s. 440.192(5) If the insurer fails to comply with subsection (2)
+213 by failing to notify a policyholder of its right to participate
+214 in the mediation program under this section or if the insurer
+215 requests the mediation, and the mediation results are rejected
+216 by either party, the policyholder is not required to submit to
+217 or participate in any contractual loss appraisal process of the
+218 property loss damage as a precondition to legal action for
+219 breach of contract against the insurer for its failure to pay
+220 the policyholder's claims covered by the policy.
+221 (8) Within 14 days after receipt of the petition, the
+222 insurer shall pay the requested claim or file a response to the
+223 petition with the Division of Administrative Hearings. If the
+224 insurer files a response to the petition, the response must be
+225 filed by electronic means. Such response must specify all claims
+Page 9 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+226 requested but not paid and explain the insurer's reason for
+227 nonpayment. The insurer shall provide copies of the response to
+228 the policyholder by certified mail or by electronic means. In
+229 ruling on the petition and response to the petition, the
+230 administrative law judge shall conduct proceedings in a manner
+231 consistent with the process outlined in s. 440.25, except that
+232 the administrative law judge shall make a determination within
+233 60 days after the filing of the policyholder's petition. After
+234 determining coverage, the administrative law judge shall make a
+235 final determination of the total coverage amount within 180 days
+236 after the filing of the petition, which must be paid to the
+237 policyholder or held in escrow on the policyholder's behalf
+238 until exhausted for covered claims The department may designate
+239 an entity or person to serve as administrator to carry out any
+240 of the provisions of this section and may take this action by
+241 means of a written contract or agreement.
+242 (9) For purposes of this section, the term "claim" refers
+243 to any dispute between an insurer and a policyholder relating to
+244 a material issue of fact other than a dispute:
+245 (a) With respect to which the insurer has a reasonable
+246 basis to suspect fraud;
+247 (b) When the insurer has determined, based on agreed-upon
+248 facts as to the cause of loss, there is no coverage under the
+249 policy;
+250 (c) With respect to which the insurer has a reasonable
+Page 10 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+251 basis to believe that the policyholder has intentionally made a
+252 material misrepresentation of fact which is relevant to the
+253 claim, and the entire request for payment of a loss has been
+254 denied on the basis of the material misrepresentation;
+255 (d) With respect to which the amount in controversy is
+256 less than $500, unless the parties agree to mediate a dispute
+257 involving a lesser amount; or
+258 (e) With respect to a loss that does not comply with s.
+259 627.70132.
+260 Section 2. Section 627.70151, Florida Statutes, is
+261 repealed.
+262 Section 3. Section 627.70152, Florida Statutes, is
+263 repealed.
+264 Section 4. Section 627.70153, Florida Statutes, is
+265 repealed.
+266 Section 5. Section 627.70154, Florida Statutes, is
+267 repealed.
+268 Section 6. Paragraph (ll) of subsection (6) of section
+269 627.351, Florida Statutes, is amended to read:
+270 627.351 Insurance risk apportionment plans.—
+271 (6) CITIZENS PROPERTY INSURANCE CORPORATION.—
+272 (ll)1. In addition to any other method of alternative
+273 dispute resolution authorized by state law, the corporation may
+274 adopt policy forms that provide for the resolution of disputes
+275 regarding its claim determinations, including disputes regarding
+Page 11 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+276 coverage for, or the scope and value of, a claim, in a
+277 proceeding before the Division of Administrative Hearings. Any
+278 such policies are not subject to s. 627.70154. All proceedings
+279 in the Division of Administrative Hearings pursuant to such
+280 policies are subject to ss. 57.105 and 768.79 as if filed in the
+281 courts of this state and are not considered chapter 120
+282 administrative proceedings. Rule 1.442, Florida Rules of Civil
+283 Procedure, applies to any offer served pursuant to s. 768.79,
+284 except that, notwithstanding any provision in Rule 1.442,
+285 Florida Rules of Civil Procedure, to the contrary, an offer
+286 shall not be served earlier than 10 days after filing the
+287 request for hearing with the Division of Administrative Hearings
+288 and shall not be served later than 10 days before the date set
+289 for the final hearing. The administrative law judge in such
+290 proceedings shall award attorney fees and other relief pursuant
+291 to ss. 57.105 and 768.79. The corporation may not seek, and the
+292 office may not approve, a maximum hourly rate for attorney fees.
+293 2. The corporation may contract with the division to
+294 conduct proceedings to resolve disputes regarding its claim
+295 determinations as may be provided for in the applicable policies
+296 of insurance. This subparagraph expires July 1, 2026.
+297 Section 7. Paragraph (a) of subsection (8) of section
+298 627.70131, Florida Statutes, is amended to read:
+299 627.70131 Insurer's duty to acknowledge communications
+300 regarding claims; investigation.—
+Page 12 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 459 2026
+301 (8) The requirements of this section are tolled:
+302 (a) During the pendency of any proceedings mediation
+303 proceeding under s. 627.7015 or any alternative dispute
+304 resolution proceeding provided for in the insurance contract.
+305 The tolling period ends upon the end of the proceedings
+306 mediation or alternative dispute resolution proceeding.
+307 Section 8. Subsection (3) of section 627.7074, Florida
+308 Statutes, is amended to read:
+309 627.7074 Alternative procedure for resolution of disputed
+310 sinkhole insurance claims.—
+311 (3) If there is coverage available under the policy and
+312 the claim was submitted within the timeframe provided in s.
+313 627.706(5), following the receipt of the report provided under
+314 s. 627.7073 or the denial of a claim for a sinkhole loss, the
+315 insurer shall notify the policyholder of his or her right to
+316 participate in the neutral evaluation program under this
+317 section. Neutral evaluation supersedes the alternative dispute
+318 resolution process under s. 627.7015 but does not invalidate the
+319 appraisal clause of the insurance policy. The insurer shall
+320 provide to the policyholder the consumer information pamphlet
+321 prepared by the department pursuant to subsection (1)
+322 electronically or by United States mail.
+323 Section 9. This act shall take effect July 1, 2026.
+Page 13 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb459-00
+
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES A A s f d i a r p t c p p D c s i o a b a r t i c]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES p p t m c s r p c a t w b o 6 a s c a i 6 p e    B]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES S   6 d  ( d c r i f p d r p a s t o a m c d r e]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES T H f e i p c l a p r p p n r u t d m l  ( t f p i]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES e 6 6 6 6 i s r t a T d i d c  ( i A r s a d D a T]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES e t r c i c p I m a n w r c r a d e s F a r  ( j p]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES i  ( a  (  ( t  ( r c  ( i  ( t T m d a s m r  ( o  ( r p]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES C  ( c  (  (  (  ( p t a t a s s l m a t s  ( p r s w t]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES d r a s c  ( p a p a  ( s b i r b o p b t  ( i p i f]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES r n t r a c t 6 d f a p u a o m  ( t a  ( b  ( f p  (]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES b m c d  ( l i  ( 6S   rS   rS   rS   rS   6  (  ( d a r]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES c p s i p c a P e F s r a f p t o  2 c d oS   6 r]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES  (  ( p r T mS   6 s  ( t 6 s i p s r a p p eS  ]
