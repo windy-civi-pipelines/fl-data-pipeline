@@ -8,9 +8,9 @@
   ],
   "subject": [
     "civil practice and procedure",
-    "criminal procedure and corrections",
+    "crimes",
     "domestic relations",
-    "public health",
+    "judicial branch",
     "public officers, employees, and records",
     "subject index"
   ],
@@ -56,6 +56,16 @@
       "_processing": {
         "log_file_created": "2025-11-11T01:10:12Z"
       }
+    },
+    {
+      "description": "CS by Criminal Justice; YEAS 8 NAYS 0",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,6 +75,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Sharief\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Osgood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berman\"}",
       "organization_id": null
     }
   ],
@@ -86,7 +112,45 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (11/17/2025 9:22 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/32/Analyses/2026s00032.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (11/18/2025 5:03 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/32/Analyses/2026s00032.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "453182 - Amendment (Delete All) to S 32 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/32/Amendment/453182/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/32/Amendment/453182/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -311,7 +375,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T01:10:12Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-11T09:03:43.351206Z"
   }
 }

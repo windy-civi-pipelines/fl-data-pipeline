@@ -1,0 +1,97 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-18T10:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "5467227e-c4d8-11f0-9e3d-4a95cc5353d3",
+  "bill_action": null,
+  "bill_identifier": "SB 68",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Berman",
+      "voter_id": "~{\"name\": \"Berman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gaetz",
+      "voter_id": "~{\"name\": \"Gaetz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Osgood",
+      "voter_id": "~{\"name\": \"Osgood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Passidomo",
+      "voter_id": "~{\"name\": \"Passidomo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Trumbull",
+      "voter_id": "~{\"name\": \"Trumbull\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harrell",
+      "voter_id": "~{\"name\": \"Harrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burton",
+      "voter_id": "~{\"name\": \"Burton\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Calatayud",
+      "voter_id": "~{\"name\": \"Calatayud\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Leek",
+      "voter_id": "~{\"name\": \"Leek\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/68/Vote/2025-11-18 1000AM~S00068 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

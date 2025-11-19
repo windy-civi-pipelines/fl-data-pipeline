@@ -1,0 +1,151 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable With Committee Substitute (Industries & Professional Activities Subcommittee)",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-18T15:30:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "b9d0c5e8-c4d8-11f0-9e3d-4a95cc5353d3",
+  "bill_action": null,
+  "bill_identifier": "HB 89",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Antone",
+      "voter_id": "~{\"name\": \"Antone\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Benarroch",
+      "voter_id": "~{\"name\": \"Benarroch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boyles",
+      "voter_id": "~{\"name\": \"Boyles\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eskamani",
+      "voter_id": "~{\"name\": \"Eskamani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gentry",
+      "voter_id": "~{\"name\": \"Gentry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Giallombardo",
+      "voter_id": "~{\"name\": \"Giallombardo\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hinson",
+      "voter_id": "~{\"name\": \"Hinson\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lopez, V.",
+      "voter_id": "~{\"name\": \"Lopez, V.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McFarland",
+      "voter_id": "~{\"name\": \"McFarland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller",
+      "voter_id": "~{\"name\": \"Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nixon",
+      "voter_id": "~{\"name\": \"Nixon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Oliver",
+      "voter_id": "~{\"name\": \"Oliver\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Overdorf",
+      "voter_id": "~{\"name\": \"Overdorf\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Porras",
+      "voter_id": "~{\"name\": \"Porras\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Robinson, F.",
+      "voter_id": "~{\"name\": \"Robinson, F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sapp",
+      "voter_id": "~{\"name\": \"Sapp\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Spencer",
+      "voter_id": "~{\"name\": \"Spencer\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Vald\u00c3\u00a9s",
+      "voter_id": "~{\"name\": \"Vald\\u00c3\\u00a9s\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yeager",
+      "voter_id": "~{\"name\": \"Yeager\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 8
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flhouse.gov/Sections/Committees/billvote.aspx?VoteId=75028&IsPCB=0&BillId=82612&",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

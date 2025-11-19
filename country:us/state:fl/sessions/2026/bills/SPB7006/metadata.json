@@ -35,6 +35,16 @@
       "_processing": {
         "log_file_created": "2025-11-11T01:10:12Z"
       }
+    },
+    {
+      "description": "Submitted as Committee Bill and Reported Favorably by Regulated Industries; YEAS 7 NAYS 0",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,7 +75,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (11/18/2025 9:30 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/Analyses/2026s07006.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (11/18/2025 4:21 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/Analyses/2026s07006.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -81,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T01:10:12Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-11T09:02:56.795761Z"
   }
 }

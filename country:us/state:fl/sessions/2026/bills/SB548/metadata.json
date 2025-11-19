@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 548",
+  "title": "Growth Management",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "relations",
+    "taxation and finance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Growth Management;  Deleting an exception to an applicability provision relating to concurrency; requiring that a demonstrated-need study use plan-based methodology for a certain purpose; revising the voting threshold required for approval of an ordinance increasing an impact fee beyond certain phase-in limitations; prohibiting local governments and school districts from increasing impact fee rates beyond certain phase-in limitations by more than a specified percentage within a certain timeframe, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McClain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McClain\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 548 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/548/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/548/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "163.3164",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3164"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "163.3180",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3180"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "163.31801",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.31801"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "212.055",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/212.055"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/548/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-19T02:30:06Z"
+  }
+}

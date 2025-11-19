@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "Submitted and Reported Favorably as Committee",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-18T10:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "731b9670-c4ef-11f0-9e3d-4a95cc5353d3",
+  "bill_action": null,
+  "bill_identifier": "SB 7004",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bernard",
+      "voter_id": "~{\"name\": \"Bernard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bradley",
+      "voter_id": "~{\"name\": \"Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pizzo",
+      "voter_id": "~{\"name\": \"Pizzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yarborough",
+      "voter_id": "~{\"name\": \"Yarborough\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin",
+      "voter_id": "~{\"name\": \"Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Simon",
+      "voter_id": "~{\"name\": \"Simon\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7004/Vote/2025-11-18 1000AM~S07004 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -8,7 +8,7 @@
   ],
   "subject": [
     "alcoholic beverages and tobacco",
-    "criminal procedure and corrections",
+    "electors and elections",
     "taxation and finance"
   ],
   "abstracts": [
@@ -30,6 +30,52 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-07T00:18:32Z"
+      }
+    },
+    {
+      "description": "Referred to Ways & Means Committee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Referred to Industries & Professional Activities Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Now in Ways & Means Committee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
       }
     }
   ],
@@ -122,7 +168,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T00:18:32Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-07T08:47:58.718255Z"
   }
 }

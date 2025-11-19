@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 35",
-  "title": "Driving Without a License",
+  "title": "Habitual Traffic Offender Designation",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "criminal procedure and corrections",
+    "electors and elections",
     "motor vehicles"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Driving Without a License;  Increases criminal penalties for driving without license; revises definition of term \"habitual traffic offender\"; increases criminal penalty for driving without license & causing death of or serious bodily injury to another human; ranks offense on offense severity ranking chart of Criminal Punishment Code."
+      "abstract": "Habitual Traffic Offender Designation;  Revises definition of term \"habitual traffic offender.\""
     }
   ],
   "other_titles": [],
@@ -74,9 +74,63 @@
       "_processing": {
         "log_file_created": "2025-11-11T01:10:12Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Barnaby",
       "classification": "primary",
@@ -98,18 +152,33 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 35 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/35/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [
+  "documents": [
     {
-      "publication": "Florida Statues",
-      "citation": "322.03",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/322.03"
-    },
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (11/18/2025 6:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/35/Analyses/h0035.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
     {
       "publication": "Florida Statues",
       "citation": "322.264",
@@ -117,22 +186,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/322.264"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "322.34",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/322.34"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "921.0022",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/921.0022"
     }
   ],
   "sources": [
@@ -149,7 +202,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T01:10:12Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-11T09:04:09.869147Z"
   }
 }

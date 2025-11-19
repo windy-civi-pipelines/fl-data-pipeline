@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 459",
+  "title": "Property Insurance Claims",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Property Insurance Claims;  Establishes mandatory procedure for resolution of disputed property insurance claims; requires insurers to notify policyholders of mandatory procedure; requires DFS to prepare consumer information pamphlet to be provided to policyholders; authorizes policyholder or insurer to file petition with Division of Administrative Hearings to resolve certain claims; specifies that parties to claim must bear cost of certain conferences; requires administrative law judge to dismiss petitions that do not contain specified information; requires that petition include certain certification; specifies that dismissal of petition or portion of petition is without prejudice & does not require hearing; requires insurer to pay requested claim or file response to petition within specified timeframe; requires administrative law judge to make final determination of total coverage amount within specified timeframe; requires such amount to be paid in specified manner."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Maggard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Maggard\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 459 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/459/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "627.351",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.351"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.70131",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.70131"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.7015",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.7015"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.70151",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.70151"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.70152",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.70152"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.70153",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.70153"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.70154",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.70154"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.7074",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.7074"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/459/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-19T02:30:06Z"
+  }
+}

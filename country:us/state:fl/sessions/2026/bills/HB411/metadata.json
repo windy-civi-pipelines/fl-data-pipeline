@@ -29,6 +29,52 @@
       "_processing": {
         "log_file_created": "2025-11-13T01:14:02Z"
       }
+    },
+    {
+      "description": "Referred to Human Services Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Referred to Health Care Budget Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Now in Human Services Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -80,7 +126,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-13T01:14:02Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-13T09:14:03.198730Z"
   }
 }

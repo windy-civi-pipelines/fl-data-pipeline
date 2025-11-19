@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "Submitted and Reported Favorably as Committee",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-18T01:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "81f58660-c4ef-11f0-9e3d-4a95cc5353d3",
+  "bill_action": null,
+  "bill_identifier": "SPB 7006",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bernard",
+      "voter_id": "~{\"name\": \"Bernard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boyd",
+      "voter_id": "~{\"name\": \"Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bracy Davis",
+      "voter_id": "~{\"name\": \"Bracy Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burgess",
+      "voter_id": "~{\"name\": \"Burgess\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mayfield",
+      "voter_id": "~{\"name\": \"Mayfield\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pizzo",
+      "voter_id": "~{\"name\": \"Pizzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bradley",
+      "voter_id": "~{\"name\": \"Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Brodeur",
+      "voter_id": "~{\"name\": \"Brodeur\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Calatayud",
+      "voter_id": "~{\"name\": \"Calatayud\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7006/Vote/2025-11-18 0100PM~S07006 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

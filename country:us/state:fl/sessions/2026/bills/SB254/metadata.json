@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "regulation of professions and occupations"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -51,6 +51,28 @@
       "_processing": {
         "log_file_created": "2025-11-11T01:10:12Z"
       }
+    },
+    {
+      "description": "Favorable by Health Policy; YEAS 7 NAYS 1",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,7 +103,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Policy (Pre-Meeting) (11/17/2025 10:07 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/254/Analyses/2026s00254.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (11/18/2025 1:08 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/254/Analyses/2026s00254.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -114,7 +159,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T01:10:12Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-11T09:02:59.769528Z"
   }
 }

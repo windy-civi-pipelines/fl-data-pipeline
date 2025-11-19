@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Civil Liability for the Wrongful Death of an Unborn Child;  Prohibits right of action against mother for wrongful death of unborn child or against health care provider for legal medical care provided in certain circumstances; authorizes parents of unborn child to recover certain damages; prohibits recovery of certain damages if decedent is unborn child."
+      "abstract": "Civil Liability for the Wrongful Death of an Unborn Child;  Revises definition of term \"survivors\" to include parents of unborn child; provides definition for term \"unborn child\"; prohibits right of action against mother for wrongful death of unborn child or against health care provider for lawful medical care provided in certain circumstances; authorizes parents of unborn child to recover certain damages; prohibits recovery of certain damages if decedent is unborn child."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,63 @@
       "_processing": {
         "log_file_created": "2025-11-08T00:32:24Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Civil Justice & Claims Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Civil Justice & Claims Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Civil Justice & Claims Subcommittee\"}"
+    },
     {
       "name": "Greco",
       "classification": "primary",
@@ -97,9 +151,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (11/18/2025 6:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Analyses/h0289.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -140,7 +217,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-08T00:32:24Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-08T09:02:46.499076Z"
   }
 }

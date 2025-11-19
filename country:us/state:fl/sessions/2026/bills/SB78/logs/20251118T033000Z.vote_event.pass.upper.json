@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable with Committee Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-18T03:30:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "84450362-c4d8-11f0-9e3d-4a95cc5353d3",
+  "bill_action": null,
+  "bill_identifier": "SB 78",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Passidomo",
+      "voter_id": "~{\"name\": \"Passidomo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pizzo",
+      "voter_id": "~{\"name\": \"Pizzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharief",
+      "voter_id": "~{\"name\": \"Sharief\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Trumbull",
+      "voter_id": "~{\"name\": \"Trumbull\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McClain",
+      "voter_id": "~{\"name\": \"McClain\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Jones",
+      "voter_id": "~{\"name\": \"Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Leek",
+      "voter_id": "~{\"name\": \"Leek\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/78/Vote/2025-11-18 0330PM~S00078 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

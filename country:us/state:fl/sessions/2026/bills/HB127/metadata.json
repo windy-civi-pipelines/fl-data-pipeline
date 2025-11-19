@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "insurance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -73,6 +73,38 @@
       "_processing": {
         "log_file_created": "2025-11-11T01:10:12Z"
       }
+    },
+    {
+      "description": "Favorable by Student Academic Success Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Reported out of Student Academic Success Subcommittee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Now in Education & Employment Committee",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,6 +122,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benarroch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benarroch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blanco",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blanco\"}",
       "organization_id": null
     }
   ],
@@ -109,10 +157,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (11/10/2025 11:00 AM)",
+      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (11/18/2025 4:59 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/127/Analyses/h0127.SAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/127/Analyses/h0127a.SAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -144,7 +192,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T01:10:12Z",
+    "logs_latest_update": "2025-11-19T02:30:06Z",
     "text_extraction_latest_update": "2025-11-11T09:02:48.871874Z"
   }
 }

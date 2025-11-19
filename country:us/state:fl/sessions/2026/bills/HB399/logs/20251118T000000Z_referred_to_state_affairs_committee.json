@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to State Affairs Committee",
+    "date": "2025-11-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 399"
+}

@@ -1,0 +1,85 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 457",
+  "title": "Alternative Sources of Weather Information",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "military affairs and related matters"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Alternative Sources of Weather Information;  Requires state comprehensive emergency plan evaluate integration of supplemental weather observational data & advanced forecasting products & effect on specified areas; defines \u201cadvanced forecasting products\u201d & \u201csupplemental weather observational data\u201d; requires Division of Emergency Management to take specified actions to integrate, evaluate, & promote supplemental weather observational data & advanced forecasting products in certain manner."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gerwig",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 457 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/457/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "252.35",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/252.35"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/457/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-19T02:30:06Z"
+  }
+}

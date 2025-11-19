@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Favorable by Health Policy; YEAS 8 NAYS 0",
+    "date": "2025-11-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 40"
+}

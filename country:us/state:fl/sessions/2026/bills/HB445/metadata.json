@@ -1,0 +1,76 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 445",
+  "title": "Mandatory Remand to Custody upon Conviction of Dangerous Crimes",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "crimes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Mandatory Remand to Custody upon Conviction of Dangerous Crimes;  Requires court to remand person found guilty of dangerous crime to custody immediately; requires such person to remain in custody pending sentencing or further proceedings without possibility of release on bond; prohibits court from granting postconviction bond or other release for person found guilty of dangerous crime."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Greco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 445 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/445/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/445/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-19T02:30:06Z"
+  }
+}

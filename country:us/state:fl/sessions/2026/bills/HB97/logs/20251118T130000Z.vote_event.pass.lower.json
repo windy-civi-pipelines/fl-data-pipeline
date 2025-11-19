@@ -1,0 +1,139 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable (Housing, Agriculture & Tourism Subcommittee)",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-18T13:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "e05812ca-c4d8-11f0-9e3d-4a95cc5353d3",
+  "bill_action": null,
+  "bill_identifier": "HB 97",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Abbott",
+      "voter_id": "~{\"name\": \"Abbott\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Albert",
+      "voter_id": "~{\"name\": \"Albert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Booth",
+      "voter_id": "~{\"name\": \"Booth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cassel",
+      "voter_id": "~{\"name\": \"Cassel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cross",
+      "voter_id": "~{\"name\": \"Cross\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Franklin",
+      "voter_id": "~{\"name\": \"Franklin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gossett-Seidman",
+      "voter_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hunschofsky",
+      "voter_id": "~{\"name\": \"Hunschofsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lopez, V.",
+      "voter_id": "~{\"name\": \"Lopez, V.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mooney",
+      "voter_id": "~{\"name\": \"Mooney\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Partington",
+      "voter_id": "~{\"name\": \"Partington\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Persons-Mulicka",
+      "voter_id": "~{\"name\": \"Persons-Mulicka\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Redondo",
+      "voter_id": "~{\"name\": \"Redondo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robinson, F.",
+      "voter_id": "~{\"name\": \"Robinson, F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Salzman",
+      "voter_id": "~{\"name\": \"Salzman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tramont",
+      "voter_id": "~{\"name\": \"Tramont\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tuck",
+      "voter_id": "~{\"name\": \"Tuck\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flhouse.gov/Sections/Committees/billvote.aspx?VoteId=75020&IsPCB=0&BillId=82622&",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

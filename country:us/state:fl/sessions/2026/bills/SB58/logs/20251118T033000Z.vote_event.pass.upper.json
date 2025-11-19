@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-18T03:30:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "25ad8fcc-c4d8-11f0-9e3d-4a95cc5353d3",
+  "bill_action": null,
+  "bill_identifier": "SB 58",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bernard",
+      "voter_id": "~{\"name\": \"Bernard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burton",
+      "voter_id": "~{\"name\": \"Burton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rouson",
+      "voter_id": "~{\"name\": \"Rouson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grall",
+      "voter_id": "~{\"name\": \"Grall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Truenow",
+      "voter_id": "~{\"name\": \"Truenow\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/58/Vote/2025-11-18 0330PM~S00058 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

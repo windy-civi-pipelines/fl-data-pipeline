@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Now in Intergovernmental Affairs Subcommittee",
+    "date": "2025-11-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 399"
+}
