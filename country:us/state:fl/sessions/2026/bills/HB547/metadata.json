@@ -1,0 +1,265 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 547",
+  "title": "Injunctions for Protection",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "civil practice and procedure",
+    "crimes",
+    "domestic relations",
+    "judicial branch",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Injunctions for Protection;  Creates cause of action for injunction for protection in cases of serious violence by known person; specifies persons who have standing to file such injunction for protection in circuit court if specified conditions are met; prohibits clerk of court from assessing fee for filing of such injunction for protection; requires clerk of court to provide petitioner with certified copy of such injunction for protection; provides requirements for such petition for injunction for protection; provides requirements for temporary or final judgment on such injunction for protection; requires clerk of court to electronically transmit copies of specified documents within certain timeframe after court issues such injunction for protection; requires law enforcement officers to accept certified copy of such injunction for protection from petitioner & immediately serve it upon respondent; provides requirements for inclusion of such injunction for protection in specified statewide communication system; requires that respondent be held in custody if he or she is arrested for committing act of serious violence by known person in violation of injunction for protection until being brought before court."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gerwig",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 547 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/547/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "28.2221",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.2221"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "28.35",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.35"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "44.407",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/44.407"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "57.105",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/57.105"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.1825",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.1825"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.1827",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.1827"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.4597",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.4597"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.4598",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.4598"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.311"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.313"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.315",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.315"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "784.046",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.046"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "784.047",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.047"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "784.048",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.048"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "790.401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/790.401"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "901.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/901.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "901.41",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/901.41"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.141",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.141"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.1425",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.1425"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.1427",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.1427"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "934.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/934.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "934.425",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/934.425"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/547/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

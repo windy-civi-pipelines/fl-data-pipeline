@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 634",
+  "title": "Rates for Citizens Property Insurance Corporation Coverage",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Rates for Citizens Property Insurance Corporation Coverage;  Providing that the limitations on the required annual rate increases for Citizens Property Insurance Corporation coverage do not apply to new policies issued by the corporation on or after a specified date and to subsequent renewals of such policies, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DiCeglie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DiCeglie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 634 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/634/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/634/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "627.351",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.351"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/634/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

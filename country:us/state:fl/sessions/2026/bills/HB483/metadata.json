@@ -1,0 +1,132 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 483",
+  "title": "Manufacturing",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "executive branch",
+    "public business"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Manufacturing;  Revises duties of Department of Commerce; establishes Chief Manufacturing Officer; provides responsibilities for Chief Manufacturing Officer; provides that Chief Manufacturing Officer collaborate with DOE to promote manufacturing as career path; directs all state & local governmental entities to assist Chief Manufacturing Officer; creates Florida Manufacturers' Workforce Development Grant Program; requires department to administer grant awards from Economic Development Trust Fund; requires department to include certain information in its annual incentives report; creates Florida Manufacturing Promotional Campaign within department; requires department to take certain actions in promoting campaign; requires persons that participate in campaign to register annually with department; authorizes department to establish, by rule, logos or product identifiers to be depicted for use in campaign."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Housing, Agriculture & Tourism Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Careers & Workforce Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Housing, Agriculture & Tourism Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cobb",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cobb\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 483 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/483/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "20.60",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/20.60"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/483/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

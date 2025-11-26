@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Home Hardening Products;  Exempting from sales and use tax impact-resistant doors, garage doors, and windows, etc."
+      "abstract": "Home Hardening Products;  Providing a sales tax exemption for home hardening products used on eligible residential property; specifying a limitation on exemptions; requiring property owners to submit an application to the Department of Revenue in order to be eligible; providing requirements for the department in issuing refunds, etc."
     }
   ],
   "other_titles": [],
@@ -61,9 +61,37 @@
       "_processing": {
         "log_file_created": "2025-11-19T02:30:06Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Finance and Tax",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Osgood",
       "classification": "primary",
@@ -97,6 +125,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 78 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/78/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/78/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -105,6 +148,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/78/Analyses/2026s00078.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (11/19/2025 3:38 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/78/Analyses/2026s00078.ca.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -127,16 +181,7 @@
       "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "212.08",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/212.08"
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/78/ByCategory",
@@ -151,7 +196,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T02:30:06Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-19T08:35:31.159109Z"
   }
 }

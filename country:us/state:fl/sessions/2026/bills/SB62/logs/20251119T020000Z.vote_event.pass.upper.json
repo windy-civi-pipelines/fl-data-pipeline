@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable with Committee Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-11-19T02:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "67b9473c-ca58-11f0-a24d-9219cdceb226",
+  "bill_action": null,
+  "bill_identifier": "SB 62",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Avila",
+      "voter_id": "~{\"name\": \"Avila\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bradley",
+      "voter_id": "~{\"name\": \"Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grall",
+      "voter_id": "~{\"name\": \"Grall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Polsky",
+      "voter_id": "~{\"name\": \"Polsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bernard",
+      "voter_id": "~{\"name\": \"Bernard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gaetz",
+      "voter_id": "~{\"name\": \"Gaetz\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Rouson",
+      "voter_id": "~{\"name\": \"Rouson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/62/Vote/2025-11-19 0200PM~S00062 Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

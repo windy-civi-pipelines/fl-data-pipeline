@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 507",
+  "title": "Special Protections in Judicial Proceedings",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "evidence"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Special Protections in Judicial Proceedings;  Requires pro se defendant to question certain victims & witnesses through standby counsel at any trial, hearing, or deposition."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Criminal Justice Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Criminal Justice Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Baker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Baker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 507 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/507/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "92.55",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/92.55"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/507/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

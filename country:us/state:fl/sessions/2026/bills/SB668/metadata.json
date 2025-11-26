@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 668",
+  "title": "Physician Assistants",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "regulation of professions and occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Physician Assistants;  Providing for the registration of physician assistants to engage in practice without physician supervision; providing financial responsibility requirements for registered physician assistants; specifying activities registered physician assistants may engage in without physician supervision; requiring registered physician assistants to provide new patients with specified information either before or during the initial patient encounter, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Truenow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Truenow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 668 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/668/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/668/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "458.347",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/458.347"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "459.022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/459.022"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/668/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

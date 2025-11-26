@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 493",
+  "title": "Leave for Living Organ Donation",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "public officers, employees, and records",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Leave for Living Organ Donation;  Requires state agencies to grant administrative leave, not to exceed specified number of days, to allow employee to serve as living organ donor; specifies that such leave is in addition to other leave authorized by law; requires employers to grant unpaid leave of absence to allow employee to serve as living organ donor; specifies length of such leave of absence; authorizes employers to grant paid or unpaid leave for period longer than required period of time."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Government Operations Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Government Operations Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berfield",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berfield\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 493 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/493/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/493/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

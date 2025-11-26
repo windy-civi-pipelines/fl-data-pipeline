@@ -1,0 +1,274 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 600",
+  "title": "Bail Bonds",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "criminal procedure and corrections",
+    "insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Bail Bonds;  Decreasing the duration of in-person classroom-instruction basic certification courses required to be considered for approval and certification as an approved limited surety agent and professional bail bond agent prelicensing school; prohibiting bail bond agents and agencies from soliciting certain persons; requiring, rather than authorizing, that any monetary or cash component of any form of pretrial release be met by specified means; requiring that, upon a court\u2019s entry of an order to revoke pretrial release and order pretrial detention, the clerk of the court discharge any bond previously posted as a condition of pretrial release without further order of the court, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Truenow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Truenow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 600 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "626.2816",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/626.2816"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "648.25",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/648.25"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "648.386",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/648.386"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "648.44",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/648.44"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "648.45",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/648.45"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.011"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.046",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.046"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.047",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.047"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.0471",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.0471"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.05"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.08",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.08"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.09",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.09"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.101"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.16",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.16"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.17",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.17"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.21",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.21"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.26",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.26"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.27",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.27"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.28",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.28"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.286",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.286"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.29",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.29"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.31",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.31"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.36",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.36"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "907.041",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/907.041"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/600/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

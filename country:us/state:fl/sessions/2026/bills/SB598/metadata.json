@@ -1,0 +1,210 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 598",
+  "title": "Funeral, Cemetery, and Consumer Services",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "and solicitations",
+    "insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Funeral, Cemetery, and Consumer Services;  Prohibiting a licensee of funeral or cemetery services from entering into certain contracts, agreements, or arrangements; limiting the total liability for damages for certain civil actions against a person or company licensed under ch. 497, F.S.; deleting an exception to the educational requirements for an applicant seeking licensure to be a funeral director; authorizing a licensee or a licensed facility to dispose of human remains in a specified manner if the legally authorized person of the decedent fails, neglects, or refuses to direct the disposition, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Truenow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Truenow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 598 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/598/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/598/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "497.164",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.164"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.169",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.169"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.260",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.260"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.263",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.263"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.270",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.270"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.369",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.369"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.374",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.374"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.375",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.375"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.376",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.376"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.377",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.377"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.386",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.386"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.459",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.459"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.602",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.602"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.604",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.604"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "497.607",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.607"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "627.404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.404"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/598/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

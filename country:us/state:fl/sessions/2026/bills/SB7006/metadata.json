@@ -1,0 +1,170 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 7006",
+  "title": "OGSR/Florida Public Service Commission",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "railroads and other regulated utilities",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "OGSR/Florida Public Service Commission;  Deleting the scheduled repeal of an exemption from public meeting requirements for portions of a hearing before the Florida Public Service Commission wherein certain proprietary confidential business information is discussed, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Submitted for consideration by Regulated Industries",
+      "date": "2025-11-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Regulated Industries, 11/18/25, 1:00 pm, 412 Knott Building",
+      "date": "2025-11-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Submitted as Committee Bill and Reported Favorably by Regulated Industries; YEAS 7 NAYS 0",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Governmental Oversight and Accountability; Rules",
+      "date": "2025-11-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 7006 pb",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/BillText/pb/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/BillText/pb/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 7006 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (11/18/2025 9:30 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/Analyses/2026s07006.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (11/18/2025 4:21 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7006/Analyses/2026s07006.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "350.01",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/350.01"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7006/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

@@ -1,19 +1,21 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 189",
-  "title": "Gaming Machines",
+  "title": "Gambling",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "and solicitations",
-    "crimes"
+    "crimes",
+    "executive branch",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Gaming Machines;  Authorizes certain organizations to petition Florida Gaming Control Commission for specified declaratory statement; provides requirements for such petitions & declaratory statements; provides that declaratory statement is binding on commission & may be introduced as evidence in subsequent proceedings; provides criminal penalties for specified offense; provides that shipments of legal gaming devices into Indian lands are deemed legal shipments."
+      "abstract": "Gambling;  Revises provisions related to gambling including the Florida Gaming Control Commission, gaming machines, pari-mutuel permits & permitholders, betting on certain athletic contests, criminal penalties, Internet gambling, Internet sports wagering, manipulation of card games, fantasy sports contests, games of chance, slot machines, illegal gambling, & preempting regulation of certain gaming activities."
     }
   ],
   "other_titles": [],
@@ -98,9 +100,51 @@
       "_processing": {
         "log_file_created": "2025-11-19T02:30:06Z"
       }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Trabulsy",
       "classification": "primary",
@@ -122,10 +166,45 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 189 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/189/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "16.712",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/16.712"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "16.713",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/16.713"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "16.715",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/16.715"
+    },
     {
       "publication": "Florida Statues",
       "citation": "546.10",
@@ -136,11 +215,91 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "849.15",
+      "citation": "550.002",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/849.15"
+      "url": "https://flsenate.gov/laws/statutes/2025/550.002"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "550.054",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/550.054"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "550.09512",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/550.09512"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "550.09515",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/550.09515"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "772.102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/772.102"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "838.12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/838.12"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "849.01",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/849.01"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "849.02",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/849.02"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "849.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/849.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "849.08",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/849.08"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "849.086",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/849.086"
     }
   ],
   "sources": [
@@ -157,7 +316,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T02:30:06Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-19T08:37:16.662339Z"
   }
 }

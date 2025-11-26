@@ -31,6 +31,52 @@
       "_processing": {
         "log_file_created": "2025-11-19T02:30:06Z"
       }
+    },
+    {
+      "description": "Referred to Natural Resources & Disasters Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Agriculture & Natural Resources Budget Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Natural Resources & Disasters Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -48,6 +94,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Tant\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eskamani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eskamani\"}",
       "organization_id": null
     }
   ],
@@ -114,7 +168,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T02:30:06Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-19T08:36:02.055947Z"
   }
 }

@@ -27,6 +27,52 @@
       "_processing": {
         "log_file_created": "2025-11-18T02:08:54Z"
       }
+    },
+    {
+      "description": "Referred to Ways & Means Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Industries & Professional Activities Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Ways & Means Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -78,7 +124,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T02:08:54Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-18T08:50:11.688172Z"
   }
 }

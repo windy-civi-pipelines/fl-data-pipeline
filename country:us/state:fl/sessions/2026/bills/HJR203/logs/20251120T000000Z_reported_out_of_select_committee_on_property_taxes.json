@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported out of Select Committee on Property Taxes",
+    "date": "2025-11-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJR 203"
+}

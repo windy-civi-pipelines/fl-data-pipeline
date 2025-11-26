@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Assessments Levied on Recreational Vehicle Parks;  Providing that certain special assessments on recreational vehicle parks levied by counties, municipalities, and special districts, respectively, may not be levied against a certain portion of a recreational vehicle parking space or campsite; requiring counties, municipalities, and special districts, respectively, to consider a recreational vehicle park\u2019s occupancy rates for a certain purpose, etc."
+      "abstract": "Assessments Levied on Recreational Vehicle Parks;  Prohibiting counties, municipalities, and special districts, respectively, from levying certain special assessments against more than a specified square footage amount per recreational vehicle parking space or campsite; requiring counties, municipalities, and special districts, respectively, to consider a recreational vehicle park\u2019s occupancy rates for a certain purpose, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,37 @@
       "_processing": {
         "log_file_created": "2025-11-19T02:30:06Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Finance and Tax",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Truenow",
       "classification": "primary",
@@ -91,6 +119,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 118 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -99,6 +142,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/118/Analyses/2026s00118.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (11/19/2025 3:34 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/Analyses/2026s00118.ca.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -161,7 +215,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T02:30:06Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-19T08:35:37.538460Z"
   }
 }

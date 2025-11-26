@@ -1,0 +1,85 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 529",
+  "title": "Community-based Care Lead Agency and Subcontractor Liability",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "social welfare"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Community-based Care Lead Agency and Subcontractor Liability;  Provides circumstances under which community-based care lead agency is not liable in tort for acts or omissions of its officers or employees; provides that community-based care lead agency may be held liable in tort for such acts or omissions; provides that community-based care lead agency is not liable in tort for acts or omissions of its subcontractors; provides circumstances under which subcontractor of community-based care lead agency is not liable in tort for acts or omissions of subcontractor's officers, agents, or employees; provides that subcontractor of community-based care lead agency may be held liable in tort for such acts or omissions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chamberlin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chamberlin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 529 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/529/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "409.993",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.993"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/529/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

@@ -7,9 +7,8 @@
     "bill"
   ],
   "subject": [
-    "domestic relations",
     "public officers, employees, and records",
-    "railroads and other regulated utilities"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -42,6 +41,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-18T02:08:54Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 12/02/25, 1:00 pm, 110 Senate Building",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
       }
     }
   ],
@@ -106,7 +115,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T02:08:54Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-18T08:47:27.777111Z"
   }
 }

@@ -1,0 +1,76 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 509",
+  "title": "Code Inspector Body Cameras",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "relations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Code Inspector Body Cameras;  Requires governmental entity that permits its code inspectors to wear body cameras to establish certain policies & procedures; requires such governmental entity to ensure that certain training occurs, to retain certain data in accordance with public records laws, & to perform periodic review of actual body camera practices; provides that certain provisions relating to interception of wire, electronic, & oral communications do not apply to body camera recordings made by code inspectors."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Partington",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Partington\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 509 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/509/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/509/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

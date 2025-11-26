@@ -8,8 +8,7 @@
   ],
   "subject": [
     "reclamation, and use",
-    "subject index",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -117,6 +116,38 @@
       "_processing": {
         "log_file_created": "2025-11-13T01:14:02Z"
       }
+    },
+    {
+      "description": "Favorable by State Affairs Committee",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -164,10 +195,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (11/12/2025 11:12 AM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (11/19/2025 3:40 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/167/Analyses/h0167b.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/167/Analyses/h0167c.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -199,7 +230,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-13T01:14:02Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-13T09:14:11.942932Z"
   }
 }

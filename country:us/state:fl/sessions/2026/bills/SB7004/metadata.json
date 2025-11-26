@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "public officers, employees, and records",
+    "subject index"
+  ],
   "abstracts": [
     {
       "note": "summary",
@@ -56,6 +59,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-19T02:30:06Z"
+      }
+    },
+    {
+      "description": "Referred to Governmental Oversight and Accountability; Rules",
+      "date": "2025-11-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
       }
     }
   ],
@@ -150,7 +165,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T02:30:06Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-19T08:37:02.454561Z"
   }
 }

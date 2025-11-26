@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SPB 7012",
+  "title": "OGSR/Department of Highway Safety and Motor Vehicles",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "OGSR/Department of Highway Safety and Motor Vehicles;  Amending a provision which provides an exemption from public records requirements for information received by the Department of Highway Safety and Motor Vehicles as a result of an investigation or examination of a department-authorized private rebuilt inspection provider; amending provisions which provide exemptions from public records requirements for information received by the department as a result of an investigation or examination of a person suspected of having violated certain laws, rules, or orders; removing the scheduled repeal of such exemptions, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Submitted for consideration by Transportation",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Transportation, 12/02/25, 1:00 pm, 37 Senate Building",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Transportation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Transportation\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 7012 pb",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/BillText/pb/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/BillText/pb/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7012/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

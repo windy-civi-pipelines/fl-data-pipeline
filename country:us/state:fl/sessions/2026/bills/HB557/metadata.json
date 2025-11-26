@@ -1,0 +1,91 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 557",
+  "title": "Intelligent Speed Assistance Devices",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Intelligent Speed Assistance Devices;  Requires persons convicted of certain driving offenses to comply with ISA device requirements; prohibits eligible offender from operating motor vehicle without installation of ISA device; provides exception; provides requirements for eligible offender, ISA device & its data, DHSMV, & ISA device manufacturer, installer, & provider; requires background check for certain persons; provides for reinstatement of eligible offender's driving privilege; provides immunity from liability for motor vehicle manufacturers, distributors, & retailers."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Campbell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 557 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/557/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "316.191",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.191"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.1922",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1922"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/557/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

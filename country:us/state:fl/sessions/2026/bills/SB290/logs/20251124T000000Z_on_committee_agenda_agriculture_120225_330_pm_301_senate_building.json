@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Agriculture, 12/02/25, 3:30 pm, 301 Senate Building",
+    "date": "2025-11-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 290"
+}

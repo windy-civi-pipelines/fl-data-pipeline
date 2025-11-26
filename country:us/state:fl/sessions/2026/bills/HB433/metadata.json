@@ -10,16 +10,15 @@
     "and solicitations",
     "business organizations",
     "crimes",
-    "criminal procedure and corrections",
     "industry",
     "motor vehicles",
     "municipalities",
     "public business",
-    "public health",
     "public lands and property",
     "reclamation, and use",
     "regulation of professions and occupations",
     "relations",
+    "subject index",
     "taxation and finance"
   ],
   "abstracts": [
@@ -42,6 +41,64 @@
       "_processing": {
         "log_file_created": "2025-11-18T02:08:54Z"
       }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Agriculture & Natural Resources Budget Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -51,6 +108,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Alvarez, D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggard\"}",
       "organization_id": null
     }
   ],
@@ -84,7 +157,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T02:08:54Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-18T08:49:51.388944Z"
   }
 }

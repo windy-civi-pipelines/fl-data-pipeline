@@ -1,0 +1,80 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 586",
+  "title": "Repair of Mobility Devices",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "and solicitations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Repair of Mobility Devices;  Creating the \u201cRight to Repair Act for Mobility Devices\u201d; requiring original equipment manufacturers to make available documentation, parts, and tools required for the diagnosis, maintenance, or repair of mobility devices and parts for such devices; requiring original equipment manufacturers of mobility devices with electronic security locks to make available any special documentation, parts, and tools required to access and reset the locks when disabled in the course of diagnosis, maintenance, or repair; providing that violation of the act is an unlawful practice under the Florida Deceptive and Unfair Trade Practices Act, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 586 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/586/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/586/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/586/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

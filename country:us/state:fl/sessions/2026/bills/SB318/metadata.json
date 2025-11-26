@@ -1,0 +1,239 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 318",
+  "title": "Educational Scholarship Programs",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "k",
+    "subject index",
+    "taxation and finance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Educational Scholarship Programs;  Creating a categorical fund for implementing the Family Empowerment Scholarship Program; creating the educational enrollment stabilization program to provide supplemental state funds to address changes in full-time equivalent student enrollment; renaming the Hope Scholarship Program as the Hope Program; requiring an eligible nonprofit scholarship-funding organization to provide a parent with certain information on scholarship programs; requiring an eligible nonprofit scholarship-funding organization to create a single application for all educational scholarship programs, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Appropriations",
+      "date": "2025-11-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gaetz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gaetz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pizzo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pizzo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burgess",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burgess\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 318 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "11.45",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/11.45"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "212.099",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/212.099"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.22",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.22"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.394",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.394"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.395",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.395"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.40",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.40"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.421",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.421"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.45",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.45"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1003.485",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1003.485"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1003.4935",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1003.4935"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1008.25",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1008.25"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1010.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1010.20"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1010.305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1010.305"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1011.61",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1011.61"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1011.62",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1011.62"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/318/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

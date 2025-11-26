@@ -8,23 +8,21 @@
   ],
   "subject": [
     "and solicitations",
-    "civil practice and procedure",
     "civil rights",
+    "crimes",
     "industry",
     "limitations",
     "military affairs and related matters",
+    "motor vehicles",
     "planning and development",
     "public business",
     "public lands and property",
-    "public transportation",
     "railroads and other regulated utilities",
     "real and personal property",
     "reclamation, and use",
-    "relations",
     "social welfare",
     "subject index",
-    "torts",
-    "transportation designations"
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -133,6 +131,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-14T00:17:55Z"
+      }
+    },
+    {
+      "description": "Added to Budget Committee agenda",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
       }
     }
   ],
@@ -645,7 +653,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T00:17:55Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-14T08:53:17.085752Z"
   }
 }

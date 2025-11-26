@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CS Filed",
+    "date": "2025-11-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 189"
+}

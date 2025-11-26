@@ -8,12 +8,12 @@
   ],
   "subject": [
     "constitutional amendments",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Property Insurance Relief Homestead Exemption of Non-school Property Tax;  Proposes amendment to State Constitution to increase by $100,000 the exemption for homestead property from all ad valorem taxation other than school district levies for homestead properties that have property insurance, to prohibit counties and municipalities from reducing total funding for law enforcement, and to provide an effective date."
+      "abstract": "Property Insurance Relief Homestead Exemption of Non-school Property Tax;  Proposes amendment to State Constitution to increase by $200,000 the exemption for homestead property from all ad valorem taxation other than school district levies for homestead properties that have property insurance, to prohibit counties and municipalities from reducing total funding for law enforcement, and to provide an effective date."
     }
   ],
   "other_titles": [],
@@ -86,9 +86,107 @@
       "_processing": {
         "log_file_created": "2025-11-14T00:17:55Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Select Committee on Property Taxes",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Reported out of Select Committee on Property Taxes",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Ways & Means Committee",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Select Committee on Property Taxes",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Select Committee on Property Taxes\"}"
+    },
     {
       "name": "Busatta",
       "classification": "primary",
@@ -110,9 +208,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 209 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/209/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Select Committee on Property Taxes (Post-Meeting) (11/20/2025 4:56 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/209/Analyses/h0209.SPT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (11/25/2025 3:28 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/209/Analyses/h0209a.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -128,7 +260,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T00:17:55Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-14T08:52:52.873343Z"
   }
 }

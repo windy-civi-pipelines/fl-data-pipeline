@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported out of Industries & Professional Activities Subcommittee",
+    "date": "2025-11-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 189"
+}

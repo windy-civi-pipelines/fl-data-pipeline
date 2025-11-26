@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SPB 7010",
+  "title": "Roth Contribution Plans in Deferred Compensation Programs",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Roth Contribution Plans in Deferred Compensation Programs;  Authorizing the state deferred compensation plan and any deferred compensation plan offered by a county, a municipality, or other political subdivision, or a county constitutional officer, to offer a qualified Roth contribution program; ratifying the actions by the Chief Financial Officer which permitted contributions to a qualified Roth contribution program under the state\u2019s deferred compensation plan; providing for retroactive application, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Submitted for consideration by Governmental Oversight and Accountability",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Governmental Oversight and Accountability, 12/02/25, 10:00 am, 110 Senate Building",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 7010 pb",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7010/BillText/pb/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7010/BillText/pb/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7010/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

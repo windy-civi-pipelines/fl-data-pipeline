@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "City of Marco Island, Collier County;  Requires special election be held to fill vacancy on city council; provides exception for vacancies occurring within 1 year before general election; revises circumstances under which Governor is required to fill vacancies."
+      "abstract": "City of Marco Island, Collier County;  Requires special election be held to fill any vacancy on city council upon resolution adopted by council; provides exception for vacancies occurring within 1 year before general election; revises circumstances under which Governor is required to fill vacancies; provides for Governor to call special election in certain circumstances; requires referendum."
     }
   ],
   "other_titles": [],
@@ -97,9 +97,85 @@
       "_processing": {
         "log_file_created": "2025-11-19T02:30:06Z"
       }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Government Operations Subcommittee",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Government Operations Subcommittee",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Benarroch",
       "classification": "primary",
@@ -121,14 +197,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 4003 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4003/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (11/10/2025 3:30 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (11/19/2025 3:10 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4003/Analyses/h4003.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4003/Analyses/h4003a.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -171,7 +258,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T02:30:06Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-19T08:36:21.424475Z"
   }
 }

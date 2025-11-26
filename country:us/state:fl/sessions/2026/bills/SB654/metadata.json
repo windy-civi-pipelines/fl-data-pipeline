@@ -1,0 +1,236 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 654",
+  "title": "Traffic Infraction Enforcement",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "crimes",
+    "judicial branch",
+    "motor vehicles",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Traffic Infraction Enforcement;  Revising the periods during which a county or municipality may enforce school zone speed limits, and the violations for which such enforcement is authorized, through the use of a speed detection system; prohibiting the use of a traffic infraction detector for remote surveillance; requiring district school board authorization and a public hearing process before a school district may place or install, or contract with a vendor to install, operate, and maintain, school bus infraction detection systems; revising the periods for which a county or municipality may authorize a traffic infraction enforcement officer to issue certain uniform traffic citations, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DiCeglie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DiCeglie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 654 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/654/BillText/Filed/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/654/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "28.37",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.37"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.003",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.003"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.008",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.008"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.0083",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.0083"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.00831",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.00831"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.07456",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.07456"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.0776",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.0776"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.173",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.173"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.1896",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1896"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.1906",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1906"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.640",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.640"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.650",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.650"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "318.121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/318.121"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "318.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/318.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "318.18",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/318.18"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.02",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.02"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "322.27",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.27"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "775.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/775.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1006.21",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1006.21"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/654/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}

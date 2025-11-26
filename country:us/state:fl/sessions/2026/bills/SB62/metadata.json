@@ -51,15 +51,79 @@
       "_processing": {
         "log_file_created": "2025-11-11T01:10:12Z"
       }
+    },
+    {
+      "description": "CS by Ethics and Elections; YEAS 7 NAYS 0",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 12/02/25, 1:00 pm, 110 Senate Building",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ethics and Elections",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Ethics and Elections\"}"
+    },
     {
       "name": "Arrington",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Arrington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Osgood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berman\"}",
       "organization_id": null
     }
   ],
@@ -79,9 +143,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 62 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/62/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/62/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Ethics and Elections (Pre-Meeting) (11/18/2025 10:26 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/62/Analyses/2026s00062.pre.ee.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Ethics and Elections (Post-Meeting) (11/20/2025 2:47 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/62/Analyses/2026s00062.ee.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "199276 - Amendment to S 62 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/62/Amendment/199276/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/62/Amendment/199276/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -106,7 +223,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T01:10:12Z",
+    "logs_latest_update": "2025-11-26T01:30:38Z",
     "text_extraction_latest_update": "2025-11-11T09:04:03.596155Z"
   }
 }

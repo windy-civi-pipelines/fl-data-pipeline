@@ -1,0 +1,194 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 475",
+  "title": "Medical Placement for High-acuity Children",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "crimes",
+    "judicial branch",
+    "social welfare",
+    "subject index"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Medical Placement for High-acuity Children;  Requires specific needs of high-acuity child to be considered when determining child's best interest; revises role of & services provided by Child Protection Teams & multidisciplinary teams; requires multidisciplinary team staffing for placement decisions of high-acuity child; provides process for if multidisciplinary team cannot reach consensus on plan for placement of high-acuity child; requires licensed health care professional to perform medical screening; requires judge to place high-acuity child in medical placement after child is evaluated; requires court to set emergency evidentiary hearing under certain circumstances; provides for certain types of medical beds; provides requirements for medical placement; requires certain consent & authorization be obtained & documented; requires court to conduct periodic reviews during duration of medical placement; requires high-acuity child's case plan be updated within specified timeframe; prohibits medical placement from exceeding specified number of days except; provides that high-acuity child maintains certain rights; requires department to collect certain data; requires department to submit to Legislature specified annual report; provides that high-acuity child is eligible for Children's Medical Services program & Children's Medical Services Safety Net program; requires that high-acuity child be placed in category 1 for priority purposes of Medicaid waiver services."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Human Services Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Civil Justice & Claims Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Health Care Budget Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    },
+    {
+      "description": "Now in Human Services Subcommittee",
+      "date": "2025-11-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T01:30:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Salzman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Salzman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 475 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/475/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "39.01",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.01"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.01375",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.01375"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.302"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.303"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.4021",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.4021"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.4022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.4022"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.407",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.407"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/475/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T01:30:38Z"
+  }
+}
