@@ -1,0 +1,600 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 557 Filed
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+HB 557 2026
+1 A bill to be entitled
+2 An act relating to intelligent speed assistance
+3 devices; amending ss. 316.191 and 316.1922, F.S.;
+4 requiring certain persons convicted of certain driving
+5 offenses to comply with specified requirements;
+6 creating s. 316.1928, F.S.; defining the terms
+7 "eligible offender" and "intelligent speed assistance
+8 device"; prohibiting an eligible offender from
+9 operating a motor vehicle unless such vehicle is
+10 equipped with an intelligent speed assistance device;
+11 requiring an eligible offender to install and use such
+12 device for a specified period as ordered by the court;
+13 requiring an eligible offender to provide proof of
+14 installation to the Department of Highway Safety and
+15 Motor Vehicles; requiring an eligible offender to pay
+16 all costs associated with such device; authorizing
+17 certain eligible offenders to participate in an
+18 affordability program; providing requirements for such
+19 program; providing that an eligible offender approved
+20 for the program shall receive a discount on costs
+21 associated with such device; requiring such device to
+22 be equipped with a manual override function; providing
+23 requirements for such function; requiring such device
+24 and each manufacturer, installer, and provider of such
+25 device to be certified by the department; requiring a
+Page 1 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+26 person who installs, repairs, maintains, monitors, or
+27 removes such device to submit results of a criminal
+28 background check to the department; requiring a
+29 provider to provide certain support services;
+30 requiring secure maintenance of device data and
+31 limiting the sharing thereof; requiring the department
+32 to establish certain procedures; prohibiting certain
+33 actions relating to such device; providing penalties;
+34 authorizing an eligible offender to operate a motor
+35 vehicle without installation of such device under
+36 certain circumstances; providing exceptions; requiring
+37 certain eligible offenders to submit a vehicle nonuse
+38 affidavit to the department; providing for
+39 reinstatement of an eligible offender's driving
+40 privilege; providing immunity from liability for motor
+41 vehicle manufacturers, distributors, and retailers;
+42 providing an exception; providing construction;
+43 requiring the department to submit an annual report to
+44 the Legislature beginning on a specified date;
+45 authorizing the department to adopt rules; providing
+46 an effective date.
+47
+48 Be It Enacted by the Legislature of the State of Florida:
+49
+50 Section 1. Paragraph (h) is added to subsection (3) of
+Page 2 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+51 section 316.191, Florida Statutes, to read:
+52 316.191 Racing on highways, street takeovers, and stunt
+53 driving.—
+54 (3)
+55 (h) Any person whose driver license has been revoked under
+56 this subsection must comply with s. 316.1928 upon reinstatement
+57 of his or her license.
+58 Section 2. Subsection (2) of section 316.1922, Florida
+59 Statutes, is amended to read:
+60 316.1922 Dangerous excessive speeding.—
+61 (2) A person convicted of dangerous excessive speeding
+62 shall be punished by mandatory compliance with s. 316.1928 and:
+63 (a) Upon a first conviction, by imprisonment for up to 30
+64 days or by a fine of $500, or by both a fine and imprisonment.
+65 (b) Upon a second or subsequent conviction, by
+66 imprisonment for up to 90 days or by a fine of $1,000, or by
+67 both such fine and imprisonment. A person convicted of a second
+68 or subsequent violation of this section that occurs within 5
+69 years after the date of a prior conviction for a violation of
+70 this section shall have his or her driving privilege revoked for
+71 at least 180 days but not no more than 1 year.
+72 Section 3. Section 316.1928, Florida Statutes, is created
+73 to read:
+74 316.1928 Intelligent speed assistance devices required;
+75 prohibited acts; penalties.—
+Page 3 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+76 (1) As used in this section, the term:
+77 (a) "Eligible offender" means a person whose driver
+78 license was suspended for a violation of s. 316.191 or s.
+79 316.1922 and has been reinstated or a person who has received
+80 more than two speeding tickets in 12 months.
+81 (b) "Intelligent speed assistance device" means an
+82 aftermarket device that uses a global positioning system to
+83 actively limit a motor vehicle's speed to posted or preset speed
+84 limits. Intelligent speed assistance devices must be tamper
+85 resistant and capable of reporting attempts to disable or
+86 circumvent functionality. The term does not include any
+87 technology that is provided by a motor vehicle manufacturer as a
+88 component of a new motor vehicle and that controls or affects
+89 the speed of a motor vehicle.
+90 (2)(a) An eligible offender may not operate a motor
+91 vehicle unless such vehicle is equipped with a functioning
+92 intelligent speed assistance device certified by the department.
+93 (b) An eligible offender must install and use an
+94 intelligent speed assistance device for at least 12 months as
+95 ordered by the court.
+96 (c) An eligible offender must provide proof of
+97 installation of an intelligent speed assistance device to the
+98 department on a form approved by the department.
+99 (3)(a) An eligible offender shall pay for all costs
+100 associated with the intelligent speed assistance device,
+Page 4 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+101 including the lease, installation, maintenance, and removal of
+102 the device, unless he or she qualifies for a discount under
+103 paragraph (b).
+104 (b)1. An eligible offender may apply to the department to
+105 participate in an affordability program created by the
+106 department to discount the costs associated with an intelligent
+107 speed assistance device. An eligible offender must include with
+108 his or her application:
+109 a. Proof of his or her enrollment in any of the following
+110 public assistance programs:
+111 (I) Temporary Assistance for Needy Families;
+112 (II) Supplemental Security Income;
+113 (III) Supplemental Nutrition Assistance Program; or
+114 (IV) Low-income home energy assistance program under s.
+115 409.508; or
+116 b. Documentation that his or her household income is at or
+117 below 150 percent of the federal poverty level.
+118 2. An eligible offender approved by the department for
+119 participation in the affordability program shall receive a
+120 discount on the costs associated with an intelligent speed
+121 assistance device.
+122 (4) An intelligent speed assistance device shall be
+123 equipped with a manual override function that allows the
+124 operator of the motor vehicle to disable the device for up to 1
+125 minute in order to exceed the posted speed limit by up to 10
+Page 5 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+126 miles per hour. Such override function is intended for emergency
+127 use to avoid a potential crash or other driving hazard or to
+128 otherwise operate the motor vehicle safely and may be used up to
+129 two times each month.
+130 (5)(a) An intelligent speed assistance device and each
+131 manufacturer, installer, and provider of such device must be
+132 certified by the department.
+133 (b) Each person who installs, repairs, maintains,
+134 monitors, or removes an intelligent speed assistance device must
+135 submit the results of a criminal background check to the
+136 department.
+137 (c) An intelligent speed assistance device provider shall
+138 establish and operate a toll-free telephone number that is
+139 available 24 hours a day to provide support services related to
+140 intelligent speed assistance devices.
+141 (6) All data collected by the intelligent speed assistance
+142 device under this section shall be securely maintained by the
+143 intelligent speed assistance device provider. Data may be shared
+144 with the department or the judge who ordered the installation of
+145 the intelligent speed assistance device under the following
+146 circumstances:
+147 (a) When required by a court order;
+148 (b) As directed by law or regulation;
+149 (c) In a case involving a violation of this section; or
+150 (d) If the data is depersonalized and aggregated for
+Page 6 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+151 research or evaluation purposes.
+152 (7) The department shall establish procedures for:
+153 (a) Notifying eligible offenders of the requirements of
+154 this section.
+155 (b) Certifying intelligent speed assistance devices.
+156 (c) Verifying installation and continued functionality of
+157 intelligent speed assistance devices.
+158 (d) Implementing and administering the affordability
+159 program created under paragraph (3)(b).
+160 (e) Monitoring compliance with this section and responding
+161 to violations.
+162 (8)(a) A person may not tamper or interfere with, or
+163 direct, allow, or request another person to tamper or interfere
+164 with, the proper functionality of an intelligent speed
+165 assistance device or any component thereof. A person who
+166 violates this paragraph commits a misdemeanor of the third
+167 degree, punishable as provided in s. 775.082 or s. 775.083.
+168 (b)1. An eligible offender may not:
+169 a. Operate a motor vehicle without a required intelligent
+170 speed assistance device installed therein, except as provided in
+171 subsection (9).
+172 b. Fail to return an intelligent speed assistance device
+173 to the provider of the device at the end of the period ordered
+174 by the court under paragraph (2)(b).
+175 2. An eligible offender who violates subparagraph 1. is
+Page 7 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+176 subject to immediate suspension or revocation of his or her
+177 driving privilege and imposition of a 6-month extension of the
+178 period ordered by the court under paragraph (2)(b).
+179 (9)(a) If an eligible offender is required to operate a
+180 motor vehicle in the course and scope of his or her employment
+181 and the motor vehicle is owned or leased by the employer, the
+182 eligible offender may operate such motor vehicle without
+183 installation of an intelligent speed assistance device if the
+184 eligible offender provides the employer with a copy of the court
+185 order requiring such installation.
+186 (b) Paragraph (a) does not apply if:
+187 1. The business entity that owns or leases the motor
+188 vehicle is owned or controlled by the eligible offender; or
+189 2. The motor vehicle is assigned exclusively to the
+190 eligible offender and used solely for travel to and from his or
+191 her place of employment.
+192 (10) If an eligible offender does not comply with this
+193 section and chooses to instead relinquish his or her driving
+194 privilege, his or her driver license is permanently revoked and
+195 he or she must submit a vehicle nonuse affidavit to the
+196 department.
+197 (11) An eligible offender's driving privilege is
+198 reinstated upon the expiration of the period ordered by the
+199 court under paragraph (2)(b) and any extension thereto imposed
+200 under subparagraph (8)(b)2.
+Page 8 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+201 (12) A motor vehicle manufacturer, distributor, or
+202 retailer is not liable for any loss, injury, or damages caused
+203 by the design, manufacture, installation, improper installation,
+204 use, or misuse of an aftermarket intelligent speed assistance
+205 device. However, liability does exist if the motor vehicle
+206 manufacturer, distributor, or retailer knowingly engages in a
+207 repair of or an update to the intelligent speed assistance
+208 device and such repair or update proximately causes loss,
+209 injury, or damage.
+210 (13) This section does not:
+211 (a) Require a motor vehicle manufacturer, distributor, or
+212 retailer to manufacture, distribute, or offer for sale a motor
+213 vehicle that includes or is compatible with an intelligent speed
+214 assistance device.
+215 (b) Prohibit a lessor or lienholder from requiring that a
+216 motor vehicle lessee or owner notify the lessor or lienholder
+217 that an intelligent speed assistance device has been installed
+218 on a motor vehicle that is subject to a lease or finance
+219 agreement.
+220 (14) Beginning January 1, 2027, and annually thereafter,
+221 the department shall submit a report to the President of the
+222 Senate and the Speaker of the House of Representatives that
+223 summarizes compliance with this section.
+224 (15) The department may adopt rules to implement this
+225 section and may make adjustments thereto based on findings and
+Page 9 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+226 emerging best practices in intelligent speed assistance
+227 technology.
+228 Section 4. This act shall take effect July 1, 2026.
+Page 10 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES A A d r o c " d o e r d r i M a c a p f a b r a d]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p r b p r l t a a v c c a r p v p r t a a  B  S]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   3 d  (  ( t oS   3  ( s  ( d  ( i b o y t aS   3 p]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  (  ( l 3 m  ( a a l r c t c t  ( v i  ( i o  ( i d  ( a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i t p  ( p d s h  a p  (  (  (  ( 4  b b  2 p d a  ( e o m]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES m u o t  ( m c  ( m s d  ( e a i  ( d i w t c  (  (  (  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r  (  ( t  (  ( i  ( p  ( t  ( d w a v d  (  a s s  b t b  2]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES s d p  ( m a e i e o  (  1 v  2 e h  ( s p h d  ( r c u]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( r b u d m r d i  (  ( r v a  ( m t o a  ( t S s  ( s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES e t   ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+1 A bill to be entitled
+2 An act relating to intelligent speed assistance
+3 devices; amending ss. 316.191 and 316.1922, F.S.;
+4 requiring certain persons convicted of certain driving
+5 offenses to comply with specified requirements;
+6 creating s. 316.1928, F.S.; defining the terms
+7 "eligible offender" and "intelligent speed assistance
+8 device"; prohibiting an eligible offender from
+9 operating a motor vehicle unless such vehicle is
+10 equipped with an intelligent speed assistance device;
+11 requiring an eligible offender to install and use such
+12 device for a specified period as ordered by the court;
+13 requiring an eligible offender to provide proof of
+14 installation to the Department of Highway Safety and
+15 Motor Vehicles; requiring an eligible offender to pay
+16 all costs associated with such device; authorizing
+17 certain eligible offenders to participate in an
+18 affordability program; providing requirements for such
+19 program; providing that an eligible offender approved
+20 for the program shall receive a discount on costs
+21 associated with such device; requiring such device to
+22 be equipped with a manual override function; providing
+23 requirements for such function; requiring such device
+24 and each manufacturer, installer, and provider of such
+25 device to be certified by the department; requiring a
+Page 1 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+26 person who installs, repairs, maintains, monitors, or
+27 removes such device to submit results of a criminal
+28 background check to the department; requiring a
+29 provider to provide certain support services;
+30 requiring secure maintenance of device data and
+31 limiting the sharing thereof; requiring the department
+32 to establish certain procedures; prohibiting certain
+33 actions relating to such device; providing penalties;
+34 authorizing an eligible offender to operate a motor
+35 vehicle without installation of such device under
+36 certain circumstances; providing exceptions; requiring
+37 certain eligible offenders to submit a vehicle nonuse
+38 affidavit to the department; providing for
+39 reinstatement of an eligible offender's driving
+40 privilege; providing immunity from liability for motor
+41 vehicle manufacturers, distributors, and retailers;
+42 providing an exception; providing construction;
+43 requiring the department to submit an annual report to
+44 the Legislature beginning on a specified date;
+45 authorizing the department to adopt rules; providing
+46 an effective date.
+47
+48 Be It Enacted by the Legislature of the State of Florida:
+49
+50 Section 1. Paragraph (h) is added to subsection (3) of
+Page 2 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+51 section 316.191, Florida Statutes, to read:
+52 316.191 Racing on highways, street takeovers, and stunt
+53 driving.—
+54 (3)
+55 (h) Any person whose driver license has been revoked under
+56 this subsection must comply with s. 316.1928 upon reinstatement
+57 of his or her license.
+58 Section 2. Subsection (2) of section 316.1922, Florida
+59 Statutes, is amended to read:
+60 316.1922 Dangerous excessive speeding.—
+61 (2) A person convicted of dangerous excessive speeding
+62 shall be punished by mandatory compliance with s. 316.1928 and:
+63 (a) Upon a first conviction, by imprisonment for up to 30
+64 days or by a fine of $500, or by both a fine and imprisonment.
+65 (b) Upon a second or subsequent conviction, by
+66 imprisonment for up to 90 days or by a fine of $1,000, or by
+67 both such fine and imprisonment. A person convicted of a second
+68 or subsequent violation of this section that occurs within 5
+69 years after the date of a prior conviction for a violation of
+70 this section shall have his or her driving privilege revoked for
+71 at least 180 days but not no more than 1 year.
+72 Section 3. Section 316.1928, Florida Statutes, is created
+73 to read:
+74 316.1928 Intelligent speed assistance devices required;
+75 prohibited acts; penalties.—
+Page 3 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+76 (1) As used in this section, the term:
+77 (a) "Eligible offender" means a person whose driver
+78 license was suspended for a violation of s. 316.191 or s.
+79 316.1922 and has been reinstated or a person who has received
+80 more than two speeding tickets in 12 months.
+81 (b) "Intelligent speed assistance device" means an
+82 aftermarket device that uses a global positioning system to
+83 actively limit a motor vehicle's speed to posted or preset speed
+84 limits. Intelligent speed assistance devices must be tamper
+85 resistant and capable of reporting attempts to disable or
+86 circumvent functionality. The term does not include any
+87 technology that is provided by a motor vehicle manufacturer as a
+88 component of a new motor vehicle and that controls or affects
+89 the speed of a motor vehicle.
+90 (2)(a) An eligible offender may not operate a motor
+91 vehicle unless such vehicle is equipped with a functioning
+92 intelligent speed assistance device certified by the department.
+93 (b) An eligible offender must install and use an
+94 intelligent speed assistance device for at least 12 months as
+95 ordered by the court.
+96 (c) An eligible offender must provide proof of
+97 installation of an intelligent speed assistance device to the
+98 department on a form approved by the department.
+99 (3)(a) An eligible offender shall pay for all costs
+100 associated with the intelligent speed assistance device,
+Page 4 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+101 including the lease, installation, maintenance, and removal of
+102 the device, unless he or she qualifies for a discount under
+103 paragraph (b).
+104 (b)1. An eligible offender may apply to the department to
+105 participate in an affordability program created by the
+106 department to discount the costs associated with an intelligent
+107 speed assistance device. An eligible offender must include with
+108 his or her application:
+109 a. Proof of his or her enrollment in any of the following
+110 public assistance programs:
+111 (I) Temporary Assistance for Needy Families;
+112 (II) Supplemental Security Income;
+113 (III) Supplemental Nutrition Assistance Program; or
+114 (IV) Low-income home energy assistance program under s.
+115 409.508; or
+116 b. Documentation that his or her household income is at or
+117 below 150 percent of the federal poverty level.
+118 2. An eligible offender approved by the department for
+119 participation in the affordability program shall receive a
+120 discount on the costs associated with an intelligent speed
+121 assistance device.
+122 (4) An intelligent speed assistance device shall be
+123 equipped with a manual override function that allows the
+124 operator of the motor vehicle to disable the device for up to 1
+125 minute in order to exceed the posted speed limit by up to 10
+Page 5 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+126 miles per hour. Such override function is intended for emergency
+127 use to avoid a potential crash or other driving hazard or to
+128 otherwise operate the motor vehicle safely and may be used up to
+129 two times each month.
+130 (5)(a) An intelligent speed assistance device and each
+131 manufacturer, installer, and provider of such device must be
+132 certified by the department.
+133 (b) Each person who installs, repairs, maintains,
+134 monitors, or removes an intelligent speed assistance device must
+135 submit the results of a criminal background check to the
+136 department.
+137 (c) An intelligent speed assistance device provider shall
+138 establish and operate a toll-free telephone number that is
+139 available 24 hours a day to provide support services related to
+140 intelligent speed assistance devices.
+141 (6) All data collected by the intelligent speed assistance
+142 device under this section shall be securely maintained by the
+143 intelligent speed assistance device provider. Data may be shared
+144 with the department or the judge who ordered the installation of
+145 the intelligent speed assistance device under the following
+146 circumstances:
+147 (a) When required by a court order;
+148 (b) As directed by law or regulation;
+149 (c) In a case involving a violation of this section; or
+150 (d) If the data is depersonalized and aggregated for
+Page 6 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+151 research or evaluation purposes.
+152 (7) The department shall establish procedures for:
+153 (a) Notifying eligible offenders of the requirements of
+154 this section.
+155 (b) Certifying intelligent speed assistance devices.
+156 (c) Verifying installation and continued functionality of
+157 intelligent speed assistance devices.
+158 (d) Implementing and administering the affordability
+159 program created under paragraph (3)(b).
+160 (e) Monitoring compliance with this section and responding
+161 to violations.
+162 (8)(a) A person may not tamper or interfere with, or
+163 direct, allow, or request another person to tamper or interfere
+164 with, the proper functionality of an intelligent speed
+165 assistance device or any component thereof. A person who
+166 violates this paragraph commits a misdemeanor of the third
+167 degree, punishable as provided in s. 775.082 or s. 775.083.
+168 (b)1. An eligible offender may not:
+169 a. Operate a motor vehicle without a required intelligent
+170 speed assistance device installed therein, except as provided in
+171 subsection (9).
+172 b. Fail to return an intelligent speed assistance device
+173 to the provider of the device at the end of the period ordered
+174 by the court under paragraph (2)(b).
+175 2. An eligible offender who violates subparagraph 1. is
+Page 7 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+176 subject to immediate suspension or revocation of his or her
+177 driving privilege and imposition of a 6-month extension of the
+178 period ordered by the court under paragraph (2)(b).
+179 (9)(a) If an eligible offender is required to operate a
+180 motor vehicle in the course and scope of his or her employment
+181 and the motor vehicle is owned or leased by the employer, the
+182 eligible offender may operate such motor vehicle without
+183 installation of an intelligent speed assistance device if the
+184 eligible offender provides the employer with a copy of the court
+185 order requiring such installation.
+186 (b) Paragraph (a) does not apply if:
+187 1. The business entity that owns or leases the motor
+188 vehicle is owned or controlled by the eligible offender; or
+189 2. The motor vehicle is assigned exclusively to the
+190 eligible offender and used solely for travel to and from his or
+191 her place of employment.
+192 (10) If an eligible offender does not comply with this
+193 section and chooses to instead relinquish his or her driving
+194 privilege, his or her driver license is permanently revoked and
+195 he or she must submit a vehicle nonuse affidavit to the
+196 department.
+197 (11) An eligible offender's driving privilege is
+198 reinstated upon the expiration of the period ordered by the
+199 court under paragraph (2)(b) and any extension thereto imposed
+200 under subparagraph (8)(b)2.
+Page 8 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+201 (12) A motor vehicle manufacturer, distributor, or
+202 retailer is not liable for any loss, injury, or damages caused
+203 by the design, manufacture, installation, improper installation,
+204 use, or misuse of an aftermarket intelligent speed assistance
+205 device. However, liability does exist if the motor vehicle
+206 manufacturer, distributor, or retailer knowingly engages in a
+207 repair of or an update to the intelligent speed assistance
+208 device and such repair or update proximately causes loss,
+209 injury, or damage.
+210 (13) This section does not:
+211 (a) Require a motor vehicle manufacturer, distributor, or
+212 retailer to manufacture, distribute, or offer for sale a motor
+213 vehicle that includes or is compatible with an intelligent speed
+214 assistance device.
+215 (b) Prohibit a lessor or lienholder from requiring that a
+216 motor vehicle lessee or owner notify the lessor or lienholder
+217 that an intelligent speed assistance device has been installed
+218 on a motor vehicle that is subject to a lease or finance
+219 agreement.
+220 (14) Beginning January 1, 2027, and annually thereafter,
+221 the department shall submit a report to the President of the
+222 Senate and the Speaker of the House of Representatives that
+223 summarizes compliance with this section.
+224 (15) The department may adopt rules to implement this
+225 section and may make adjustments thereto based on findings and
+Page 9 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 557 2026
+226 emerging best practices in intelligent speed assistance
+227 technology.
+228 Section 4. This act shall take effect July 1, 2026.
+Page 10 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb557-00
+
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES A A d r o c " d o e r d r i M a c a p f a b r a d]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p r b p r l t a a v c c a r p v p r t a a  B  S]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   3 d  (  ( t oS   3  ( s  ( d  ( i b o y t aS   3 p]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  (  ( l 3 m  ( a a l r c t c t  ( v i  ( i o  ( i d  ( a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i t p  ( p d s h  a p  (  (  (  ( 4  b b  2 p d a  ( e o m]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES m u o t  ( m c  ( m s d  ( e a i  ( d i w t c  (  (  (  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r  (  ( t  (  ( i  ( p  ( t  ( d w a v d  (  a s s  b t b  2]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES s d p  ( m a e i e o  (  1 v  2 e h  ( s p h d  ( r c u]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( r b u d m r d i  (  ( r v a  ( m t o a  ( t S s  ( s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES e t   ]

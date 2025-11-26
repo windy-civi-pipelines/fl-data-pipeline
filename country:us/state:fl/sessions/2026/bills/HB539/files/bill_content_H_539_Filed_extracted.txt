@@ -1,0 +1,368 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 539 Filed
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HB 539 2026
+1 A bill to be entitled
+2 An act relating to code inspector body cameras;
+3 creating s. 162.41, F.S.; providing definitions;
+4 requiring a governmental entity that authorizes its
+5 code inspectors to use body cameras to establish
+6 certain policies and procedures; establishing certain
+7 requirements for such governmental entities; amending
+8 s. 934.03, F.S.; conforming a cross-reference;
+9 prohibiting code inspectors or persons acting under
+10 the direction of a special magistrate or code
+11 enforcement board from intercepting certain
+12 communications under certain circumstances; amending
+13 s. 934.09, F.S.; conforming a cross-reference;
+14 providing an effective date.
+15
+16 Be It Enacted by the Legislature of the State of Florida:
+17
+18 Section 1. Section 162.41, Florida Statutes, is created to
+19 read:
+20 162.41 Code inspector body cameras; policies and
+21 procedures.—
+22 (1) As used in this section, the term:
+23 (a) "Body camera" means a portable electronic recording
+24 device that is worn on a code inspector's person and that
+25 records audio and video data of the code inspector's encounters
+Page 1 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+26 and activities.
+27 (b) "Code inspector" has the same meaning as provided in
+28 s. 162.04(2).
+29 (2) A governmental entity that authorizes its code
+30 inspectors to use body cameras must establish policies and
+31 procedures addressing the proper use, maintenance, and storage
+32 of body cameras and the data recorded by body cameras. The
+33 policies and procedures must include:
+34 (a) Any limitations on code inspectors who are allowed to
+35 use body cameras.
+36 (b) Any limitations on code enforcement-related encounters
+37 and activities in which code inspectors are allowed to use body
+38 cameras.
+39 (c) General guidelines for the proper storage, retention,
+40 and release of audio and video data recorded by body cameras.
+41 (3) A governmental entity that authorizes its code
+42 inspectors to use body cameras shall:
+43 (a) Ensure that all code inspectors who use, maintain, or
+44 store body cameras are trained in the governmental entity's body
+45 camera policies and procedures.
+46 (b) Retain audio and video data recorded by body cameras
+47 in accordance with the requirements of s. 119.021, except as
+48 otherwise provided by law.
+49 (c) Perform a periodic review of actual body camera
+50 practices to ensure conformity with the governmental entity's
+Page 2 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+51 body camera policies and procedures.
+52 Section 2. Subsection (4) of section 934.03, Florida
+53 Statutes, is renumbered as subsection (5), subsection (1) is
+54 amended, and subsection (4) is added to that section, to read:
+55 934.03 Interception and disclosure of wire, oral, or
+56 electronic communications prohibited.—
+57 (1) Except as otherwise specifically provided in this
+58 chapter, any person who:
+59 (a) Intentionally intercepts, endeavors to intercept, or
+60 procures any other person to intercept or endeavor to intercept
+61 any wire, oral, or electronic communication;
+62 (b) Intentionally uses, endeavors to use, or procures any
+63 other person to use or endeavor to use any electronic,
+64 mechanical, or other device to intercept any oral communication
+65 when:
+66 1. Such device is affixed to, or otherwise transmits a
+67 signal through, a wire, cable, or other like connection used in
+68 wire communication; or
+69 2. Such device transmits communications by radio or
+70 interferes with the transmission of such communication;
+71 (c) Intentionally discloses, or endeavors to disclose, to
+72 any other person the contents of any wire, oral, or electronic
+73 communication, knowing or having reason to know that the
+74 information was obtained through the interception of a wire,
+75 oral, or electronic communication in violation of this
+Page 3 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+76 subsection;
+77 (d) Intentionally uses, or endeavors to use, the contents
+78 of any wire, oral, or electronic communication, knowing or
+79 having reason to know that the information was obtained through
+80 the interception of a wire, oral, or electronic communication in
+81 violation of this subsection; or
+82 (e) Intentionally discloses, or endeavors to disclose, to
+83 any other person the contents of any wire, oral, or electronic
+84 communication intercepted by means authorized by subparagraph
+85 (2)(a)2., paragraph (2)(b), paragraph (2)(c), s. 934.07, or s.
+86 934.09 when that person knows or has reason to know that the
+87 information was obtained through the interception of such a
+88 communication in connection with a criminal investigation, has
+89 obtained or received the information in connection with a
+90 criminal investigation, and intends to improperly obstruct,
+91 impede, or interfere with a duly authorized criminal
+92 investigation;
+93
+94 shall be punished as provided in subsection (5) (4).
+95 (4) It is lawful under this section and ss. 934.04–934.09
+96 for a code inspector, as defined in 162.04(2), or a person
+97 acting under the direction of a special magistrate or code
+98 enforcement board to intercept a wire, oral, or electronic
+99 communication if such code inspector or person is a party to the
+100 communication or one of the parties to the communication has
+Page 4 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+101 given prior consent to such interception and the purpose of such
+102 interception is to obtain evidence of a violation of a code, an
+103 ordinance, or a general law.
+104 Section 3. Subsection (7) of section 934.09, Florida
+105 Statutes, is amended to read:
+106 934.09 Procedure for interception of wire, oral, or
+107 electronic communications.—
+108 (7) Notwithstanding any other provision of this chapter,
+109 any investigative or law enforcement officer specially
+110 designated by the Governor, the Attorney General, the statewide
+111 prosecutor, or a state attorney acting under this chapter, who
+112 reasonably determines that:
+113 (a) An emergency exists that:
+114 1. Involves immediate danger of death or serious physical
+115 injury to any person, the danger of escape of a prisoner, or
+116 conspiratorial activities threatening the security interest of
+117 the nation or state; and
+118 2. Requires that a wire, oral, or electronic communication
+119 be intercepted before an order authorizing such interception
+120 can, with due diligence, be obtained; and
+121 (b) There are grounds upon which an order could be entered
+122 under this chapter to authorize such interception
+123
+124 may intercept such wire, oral, or electronic communication if an
+125 application for an order approving the interception is made in
+Page 5 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+126 accordance with this section within 48 hours after the
+127 interception has occurred or begins to occur. In the absence of
+128 an order, such interception shall immediately terminate when the
+129 communication sought is obtained or when the application for the
+130 order is denied, whichever is earlier. If such application for
+131 approval is denied, or in any other case in which the
+132 interception is terminated without an order having been issued,
+133 the contents of any wire, oral, or electronic communication
+134 intercepted shall be treated as having been obtained in
+135 violation of s. 934.03(5) s. 934.03(4), and an inventory shall
+136 be served as provided for in paragraph (8)(e) on the person
+137 named in the application.
+138 Section 4. This act shall take effect July 1, 2026.
+Page 6 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES A A c r c c r s p t e c s p  B S   1 p  (  ( d r]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES a  ( s  ( i p o p  ( u  ( a c  ( a  ( i  ( s c  ( i o  ( p]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES bS   9 e  ( c  ( p a  ( o m w  1 s w  2 i  ( a c i o]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES s  ( o h t v  ( a c ( 9 i c o c i i  s  ( f a e c c]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES g i oS   9 e  ( a d p r  (  1 i c t  2 b c  ( u  m a]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES a i a c o a i t i v b n   ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+1 A bill to be entitled
+2 An act relating to code inspector body cameras;
+3 creating s. 162.41, F.S.; providing definitions;
+4 requiring a governmental entity that authorizes its
+5 code inspectors to use body cameras to establish
+6 certain policies and procedures; establishing certain
+7 requirements for such governmental entities; amending
+8 s. 934.03, F.S.; conforming a cross-reference;
+9 prohibiting code inspectors or persons acting under
+10 the direction of a special magistrate or code
+11 enforcement board from intercepting certain
+12 communications under certain circumstances; amending
+13 s. 934.09, F.S.; conforming a cross-reference;
+14 providing an effective date.
+15
+16 Be It Enacted by the Legislature of the State of Florida:
+17
+18 Section 1. Section 162.41, Florida Statutes, is created to
+19 read:
+20 162.41 Code inspector body cameras; policies and
+21 procedures.—
+22 (1) As used in this section, the term:
+23 (a) "Body camera" means a portable electronic recording
+24 device that is worn on a code inspector's person and that
+25 records audio and video data of the code inspector's encounters
+Page 1 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+26 and activities.
+27 (b) "Code inspector" has the same meaning as provided in
+28 s. 162.04(2).
+29 (2) A governmental entity that authorizes its code
+30 inspectors to use body cameras must establish policies and
+31 procedures addressing the proper use, maintenance, and storage
+32 of body cameras and the data recorded by body cameras. The
+33 policies and procedures must include:
+34 (a) Any limitations on code inspectors who are allowed to
+35 use body cameras.
+36 (b) Any limitations on code enforcement-related encounters
+37 and activities in which code inspectors are allowed to use body
+38 cameras.
+39 (c) General guidelines for the proper storage, retention,
+40 and release of audio and video data recorded by body cameras.
+41 (3) A governmental entity that authorizes its code
+42 inspectors to use body cameras shall:
+43 (a) Ensure that all code inspectors who use, maintain, or
+44 store body cameras are trained in the governmental entity's body
+45 camera policies and procedures.
+46 (b) Retain audio and video data recorded by body cameras
+47 in accordance with the requirements of s. 119.021, except as
+48 otherwise provided by law.
+49 (c) Perform a periodic review of actual body camera
+50 practices to ensure conformity with the governmental entity's
+Page 2 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+51 body camera policies and procedures.
+52 Section 2. Subsection (4) of section 934.03, Florida
+53 Statutes, is renumbered as subsection (5), subsection (1) is
+54 amended, and subsection (4) is added to that section, to read:
+55 934.03 Interception and disclosure of wire, oral, or
+56 electronic communications prohibited.—
+57 (1) Except as otherwise specifically provided in this
+58 chapter, any person who:
+59 (a) Intentionally intercepts, endeavors to intercept, or
+60 procures any other person to intercept or endeavor to intercept
+61 any wire, oral, or electronic communication;
+62 (b) Intentionally uses, endeavors to use, or procures any
+63 other person to use or endeavor to use any electronic,
+64 mechanical, or other device to intercept any oral communication
+65 when:
+66 1. Such device is affixed to, or otherwise transmits a
+67 signal through, a wire, cable, or other like connection used in
+68 wire communication; or
+69 2. Such device transmits communications by radio or
+70 interferes with the transmission of such communication;
+71 (c) Intentionally discloses, or endeavors to disclose, to
+72 any other person the contents of any wire, oral, or electronic
+73 communication, knowing or having reason to know that the
+74 information was obtained through the interception of a wire,
+75 oral, or electronic communication in violation of this
+Page 3 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+76 subsection;
+77 (d) Intentionally uses, or endeavors to use, the contents
+78 of any wire, oral, or electronic communication, knowing or
+79 having reason to know that the information was obtained through
+80 the interception of a wire, oral, or electronic communication in
+81 violation of this subsection; or
+82 (e) Intentionally discloses, or endeavors to disclose, to
+83 any other person the contents of any wire, oral, or electronic
+84 communication intercepted by means authorized by subparagraph
+85 (2)(a)2., paragraph (2)(b), paragraph (2)(c), s. 934.07, or s.
+86 934.09 when that person knows or has reason to know that the
+87 information was obtained through the interception of such a
+88 communication in connection with a criminal investigation, has
+89 obtained or received the information in connection with a
+90 criminal investigation, and intends to improperly obstruct,
+91 impede, or interfere with a duly authorized criminal
+92 investigation;
+93
+94 shall be punished as provided in subsection (5) (4).
+95 (4) It is lawful under this section and ss. 934.04–934.09
+96 for a code inspector, as defined in 162.04(2), or a person
+97 acting under the direction of a special magistrate or code
+98 enforcement board to intercept a wire, oral, or electronic
+99 communication if such code inspector or person is a party to the
+100 communication or one of the parties to the communication has
+Page 4 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+101 given prior consent to such interception and the purpose of such
+102 interception is to obtain evidence of a violation of a code, an
+103 ordinance, or a general law.
+104 Section 3. Subsection (7) of section 934.09, Florida
+105 Statutes, is amended to read:
+106 934.09 Procedure for interception of wire, oral, or
+107 electronic communications.—
+108 (7) Notwithstanding any other provision of this chapter,
+109 any investigative or law enforcement officer specially
+110 designated by the Governor, the Attorney General, the statewide
+111 prosecutor, or a state attorney acting under this chapter, who
+112 reasonably determines that:
+113 (a) An emergency exists that:
+114 1. Involves immediate danger of death or serious physical
+115 injury to any person, the danger of escape of a prisoner, or
+116 conspiratorial activities threatening the security interest of
+117 the nation or state; and
+118 2. Requires that a wire, oral, or electronic communication
+119 be intercepted before an order authorizing such interception
+120 can, with due diligence, be obtained; and
+121 (b) There are grounds upon which an order could be entered
+122 under this chapter to authorize such interception
+123
+124 may intercept such wire, oral, or electronic communication if an
+125 application for an order approving the interception is made in
+Page 5 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 539 2026
+126 accordance with this section within 48 hours after the
+127 interception has occurred or begins to occur. In the absence of
+128 an order, such interception shall immediately terminate when the
+129 communication sought is obtained or when the application for the
+130 order is denied, whichever is earlier. If such application for
+131 approval is denied, or in any other case in which the
+132 interception is terminated without an order having been issued,
+133 the contents of any wire, oral, or electronic communication
+134 intercepted shall be treated as having been obtained in
+135 violation of s. 934.03(5) s. 934.03(4), and an inventory shall
+136 be served as provided for in paragraph (8)(e) on the person
+137 named in the application.
+138 Section 4. This act shall take effect July 1, 2026.
+Page 6 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb539-00
+
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES A A c r c c r s p t e c s p  B S   1 p  (  ( d r]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES a  ( s  ( i p o p  ( u  ( a c  ( a  ( i  ( s c  ( i o  ( p]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES bS   9 e  ( c  ( p a  ( o m w  1 s w  2 i  ( a c i o]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES s  ( o h t v  ( a c ( 9 i c o c i i  s  ( f a e c c]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES g i oS   9 e  ( a d p r  (  1 i c t  2 b c  ( u  m a]
+[DELETED:  92 LORIDA HOUSE OF REPRESENTATIVES a i a c o a i t i v b n   ]

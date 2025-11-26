@@ -1,0 +1,283 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 505 Filed
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+HB 505 2026
+1 A bill to be entitled
+2 An act relating to virtual currency kiosks; creating
+3 s. 560.215, F.S.; defining terms; requiring an owner
+4 or operator of a virtual currency kiosk to ensure that
+5 a specified disclosure is displayed before a customer
+6 initiates a virtual currency kiosk transaction;
+7 prohibiting an owner or operator of a virtual currency
+8 kiosk from permitting new and existing customers from
+9 transacting more than a specified amount per calendar
+10 day; requiring an owner or operator of a virtual
+11 currency kiosk to provide a customer with a specified
+12 electronic receipt upon completion of a virtual
+13 currency transaction; requiring an owner or operator
+14 of a virtual currency kiosk to issue a full refund
+15 under certain circumstances; authorizing the Financial
+16 Services Commission to adopt rules; providing an
+17 effective date.
+18
+19 Be It Enacted by the Legislature of the State of Florida:
+20
+21 Section 1. Section 560.215, Florida Statutes, is created
+22 to read:
+23 560.215 Requirements for virtual currency kiosks.—
+24 (1) For the purpose of this section, the term:
+25 (a) "Blockchain" means a mathematically secured,
+Page 1 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+26 chronological, decentralized, distributed, and digital ledger or
+27 database that consists of records of transactions that cannot be
+28 altered retroactively.
+29 (b) "Existing customer" means a customer who has
+30 transacted with the owner or operator of a virtual currency
+31 kiosk for 7 or more days.
+32 (c) "New customer" means a customer who has transacted
+33 with the owner or operator of a virtual currency kiosk for fewer
+34 than 7 days.
+35 (d) "Transaction hash" means a unique identifier
+36 consisting of a string of characters which provides a verifiable
+37 record that a transaction has been confirmed and added to the
+38 blockchain.
+39 (e) "Virtual currency kiosk" means an electronic terminal
+40 that acts as a mechanical agent of the owner or operator,
+41 enabling the owner or operator to facilitate the exchange of
+42 virtual currency for fiat currency or other virtual currency on
+43 behalf of a customer.
+44 (f) "Virtual currency kiosk transaction" means the process
+45 in which a customer uses a virtual currency kiosk to exchange
+46 virtual currency for fiat currency or other virtual currency. A
+47 transaction begins at the point at which the customer is able to
+48 initiate a transaction after the customer is given the option to
+49 select the type of transaction or account and does not include
+50 any of the screens that display the required terms and
+Page 2 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+51 conditions, disclaimers, or attestations.
+52 (g) "Wallet" means hardware or software that enables
+53 customers to store and use virtual currency.
+54 (2) Before a customer may initiate a virtual currency
+55 kiosk transaction, the owner or operator of the virtual currency
+56 kiosk must ensure that the virtual currency kiosk clearly and
+57 conspicuously displays the following disclosure on the screen:
+58
+59 WARNING: CONSUMER FRAUD OFTEN STARTS WITH CONTACT FROM
+60 A STRANGER. IF YOU HAVE BEEN DIRECTED TO THIS MACHINE
+61 BY SOMEONE CLAIMING TO BE A GOVERNMENT AGENT, BILL
+62 COLLECTOR, LAW ENFORCEMENT OFFICER, OR ANYONE YOU DO
+63 NOT KNOW PERSONALLY, STOP THIS TRANSACTION IMMEDIATELY
+64 AND CONTACT YOUR FINANCIAL ADVISOR OR LOCAL LAW
+65 ENFORCEMENT.
+66
+67 (3) The owner or operator of a virtual currency kiosk may
+68 not permit a new customer to transact more than $2,000 per
+69 calendar day, whether through a single transaction or multiple
+70 transactions. The owner or operator of a virtual currency kiosk
+71 may not permit an existing customer to transact more than
+72 $10,500 per calendar day, whether through a single transaction
+73 or multiple transactions.
+74 (4) Upon completion of a virtual currency transaction, the
+75 owner or operator of a virtual currency kiosk must provide the
+Page 3 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+76 customer with an electronic receipt that includes all of the
+77 following:
+78 (a) The name and contact information of the owner or
+79 operator, including a toll-free telephone number.
+80 (b) The date, time, value, and type of the transaction.
+81 (c) The transaction hash and each wallet used.
+82 (d) The total fee charged.
+83 (e) The exchange rate, if applicable.
+84 (f) A statement of the owner's or operator's liability, if
+85 any, for nondelivery or delayed delivery of the currency.
+86 (g) The refund policy of the owner or operator.
+87 (5) The owner or operator of a virtual currency kiosk must
+88 issue a full refund within 72 hours to a customer for the
+89 customer's first virtual currency transaction if all of the
+90 following conditions are met:
+91 (a) The customer transferred virtual currency to a wallet
+92 or exchange located outside the United States.
+93 (b) Within 60 days, the customer contacts both the owner
+94 or operator of the virtual currency kiosk and a law enforcement
+95 or governmental agency regarding the fraudulent nature of the
+96 transaction.
+97 (c) The customer provides proof of fraud, such as a police
+98 report or a notarized affidavit.
+99 (6) The commission may adopt rules to administer this
+100 section.
+Page 4 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+101 Section 2. This act shall take effect January 1, 2027.
+102
+Page 5 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES A A s o a i p k t d c e c o u S e    B S   5  (  (]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c d a  ( t k  ( w t  ( c r b  ( t e v b  ( i v t i s a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c  ( c  ( k k c  W A B C N A E   ( n c t m $ o  ( o]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c f  ( o  (  (  (  (  ( a  (  ( i c f  ( o  ( o o t  ( r  ( s]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVESS   ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+1 A bill to be entitled
+2 An act relating to virtual currency kiosks; creating
+3 s. 560.215, F.S.; defining terms; requiring an owner
+4 or operator of a virtual currency kiosk to ensure that
+5 a specified disclosure is displayed before a customer
+6 initiates a virtual currency kiosk transaction;
+7 prohibiting an owner or operator of a virtual currency
+8 kiosk from permitting new and existing customers from
+9 transacting more than a specified amount per calendar
+10 day; requiring an owner or operator of a virtual
+11 currency kiosk to provide a customer with a specified
+12 electronic receipt upon completion of a virtual
+13 currency transaction; requiring an owner or operator
+14 of a virtual currency kiosk to issue a full refund
+15 under certain circumstances; authorizing the Financial
+16 Services Commission to adopt rules; providing an
+17 effective date.
+18
+19 Be It Enacted by the Legislature of the State of Florida:
+20
+21 Section 1. Section 560.215, Florida Statutes, is created
+22 to read:
+23 560.215 Requirements for virtual currency kiosks.—
+24 (1) For the purpose of this section, the term:
+25 (a) "Blockchain" means a mathematically secured,
+Page 1 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+26 chronological, decentralized, distributed, and digital ledger or
+27 database that consists of records of transactions that cannot be
+28 altered retroactively.
+29 (b) "Existing customer" means a customer who has
+30 transacted with the owner or operator of a virtual currency
+31 kiosk for 7 or more days.
+32 (c) "New customer" means a customer who has transacted
+33 with the owner or operator of a virtual currency kiosk for fewer
+34 than 7 days.
+35 (d) "Transaction hash" means a unique identifier
+36 consisting of a string of characters which provides a verifiable
+37 record that a transaction has been confirmed and added to the
+38 blockchain.
+39 (e) "Virtual currency kiosk" means an electronic terminal
+40 that acts as a mechanical agent of the owner or operator,
+41 enabling the owner or operator to facilitate the exchange of
+42 virtual currency for fiat currency or other virtual currency on
+43 behalf of a customer.
+44 (f) "Virtual currency kiosk transaction" means the process
+45 in which a customer uses a virtual currency kiosk to exchange
+46 virtual currency for fiat currency or other virtual currency. A
+47 transaction begins at the point at which the customer is able to
+48 initiate a transaction after the customer is given the option to
+49 select the type of transaction or account and does not include
+50 any of the screens that display the required terms and
+Page 2 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+51 conditions, disclaimers, or attestations.
+52 (g) "Wallet" means hardware or software that enables
+53 customers to store and use virtual currency.
+54 (2) Before a customer may initiate a virtual currency
+55 kiosk transaction, the owner or operator of the virtual currency
+56 kiosk must ensure that the virtual currency kiosk clearly and
+57 conspicuously displays the following disclosure on the screen:
+58
+59 WARNING: CONSUMER FRAUD OFTEN STARTS WITH CONTACT FROM
+60 A STRANGER. IF YOU HAVE BEEN DIRECTED TO THIS MACHINE
+61 BY SOMEONE CLAIMING TO BE A GOVERNMENT AGENT, BILL
+62 COLLECTOR, LAW ENFORCEMENT OFFICER, OR ANYONE YOU DO
+63 NOT KNOW PERSONALLY, STOP THIS TRANSACTION IMMEDIATELY
+64 AND CONTACT YOUR FINANCIAL ADVISOR OR LOCAL LAW
+65 ENFORCEMENT.
+66
+67 (3) The owner or operator of a virtual currency kiosk may
+68 not permit a new customer to transact more than $2,000 per
+69 calendar day, whether through a single transaction or multiple
+70 transactions. The owner or operator of a virtual currency kiosk
+71 may not permit an existing customer to transact more than
+72 $10,500 per calendar day, whether through a single transaction
+73 or multiple transactions.
+74 (4) Upon completion of a virtual currency transaction, the
+75 owner or operator of a virtual currency kiosk must provide the
+Page 3 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+76 customer with an electronic receipt that includes all of the
+77 following:
+78 (a) The name and contact information of the owner or
+79 operator, including a toll-free telephone number.
+80 (b) The date, time, value, and type of the transaction.
+81 (c) The transaction hash and each wallet used.
+82 (d) The total fee charged.
+83 (e) The exchange rate, if applicable.
+84 (f) A statement of the owner's or operator's liability, if
+85 any, for nondelivery or delayed delivery of the currency.
+86 (g) The refund policy of the owner or operator.
+87 (5) The owner or operator of a virtual currency kiosk must
+88 issue a full refund within 72 hours to a customer for the
+89 customer's first virtual currency transaction if all of the
+90 following conditions are met:
+91 (a) The customer transferred virtual currency to a wallet
+92 or exchange located outside the United States.
+93 (b) Within 60 days, the customer contacts both the owner
+94 or operator of the virtual currency kiosk and a law enforcement
+95 or governmental agency regarding the fraudulent nature of the
+96 transaction.
+97 (c) The customer provides proof of fraud, such as a police
+98 report or a notarized affidavit.
+99 (6) The commission may adopt rules to administer this
+100 section.
+Page 4 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 505 2026
+101 Section 2. This act shall take effect January 1, 2027.
+102
+Page 5 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb505-00
+
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES A A s o a i p k t d c e c o u S e    B S   5  (  (]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c d a  ( t k  ( w t  ( c r b  ( t e v b  ( i v t i s a]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c  ( c  ( k k c  W A B C N A E   ( n c t m $ o  ( o]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVES c f  ( o  (  (  (  (  ( a  (  ( i c f  ( o  ( o o t  ( r  ( s]
+[DELETED:  52 LORIDA HOUSE OF REPRESENTATIVESS   ]

@@ -1,0 +1,376 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 511 Filed
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HB 511 2026
+1 A bill to be entitled
+2 An act relating to public records; amending s.
+3 119.0713, F.S.; defining terms; providing an exemption
+4 from public records requirements for body camera
+5 recordings recorded by a code inspector under certain
+6 circumstances; providing exceptions; requiring a local
+7 government to retain body camera recordings for a
+8 specified timeframe; providing for retroactive
+9 application; providing construction; providing for
+10 future legislative review and repeal of the exemption;
+11 providing a statement of public necessity; directing
+12 the Division of Library and Information Services of
+13 the Department of State to adopt a specified retention
+14 requirement for certain body camera recordings by a
+15 specified date; providing a contingent effective date.
+16
+17 Be It Enacted by the Legislature of the State of Florida:
+18
+19 Section 1. Subsection (6) is added to section 119.0713,
+20 Florida Statutes, to read:
+21 119.0713 Local government agency exemptions from
+22 inspection or copying of public records.—
+23 (6)(a) As used in this subsection, the term:
+24 1. "Body camera" means a portable electronic recording
+25 device that is worn on a code inspector's body and that records
+Page 1 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+26 audio and video data in the course of the performance of his or
+27 her official duties and responsibilities.
+28 2. "Code inspector" has the same meaning as in s.
+29 162.04(2).
+30 3. "Personal representative" means a parent, a court-
+31 appointed guardian, an attorney, or an agent of, or a person
+32 holding a power of attorney for, a person recorded by a body
+33 camera. If a person depicted in the recording is deceased, the
+34 term also means the personal representative of the estate of the
+35 deceased person; the deceased person's surviving spouse, parent,
+36 or adult child; the deceased person's attorney or agent; or the
+37 parent or guardian of a surviving minor child of the deceased.
+38 An agent must possess written authorization of the recorded
+39 person to act on his or her behalf.
+40 (b) A body camera recording, or a portion thereof, is
+41 confidential and exempt from s. 119.07(1) and s. 24(a), Art. I
+42 of the State Constitution if the recording:
+43 1. Is taken within the interior of a private residence;
+44 2. Is taken within the interior of a facility that offers
+45 health care, mental health care, or social services; or
+46 3. Is taken in a place that a reasonable person would
+47 expect to be private.
+48 (c) Notwithstanding paragraph (b), a body camera
+49 recording, or a portion thereof, may be disclosed by a local
+50 government:
+Page 2 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+51 1. In furtherance of its official duties and
+52 responsibilities; or
+53 2. To another governmental agency in the furtherance of
+54 its official duties and responsibilities.
+55 (d) Notwithstanding paragraph (b), a body camera
+56 recording, or a portion thereof, must be disclosed by a local
+57 government:
+58 1. To a person recorded by the body camera; however, a
+59 local government may disclose only those portions relevant to
+60 the person's presence in the recording;
+61 2. To the personal representative of a person recorded by
+62 the body camera; however, a local government may disclose only
+63 those portions relevant to the represented person's presence in
+64 the recording;
+65 3. To a person not depicted in the body camera recording
+66 if the recording depicts a place in which the person lawfully
+67 resided, dwelled, or lodged at the time of the recording;
+68 however, a local government may disclose only those portions
+69 that record the interior of such a place; or
+70 4. Pursuant to a court order.
+71 a. In addition to any other grounds the court may consider
+72 in determining whether to order that a body camera recording be
+73 disclosed, the court shall consider whether:
+74 (I) Disclosure is necessary to advance a compelling
+75 interest;
+Page 3 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+76 (II) The recording contains information that is otherwise
+77 exempt or confidential and exempt under the law;
+78 (III) The person requesting disclosure is seeking to
+79 obtain evidence to determine legal issues in a case in which the
+80 person is a party;
+81 (IV) Disclosure would reveal information regarding a
+82 person which is of a highly sensitive personal nature;
+83 (V) Disclosure may harm the reputation or jeopardize the
+84 safety of a person depicted in the recording;
+85 (VI) Confidentiality is necessary to prevent a serious and
+86 imminent threat to the fair, impartial, and orderly
+87 administration of justice;
+88 (VII) The recording could be redacted to protect privacy
+89 interests; and
+90 (VIII) There is good cause to disclose all or portions of
+91 the recording.
+92 b. In any proceeding regarding the disclosure of a body
+93 camera recording, the local government that made the recording
+94 must be given reasonable notice of hearings and an opportunity
+95 to participate.
+96 (e) A local government shall retain a body camera
+97 recording for at least 90 days.
+98 (f) The exemption provided in paragraph (b) applies
+99 retroactively.
+100 (g) This subsection does not supersede any other public
+Page 4 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+101 records exemption that existed before or is created after the
+102 effective date of this exemption. Those portions of a recording
+103 which are protected from disclosure by another public records
+104 exemption continue to be exempt or confidential and exempt.
+105 (h) This subsection is subject to the Open Government
+106 Sunset Review Act in accordance with s. 119.15 and shall stand
+107 repealed on October 2, 2031, unless reviewed and saved from
+108 repeal through reenactment by the Legislature.
+109 Section 2. (1) The Legislature finds that it is a public
+110 necessity that the following types of body camera recordings
+111 recorded by a code inspector in the course of performing his or
+112 her official duties and responsibilities be made confidential
+113 and exempt from s. 119.07(1), Florida Statutes, and s. 24(a),
+114 Article I of the State Constitution: recordings taken within the
+115 interior of a private residence; recordings taken within the
+116 interior of a facility that offers health care, mental health
+117 care, or social services; and recordings taken in a place that a
+118 reasonable person would expect to be private.
+119 (2) The Legislature recognizes that body cameras preserve
+120 information that has the potential to assist both code
+121 inspectors' and the public's ability to review the accuracy of
+122 code inspection work.
+123 (3) However, the Legislature also finds that, in certain
+124 instances, audio and video recorded by body cameras is
+125 significantly likely to capture highly sensitive personal
+Page 5 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+126 information. The exemption of body camera recordings from public
+127 records requirements allows code inspectors to administer their
+128 duties more effectively and efficiently, which would otherwise
+129 be significantly impaired. The Legislature finds that the
+130 concerns regarding the impact of public records requirements for
+131 body camera recordings necessitate the exemption of the
+132 recordings from public records requirements and outweigh any
+133 public benefit that may be derived from their disclosure.
+134 Section 3. By October 1, 2026, the Division of Library and
+135 Information Services of the Department of State shall by rule
+136 incorporate into the appropriate general records schedule a 90-
+137 day retention requirement for body camera recordings recorded by
+138 code inspectors.
+139 Section 4. This act shall take effect on the same date
+140 that HB 509 or similar legislation takes effect, if such
+141 legislation is adopted in the same legislative session or an
+142 extension thereof and becomes a law.
+Page 6 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES A A 1 f r c g s a f p t t r s    B S   1 i  (  1 d]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a h  2 1  3 a h c t d o p A p  ( c o  1  2 h  3 e  ( r g]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  1 r  2 i  ( r g  1 l t  2 t t t  3 i r h t  4  a i d  ( i]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( e  ( o p  ( p  ( s  ( i a  ( i  ( t  b c m t  ( r  ( r  (]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES r e w e  ( S r rS   n r h a A i i c r  ( i i c  ( i s]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES i r d b c b r pS   I i d cS   t l e]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+1 A bill to be entitled
+2 An act relating to public records; amending s.
+3 119.0713, F.S.; defining terms; providing an exemption
+4 from public records requirements for body camera
+5 recordings recorded by a code inspector under certain
+6 circumstances; providing exceptions; requiring a local
+7 government to retain body camera recordings for a
+8 specified timeframe; providing for retroactive
+9 application; providing construction; providing for
+10 future legislative review and repeal of the exemption;
+11 providing a statement of public necessity; directing
+12 the Division of Library and Information Services of
+13 the Department of State to adopt a specified retention
+14 requirement for certain body camera recordings by a
+15 specified date; providing a contingent effective date.
+16
+17 Be It Enacted by the Legislature of the State of Florida:
+18
+19 Section 1. Subsection (6) is added to section 119.0713,
+20 Florida Statutes, to read:
+21 119.0713 Local government agency exemptions from
+22 inspection or copying of public records.—
+23 (6)(a) As used in this subsection, the term:
+24 1. "Body camera" means a portable electronic recording
+25 device that is worn on a code inspector's body and that records
+Page 1 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+26 audio and video data in the course of the performance of his or
+27 her official duties and responsibilities.
+28 2. "Code inspector" has the same meaning as in s.
+29 162.04(2).
+30 3. "Personal representative" means a parent, a court-
+31 appointed guardian, an attorney, or an agent of, or a person
+32 holding a power of attorney for, a person recorded by a body
+33 camera. If a person depicted in the recording is deceased, the
+34 term also means the personal representative of the estate of the
+35 deceased person; the deceased person's surviving spouse, parent,
+36 or adult child; the deceased person's attorney or agent; or the
+37 parent or guardian of a surviving minor child of the deceased.
+38 An agent must possess written authorization of the recorded
+39 person to act on his or her behalf.
+40 (b) A body camera recording, or a portion thereof, is
+41 confidential and exempt from s. 119.07(1) and s. 24(a), Art. I
+42 of the State Constitution if the recording:
+43 1. Is taken within the interior of a private residence;
+44 2. Is taken within the interior of a facility that offers
+45 health care, mental health care, or social services; or
+46 3. Is taken in a place that a reasonable person would
+47 expect to be private.
+48 (c) Notwithstanding paragraph (b), a body camera
+49 recording, or a portion thereof, may be disclosed by a local
+50 government:
+Page 2 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+51 1. In furtherance of its official duties and
+52 responsibilities; or
+53 2. To another governmental agency in the furtherance of
+54 its official duties and responsibilities.
+55 (d) Notwithstanding paragraph (b), a body camera
+56 recording, or a portion thereof, must be disclosed by a local
+57 government:
+58 1. To a person recorded by the body camera; however, a
+59 local government may disclose only those portions relevant to
+60 the person's presence in the recording;
+61 2. To the personal representative of a person recorded by
+62 the body camera; however, a local government may disclose only
+63 those portions relevant to the represented person's presence in
+64 the recording;
+65 3. To a person not depicted in the body camera recording
+66 if the recording depicts a place in which the person lawfully
+67 resided, dwelled, or lodged at the time of the recording;
+68 however, a local government may disclose only those portions
+69 that record the interior of such a place; or
+70 4. Pursuant to a court order.
+71 a. In addition to any other grounds the court may consider
+72 in determining whether to order that a body camera recording be
+73 disclosed, the court shall consider whether:
+74 (I) Disclosure is necessary to advance a compelling
+75 interest;
+Page 3 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+76 (II) The recording contains information that is otherwise
+77 exempt or confidential and exempt under the law;
+78 (III) The person requesting disclosure is seeking to
+79 obtain evidence to determine legal issues in a case in which the
+80 person is a party;
+81 (IV) Disclosure would reveal information regarding a
+82 person which is of a highly sensitive personal nature;
+83 (V) Disclosure may harm the reputation or jeopardize the
+84 safety of a person depicted in the recording;
+85 (VI) Confidentiality is necessary to prevent a serious and
+86 imminent threat to the fair, impartial, and orderly
+87 administration of justice;
+88 (VII) The recording could be redacted to protect privacy
+89 interests; and
+90 (VIII) There is good cause to disclose all or portions of
+91 the recording.
+92 b. In any proceeding regarding the disclosure of a body
+93 camera recording, the local government that made the recording
+94 must be given reasonable notice of hearings and an opportunity
+95 to participate.
+96 (e) A local government shall retain a body camera
+97 recording for at least 90 days.
+98 (f) The exemption provided in paragraph (b) applies
+99 retroactively.
+100 (g) This subsection does not supersede any other public
+Page 4 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+101 records exemption that existed before or is created after the
+102 effective date of this exemption. Those portions of a recording
+103 which are protected from disclosure by another public records
+104 exemption continue to be exempt or confidential and exempt.
+105 (h) This subsection is subject to the Open Government
+106 Sunset Review Act in accordance with s. 119.15 and shall stand
+107 repealed on October 2, 2031, unless reviewed and saved from
+108 repeal through reenactment by the Legislature.
+109 Section 2. (1) The Legislature finds that it is a public
+110 necessity that the following types of body camera recordings
+111 recorded by a code inspector in the course of performing his or
+112 her official duties and responsibilities be made confidential
+113 and exempt from s. 119.07(1), Florida Statutes, and s. 24(a),
+114 Article I of the State Constitution: recordings taken within the
+115 interior of a private residence; recordings taken within the
+116 interior of a facility that offers health care, mental health
+117 care, or social services; and recordings taken in a place that a
+118 reasonable person would expect to be private.
+119 (2) The Legislature recognizes that body cameras preserve
+120 information that has the potential to assist both code
+121 inspectors' and the public's ability to review the accuracy of
+122 code inspection work.
+123 (3) However, the Legislature also finds that, in certain
+124 instances, audio and video recorded by body cameras is
+125 significantly likely to capture highly sensitive personal
+Page 5 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 511 2026
+126 information. The exemption of body camera recordings from public
+127 records requirements allows code inspectors to administer their
+128 duties more effectively and efficiently, which would otherwise
+129 be significantly impaired. The Legislature finds that the
+130 concerns regarding the impact of public records requirements for
+131 body camera recordings necessitate the exemption of the
+132 recordings from public records requirements and outweigh any
+133 public benefit that may be derived from their disclosure.
+134 Section 3. By October 1, 2026, the Division of Library and
+135 Information Services of the Department of State shall by rule
+136 incorporate into the appropriate general records schedule a 90-
+137 day retention requirement for body camera recordings recorded by
+138 code inspectors.
+139 Section 4. This act shall take effect on the same date
+140 that HB 509 or similar legislation takes effect, if such
+141 legislation is adopted in the same legislative session or an
+142 extension thereof and becomes a law.
+Page 6 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb511-00
+
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES A A 1 f r c g s a f p t t r s    B S   1 i  (  1 d]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES a h  2 1  3 a h c t d o p A p  ( c o  1  2 h  3 e  ( r g]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  1 r  2 i  ( r g  1 l t  2 t t t  3 i r h t  4  a i d  ( i]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES  ( e  ( o p  ( p  ( s  ( i a  ( i  ( t  b c m t  ( r  ( r  (]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES r e w e  ( S r rS   n r h a A i i c r  ( i i c  ( i s]
+[DELETED:  12 LORIDA HOUSE OF REPRESENTATIVES i r d b c b r pS   I i d cS   t l e]

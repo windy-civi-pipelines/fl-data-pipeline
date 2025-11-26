@@ -1,0 +1,3095 @@
+Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Official Title: F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+Number of Sections: 1
+Source: versions - H 547 Filed
+Media Type: application/pdf
+Strikethrough Detection: 49 sections found
+
+================================================================================
+
+Section 1:
+HB 547 2026
+1 A bill to be entitled
+2 An act relating to injunctions for protection;
+3 amending s. 784.046, F.S.; defining the terms "serious
+4 violence by a known person" and "serious bodily
+5 injury"; creating a cause of action for an injunction
+6 for protection in cases of serious violence by a known
+7 person; specifying the persons who have standing to
+8 file such injunction for protection in circuit court
+9 if specified conditions are met; prohibiting the clerk
+10 of the court from assessing a fee for the filing of
+11 such injunction for protection; requiring the clerk of
+12 the court to provide the petitioner with a certified
+13 copy of such injunction for protection; providing
+14 requirements for such petition for injunction for
+15 protection; providing requirements for a temporary or
+16 final judgment on such injunction for protection;
+17 requiring the clerk of the court to electronically
+18 transmit copies of specified documents within a
+19 certain timeframe after a court issues such injunction
+20 for protection; requiring law enforcement officers to
+21 accept a certified copy of such injunction for
+22 protection from the petitioner and immediately serve
+23 it upon a respondent; providing requirements for
+24 inclusion of such injunction for protection in a
+25 specified statewide communication system; requiring
+Page 1 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+26 that a respondent be held in custody if he or she is
+27 arrested for committing an act of serious violence by
+28 a known person in violation of an injunction for
+29 protection until being brought before the court;
+30 conforming provisions to changes made by the act;
+31 making technical changes; amending ss. 44.407, 61.13,
+32 61.1825, 394.4597, 394.4598, 741.313, 784.047,
+33 784.048, and 934.03, F.S.; conforming provisions to
+34 changes made by the act; reenacting ss. 28.2221
+35 (8)(a), (c), and (d), 28.35(2)(i), 57.105(8),
+36 61.1827(1), 741.311(2), 741.315(2), 790.401(2)(e) and
+37 (3)(c), 901.15(6), 901.41(5), 921.141(6)(p),
+38 921.1425(7)(j), 921.1427(7)(i), and 934.425(3), F.S.;
+39 relating to electronic access to official records,
+40 Florida Clerks of Court Operations Corporation, the
+41 awarding of attorney fees, identifying information
+42 concerning applicants for and recipients of child
+43 support services, Hope Card Program for persons issued
+44 orders of protection, recognition of foreign
+45 protection orders, risk protection orders, when arrest
+46 by a law enforcement officer without a warrant is
+47 lawful, prearrest diversion programs, aggravating
+48 factors relating to a sentence of death or life
+49 imprisonment for capital felonies, aggravating factors
+50 relating to a sentence of death or life imprisonment
+Page 2 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+51 for capital sexual battery, aggravating factors
+52 relating to a sentence of death or life imprisonment
+53 for capital human trafficking of vulnerable persons
+54 for sexual exploitation, and installation or use of
+55 tracking devices or applications, respectively, to
+56 incorporate the amendment made to s. 784.046, F.S., in
+57 references thereto; providing an effective date.
+58
+59 Be It Enacted by the Legislature of the State of Florida:
+60
+61 Section 1. Section 784.046, Florida Statutes, is amended
+62 to read:
+63 784.046 Action by victim of repeat violence, sexual
+64 violence, or dating violence, or serious violence by a known
+65 person for protective injunction; dating violence
+66 investigations, notice to victims, and reporting; pretrial
+67 release violations; public records exemption.—
+68 (1) As used in this section, the term:
+69 (e)(a) "Violence" means any assault, aggravated assault,
+70 battery, aggravated battery, sexual assault, sexual battery,
+71 stalking, aggravated stalking, kidnapping, or false
+72 imprisonment, or any criminal offense resulting in physical
+73 injury or death, by a person against any other person.
+74 (b) "Repeat violence" means two incidents of violence or
+75 stalking committed by the respondent, one of which must have
+Page 3 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+76 been within 6 months of the filing of the petition, which are
+77 directed against the petitioner or the petitioner's immediate
+78 family member.
+79 (d)(c) "Sexual violence" means any one incident of:
+80 1. Sexual battery, as defined in chapter 794;
+81 2. A lewd or lascivious act, as defined in chapter 800,
+82 committed upon or in the presence of a person younger than 16
+83 years of age;
+84 3. Luring or enticing a child, as described in chapter
+85 787;
+86 4. Sexual performance by a child, as described in chapter
+87 827; or
+88 5. Any other forcible felony wherein a sexual act is
+89 committed or attempted,
+90
+91 regardless of whether criminal charges based on the incident
+92 were filed, reduced, or dismissed by the state attorney.
+93 (a)(d) "Dating violence" means violence between
+94 individuals who have or have had a continuing and significant
+95 relationship of a romantic or intimate nature. The existence of
+96 such a relationship must shall be determined based on the
+97 consideration of the following factors:
+98 1. A dating relationship must have existed within the past
+99 6 months;
+100 2. The nature of the relationship must have been
+Page 4 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+101 characterized by the expectation of affection or sexual
+102 involvement between the parties; and
+103 3. The frequency and type of interaction between the
+104 persons involved in the relationship must have included that the
+105 persons have been involved over time and on a continuous basis
+106 during the course of the relationship.
+107
+108 The term does not include violence in a casual acquaintanceship
+109 or violence between individuals who only have engaged in
+110 ordinary fraternization in a business or social context.
+111 (c) "Serious violence by a known person" means an act of
+112 violence between individuals who are known to one another, when
+113 such violence causes serious bodily injury. As used in this
+114 paragraph, the term "serious bodily injury" means a physical
+115 condition that creates a substantial risk of death, serious
+116 personal disfigurement, or protracted loss or impairment of the
+117 function of any bodily member or organ.
+118 (2) There is created a cause of action for an injunction
+119 for protection in cases of repeat violence, there is created a
+120 separate cause of action for an injunction for protection in
+121 cases of dating violence, and there is created a separate cause
+122 of action for an injunction for protection in cases of sexual
+123 violence, and there is created a separate cause of action for an
+124 injunction for protection in cases of serious violence by a
+125 known person.
+Page 5 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+126 (a) Any person who is the victim of repeat violence or the
+127 parent or legal guardian of any minor child who is living at
+128 home and who seeks an injunction for protection against repeat
+129 violence on behalf of the minor child has standing in the
+130 circuit court to file a verified petition for an injunction for
+131 protection against repeat violence.
+132 (b) Any person who is the victim of dating violence and
+133 has reasonable cause to believe he or she is in imminent danger
+134 of becoming the victim of another act of dating violence, or any
+135 person who has reasonable cause to believe he or she is in
+136 imminent danger of becoming the victim of an act of dating
+137 violence, or the parent or legal guardian of any minor child who
+138 is living at home and who seeks an injunction for protection
+139 against dating violence on behalf of that minor child, has
+140 standing in the circuit court to file a verified petition for an
+141 injunction for protection against dating violence.
+142 (c) A person who is the victim of sexual violence or the
+143 parent or legal guardian of a minor child who is living at home
+144 who is the victim of sexual violence has standing in the circuit
+145 court to file a verified petition for an injunction for
+146 protection against sexual violence on his or her own behalf or
+147 on behalf of the minor child if:
+148 1. The person has reported the sexual violence to a law
+149 enforcement agency and is cooperating in any criminal proceeding
+150 against the respondent, regardless of whether criminal charges
+Page 6 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+151 based on the sexual violence have been filed, reduced, or
+152 dismissed by the state attorney; or
+153 2. The respondent who committed the sexual violence
+154 against the victim or minor child was sentenced to a term of
+155 imprisonment in state prison for the sexual violence and the
+156 respondent's term of imprisonment has expired or is due to
+157 expire within 90 days following the date the petition is filed.
+158 (d) A person who is the victim of serious violence by a
+159 known person or the parent or legal guardian of a minor child
+160 who is living at home and who is the victim of serious violence
+161 by a known person has standing in the circuit court to file a
+162 verified petition for an injunction for protection against
+163 serious violence by a known person on his or her own behalf or
+164 on behalf of the minor child if the person has reported such
+165 violence to a law enforcement agency and is cooperating with any
+166 criminal proceedings against the respondent, regardless of
+167 whether criminal charges based on the serious violence have been
+168 filed, reduced, or dismissed by the state attorney.
+169 (e)(d) A cause of action for an injunction may be sought
+170 whether or not any other petition, complaint, or cause of action
+171 is currently available or pending between the parties.
+172 (f)(e) A cause of action for an injunction does not
+173 require that the petitioner be represented by an attorney.
+174 (3)(a) The clerk of the court shall provide a copy of this
+175 section, simplified forms, and clerical assistance for the
+Page 7 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+176 preparation and filing of such a petition by any person who is
+177 not represented by counsel.
+178 (b) Notwithstanding any other law, the clerk of the court
+179 may not assess a fee for filing a petition for protection
+180 against repeat violence, sexual violence, or dating violence, or
+181 serious violence by a known person. However, subject to
+182 legislative appropriation, the clerk of the court may, each
+183 quarter, submit to the Justice Administrative Commission a
+184 certified request for reimbursement for petitions for protection
+185 issued by the court under this section at the rate of $40 per
+186 petition. The request for reimbursement must be submitted in the
+187 form and manner prescribed by the Justice Administrative
+188 Commission. From this reimbursement, the clerk shall pay the law
+189 enforcement agency serving the injunction the fee requested by
+190 the law enforcement agency; however, this fee may not exceed
+191 $20.
+192 (c) No bond is shall be required by the court for the
+193 entry of an injunction.
+194 (d) The clerk of the court shall provide the petitioner
+195 with a certified copy of any injunction for protection against
+196 repeat violence, sexual violence, or dating violence, or serious
+197 violence by a known person entered by the court.
+198 (4)(a) The verified petition must shall allege the
+199 incidents of repeat violence, sexual violence, or dating
+200 violence, or serious violence by a known person and must shall
+Page 8 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+201 include the specific facts and circumstances that form the basis
+202 upon which relief is sought. With respect to a minor child who
+203 is living at home, the parent or legal guardian seeking the
+204 protective injunction on behalf of the minor child must:
+205 1. Have been an eyewitness to, or have direct physical
+206 evidence or affidavits from eyewitnesses of, the specific facts
+207 and circumstances that form the basis upon which relief is
+208 sought, if the party against whom the protective injunction is
+209 sought is also a parent, stepparent, or legal guardian of the
+210 minor child; or
+211 2. Have reasonable cause to believe that the minor child
+212 is a victim of repeat violence, sexual violence, or dating
+213 violence, or serious violence by a known person to form the
+214 basis upon which relief is sought, if the party against whom the
+215 protective injunction is sought is a person other than a parent,
+216 stepparent, or legal guardian of the minor child.
+217 (b) The verified petition must be in substantially the
+218 following form:
+219
+220 PETITION FOR INJUNCTION FOR PROTECTION
+221 AGAINST REPEAT VIOLENCE, SEXUAL
+222 VIOLENCE, OR DATING VIOLENCE, OR
+223 SERIOUS VIOLENCE BY A KNOWN PERSON
+224
+225 The undersigned petitioner ...(name)... declares under
+Page 9 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+226 penalties of perjury that the following statements are true:
+227
+228 1. Petitioner resides at ...(address)... (A petitioner for
+229 an injunction for protection against sexual violence may furnish
+230 an address to the court in a separate confidential filing if,
+231 for safety reasons, the petitioner requires the location of his
+232 or her current residence to be confidential pursuant to s.
+233 119.071(2)(j), Florida Statutes.)
+234 2. Respondent resides at ...(address)....
+235 3.a. Petitioner has suffered repeat violence as
+236 demonstrated by the fact that the respondent has: ...(enumerate
+237 incidents of violence)...
+238 ................................................................
+239 ................................................................
+240 ................................................................
+241
+242 b. Petitioner has suffered sexual violence as demonstrated
+243 by the fact that the respondent has: ...(enumerate incident of
+244 violence and include incident report number from law enforcement
+245 agency or attach notice of inmate release)...
+246 ................................................................
+247 ................................................................
+248 ................................................................
+249
+250 c. Petitioner is a victim of dating violence and has
+Page 10 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+251 reasonable cause to believe that he or she is in imminent danger
+252 of becoming the victim of another act of dating violence or has
+253 reasonable cause to believe that he or she is in imminent danger
+254 of becoming a victim of dating violence, as demonstrated by the
+255 fact that the respondent has: ...(list the specific incident or
+256 incidents of violence and describe the length of time of the
+257 relationship, whether it has been in existence during the last 6
+258 months, the nature of the relationship of a romantic or intimate
+259 nature, the frequency and type of interaction, and any other
+260 facts that characterize the relationship)...
+261 ................................................................
+262 ................................................................
+263 ................................................................
+264
+265 d. Petitioner has suffered serious violence by a known
+266 person as demonstrated by the fact that respondent has: ...
+267 (list the specific incident of serious violence and the known
+268 association to the respondent)...
+269 4. Petitioner genuinely fears repeat violence by the
+270 respondent.
+271 5. Petitioner seeks: an immediate injunction against the
+272 respondent, enjoining him or her from committing any further
+273 acts of violence; an injunction enjoining the respondent from
+274 committing any further acts of violence; and an injunction
+275 providing any terms the court deems necessary for the protection
+Page 11 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+276 of the petitioner and the petitioner's immediate family,
+277 including any injunctions or directives to law enforcement
+278 agencies.
+279
+280 (c) Every petition for an injunction against sexual
+281 violence, dating violence, or repeat violence, or serious
+282 violence by a known person must contain, directly above the
+283 signature line, a statement in all capital letters and bold type
+284 not smaller than the surrounding text, as follows:
+285
+286 UNDER PENALTIES OF PERJURY, I DECLARE THAT I HAVE READ
+287 THE FOREGOING DOCUMENT AND THAT THE FACTS STATED IN IT
+288 ARE TRUE. I UNDERSTAND THAT THE STATEMENTS MADE IN
+289 THIS PETITION ARE BEING MADE UNDER PENALTIES OF
+290 PERJURY, PUNISHABLE AS PROVIDED IN SECTION 92.525,
+291 FLORIDA STATUTES.
+292
+293 ...(initials)...
+294
+295 (5) Upon the filing of the petition, the court shall set a
+296 hearing to be held at the earliest possible time. The respondent
+297 must shall be personally served with a copy of the petition,
+298 notice of hearing, and temporary injunction, if any, before
+299 prior to the hearing.
+300 (6)(a) When it appears to the court that an immediate and
+Page 12 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+301 present danger of violence exists, the court may grant a
+302 temporary injunction that which may be granted in an ex parte
+303 hearing, pending a full hearing, and may grant such relief as
+304 the court deems proper, including an injunction enjoining the
+305 respondent from committing any acts of violence.
+306 (b) Except as provided in s. 90.204, in a hearing ex parte
+307 for the purpose of obtaining such temporary injunction, no
+308 evidence other than the verified pleading or affidavit may shall
+309 be used as evidence, unless the respondent appears at the
+310 hearing or has received reasonable notice of the hearing.
+311 (c) Any such ex parte temporary injunction is shall be
+312 effective for a fixed period not to exceed 15 days. However, an
+313 ex parte temporary injunction granted under subparagraph
+314 (2)(c)2. is effective for 15 days following the date the
+315 respondent is released from incarceration. A full hearing, as
+316 provided by this section, must shall be set for a date no later
+317 than the date when the temporary injunction ceases to be
+318 effective. The court may grant a continuance of the ex parte
+319 injunction and the full hearing before or during a hearing, for
+320 good cause shown by any party.
+321 (7) Upon notice and hearing, the court may grant such
+322 relief as the court deems proper, including an injunction:
+323 (a) Enjoining the respondent from committing any acts of
+324 violence.
+325 (b) Ordering such other relief as the court deems
+Page 13 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+326 necessary for the protection of the petitioner, including
+327 injunctions or directives to law enforcement agencies, as
+328 provided in this section.
+329 (c) The terms of the injunction shall remain in full force
+330 and effect until modified or dissolved. Either party may move at
+331 any time to modify or dissolve the injunction. Such relief may
+332 be granted in addition to other civil or criminal remedies.
+333 (d) A temporary or final judgment on injunction for
+334 protection against repeat violence, sexual violence, or dating
+335 violence, or serious violence by a known person entered pursuant
+336 to this section must shall, on its face, indicate that:
+337 1. The injunction is valid and enforceable in all counties
+338 of the State of Florida.
+339 2. Law enforcement officers may use their arrest powers
+340 pursuant to s. 901.15(6) to enforce the terms of the injunction.
+341 3. The court had jurisdiction over the parties and matter
+342 under the laws of Florida and that reasonable notice and
+343 opportunity to be heard was given to the person against whom the
+344 order is sought sufficient to protect that person's right to due
+345 process.
+346 4. The date that the respondent was served with the
+347 temporary or final order, if obtainable.
+348 (8)(a)1. Within 24 hours after the court issues an
+349 injunction for protection against repeat violence, sexual
+350 violence, or dating violence, or serious violence by a known
+Page 14 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+351 person, the clerk of the court shall electronically transmit a
+352 copy of the petition, notice of hearing, and temporary
+353 injunction, if any, to the sheriff or a law enforcement agency
+354 of the county where the respondent resides or can be found, who
+355 shall serve it upon the respondent as soon thereafter as
+356 possible on any day of the week and at any time of the day or
+357 night. An electronic copy of an injunction must be certified by
+358 the clerk of the court, and the electronic copy must be served
+359 in the same manner as a certified copy. Upon receiving an
+360 electronic copy of the injunction, the sheriff must verify
+361 receipt with the sender before attempting to serve it upon the
+362 respondent. In addition, if the sheriff is in possession of an
+363 injunction for protection that has been certified by the clerk
+364 of the court, the sheriff may electronically transmit a copy of
+365 that injunction to a law enforcement officer who shall serve it
+366 in the same manner as a certified copy. The clerk of the court
+367 is responsible for furnishing to the sheriff such information on
+368 the respondent's physical description and location as is
+369 required by the department to comply with the verification
+370 procedures set forth in this section. Notwithstanding any other
+371 law to the contrary, the chief judge of each circuit, in
+372 consultation with the appropriate sheriff, may authorize a law
+373 enforcement agency within the chief judge's jurisdiction to
+374 effect this type of service and to receive a portion of the
+375 service fee. A person may not serve or execute an injunction
+Page 15 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+376 issued under this section unless the person is a law enforcement
+377 officer as defined in chapter 943.
+378 2. When an injunction is issued, if the petitioner
+379 requests the assistance of a law enforcement agency, the court
+380 may order that an officer from the appropriate law enforcement
+381 agency accompany the petitioner and assist in the execution or
+382 service of the injunction. A law enforcement officer must accept
+383 a copy of an injunction for protection against repeat violence,
+384 sexual violence, or dating violence, or serious violence by a
+385 known person, certified by the clerk of the court, from the
+386 petitioner and immediately serve it upon a respondent who has
+387 been located but not yet served.
+388 (b) A Domestic Violence, Dating Violence, Sexual Violence,
+389 and Repeat Violence, and Serious Violence by a Known Person
+390 Injunction Statewide Verification System is created within the
+391 Department of Law Enforcement. The department shall establish,
+392 implement, and maintain a statewide communication system capable
+393 of electronically transmitting information to and between
+394 criminal justice agencies relating to domestic violence
+395 injunctions, dating violence injunctions, sexual violence
+396 injunctions, and repeat violence injunctions, and serious
+397 violence by a known person injunctions issued by the courts
+398 throughout the state. Such information must include, but is not
+399 limited to, information as to the existence and status of any
+400 injunction for verification purposes.
+Page 16 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+401 (c)1. Within 24 hours after the court issues an injunction
+402 for protection against repeat violence, sexual violence, or
+403 dating violence, or serious violence by a known person or
+404 changes or vacates an injunction for protection against repeat
+405 violence, sexual violence, or dating violence, or serious
+406 violence by a known person, the clerk of the court must
+407 electronically transmit a copy of the injunction to the sheriff
+408 with jurisdiction over the residence of the petitioner.
+409 2. Within 24 hours after service of process of an
+410 injunction for protection against repeat violence, sexual
+411 violence, or dating violence, or serious violence by a known
+412 person upon a respondent, the law enforcement officer must
+413 electronically transmit the written proof of service of process
+414 to the sheriff with jurisdiction over the residence of the
+415 petitioner.
+416 3. Within 24 hours after the sheriff receives a certified
+417 copy of the injunction for protection against repeat violence,
+418 sexual violence, or dating violence, or serious violence by a
+419 known person, the sheriff must make information relating to the
+420 injunction available to other law enforcement agencies by
+421 electronically transmitting such information to the department.
+422 4. Within 24 hours after the sheriff or other law
+423 enforcement officer has made service upon the respondent and the
+424 sheriff has been so notified, the sheriff must make information
+425 relating to the service available to other law enforcement
+Page 17 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+426 agencies by electronically transmitting such information to the
+427 department.
+428 5. Subject to available funding, the Florida Association
+429 of Court Clerks and Comptrollers shall develop an automated
+430 process by which a petitioner may request notification of
+431 service of the injunction for protection against repeat
+432 violence, sexual violence, or dating violence, or serious
+433 violence by a known person and other court actions related to
+434 the injunction for protection. The automated notice must be made
+435 within 12 hours after the sheriff or other law enforcement
+436 officer serves the injunction upon the respondent. The
+437 notification must include, at a minimum, the date, time, and
+438 location where the injunction for protection against repeat
+439 violence, sexual violence, or dating violence, or serious
+440 violence by a known person was served. The Florida Association
+441 of Court Clerks and Comptrollers may apply for any available
+442 grants to fund the development of the automated process.
+443 6. Within 24 hours after an injunction for protection
+444 against repeat violence, sexual violence, or dating violence, or
+445 serious violence by a known person is lifted, terminated, or
+446 otherwise rendered no longer effective by ruling of the court,
+447 the clerk of the court must notify the sheriff or local law
+448 enforcement agency receiving original notification of the
+449 injunction as provided in subparagraph 2. That agency shall,
+450 within 24 hours after receiving such notification from the clerk
+Page 18 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+451 of the court, notify the department of such action of the court.
+452 (d) The petitioner may request a Hope Card under s.
+453 741.311 after the court has issued a final order of protection.
+454 (9)(a) The court shall enforce, through a civil or
+455 criminal contempt proceeding, a violation of an injunction for
+456 protection. The court may enforce the respondent's compliance
+457 with the injunction by imposing a monetary assessment. The clerk
+458 of the court shall collect and receive such assessments. On a
+459 monthly basis, the clerk shall transfer the moneys collected
+460 pursuant to this paragraph to the State Treasury for deposit in
+461 the Crimes Compensation Trust Fund established in s. 960.21.
+462 (b) If the respondent is arrested by a law enforcement
+463 officer under s. 901.15(6) for committing an act of repeat
+464 violence, sexual violence, or dating violence, or serious
+465 violence by a known person in violation of an injunction for
+466 protection, the respondent must shall be held in custody until
+467 brought before the court as expeditiously as possible for the
+468 purpose of enforcing the injunction and for admittance to bail
+469 in accordance with chapter 903 and the applicable rules of
+470 criminal procedure, pending a hearing.
+471 (10) The petitioner or the respondent may move the court
+472 to modify or dissolve an injunction at any time.
+473 (11) Any law enforcement officer who investigates an
+474 alleged incident of dating violence shall assist the victim to
+475 obtain medical treatment if such is required as a result of the
+Page 19 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+476 alleged incident to which the officer responds. Any law
+477 enforcement officer who investigates an alleged incident of
+478 dating violence shall advise the victim of such violence that
+479 there is a domestic violence center from which the victim may
+480 receive services. The law enforcement officer shall give the
+481 victim immediate notice of the legal rights and remedies
+482 available on a standard form developed and distributed by the
+483 Department of Law Enforcement. As necessary, the Department of
+484 Law Enforcement shall revise the Legal Rights and Remedies
+485 Notice to Victims to include a general summary of this section,
+486 using simple English as well as Spanish, and shall distribute
+487 the notice as a model form to be used by all law enforcement
+488 agencies throughout this the state. The notice must shall
+489 include:
+490 (a) The resource listing, including telephone number, for
+491 the area domestic violence center designated by the Department
+492 of Children and Families; and
+493 (b) A copy of the following statement:
+494
+495 "IF YOU ARE THE VICTIM OF DATING VIOLENCE, you may ask
+496 the state attorney to file a criminal complaint. You
+497 also have the right to go to court and file a petition
+498 requesting an injunction for protection from dating
+499 violence which may include, but need not be limited
+500 to, provisions that restrain the abuser from further
+Page 20 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+501 acts of abuse; direct the abuser to leave your
+502 household; and prevent the abuser from entering your
+503 residence, school, business, or place of employment."
+504
+505 (12) When a law enforcement officer investigates an
+506 allegation that an incident of dating violence has occurred, the
+507 officer shall handle the incident pursuant to the arrest policy
+508 provided in s. 901.15(7), and as developed in accordance with
+509 subsections (13), (14), and (16). Whether or not an arrest is
+510 made, the officer shall make a written police report that is
+511 complete and clearly indicates that the alleged offense was an
+512 incident of dating violence. Such report must shall be given to
+513 the officer's supervisor and filed with the law enforcement
+514 agency in a manner that will permit data on dating violence
+515 cases to be compiled. Such report must include:
+516 (a) A description of physical injuries observed, if any.
+517 (b) If a law enforcement officer decides not to make an
+518 arrest or decides to arrest two or more parties, the grounds for
+519 not arresting anyone or for arresting two or more parties.
+520 (c) A statement indicating which indicates that a copy of
+521 the legal rights and remedies notice was given to the victim.
+522
+523 Whenever possible, the law enforcement officer shall obtain a
+524 written statement from the victim and witnesses concerning the
+525 alleged dating violence. The officer shall submit the report to
+Page 21 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+526 the supervisor or other person to whom the employer's rules or
+527 policies require reports of similar allegations of criminal
+528 activity to be made. The law enforcement agency shall, without
+529 charge, send a copy of the initial police report, as well as any
+530 subsequent, supplemental, or related report, which excludes
+531 victim or witness statements or other materials that are part of
+532 an active criminal investigation and are exempt from disclosure
+533 under chapter 119, to the nearest locally certified domestic
+534 violence center within 24 hours after the agency's receipt of
+535 the report. The report furnished to the domestic violence center
+536 must include a narrative description of the dating violence
+537 incident.
+538 (13) Whenever a law enforcement officer determines upon
+539 probable cause that an act of dating violence has been committed
+540 within the jurisdiction, or that a person has violated a
+541 condition of pretrial release as provided in s. 903.047 and the
+542 original arrest was for an act of dating violence, the officer
+543 may arrest the person or persons suspected of its commission and
+544 charge such person or persons with the appropriate crime. The
+545 decision to arrest and charge does shall not require consent of
+546 the victim or consideration of the relationship of the parties.
+547 (14)(a) When complaints are received from two or more
+548 parties, the officers shall evaluate each complaint separately
+549 to determine whether there is probable cause for arrest.
+550 (b) If a law enforcement officer has probable cause to
+Page 22 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+551 believe that two or more persons have committed a misdemeanor or
+552 felony, or if two or more persons make complaints to the
+553 officer, the officer must shall try to determine who was the
+554 primary aggressor. Arrest is the preferred response only with
+555 respect to the primary aggressor and not the preferred response
+556 with respect to a person who acts in a reasonable manner to
+557 protect or defend himself or herself or another family or
+558 household member from dating violence.
+559 (15) A person who willfully violates a condition of
+560 pretrial release provided in s. 903.047, when the original
+561 arrest was for an act of dating violence as defined in this
+562 section, commits a misdemeanor of the first degree, punishable
+563 as provided in s. 775.082 or s. 775.083, and shall be held in
+564 custody until his or her first appearance.
+565 (16) A law enforcement officer acting in good faith under
+566 this section and the officer's employing agency shall be immune
+567 from all liability, civil or criminal, that might otherwise be
+568 incurred or imposed by reason of the officer's or agency's
+569 actions in carrying out the provisions of this section.
+570 Section 2. Paragraph (a) of subsection (5) of section
+571 44.407, Florida Statutes, is amended to read:
+572 44.407 Elder-focused dispute resolution process.—
+573 (5) QUALIFICATIONS FOR ELDERCARING COORDINATORS.—
+574 (a) The court shall appoint qualified eldercaring
+575 coordinators who:
+Page 23 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+576 1. Meet one of the following professional requirements:
+577 a. Are licensed as a mental health professional under
+578 chapter 491 and hold at least a master's degree in the
+579 professional field of practice;
+580 b. Are licensed as a psychologist under chapter 490;
+581 c. Are licensed as a physician under chapter 458 or
+582 chapter 459;
+583 d. Are licensed as a nurse under chapter 464 and hold at
+584 least a master's degree;
+585 e. Are certified by the Florida Supreme Court as a family
+586 mediator and hold at least a master's degree;
+587 f. Are a member in good standing of The Florida Bar; or
+588 g. Are a professional guardian as defined in s.
+589 744.102(17) and hold at least a master's degree.
+590 2. Have completed all of the following:
+591 a. Three years of postlicensure or postcertification
+592 practice;
+593 b. A family mediation training program certified by the
+594 Florida Supreme Court; and
+595 c. An eldercaring coordinator training program certified
+596 by the Florida Supreme Court. The training must total at least
+597 44 hours and must include advanced tactics for dispute
+598 resolution of issues related to aging, illness, incapacity, or
+599 other vulnerabilities associated with elders, as well as elder,
+600 guardianship, and incapacity law and procedures and less
+Page 24 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+601 restrictive alternatives to guardianship; phases of eldercaring
+602 coordination and the role and functions of an eldercaring
+603 coordinator; the elder's role within eldercaring coordination;
+604 family dynamics related to eldercaring coordination; eldercaring
+605 coordination skills and techniques; multicultural competence and
+606 its use in eldercaring coordination; at least 6 hours of the
+607 implications of elder abuse, neglect, and exploitation and other
+608 safety issues pertinent to the training; at least 4 hours of
+609 ethical considerations pertaining to the training; use of
+610 technology within eldercaring coordination; and court-specific
+611 eldercaring coordination procedures. Pending certification of a
+612 training program by the Florida Supreme Court, the eldercaring
+613 coordinator must document completion of training that satisfies
+614 the hours and the elements prescribed in this sub-subparagraph.
+615 3. Have successfully passed a Level 2 background screening
+616 as provided in s. 435.04(2) and (3) or are exempt from
+617 disqualification under s. 435.07. The prospective eldercaring
+618 coordinator must submit a full set of fingerprints to the court
+619 or to a vendor, entity, or agency authorized by s. 943.053(13).
+620 The court, vendor, entity, or agency shall forward the
+621 fingerprints to the Department of Law Enforcement for state
+622 processing, and the Department of Law Enforcement shall forward
+623 the fingerprints to the Federal Bureau of Investigation for
+624 national processing. The prospective eldercaring coordinator
+625 shall pay the fees for state and federal fingerprint processing.
+Page 25 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+626 The state cost for fingerprint processing shall be as provided
+627 in s. 943.053(3)(e) for records provided to persons or entities
+628 other than those specified as exceptions therein.
+629 4. Have not been a respondent in a final order granting an
+630 injunction for protection against domestic violence, dating
+631 violence, sexual violence, or repeat violence, serious violence
+632 by a known person, or stalking or exploitation of an elder or a
+633 disabled person.
+634 5. Have met any additional qualifications the court may
+635 require to address issues specific to the parties.
+636 Section 3. Paragraph (c) of subsection (2) of section
+637 61.13, Florida Statutes, is amended to read
+638 61.13 Support of children; parenting and time-sharing;
+639 powers of court.—
+640 (2)
+641 (c) The court shall determine all matters relating to
+642 parenting and time-sharing of each minor child of the parties in
+643 accordance with the best interests of the child and in
+644 accordance with the Uniform Child Custody Jurisdiction and
+645 Enforcement Act, except that modification of a parenting plan
+646 and time-sharing schedule requires a showing of a substantial
+647 and material change of circumstances.
+648 1. It is the public policy of this state that each minor
+649 child has frequent and continuing contact with both parents
+650 after the parents separate or the marriage of the parties is
+Page 26 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+651 dissolved and to encourage parents to share the rights and
+652 responsibilities, and joys, of childrearing. Unless otherwise
+653 provided in this section or agreed to by the parties, there is a
+654 rebuttable presumption that equal time-sharing of a minor child
+655 is in the best interests of the minor child. To rebut this
+656 presumption, a party must prove by a preponderance of the
+657 evidence that equal time-sharing is not in the best interests of
+658 the minor child. Except when a time-sharing schedule is agreed
+659 to by the parties and approved by the court, the court must
+660 evaluate all of the factors set forth in subsection (3) and make
+661 specific written findings of fact when creating or modifying a
+662 time-sharing schedule.
+663 2. The court shall order that the parental responsibility
+664 for a minor child be shared by both parents unless the court
+665 finds that shared parental responsibility would be detrimental
+666 to the child. In determining detriment to the child, the court
+667 shall consider:
+668 a. Evidence of domestic violence, as defined in s. 741.28;
+669 b. Whether either parent has or has had reasonable cause
+670 to believe that he or she or his or her minor child or children
+671 are or have been in imminent danger of becoming victims of an
+672 act of domestic violence as defined in s. 741.28 or sexual
+673 violence as defined in s. 784.046(1) s. 784.046(1)(c) by the
+674 other parent against the parent or against the child or children
+675 whom the parents share in common regardless of whether a cause
+Page 27 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+676 of action has been brought or is currently pending in the court;
+677 c. Whether either parent has or has had reasonable cause
+678 to believe that his or her minor child or children are or have
+679 been in imminent danger of becoming victims of an act of abuse,
+680 abandonment, or neglect, as those terms are defined in s. 39.01,
+681 by the other parent against the child or children whom the
+682 parents share in common regardless of whether a cause of action
+683 has been brought or is currently pending in the court; and
+684 d. Any other relevant factors.
+685 3. The following evidence creates a rebuttable presumption
+686 that shared parental responsibility is detrimental to the child:
+687 a. A parent has been convicted of a misdemeanor of the
+688 first degree or higher involving domestic violence, as defined
+689 in s. 741.28 and chapter 775;
+690 b. A parent meets the criteria of s. 39.806(1)(d); or
+691 c. A parent has been convicted of or had adjudication
+692 withheld for an offense enumerated in s. 943.0435(1)(h)1.a., and
+693 at the time of the offense:
+694 (I) The parent was 18 years of age or older.
+695 (II) The victim was under 18 years of age or the parent
+696 believed the victim to be under 18 years of age.
+697
+698 If the presumption is not rebutted after the convicted parent is
+699 advised by the court that the presumption exists, shared
+700 parental responsibility, including time-sharing with the child,
+Page 28 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+701 and decisions made regarding the child, may not be granted to
+702 the convicted parent. However, the convicted parent is not
+703 relieved of any obligation to provide financial support. If the
+704 court determines that shared parental responsibility would be
+705 detrimental to the child, it may order sole parental
+706 responsibility and make such arrangements for time-sharing as
+707 specified in the parenting plan as will best protect the child
+708 or abused spouse from further harm. Whether or not there is a
+709 conviction of any offense of domestic violence or child abuse or
+710 the existence of an injunction for protection against domestic
+711 violence, the court shall consider evidence of domestic violence
+712 or child abuse as evidence of detriment to the child.
+713 4. In ordering shared parental responsibility, the court
+714 may consider the expressed desires of the parents and may grant
+715 to one party the ultimate responsibility over specific aspects
+716 of the child's welfare or may divide those responsibilities
+717 between the parties based on the best interests of the child.
+718 Areas of responsibility may include education, health care, and
+719 any other responsibilities that the court finds unique to a
+720 particular family.
+721 5. The court shall order sole parental responsibility for
+722 a minor child to one parent, with or without time-sharing with
+723 the other parent if it is in the best interests of the minor
+724 child.
+725 6. There is a rebuttable presumption against granting
+Page 29 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+726 time-sharing with a minor child if a parent has been convicted
+727 of or had adjudication withheld for an offense enumerated in s.
+728 943.0435(1)(h)1.a., and at the time of the offense:
+729 a. The parent was 18 years of age or older.
+730 b. The victim was under 18 years of age or the parent
+731 believed the victim to be under 18 years of age.
+732
+733 A parent may rebut the presumption upon a specific finding in
+734 writing by the court that the parent poses no significant risk
+735 of harm to the child and that time-sharing is in the best
+736 interests of the minor child. If the presumption is rebutted,
+737 the court must consider all time-sharing factors in subsection
+738 (3) when developing a time-sharing schedule.
+739 7. Access to records and information pertaining to a minor
+740 child, including, but not limited to, medical, dental, and
+741 school records, may not be denied to either parent. Full rights
+742 under this subparagraph apply to either parent unless a court
+743 order specifically revokes these rights, including any
+744 restrictions on these rights as provided in a domestic violence
+745 injunction. A parent having rights under this subparagraph has
+746 the same rights upon request as to form, substance, and manner
+747 of access as are available to the other parent of a child,
+748 including, without limitation, the right to in-person
+749 communication with medical, dental, and education providers.
+750 Section 4. Paragraph (a) of subsection (3) of section
+Page 30 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+751 61.1825, Florida Statutes, is amended to read:
+752 61.1825 State Case Registry.—
+753 (3)(a) For the purpose of this section, a family violence
+754 indicator must be placed on a record when:
+755 1. A party executes a sworn statement requesting that a
+756 family violence indicator be placed on that party's record which
+757 states that the party has reason to believe that release of
+758 information to the Federal Case Registry may result in physical
+759 or emotional harm to the party or the child; or
+760 2. A temporary or final injunction for protection against
+761 domestic violence has been granted pursuant to s. 741.30(6), an
+762 injunction for protection against domestic violence has been
+763 issued by a court of a foreign state pursuant to s. 741.315, or
+764 a temporary or final injunction for protection against repeat
+765 violence has been granted pursuant to s. 784.046; or
+766 3. The department has received information on a Title IV-D
+767 case from the Domestic Violence, Dating Violence, Sexual
+768 Violence, and Repeat Violence, and Serious Violence by a Known
+769 Person Injunction Statewide Verification System, established
+770 pursuant to s. 784.046(8)(b), that a court has granted a party a
+771 domestic violence or repeat violence injunction.
+772 Section 5. Paragraph (e) of subsection (2) of section
+773 394.4597, Florida Statutes, is amended to read:
+774 394.4597 Persons to be notified; patient's
+775 representative.—
+Page 31 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+776 (2) INVOLUNTARY PATIENTS.—
+777 (e) The following persons are prohibited from selection as
+778 a patient's representative:
+779 1. A professional providing clinical services to the
+780 patient under this part.
+781 2. The licensed professional who initiated the involuntary
+782 examination of the patient, if the examination was initiated by
+783 professional certificate.
+784 3. An employee, an administrator, or a board member of the
+785 facility providing the examination of the patient.
+786 4. An employee, an administrator, or a board member of a
+787 treatment facility providing treatment for the patient.
+788 5. A person providing any substantial professional
+789 services to the patient, including clinical services.
+790 6. A creditor of the patient.
+791 7. A person subject to an injunction for protection
+792 against domestic violence under s. 741.30, whether the order of
+793 injunction is temporary or final, and for which the patient was
+794 the petitioner.
+795 8. A person subject to an injunction for protection
+796 against repeat violence, stalking, sexual violence, or dating
+797 violence, or serious violence by a known person under s.
+798 784.046, whether the order of injunction is temporary or final,
+799 and for which the patient was the petitioner.
+800 Section 6. Paragraph (h) of subsection (2) of section
+Page 32 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+801 394.4598, Florida Statutes, is amended to read:
+802 394.4598 Guardian advocate.—
+803 (2) The following persons are prohibited from appointment
+804 as a patient's guardian advocate:
+805 (h) A person subject to an injunction for protection
+806 against repeat violence, stalking, sexual violence, or dating
+807 violence, or serious violence by a known person under s.
+808 784.046, whether the order of injunction is temporary or final,
+809 and for which the patient was the petitioner.
+810 Section 7. Paragraph (b) of subsection (2) of section
+811 741.313, Florida Statutes, is amended to read:
+812 741.313 Unlawful action against employees seeking
+813 protection.—
+814 (2)
+815 (b) This section applies if an employee uses the leave
+816 from work to:
+817 1. Seek an injunction for protection against domestic
+818 violence or an injunction for protection in cases of repeat
+819 violence, dating violence, or sexual violence, or serious
+820 violence by a known person;
+821 2. Obtain medical care or mental health counseling, or
+822 both, for the employee or a family or household member to
+823 address physical or psychological injuries resulting from the
+824 act of domestic violence or sexual violence;
+825 3. Obtain services from a victim services organization,
+Page 33 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+826 including, but not limited to, a domestic violence shelter or
+827 program or a rape crisis center as a result of the act of
+828 domestic violence or sexual violence;
+829 4. Make the employee's home secure from the perpetrator of
+830 the domestic violence or sexual violence or to seek new housing
+831 to escape the perpetrator; or
+832 5. Seek legal assistance in addressing issues arising from
+833 the act of domestic violence or sexual violence or to attend and
+834 prepare for court-related proceedings arising from the act of
+835 domestic violence or sexual violence.
+836 Section 8. Subsection (1) of section 784.047, Florida
+837 Statutes, is amended to read:
+838 784.047 Penalties for violating protective injunction
+839 against violators.—
+840 (1) A person who willfully violates an injunction for
+841 protection against repeat violence, sexual violence, or dating
+842 violence, or serious violence by a known person issued pursuant
+843 to s. 784.046, or a foreign protection order accorded full faith
+844 and credit pursuant to s. 741.315 by:
+845 (a) Refusing to vacate the dwelling that the parties
+846 share;
+847 (b) Going to, or being within 500 feet of, the
+848 petitioner's residence, school, place of employment, or a
+849 specified place frequented regularly by the petitioner and any
+850 named family or household member;
+Page 34 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+851 (c) Committing an act of repeat violence, sexual violence,
+852 or dating violence, or serious violence by a known person
+853 against the petitioner;
+854 (d) Committing any other violation of the injunction
+855 through an intentional unlawful threat, word, or act to do
+856 violence to the petitioner;
+857 (e) Telephoning, contacting, or otherwise communicating
+858 with the petitioner directly or indirectly, unless the
+859 injunction specifically allows indirect contact through a third
+860 party;
+861 (f) Knowingly and intentionally coming within 100 feet of
+862 the petitioner's motor vehicle, whether or not that vehicle is
+863 occupied;
+864 (g) Defacing or destroying the petitioner's personal
+865 property, including the petitioner's motor vehicle; or
+866 (h) Refusing to surrender firearms or ammunition if
+867 ordered to do so by the court,
+868
+869 commits a misdemeanor of the first degree, punishable as
+870 provided in s. 775.082 or s. 775.083, except as provided in
+871 subsection (2).
+872 Section 9. Subsection (4) of section 784.048, Florida
+873 Statutes, is amended to read:
+874 784.048 Stalking; definitions; penalties.—
+875 (4) A person who, after an injunction for protection
+Page 35 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+876 against repeat violence, sexual violence, or dating violence, or
+877 serious violence by a known person pursuant to s. 784.046, or an
+878 injunction for protection against domestic violence pursuant to
+879 s. 741.30, or after any other court-imposed prohibition of
+880 conduct toward the subject person or that person's property,
+881 knowingly, willfully, maliciously, and repeatedly follows,
+882 harasses, or cyberstalks another person commits the offense of
+883 aggravated stalking, a felony of the third degree, punishable as
+884 provided in s. 775.082, s. 775.083, or s. 775.084.
+885 Section 10. Paragraph (m) of subsection (2) of section
+886 934.03, Florida Statutes, is amended to read:
+887 934.03 Interception and disclosure of wire, oral, or
+888 electronic communications prohibited.—
+889 (2)
+890 (m) It is lawful under this section and ss. 934.04-934.09
+891 for a person who is protected under an active temporary or final
+892 injunction for repeat violence, sexual violence, or dating
+893 violence, or serious violence by a known person under s.
+894 784.046; stalking under s. 784.0485; domestic violence under s.
+895 741.30; or any other court-imposed prohibition of conduct toward
+896 the person to intercept and record a wire, oral, or electronic
+897 communication received in violation of such injunction or court
+898 order. A recording authorized under this paragraph may be
+899 provided to a law enforcement agency, an attorney, or a court
+900 for the purpose of evidencing a violation of an injunction or
+Page 36 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+901 court order if the subject of the injunction or court order
+902 prohibiting contact has been served the injunction or is on
+903 notice that the conduct is prohibited. A recording authorized
+904 under this paragraph may not be otherwise disseminated or
+905 shared.
+906 Section 11. For the purpose of incorporating the amendment
+907 made by this act to section 784.046, Florida Statutes, in
+908 references thereto, paragraphs (a), (c), and (d) of subsection
+909 (8) of section 28.2221, Florida Statutes, are reenacted to read:
+910 28.2221 Electronic access to official records.—
+911 (8)(a) Each county recorder or clerk of the court must
+912 make the identity of each respondent against whom a final
+913 judgment for an injunction for the protection of a minor under
+914 s. 741.30, s. 784.046, or s. 784.0485 is entered, as well as the
+915 fact that a final judgment for an injunction for the protection
+916 of a minor under s. 741.30, s. 784.046, or s. 784.0485 has been
+917 entered against that respondent, publicly available on the
+918 county recorder's or clerk of the court's official website,
+919 unless the respondent is a minor. The identity and information
+920 required under this subsection must be viewable through a
+921 searchable database that is available in a clear and conspicuous
+922 location on the homepage of the county recorder's or clerk of
+923 the court's official website and must be available for search by
+924 the general public.
+925 (c) Any information specified in this subsection not made
+Page 37 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+926 available by the county clerk of the court as provided in this
+927 subsection before July 1, 2024, must be made publicly available
+928 on the county recorder's or clerk of the court's official
+929 website if the affected party identifies the information and
+930 requests that such information be added for general public
+931 display. Such request must be in writing and delivered by mail,
+932 facsimile, or electronic transmission or in person to the county
+933 recorder or clerk of the court. The request must specify the
+934 case number assigned to the final judgment for an injunction for
+935 the protection of a minor under s. 741.30, s. 784.046, or s.
+936 784.0485. A fee may not be charged for the addition of
+937 information pursuant to such request.
+938 (d) No later than 30 days after July 1, 2024, notice of
+939 the right of any affected party to request the addition of
+940 information to the searchable database on the county recorder's
+941 or clerk of the court's official website pursuant to this
+942 subsection must be conspicuously and clearly displayed by the
+943 county recorder or clerk of the court on the county recorder's
+944 or clerk of the court's official website on which images or
+945 copies of the county's public records are placed and in the
+946 office of each county recorder or clerk of the court. Such
+947 notice must contain appropriate instructions for making the
+948 addition of information request in person, by mail, by
+949 facsimile, or by electronic transmission. The notice must state,
+950 in substantially similar form, that any person has a right to
+Page 38 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+951 request that a county recorder or clerk of the court add
+952 information to the searchable database on the county recorder's
+953 or clerk of the court's official website if that information
+954 involves the identity of a respondent against whom a final
+955 judgment for an injunction for the protection of a minor under
+956 s. 741.30, s. 784.046, or s. 784.0485 is entered, unless the
+957 respondent is a minor. The notice must also state that the
+958 information related to the identity of each respondent against
+959 whom a final judgment for an injunction for the protection of a
+960 minor under s. 741.30, s. 784.046, or s. 784.0485 is entered is
+961 available for search by the general public. The notice must
+962 include step-by-step instructions detailing how a user can
+963 access the searchable database and search for such information.
+964 Such request must be made in writing and delivered by mail,
+965 facsimile, or electronic transmission or in person to the county
+966 recorder or clerk of the court. The request must specify the
+967 case number assigned to the final judgment for an injunction for
+968 the protection of a minor under s. 741.30, s. 784.046, or s.
+969 784.0485. A fee may not be charged for the addition of a
+970 document pursuant to such request.
+971 Section 12. For the purpose of incorporating the amendment
+972 made by this act to section 784.046, Florida Statutes, in a
+973 reference thereto, paragraph (i) of subsection (2) of section
+974 28.35, Florida Statutes, is reenacted to read:
+975 28.35 Florida Clerks of Court Operations Corporation.—
+Page 39 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+976 (2) The duties of the corporation shall include the
+977 following:
+978 (i) Annually preparing a budget request which,
+979 notwithstanding the provisions of chapter 216 and in accordance
+980 with s. 216.351, provides the anticipated amount necessary for
+981 reimbursement pursuant to ss. 40.29(6), 741.30(2)(a),
+982 784.046(3)(b), 784.0485(2)(a), and 825.1035(4)(i). The request
+983 for the anticipated reimbursement amount must be submitted in
+984 the form and manner prescribed by the Justice Administrative
+985 Commission. Such request is not subject to change by the Justice
+986 Administrative Commission, except for technical changes
+987 necessary to conform to the legislative budget instructions, and
+988 must be submitted to the Governor for transmittal to the
+989 Legislature.
+990 Section 13. For the purpose of incorporating the amendment
+991 made by this act to section 784.046, Florida Statutes, in a
+992 reference thereto, subsection (8) of section 57.105, Florida
+993 Statutes, is reenacted to read:
+994 57.105 Attorney's fee; sanctions for raising unsupported
+995 claims or defenses; exceptions; service of motions; damages for
+996 delay of litigation.—
+997 (8) Attorney fees may not be awarded under this section in
+998 proceedings for an injunction for protection pursuant to s.
+999 741.30, s. 784.046, or s. 784.0485, unless the court finds by
+1000 clear and convincing evidence that the petitioner knowingly made
+Page 40 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1001 a false statement or allegation in the petition or that the
+1002 respondent knowingly made a false statement or allegation in an
+1003 asserted defense, with regard to a material matter as defined in
+1004 s. 837.011(3).
+1005 Section 14. For the purpose of incorporating the amendment
+1006 made by this act to section 784.046, Florida Statutes, in a
+1007 reference thereto, subsection (1) of section 61.1827, Florida
+1008 Statutes, is reenacted to read:
+1009 61.1827 Identifying information concerning applicants for
+1010 and recipients of child support services.—
+1011 (1) Any information that reveals the identity of
+1012 applicants for or recipients of child support services,
+1013 including the name, address, and telephone number of such
+1014 persons, held by a non-Title IV-D county child support
+1015 enforcement agency is confidential and exempt from s. 119.07(1)
+1016 and s. 24(a), Art. I of the State Constitution. The use or
+1017 disclosure of such information by the non-Title IV-D county
+1018 child support enforcement agency is limited to the purposes
+1019 directly connected with:
+1020 (a) Any investigation, prosecution, or criminal or civil
+1021 proceeding connected with the administration of any non-Title
+1022 IV-D county child support enforcement program;
+1023 (b) Mandatory disclosure of identifying and location
+1024 information as provided in s. 61.13(7) by the non-Title IV-D
+1025 county child support enforcement agency when providing non-Title
+Page 41 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1026 IV-D services;
+1027 (c) Mandatory disclosure of information as required by ss.
+1028 409.2577, 61.181, 61.1825, and 61.1826 and Title IV-D of the
+1029 Social Security Act; or
+1030 (d) Disclosure to an authorized person, as defined in 45
+1031 C.F.R. s. 303.15, for purposes of enforcing any state or federal
+1032 law with respect to the unlawful taking or restraint of a child
+1033 or making or enforcing a parenting plan. As used in this
+1034 paragraph, the term "authorized person" includes a parent with
+1035 whom the child does not currently reside, unless a court has
+1036 entered an order under s. 741.30, s. 741.31, or s. 784.046.
+1037 Section 15. For the purpose of incorporating the amendment
+1038 made by this act to section 784.046, Florida Statutes, in a
+1039 reference thereto, subsection (2) of section 741.311, Florida
+1040 Statutes, is reenacted to read:
+1041 741.311 Hope Card Program for persons issued orders of
+1042 protection.—
+1043 (2) Beginning October 1, 2024, a person who has been
+1044 issued a final judgment on injunction for protection under s.
+1045 741.30, s. 784.046, s. 784.0485, or s. 825.1035 may request a
+1046 Hope Card from the clerk of the court of the circuit in which
+1047 the order for an injunction for protection was entered. A person
+1048 may request a Hope Card at the time the final judgment on
+1049 injunction for protection is issued or at any other time before
+1050 the expiration of the order for protection.
+Page 42 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1051 Section 16. For the purpose of incorporating the amendment
+1052 made by this act to section 784.046, Florida Statutes, in a
+1053 reference thereto, subsection (2) of section 741.315, Florida
+1054 Statutes, is reenacted to read:
+1055 741.315 Recognition of foreign protection orders.—
+1056 (2) Pursuant to 18 U.S.C. s. 2265, an injunction for
+1057 protection against domestic violence issued by a court of a
+1058 foreign state must be accorded full faith and credit by the
+1059 courts of this state and enforced by a law enforcement agency as
+1060 if it were the order of a Florida court issued under s. 741.30,
+1061 s. 741.31, s. 784.046, s. 784.047, s. 784.0485, or s. 784.0487,
+1062 and provided that the court had jurisdiction over the parties
+1063 and the matter and that reasonable notice and opportunity to be
+1064 heard was given to the person against whom the order is sought
+1065 sufficient to protect that person's right to due process. Ex
+1066 parte foreign injunctions for protection are not eligible for
+1067 enforcement under this section unless notice and opportunity to
+1068 be heard have been provided within the time required by the
+1069 foreign state or tribal law, and in any event within a
+1070 reasonable time after the order is issued, sufficient to protect
+1071 the respondent's due process rights.
+1072 Section 17. For the purpose of incorporating the amendment
+1073 made by this act to section 784.046, Florida Statutes, in
+1074 references thereto, paragraph (e) of subsection (2) and
+1075 paragraph (c) of subsection (3) of section 790.401, Florida
+Page 43 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1076 Statutes, are reenacted to read:
+1077 790.401 Risk protection orders.—
+1078 (2) PETITION FOR A RISK PROTECTION ORDER.—There is created
+1079 an action known as a petition for a risk protection order.
+1080 (e) A petition must:
+1081 1. Allege that the respondent poses a significant danger
+1082 of causing personal injury to himself or herself or others by
+1083 having a firearm or any ammunition in his or her custody or
+1084 control or by purchasing, possessing, or receiving a firearm or
+1085 any ammunition, and must be accompanied by an affidavit made
+1086 under oath stating the specific statements, actions, or facts
+1087 that give rise to a reasonable fear of significant dangerous
+1088 acts by the respondent;
+1089 2. Identify the quantities, types, and locations of all
+1090 firearms and ammunition the petitioner believes to be in the
+1091 respondent's current ownership, possession, custody, or control;
+1092 and
+1093 3. Identify whether there is a known existing protection
+1094 order governing the respondent under s. 741.30, s. 784.046, or
+1095 s. 784.0485 or under any other applicable statute.
+1096 (3) RISK PROTECTION ORDER HEARINGS AND ISSUANCE.—
+1097 (c) In determining whether grounds for a risk protection
+1098 order exist, the court may consider any relevant evidence,
+1099 including, but not limited to, any of the following:
+1100 1. A recent act or threat of violence by the respondent
+Page 44 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1101 against himself or herself or others, whether or not such
+1102 violence or threat of violence involves a firearm.
+1103 2. An act or threat of violence by the respondent within
+1104 the past 12 months, including, but not limited to, acts or
+1105 threats of violence by the respondent against himself or herself
+1106 or others.
+1107 3. Evidence of the respondent being seriously mentally ill
+1108 or having recurring mental health issues.
+1109 4. A violation by the respondent of a risk protection
+1110 order or a no contact order issued under s. 741.30, s. 784.046,
+1111 or s. 784.0485.
+1112 5. A previous or existing risk protection order issued
+1113 against the respondent.
+1114 6. A violation of a previous or existing risk protection
+1115 order issued against the respondent.
+1116 7. Whether the respondent, in this state or any other
+1117 state, has been convicted of, had adjudication withheld on, or
+1118 pled nolo contendere to a crime that constitutes domestic
+1119 violence as defined in s. 741.28.
+1120 8. Whether the respondent has used, or has threatened to
+1121 use, against himself or herself or others any weapons.
+1122 9. The unlawful or reckless use, display, or brandishing
+1123 of a firearm by the respondent.
+1124 10. The recurring use of, or threat to use, physical force
+1125 by the respondent against another person or the respondent
+Page 45 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1126 stalking another person.
+1127 11. Whether the respondent, in this state or any other
+1128 state, has been arrested for, convicted of, had adjudication
+1129 withheld on, or pled nolo contendere to a crime involving
+1130 violence or a threat of violence.
+1131 12. Corroborated evidence of the abuse of controlled
+1132 substances or alcohol by the respondent.
+1133 13. Evidence of recent acquisition of firearms or
+1134 ammunition by the respondent.
+1135 14. Any relevant information from family and household
+1136 members concerning the respondent.
+1137 15. Witness testimony, taken while the witness is under
+1138 oath, relating to the matter before the court.
+1139 Section 18. For the purpose of incorporating the amendment
+1140 made by this act to section 784.046, Florida Statutes, in a
+1141 reference thereto, subsection (6) of section 901.15, Florida
+1142 Statutes, is reenacted to read:
+1143 901.15 When arrest by officer without warrant is lawful.—A
+1144 law enforcement officer may arrest a person without a warrant
+1145 when:
+1146 (6) There is probable cause to believe that the person has
+1147 committed a criminal act according to s. 790.233 or according to
+1148 s. 741.31, s. 784.047, or s. 825.1036 which violates an
+1149 injunction for protection entered pursuant to s. 741.30, s.
+1150 784.046, or s. 825.1035 or a foreign protection order accorded
+Page 46 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1151 full faith and credit pursuant to s. 741.315, over the objection
+1152 of the petitioner, if necessary.
+1153 Section 19. For the purpose of incorporating the amendment
+1154 made by this act to section 784.046, Florida Statutes, in a
+1155 reference thereto, subsection (5) of section 901.41, Florida
+1156 Statutes, is reenacted to read:
+1157 901.41 Prearrest diversion programs.—
+1158 (5) ELIGIBILITY.—A violent misdemeanor, a misdemeanor
+1159 crime of domestic violence, as defined in s. 741.28, or a
+1160 misdemeanor under s. 741.29, s. 741.31, s. 784.046, s. 784.047,
+1161 s. 784.048, s. 784.0487, or s. 784.049 does not qualify for a
+1162 civil citation or prearrest diversion program.
+1163 Section 20. For the purpose of incorporating the amendment
+1164 made by this act to section 784.046, Florida Statutes, in a
+1165 reference thereto, paragraph (p) of subsection (6) of section
+1166 921.141, Florida Statutes, is reenacted to read:
+1167 921.141 Sentence of death or life imprisonment for capital
+1168 felonies; further proceedings to determine sentence.—
+1169 (6) AGGRAVATING FACTORS.—Aggravating factors shall be
+1170 limited to the following:
+1171 (p) The capital felony was committed by a person subject
+1172 to an injunction issued pursuant to s. 741.30 or s. 784.046, or
+1173 a foreign protection order accorded full faith and credit
+1174 pursuant to s. 741.315, and was committed against the petitioner
+1175 who obtained the injunction or protection order or any spouse,
+Page 47 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1176 child, sibling, or parent of the petitioner.
+1177 Section 21. For the purpose of incorporating the amendment
+1178 made by this act to section 784.046, Florida Statutes, in a
+1179 reference thereto, paragraph (j) of subsection (7) of section
+1180 921.1425, Florida Statutes, is reenacted to read:
+1181 921.1425 Sentence of death or life imprisonment for
+1182 capital sexual battery; further proceedings to determine
+1183 sentence.—
+1184 (7) AGGRAVATING FACTORS.—Aggravating factors shall be
+1185 limited to the following:
+1186 (j) The capital felony was committed by a person subject
+1187 to an injunction issued pursuant to s. 741.30 or s. 784.046, or
+1188 a foreign protection order accorded full faith and credit
+1189 pursuant to s. 741.315, and was committed against the petitioner
+1190 who obtained the injunction or protection order or any spouse,
+1191 child, sibling, or parent of the petitioner.
+1192 Section 22. For the purpose of incorporating the amendment
+1193 made by this act to section 784.046, Florida Statutes, in a
+1194 reference thereto, paragraph (i) of subsection (7) of section
+1195 921.1427, Florida Statutes, is reenacted to read:
+1196 921.1427 Sentence of death or life imprisonment for
+1197 capital human trafficking of vulnerable persons for sexual
+1198 exploitation; further proceedings to determine sentence.—
+1199 (7) AGGRAVATING FACTORS.—Aggravating factors shall be
+1200 limited to the following:
+Page 48 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1201 (i) The capital felony was committed by a person subject
+1202 to an injunction issued pursuant to s. 741.30 or s. 784.046, or
+1203 a foreign protection order accorded full faith and credit
+1204 pursuant to s. 741.315, and was committed against the petitioner
+1205 who obtained the injunction or protection order or any spouse,
+1206 child, sibling, or parent of the petitioner.
+1207 Section 23. For the purpose of incorporating the amendment
+1208 made by this act to section 784.046, Florida Statutes, in a
+1209 reference thereto, subsection (3) of section 934.425, Florida
+1210 Statutes, is reenacted to read:
+1211 934.425 Installation or use of tracking devices or
+1212 tracking applications; exceptions; penalties.—
+1213 (3) For purposes of this section, a person's consent is
+1214 presumed to be revoked if:
+1215 (a) The consenting person and the person to whom consent
+1216 was given are lawfully married and one person files a petition
+1217 for dissolution of marriage from the other; or
+1218 (b) The consenting person or the person to whom consent
+1219 was given files an injunction for protection against the other
+1220 person pursuant to s. 741.30, s. 741.315, s. 784.046, or s.
+1221 784.0485.
+1222 Section 24. This act shall take effect July 1, 2026.
+Page 49 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES A A a v i f p f i o s t c r p f r t c f a p i i s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES t a a p c m 6 7 c ( 6 ( 9 r F a c s o p b l f i r]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES f r f f t i r    B S   7 v p i r  (  ( b s i i  ( s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES b d f  (  1  2 c y  3 7  4 8  5 c  r w  ( i r s c  1 6  2]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES c i  3 p p d  T o o  ( v s p c p f  ( f s c o v i k]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( p h v c p  ( h o p i v i a s i  ( p w c p o  1 e a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES b d  2 a i r e  ( k w b v s o v c w f  ( w i  ( r  ( s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p n  ( m a s l q c i p f C e t $  ( e  ( w r v  ( i v]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i u i p  1 e a s s m  2 i v b p s  ( f  P A V S   T]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p   1 a a f o 1  2  3 d i . . .   b b v a . . .   c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r o r o f i r m n f . . .   d p ( a  4 r  5 r a c p]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES o i a   ( v v s n  U T A T P F  .   ( h m n p  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p t h t r  ( f e b h  ( e e ( r p t e i g  ( r  ( v  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES n i p  ( a a b  ( p v t  1 o  2 p  3 u o o p  4 t  ( i v]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p c i o s p n t i e r r i o t i i t r p l c e e s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i o  2 r m a s a s k p b  ( a I D i o c i i v t l i]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( f d c v v e w  2 i v p e t p  3 c s k i e  4 e s r]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a d  5 o p s v v t w o n l v v o g  6 a s o t e i w]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES o  ( 7  ( c p w o m p t  ( o v v p b p i c  ( t  ( a o]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a e d t r v a D L N u t a i  ( t o  (  " t a r v t]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a h r   ( a o p s m c i t a c  (  ( a n  ( t  W w a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES t p a c s v a u v t m i  ( p w c o m c d t  ( p t  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES b f o p r w p h  ( p a s a c  ( t f i aS   4  (  ( c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  1  a c p  b  c c  d l  e m  f  g 7  2  a p  b F  c b 4 r o g]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r c c f c i i s e t e t c t  3 a d c o T f p t n s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES T i o  4 i v b d  5 rS   6 p  (  ( p a a E a a  1 c a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES d r p r i p e t t e s t  2 f f t s  a  b t a a v o w]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES o  c t b a b p h  d  3 t  a f i  b  c w a  (  ( b  I a p]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a t r c d r s o c t v o  4 m t o b A a p  5 a t c  6]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES t o 9  a  b b  A w o i t (  7 c s u o r i t o i cS]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   6  ( i  1 f s i o  2 d i i a v  3 c V P p dS   3 r]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  (  ( a  1 p  2 e p  3 f  4 t  5 s  6  7 a i t  8 a v 7 aS]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   3  ( a  ( a v 7 aS   7 p  (  ( f  1 v v v  2 b a a  3]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i p d  4 t t  5 t p dS   7 a  ( p v t a  ( s  ( p s n]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( o a  ( t v  ( w i p  ( t o  ( p  ( o  c p sS   7  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a s i s c k h a pS   9 e  (  ( f i v 7 7 t c o p f]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES c p n u sS.F     2  ( m j s f o e c u r s l t t  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a s o w r d f r c t 7 i  ( t i o s c o c o n a f i]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r i o i j s r i w m a i a S f r c t 7 dS.F     2]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( f  ( n w r 7 f t C A n m LS.F     5 c d  ( p 7 c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a r a sS.F     6 a  ( a i p e a d c d  ( p I  ( i c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES I  ( 4 S  ( C l o p w eS.F     7 p  ( i 7 H t m i t]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVESS.F     7  ( p f c i s a a h s p e b f r tS.F  ]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   7  ( a  (  1 o h c a u t a  2 f r a  3 o s  (  ( o i  1]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a v  2 t t o  3 o  4 o o  5 a  6 o  7 s p v  8 u  9 o  1 b]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES s  1 s w v  1 s  1 a  1 m  1 oS.F     9 l w  ( c s i 7]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES f oS.F     9  ( c m s cS.F     9 f  ( l  ( t a p w]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES cS.F     9 c s  ( l  ( t a p w cS.F     9 c e  ( l]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( t a p w cS.F     9 t  ( p  ( w f  ( w p 7S  ]
+
+
+================================================================================
+
+Raw Text:
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1 A bill to be entitled
+2 An act relating to injunctions for protection;
+3 amending s. 784.046, F.S.; defining the terms "serious
+4 violence by a known person" and "serious bodily
+5 injury"; creating a cause of action for an injunction
+6 for protection in cases of serious violence by a known
+7 person; specifying the persons who have standing to
+8 file such injunction for protection in circuit court
+9 if specified conditions are met; prohibiting the clerk
+10 of the court from assessing a fee for the filing of
+11 such injunction for protection; requiring the clerk of
+12 the court to provide the petitioner with a certified
+13 copy of such injunction for protection; providing
+14 requirements for such petition for injunction for
+15 protection; providing requirements for a temporary or
+16 final judgment on such injunction for protection;
+17 requiring the clerk of the court to electronically
+18 transmit copies of specified documents within a
+19 certain timeframe after a court issues such injunction
+20 for protection; requiring law enforcement officers to
+21 accept a certified copy of such injunction for
+22 protection from the petitioner and immediately serve
+23 it upon a respondent; providing requirements for
+24 inclusion of such injunction for protection in a
+25 specified statewide communication system; requiring
+Page 1 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+26 that a respondent be held in custody if he or she is
+27 arrested for committing an act of serious violence by
+28 a known person in violation of an injunction for
+29 protection until being brought before the court;
+30 conforming provisions to changes made by the act;
+31 making technical changes; amending ss. 44.407, 61.13,
+32 61.1825, 394.4597, 394.4598, 741.313, 784.047,
+33 784.048, and 934.03, F.S.; conforming provisions to
+34 changes made by the act; reenacting ss. 28.2221
+35 (8)(a), (c), and (d), 28.35(2)(i), 57.105(8),
+36 61.1827(1), 741.311(2), 741.315(2), 790.401(2)(e) and
+37 (3)(c), 901.15(6), 901.41(5), 921.141(6)(p),
+38 921.1425(7)(j), 921.1427(7)(i), and 934.425(3), F.S.;
+39 relating to electronic access to official records,
+40 Florida Clerks of Court Operations Corporation, the
+41 awarding of attorney fees, identifying information
+42 concerning applicants for and recipients of child
+43 support services, Hope Card Program for persons issued
+44 orders of protection, recognition of foreign
+45 protection orders, risk protection orders, when arrest
+46 by a law enforcement officer without a warrant is
+47 lawful, prearrest diversion programs, aggravating
+48 factors relating to a sentence of death or life
+49 imprisonment for capital felonies, aggravating factors
+50 relating to a sentence of death or life imprisonment
+Page 2 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+51 for capital sexual battery, aggravating factors
+52 relating to a sentence of death or life imprisonment
+53 for capital human trafficking of vulnerable persons
+54 for sexual exploitation, and installation or use of
+55 tracking devices or applications, respectively, to
+56 incorporate the amendment made to s. 784.046, F.S., in
+57 references thereto; providing an effective date.
+58
+59 Be It Enacted by the Legislature of the State of Florida:
+60
+61 Section 1. Section 784.046, Florida Statutes, is amended
+62 to read:
+63 784.046 Action by victim of repeat violence, sexual
+64 violence, or dating violence, or serious violence by a known
+65 person for protective injunction; dating violence
+66 investigations, notice to victims, and reporting; pretrial
+67 release violations; public records exemption.—
+68 (1) As used in this section, the term:
+69 (e)(a) "Violence" means any assault, aggravated assault,
+70 battery, aggravated battery, sexual assault, sexual battery,
+71 stalking, aggravated stalking, kidnapping, or false
+72 imprisonment, or any criminal offense resulting in physical
+73 injury or death, by a person against any other person.
+74 (b) "Repeat violence" means two incidents of violence or
+75 stalking committed by the respondent, one of which must have
+Page 3 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+76 been within 6 months of the filing of the petition, which are
+77 directed against the petitioner or the petitioner's immediate
+78 family member.
+79 (d)(c) "Sexual violence" means any one incident of:
+80 1. Sexual battery, as defined in chapter 794;
+81 2. A lewd or lascivious act, as defined in chapter 800,
+82 committed upon or in the presence of a person younger than 16
+83 years of age;
+84 3. Luring or enticing a child, as described in chapter
+85 787;
+86 4. Sexual performance by a child, as described in chapter
+87 827; or
+88 5. Any other forcible felony wherein a sexual act is
+89 committed or attempted,
+90
+91 regardless of whether criminal charges based on the incident
+92 were filed, reduced, or dismissed by the state attorney.
+93 (a)(d) "Dating violence" means violence between
+94 individuals who have or have had a continuing and significant
+95 relationship of a romantic or intimate nature. The existence of
+96 such a relationship must shall be determined based on the
+97 consideration of the following factors:
+98 1. A dating relationship must have existed within the past
+99 6 months;
+100 2. The nature of the relationship must have been
+Page 4 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+101 characterized by the expectation of affection or sexual
+102 involvement between the parties; and
+103 3. The frequency and type of interaction between the
+104 persons involved in the relationship must have included that the
+105 persons have been involved over time and on a continuous basis
+106 during the course of the relationship.
+107
+108 The term does not include violence in a casual acquaintanceship
+109 or violence between individuals who only have engaged in
+110 ordinary fraternization in a business or social context.
+111 (c) "Serious violence by a known person" means an act of
+112 violence between individuals who are known to one another, when
+113 such violence causes serious bodily injury. As used in this
+114 paragraph, the term "serious bodily injury" means a physical
+115 condition that creates a substantial risk of death, serious
+116 personal disfigurement, or protracted loss or impairment of the
+117 function of any bodily member or organ.
+118 (2) There is created a cause of action for an injunction
+119 for protection in cases of repeat violence, there is created a
+120 separate cause of action for an injunction for protection in
+121 cases of dating violence, and there is created a separate cause
+122 of action for an injunction for protection in cases of sexual
+123 violence, and there is created a separate cause of action for an
+124 injunction for protection in cases of serious violence by a
+125 known person.
+Page 5 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+126 (a) Any person who is the victim of repeat violence or the
+127 parent or legal guardian of any minor child who is living at
+128 home and who seeks an injunction for protection against repeat
+129 violence on behalf of the minor child has standing in the
+130 circuit court to file a verified petition for an injunction for
+131 protection against repeat violence.
+132 (b) Any person who is the victim of dating violence and
+133 has reasonable cause to believe he or she is in imminent danger
+134 of becoming the victim of another act of dating violence, or any
+135 person who has reasonable cause to believe he or she is in
+136 imminent danger of becoming the victim of an act of dating
+137 violence, or the parent or legal guardian of any minor child who
+138 is living at home and who seeks an injunction for protection
+139 against dating violence on behalf of that minor child, has
+140 standing in the circuit court to file a verified petition for an
+141 injunction for protection against dating violence.
+142 (c) A person who is the victim of sexual violence or the
+143 parent or legal guardian of a minor child who is living at home
+144 who is the victim of sexual violence has standing in the circuit
+145 court to file a verified petition for an injunction for
+146 protection against sexual violence on his or her own behalf or
+147 on behalf of the minor child if:
+148 1. The person has reported the sexual violence to a law
+149 enforcement agency and is cooperating in any criminal proceeding
+150 against the respondent, regardless of whether criminal charges
+Page 6 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+151 based on the sexual violence have been filed, reduced, or
+152 dismissed by the state attorney; or
+153 2. The respondent who committed the sexual violence
+154 against the victim or minor child was sentenced to a term of
+155 imprisonment in state prison for the sexual violence and the
+156 respondent's term of imprisonment has expired or is due to
+157 expire within 90 days following the date the petition is filed.
+158 (d) A person who is the victim of serious violence by a
+159 known person or the parent or legal guardian of a minor child
+160 who is living at home and who is the victim of serious violence
+161 by a known person has standing in the circuit court to file a
+162 verified petition for an injunction for protection against
+163 serious violence by a known person on his or her own behalf or
+164 on behalf of the minor child if the person has reported such
+165 violence to a law enforcement agency and is cooperating with any
+166 criminal proceedings against the respondent, regardless of
+167 whether criminal charges based on the serious violence have been
+168 filed, reduced, or dismissed by the state attorney.
+169 (e)(d) A cause of action for an injunction may be sought
+170 whether or not any other petition, complaint, or cause of action
+171 is currently available or pending between the parties.
+172 (f)(e) A cause of action for an injunction does not
+173 require that the petitioner be represented by an attorney.
+174 (3)(a) The clerk of the court shall provide a copy of this
+175 section, simplified forms, and clerical assistance for the
+Page 7 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+176 preparation and filing of such a petition by any person who is
+177 not represented by counsel.
+178 (b) Notwithstanding any other law, the clerk of the court
+179 may not assess a fee for filing a petition for protection
+180 against repeat violence, sexual violence, or dating violence, or
+181 serious violence by a known person. However, subject to
+182 legislative appropriation, the clerk of the court may, each
+183 quarter, submit to the Justice Administrative Commission a
+184 certified request for reimbursement for petitions for protection
+185 issued by the court under this section at the rate of $40 per
+186 petition. The request for reimbursement must be submitted in the
+187 form and manner prescribed by the Justice Administrative
+188 Commission. From this reimbursement, the clerk shall pay the law
+189 enforcement agency serving the injunction the fee requested by
+190 the law enforcement agency; however, this fee may not exceed
+191 $20.
+192 (c) No bond is shall be required by the court for the
+193 entry of an injunction.
+194 (d) The clerk of the court shall provide the petitioner
+195 with a certified copy of any injunction for protection against
+196 repeat violence, sexual violence, or dating violence, or serious
+197 violence by a known person entered by the court.
+198 (4)(a) The verified petition must shall allege the
+199 incidents of repeat violence, sexual violence, or dating
+200 violence, or serious violence by a known person and must shall
+Page 8 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+201 include the specific facts and circumstances that form the basis
+202 upon which relief is sought. With respect to a minor child who
+203 is living at home, the parent or legal guardian seeking the
+204 protective injunction on behalf of the minor child must:
+205 1. Have been an eyewitness to, or have direct physical
+206 evidence or affidavits from eyewitnesses of, the specific facts
+207 and circumstances that form the basis upon which relief is
+208 sought, if the party against whom the protective injunction is
+209 sought is also a parent, stepparent, or legal guardian of the
+210 minor child; or
+211 2. Have reasonable cause to believe that the minor child
+212 is a victim of repeat violence, sexual violence, or dating
+213 violence, or serious violence by a known person to form the
+214 basis upon which relief is sought, if the party against whom the
+215 protective injunction is sought is a person other than a parent,
+216 stepparent, or legal guardian of the minor child.
+217 (b) The verified petition must be in substantially the
+218 following form:
+219
+220 PETITION FOR INJUNCTION FOR PROTECTION
+221 AGAINST REPEAT VIOLENCE, SEXUAL
+222 VIOLENCE, OR DATING VIOLENCE, OR
+223 SERIOUS VIOLENCE BY A KNOWN PERSON
+224
+225 The undersigned petitioner ...(name)... declares under
+Page 9 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+226 penalties of perjury that the following statements are true:
+227
+228 1. Petitioner resides at ...(address)... (A petitioner for
+229 an injunction for protection against sexual violence may furnish
+230 an address to the court in a separate confidential filing if,
+231 for safety reasons, the petitioner requires the location of his
+232 or her current residence to be confidential pursuant to s.
+233 119.071(2)(j), Florida Statutes.)
+234 2. Respondent resides at ...(address)....
+235 3.a. Petitioner has suffered repeat violence as
+236 demonstrated by the fact that the respondent has: ...(enumerate
+237 incidents of violence)...
+238 ................................................................
+239 ................................................................
+240 ................................................................
+241
+242 b. Petitioner has suffered sexual violence as demonstrated
+243 by the fact that the respondent has: ...(enumerate incident of
+244 violence and include incident report number from law enforcement
+245 agency or attach notice of inmate release)...
+246 ................................................................
+247 ................................................................
+248 ................................................................
+249
+250 c. Petitioner is a victim of dating violence and has
+Page 10 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+251 reasonable cause to believe that he or she is in imminent danger
+252 of becoming the victim of another act of dating violence or has
+253 reasonable cause to believe that he or she is in imminent danger
+254 of becoming a victim of dating violence, as demonstrated by the
+255 fact that the respondent has: ...(list the specific incident or
+256 incidents of violence and describe the length of time of the
+257 relationship, whether it has been in existence during the last 6
+258 months, the nature of the relationship of a romantic or intimate
+259 nature, the frequency and type of interaction, and any other
+260 facts that characterize the relationship)...
+261 ................................................................
+262 ................................................................
+263 ................................................................
+264
+265 d. Petitioner has suffered serious violence by a known
+266 person as demonstrated by the fact that respondent has: ...
+267 (list the specific incident of serious violence and the known
+268 association to the respondent)...
+269 4. Petitioner genuinely fears repeat violence by the
+270 respondent.
+271 5. Petitioner seeks: an immediate injunction against the
+272 respondent, enjoining him or her from committing any further
+273 acts of violence; an injunction enjoining the respondent from
+274 committing any further acts of violence; and an injunction
+275 providing any terms the court deems necessary for the protection
+Page 11 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+276 of the petitioner and the petitioner's immediate family,
+277 including any injunctions or directives to law enforcement
+278 agencies.
+279
+280 (c) Every petition for an injunction against sexual
+281 violence, dating violence, or repeat violence, or serious
+282 violence by a known person must contain, directly above the
+283 signature line, a statement in all capital letters and bold type
+284 not smaller than the surrounding text, as follows:
+285
+286 UNDER PENALTIES OF PERJURY, I DECLARE THAT I HAVE READ
+287 THE FOREGOING DOCUMENT AND THAT THE FACTS STATED IN IT
+288 ARE TRUE. I UNDERSTAND THAT THE STATEMENTS MADE IN
+289 THIS PETITION ARE BEING MADE UNDER PENALTIES OF
+290 PERJURY, PUNISHABLE AS PROVIDED IN SECTION 92.525,
+291 FLORIDA STATUTES.
+292
+293 ...(initials)...
+294
+295 (5) Upon the filing of the petition, the court shall set a
+296 hearing to be held at the earliest possible time. The respondent
+297 must shall be personally served with a copy of the petition,
+298 notice of hearing, and temporary injunction, if any, before
+299 prior to the hearing.
+300 (6)(a) When it appears to the court that an immediate and
+Page 12 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+301 present danger of violence exists, the court may grant a
+302 temporary injunction that which may be granted in an ex parte
+303 hearing, pending a full hearing, and may grant such relief as
+304 the court deems proper, including an injunction enjoining the
+305 respondent from committing any acts of violence.
+306 (b) Except as provided in s. 90.204, in a hearing ex parte
+307 for the purpose of obtaining such temporary injunction, no
+308 evidence other than the verified pleading or affidavit may shall
+309 be used as evidence, unless the respondent appears at the
+310 hearing or has received reasonable notice of the hearing.
+311 (c) Any such ex parte temporary injunction is shall be
+312 effective for a fixed period not to exceed 15 days. However, an
+313 ex parte temporary injunction granted under subparagraph
+314 (2)(c)2. is effective for 15 days following the date the
+315 respondent is released from incarceration. A full hearing, as
+316 provided by this section, must shall be set for a date no later
+317 than the date when the temporary injunction ceases to be
+318 effective. The court may grant a continuance of the ex parte
+319 injunction and the full hearing before or during a hearing, for
+320 good cause shown by any party.
+321 (7) Upon notice and hearing, the court may grant such
+322 relief as the court deems proper, including an injunction:
+323 (a) Enjoining the respondent from committing any acts of
+324 violence.
+325 (b) Ordering such other relief as the court deems
+Page 13 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+326 necessary for the protection of the petitioner, including
+327 injunctions or directives to law enforcement agencies, as
+328 provided in this section.
+329 (c) The terms of the injunction shall remain in full force
+330 and effect until modified or dissolved. Either party may move at
+331 any time to modify or dissolve the injunction. Such relief may
+332 be granted in addition to other civil or criminal remedies.
+333 (d) A temporary or final judgment on injunction for
+334 protection against repeat violence, sexual violence, or dating
+335 violence, or serious violence by a known person entered pursuant
+336 to this section must shall, on its face, indicate that:
+337 1. The injunction is valid and enforceable in all counties
+338 of the State of Florida.
+339 2. Law enforcement officers may use their arrest powers
+340 pursuant to s. 901.15(6) to enforce the terms of the injunction.
+341 3. The court had jurisdiction over the parties and matter
+342 under the laws of Florida and that reasonable notice and
+343 opportunity to be heard was given to the person against whom the
+344 order is sought sufficient to protect that person's right to due
+345 process.
+346 4. The date that the respondent was served with the
+347 temporary or final order, if obtainable.
+348 (8)(a)1. Within 24 hours after the court issues an
+349 injunction for protection against repeat violence, sexual
+350 violence, or dating violence, or serious violence by a known
+Page 14 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+351 person, the clerk of the court shall electronically transmit a
+352 copy of the petition, notice of hearing, and temporary
+353 injunction, if any, to the sheriff or a law enforcement agency
+354 of the county where the respondent resides or can be found, who
+355 shall serve it upon the respondent as soon thereafter as
+356 possible on any day of the week and at any time of the day or
+357 night. An electronic copy of an injunction must be certified by
+358 the clerk of the court, and the electronic copy must be served
+359 in the same manner as a certified copy. Upon receiving an
+360 electronic copy of the injunction, the sheriff must verify
+361 receipt with the sender before attempting to serve it upon the
+362 respondent. In addition, if the sheriff is in possession of an
+363 injunction for protection that has been certified by the clerk
+364 of the court, the sheriff may electronically transmit a copy of
+365 that injunction to a law enforcement officer who shall serve it
+366 in the same manner as a certified copy. The clerk of the court
+367 is responsible for furnishing to the sheriff such information on
+368 the respondent's physical description and location as is
+369 required by the department to comply with the verification
+370 procedures set forth in this section. Notwithstanding any other
+371 law to the contrary, the chief judge of each circuit, in
+372 consultation with the appropriate sheriff, may authorize a law
+373 enforcement agency within the chief judge's jurisdiction to
+374 effect this type of service and to receive a portion of the
+375 service fee. A person may not serve or execute an injunction
+Page 15 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+376 issued under this section unless the person is a law enforcement
+377 officer as defined in chapter 943.
+378 2. When an injunction is issued, if the petitioner
+379 requests the assistance of a law enforcement agency, the court
+380 may order that an officer from the appropriate law enforcement
+381 agency accompany the petitioner and assist in the execution or
+382 service of the injunction. A law enforcement officer must accept
+383 a copy of an injunction for protection against repeat violence,
+384 sexual violence, or dating violence, or serious violence by a
+385 known person, certified by the clerk of the court, from the
+386 petitioner and immediately serve it upon a respondent who has
+387 been located but not yet served.
+388 (b) A Domestic Violence, Dating Violence, Sexual Violence,
+389 and Repeat Violence, and Serious Violence by a Known Person
+390 Injunction Statewide Verification System is created within the
+391 Department of Law Enforcement. The department shall establish,
+392 implement, and maintain a statewide communication system capable
+393 of electronically transmitting information to and between
+394 criminal justice agencies relating to domestic violence
+395 injunctions, dating violence injunctions, sexual violence
+396 injunctions, and repeat violence injunctions, and serious
+397 violence by a known person injunctions issued by the courts
+398 throughout the state. Such information must include, but is not
+399 limited to, information as to the existence and status of any
+400 injunction for verification purposes.
+Page 16 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+401 (c)1. Within 24 hours after the court issues an injunction
+402 for protection against repeat violence, sexual violence, or
+403 dating violence, or serious violence by a known person or
+404 changes or vacates an injunction for protection against repeat
+405 violence, sexual violence, or dating violence, or serious
+406 violence by a known person, the clerk of the court must
+407 electronically transmit a copy of the injunction to the sheriff
+408 with jurisdiction over the residence of the petitioner.
+409 2. Within 24 hours after service of process of an
+410 injunction for protection against repeat violence, sexual
+411 violence, or dating violence, or serious violence by a known
+412 person upon a respondent, the law enforcement officer must
+413 electronically transmit the written proof of service of process
+414 to the sheriff with jurisdiction over the residence of the
+415 petitioner.
+416 3. Within 24 hours after the sheriff receives a certified
+417 copy of the injunction for protection against repeat violence,
+418 sexual violence, or dating violence, or serious violence by a
+419 known person, the sheriff must make information relating to the
+420 injunction available to other law enforcement agencies by
+421 electronically transmitting such information to the department.
+422 4. Within 24 hours after the sheriff or other law
+423 enforcement officer has made service upon the respondent and the
+424 sheriff has been so notified, the sheriff must make information
+425 relating to the service available to other law enforcement
+Page 17 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+426 agencies by electronically transmitting such information to the
+427 department.
+428 5. Subject to available funding, the Florida Association
+429 of Court Clerks and Comptrollers shall develop an automated
+430 process by which a petitioner may request notification of
+431 service of the injunction for protection against repeat
+432 violence, sexual violence, or dating violence, or serious
+433 violence by a known person and other court actions related to
+434 the injunction for protection. The automated notice must be made
+435 within 12 hours after the sheriff or other law enforcement
+436 officer serves the injunction upon the respondent. The
+437 notification must include, at a minimum, the date, time, and
+438 location where the injunction for protection against repeat
+439 violence, sexual violence, or dating violence, or serious
+440 violence by a known person was served. The Florida Association
+441 of Court Clerks and Comptrollers may apply for any available
+442 grants to fund the development of the automated process.
+443 6. Within 24 hours after an injunction for protection
+444 against repeat violence, sexual violence, or dating violence, or
+445 serious violence by a known person is lifted, terminated, or
+446 otherwise rendered no longer effective by ruling of the court,
+447 the clerk of the court must notify the sheriff or local law
+448 enforcement agency receiving original notification of the
+449 injunction as provided in subparagraph 2. That agency shall,
+450 within 24 hours after receiving such notification from the clerk
+Page 18 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+451 of the court, notify the department of such action of the court.
+452 (d) The petitioner may request a Hope Card under s.
+453 741.311 after the court has issued a final order of protection.
+454 (9)(a) The court shall enforce, through a civil or
+455 criminal contempt proceeding, a violation of an injunction for
+456 protection. The court may enforce the respondent's compliance
+457 with the injunction by imposing a monetary assessment. The clerk
+458 of the court shall collect and receive such assessments. On a
+459 monthly basis, the clerk shall transfer the moneys collected
+460 pursuant to this paragraph to the State Treasury for deposit in
+461 the Crimes Compensation Trust Fund established in s. 960.21.
+462 (b) If the respondent is arrested by a law enforcement
+463 officer under s. 901.15(6) for committing an act of repeat
+464 violence, sexual violence, or dating violence, or serious
+465 violence by a known person in violation of an injunction for
+466 protection, the respondent must shall be held in custody until
+467 brought before the court as expeditiously as possible for the
+468 purpose of enforcing the injunction and for admittance to bail
+469 in accordance with chapter 903 and the applicable rules of
+470 criminal procedure, pending a hearing.
+471 (10) The petitioner or the respondent may move the court
+472 to modify or dissolve an injunction at any time.
+473 (11) Any law enforcement officer who investigates an
+474 alleged incident of dating violence shall assist the victim to
+475 obtain medical treatment if such is required as a result of the
+Page 19 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+476 alleged incident to which the officer responds. Any law
+477 enforcement officer who investigates an alleged incident of
+478 dating violence shall advise the victim of such violence that
+479 there is a domestic violence center from which the victim may
+480 receive services. The law enforcement officer shall give the
+481 victim immediate notice of the legal rights and remedies
+482 available on a standard form developed and distributed by the
+483 Department of Law Enforcement. As necessary, the Department of
+484 Law Enforcement shall revise the Legal Rights and Remedies
+485 Notice to Victims to include a general summary of this section,
+486 using simple English as well as Spanish, and shall distribute
+487 the notice as a model form to be used by all law enforcement
+488 agencies throughout this the state. The notice must shall
+489 include:
+490 (a) The resource listing, including telephone number, for
+491 the area domestic violence center designated by the Department
+492 of Children and Families; and
+493 (b) A copy of the following statement:
+494
+495 "IF YOU ARE THE VICTIM OF DATING VIOLENCE, you may ask
+496 the state attorney to file a criminal complaint. You
+497 also have the right to go to court and file a petition
+498 requesting an injunction for protection from dating
+499 violence which may include, but need not be limited
+500 to, provisions that restrain the abuser from further
+Page 20 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+501 acts of abuse; direct the abuser to leave your
+502 household; and prevent the abuser from entering your
+503 residence, school, business, or place of employment."
+504
+505 (12) When a law enforcement officer investigates an
+506 allegation that an incident of dating violence has occurred, the
+507 officer shall handle the incident pursuant to the arrest policy
+508 provided in s. 901.15(7), and as developed in accordance with
+509 subsections (13), (14), and (16). Whether or not an arrest is
+510 made, the officer shall make a written police report that is
+511 complete and clearly indicates that the alleged offense was an
+512 incident of dating violence. Such report must shall be given to
+513 the officer's supervisor and filed with the law enforcement
+514 agency in a manner that will permit data on dating violence
+515 cases to be compiled. Such report must include:
+516 (a) A description of physical injuries observed, if any.
+517 (b) If a law enforcement officer decides not to make an
+518 arrest or decides to arrest two or more parties, the grounds for
+519 not arresting anyone or for arresting two or more parties.
+520 (c) A statement indicating which indicates that a copy of
+521 the legal rights and remedies notice was given to the victim.
+522
+523 Whenever possible, the law enforcement officer shall obtain a
+524 written statement from the victim and witnesses concerning the
+525 alleged dating violence. The officer shall submit the report to
+Page 21 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+526 the supervisor or other person to whom the employer's rules or
+527 policies require reports of similar allegations of criminal
+528 activity to be made. The law enforcement agency shall, without
+529 charge, send a copy of the initial police report, as well as any
+530 subsequent, supplemental, or related report, which excludes
+531 victim or witness statements or other materials that are part of
+532 an active criminal investigation and are exempt from disclosure
+533 under chapter 119, to the nearest locally certified domestic
+534 violence center within 24 hours after the agency's receipt of
+535 the report. The report furnished to the domestic violence center
+536 must include a narrative description of the dating violence
+537 incident.
+538 (13) Whenever a law enforcement officer determines upon
+539 probable cause that an act of dating violence has been committed
+540 within the jurisdiction, or that a person has violated a
+541 condition of pretrial release as provided in s. 903.047 and the
+542 original arrest was for an act of dating violence, the officer
+543 may arrest the person or persons suspected of its commission and
+544 charge such person or persons with the appropriate crime. The
+545 decision to arrest and charge does shall not require consent of
+546 the victim or consideration of the relationship of the parties.
+547 (14)(a) When complaints are received from two or more
+548 parties, the officers shall evaluate each complaint separately
+549 to determine whether there is probable cause for arrest.
+550 (b) If a law enforcement officer has probable cause to
+Page 22 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+551 believe that two or more persons have committed a misdemeanor or
+552 felony, or if two or more persons make complaints to the
+553 officer, the officer must shall try to determine who was the
+554 primary aggressor. Arrest is the preferred response only with
+555 respect to the primary aggressor and not the preferred response
+556 with respect to a person who acts in a reasonable manner to
+557 protect or defend himself or herself or another family or
+558 household member from dating violence.
+559 (15) A person who willfully violates a condition of
+560 pretrial release provided in s. 903.047, when the original
+561 arrest was for an act of dating violence as defined in this
+562 section, commits a misdemeanor of the first degree, punishable
+563 as provided in s. 775.082 or s. 775.083, and shall be held in
+564 custody until his or her first appearance.
+565 (16) A law enforcement officer acting in good faith under
+566 this section and the officer's employing agency shall be immune
+567 from all liability, civil or criminal, that might otherwise be
+568 incurred or imposed by reason of the officer's or agency's
+569 actions in carrying out the provisions of this section.
+570 Section 2. Paragraph (a) of subsection (5) of section
+571 44.407, Florida Statutes, is amended to read:
+572 44.407 Elder-focused dispute resolution process.—
+573 (5) QUALIFICATIONS FOR ELDERCARING COORDINATORS.—
+574 (a) The court shall appoint qualified eldercaring
+575 coordinators who:
+Page 23 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+576 1. Meet one of the following professional requirements:
+577 a. Are licensed as a mental health professional under
+578 chapter 491 and hold at least a master's degree in the
+579 professional field of practice;
+580 b. Are licensed as a psychologist under chapter 490;
+581 c. Are licensed as a physician under chapter 458 or
+582 chapter 459;
+583 d. Are licensed as a nurse under chapter 464 and hold at
+584 least a master's degree;
+585 e. Are certified by the Florida Supreme Court as a family
+586 mediator and hold at least a master's degree;
+587 f. Are a member in good standing of The Florida Bar; or
+588 g. Are a professional guardian as defined in s.
+589 744.102(17) and hold at least a master's degree.
+590 2. Have completed all of the following:
+591 a. Three years of postlicensure or postcertification
+592 practice;
+593 b. A family mediation training program certified by the
+594 Florida Supreme Court; and
+595 c. An eldercaring coordinator training program certified
+596 by the Florida Supreme Court. The training must total at least
+597 44 hours and must include advanced tactics for dispute
+598 resolution of issues related to aging, illness, incapacity, or
+599 other vulnerabilities associated with elders, as well as elder,
+600 guardianship, and incapacity law and procedures and less
+Page 24 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+601 restrictive alternatives to guardianship; phases of eldercaring
+602 coordination and the role and functions of an eldercaring
+603 coordinator; the elder's role within eldercaring coordination;
+604 family dynamics related to eldercaring coordination; eldercaring
+605 coordination skills and techniques; multicultural competence and
+606 its use in eldercaring coordination; at least 6 hours of the
+607 implications of elder abuse, neglect, and exploitation and other
+608 safety issues pertinent to the training; at least 4 hours of
+609 ethical considerations pertaining to the training; use of
+610 technology within eldercaring coordination; and court-specific
+611 eldercaring coordination procedures. Pending certification of a
+612 training program by the Florida Supreme Court, the eldercaring
+613 coordinator must document completion of training that satisfies
+614 the hours and the elements prescribed in this sub-subparagraph.
+615 3. Have successfully passed a Level 2 background screening
+616 as provided in s. 435.04(2) and (3) or are exempt from
+617 disqualification under s. 435.07. The prospective eldercaring
+618 coordinator must submit a full set of fingerprints to the court
+619 or to a vendor, entity, or agency authorized by s. 943.053(13).
+620 The court, vendor, entity, or agency shall forward the
+621 fingerprints to the Department of Law Enforcement for state
+622 processing, and the Department of Law Enforcement shall forward
+623 the fingerprints to the Federal Bureau of Investigation for
+624 national processing. The prospective eldercaring coordinator
+625 shall pay the fees for state and federal fingerprint processing.
+Page 25 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+626 The state cost for fingerprint processing shall be as provided
+627 in s. 943.053(3)(e) for records provided to persons or entities
+628 other than those specified as exceptions therein.
+629 4. Have not been a respondent in a final order granting an
+630 injunction for protection against domestic violence, dating
+631 violence, sexual violence, or repeat violence, serious violence
+632 by a known person, or stalking or exploitation of an elder or a
+633 disabled person.
+634 5. Have met any additional qualifications the court may
+635 require to address issues specific to the parties.
+636 Section 3. Paragraph (c) of subsection (2) of section
+637 61.13, Florida Statutes, is amended to read
+638 61.13 Support of children; parenting and time-sharing;
+639 powers of court.—
+640 (2)
+641 (c) The court shall determine all matters relating to
+642 parenting and time-sharing of each minor child of the parties in
+643 accordance with the best interests of the child and in
+644 accordance with the Uniform Child Custody Jurisdiction and
+645 Enforcement Act, except that modification of a parenting plan
+646 and time-sharing schedule requires a showing of a substantial
+647 and material change of circumstances.
+648 1. It is the public policy of this state that each minor
+649 child has frequent and continuing contact with both parents
+650 after the parents separate or the marriage of the parties is
+Page 26 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+651 dissolved and to encourage parents to share the rights and
+652 responsibilities, and joys, of childrearing. Unless otherwise
+653 provided in this section or agreed to by the parties, there is a
+654 rebuttable presumption that equal time-sharing of a minor child
+655 is in the best interests of the minor child. To rebut this
+656 presumption, a party must prove by a preponderance of the
+657 evidence that equal time-sharing is not in the best interests of
+658 the minor child. Except when a time-sharing schedule is agreed
+659 to by the parties and approved by the court, the court must
+660 evaluate all of the factors set forth in subsection (3) and make
+661 specific written findings of fact when creating or modifying a
+662 time-sharing schedule.
+663 2. The court shall order that the parental responsibility
+664 for a minor child be shared by both parents unless the court
+665 finds that shared parental responsibility would be detrimental
+666 to the child. In determining detriment to the child, the court
+667 shall consider:
+668 a. Evidence of domestic violence, as defined in s. 741.28;
+669 b. Whether either parent has or has had reasonable cause
+670 to believe that he or she or his or her minor child or children
+671 are or have been in imminent danger of becoming victims of an
+672 act of domestic violence as defined in s. 741.28 or sexual
+673 violence as defined in s. 784.046(1) s. 784.046(1)(c) by the
+674 other parent against the parent or against the child or children
+675 whom the parents share in common regardless of whether a cause
+Page 27 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+676 of action has been brought or is currently pending in the court;
+677 c. Whether either parent has or has had reasonable cause
+678 to believe that his or her minor child or children are or have
+679 been in imminent danger of becoming victims of an act of abuse,
+680 abandonment, or neglect, as those terms are defined in s. 39.01,
+681 by the other parent against the child or children whom the
+682 parents share in common regardless of whether a cause of action
+683 has been brought or is currently pending in the court; and
+684 d. Any other relevant factors.
+685 3. The following evidence creates a rebuttable presumption
+686 that shared parental responsibility is detrimental to the child:
+687 a. A parent has been convicted of a misdemeanor of the
+688 first degree or higher involving domestic violence, as defined
+689 in s. 741.28 and chapter 775;
+690 b. A parent meets the criteria of s. 39.806(1)(d); or
+691 c. A parent has been convicted of or had adjudication
+692 withheld for an offense enumerated in s. 943.0435(1)(h)1.a., and
+693 at the time of the offense:
+694 (I) The parent was 18 years of age or older.
+695 (II) The victim was under 18 years of age or the parent
+696 believed the victim to be under 18 years of age.
+697
+698 If the presumption is not rebutted after the convicted parent is
+699 advised by the court that the presumption exists, shared
+700 parental responsibility, including time-sharing with the child,
+Page 28 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+701 and decisions made regarding the child, may not be granted to
+702 the convicted parent. However, the convicted parent is not
+703 relieved of any obligation to provide financial support. If the
+704 court determines that shared parental responsibility would be
+705 detrimental to the child, it may order sole parental
+706 responsibility and make such arrangements for time-sharing as
+707 specified in the parenting plan as will best protect the child
+708 or abused spouse from further harm. Whether or not there is a
+709 conviction of any offense of domestic violence or child abuse or
+710 the existence of an injunction for protection against domestic
+711 violence, the court shall consider evidence of domestic violence
+712 or child abuse as evidence of detriment to the child.
+713 4. In ordering shared parental responsibility, the court
+714 may consider the expressed desires of the parents and may grant
+715 to one party the ultimate responsibility over specific aspects
+716 of the child's welfare or may divide those responsibilities
+717 between the parties based on the best interests of the child.
+718 Areas of responsibility may include education, health care, and
+719 any other responsibilities that the court finds unique to a
+720 particular family.
+721 5. The court shall order sole parental responsibility for
+722 a minor child to one parent, with or without time-sharing with
+723 the other parent if it is in the best interests of the minor
+724 child.
+725 6. There is a rebuttable presumption against granting
+Page 29 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+726 time-sharing with a minor child if a parent has been convicted
+727 of or had adjudication withheld for an offense enumerated in s.
+728 943.0435(1)(h)1.a., and at the time of the offense:
+729 a. The parent was 18 years of age or older.
+730 b. The victim was under 18 years of age or the parent
+731 believed the victim to be under 18 years of age.
+732
+733 A parent may rebut the presumption upon a specific finding in
+734 writing by the court that the parent poses no significant risk
+735 of harm to the child and that time-sharing is in the best
+736 interests of the minor child. If the presumption is rebutted,
+737 the court must consider all time-sharing factors in subsection
+738 (3) when developing a time-sharing schedule.
+739 7. Access to records and information pertaining to a minor
+740 child, including, but not limited to, medical, dental, and
+741 school records, may not be denied to either parent. Full rights
+742 under this subparagraph apply to either parent unless a court
+743 order specifically revokes these rights, including any
+744 restrictions on these rights as provided in a domestic violence
+745 injunction. A parent having rights under this subparagraph has
+746 the same rights upon request as to form, substance, and manner
+747 of access as are available to the other parent of a child,
+748 including, without limitation, the right to in-person
+749 communication with medical, dental, and education providers.
+750 Section 4. Paragraph (a) of subsection (3) of section
+Page 30 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+751 61.1825, Florida Statutes, is amended to read:
+752 61.1825 State Case Registry.—
+753 (3)(a) For the purpose of this section, a family violence
+754 indicator must be placed on a record when:
+755 1. A party executes a sworn statement requesting that a
+756 family violence indicator be placed on that party's record which
+757 states that the party has reason to believe that release of
+758 information to the Federal Case Registry may result in physical
+759 or emotional harm to the party or the child; or
+760 2. A temporary or final injunction for protection against
+761 domestic violence has been granted pursuant to s. 741.30(6), an
+762 injunction for protection against domestic violence has been
+763 issued by a court of a foreign state pursuant to s. 741.315, or
+764 a temporary or final injunction for protection against repeat
+765 violence has been granted pursuant to s. 784.046; or
+766 3. The department has received information on a Title IV-D
+767 case from the Domestic Violence, Dating Violence, Sexual
+768 Violence, and Repeat Violence, and Serious Violence by a Known
+769 Person Injunction Statewide Verification System, established
+770 pursuant to s. 784.046(8)(b), that a court has granted a party a
+771 domestic violence or repeat violence injunction.
+772 Section 5. Paragraph (e) of subsection (2) of section
+773 394.4597, Florida Statutes, is amended to read:
+774 394.4597 Persons to be notified; patient's
+775 representative.—
+Page 31 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+776 (2) INVOLUNTARY PATIENTS.—
+777 (e) The following persons are prohibited from selection as
+778 a patient's representative:
+779 1. A professional providing clinical services to the
+780 patient under this part.
+781 2. The licensed professional who initiated the involuntary
+782 examination of the patient, if the examination was initiated by
+783 professional certificate.
+784 3. An employee, an administrator, or a board member of the
+785 facility providing the examination of the patient.
+786 4. An employee, an administrator, or a board member of a
+787 treatment facility providing treatment for the patient.
+788 5. A person providing any substantial professional
+789 services to the patient, including clinical services.
+790 6. A creditor of the patient.
+791 7. A person subject to an injunction for protection
+792 against domestic violence under s. 741.30, whether the order of
+793 injunction is temporary or final, and for which the patient was
+794 the petitioner.
+795 8. A person subject to an injunction for protection
+796 against repeat violence, stalking, sexual violence, or dating
+797 violence, or serious violence by a known person under s.
+798 784.046, whether the order of injunction is temporary or final,
+799 and for which the patient was the petitioner.
+800 Section 6. Paragraph (h) of subsection (2) of section
+Page 32 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+801 394.4598, Florida Statutes, is amended to read:
+802 394.4598 Guardian advocate.—
+803 (2) The following persons are prohibited from appointment
+804 as a patient's guardian advocate:
+805 (h) A person subject to an injunction for protection
+806 against repeat violence, stalking, sexual violence, or dating
+807 violence, or serious violence by a known person under s.
+808 784.046, whether the order of injunction is temporary or final,
+809 and for which the patient was the petitioner.
+810 Section 7. Paragraph (b) of subsection (2) of section
+811 741.313, Florida Statutes, is amended to read:
+812 741.313 Unlawful action against employees seeking
+813 protection.—
+814 (2)
+815 (b) This section applies if an employee uses the leave
+816 from work to:
+817 1. Seek an injunction for protection against domestic
+818 violence or an injunction for protection in cases of repeat
+819 violence, dating violence, or sexual violence, or serious
+820 violence by a known person;
+821 2. Obtain medical care or mental health counseling, or
+822 both, for the employee or a family or household member to
+823 address physical or psychological injuries resulting from the
+824 act of domestic violence or sexual violence;
+825 3. Obtain services from a victim services organization,
+Page 33 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+826 including, but not limited to, a domestic violence shelter or
+827 program or a rape crisis center as a result of the act of
+828 domestic violence or sexual violence;
+829 4. Make the employee's home secure from the perpetrator of
+830 the domestic violence or sexual violence or to seek new housing
+831 to escape the perpetrator; or
+832 5. Seek legal assistance in addressing issues arising from
+833 the act of domestic violence or sexual violence or to attend and
+834 prepare for court-related proceedings arising from the act of
+835 domestic violence or sexual violence.
+836 Section 8. Subsection (1) of section 784.047, Florida
+837 Statutes, is amended to read:
+838 784.047 Penalties for violating protective injunction
+839 against violators.—
+840 (1) A person who willfully violates an injunction for
+841 protection against repeat violence, sexual violence, or dating
+842 violence, or serious violence by a known person issued pursuant
+843 to s. 784.046, or a foreign protection order accorded full faith
+844 and credit pursuant to s. 741.315 by:
+845 (a) Refusing to vacate the dwelling that the parties
+846 share;
+847 (b) Going to, or being within 500 feet of, the
+848 petitioner's residence, school, place of employment, or a
+849 specified place frequented regularly by the petitioner and any
+850 named family or household member;
+Page 34 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+851 (c) Committing an act of repeat violence, sexual violence,
+852 or dating violence, or serious violence by a known person
+853 against the petitioner;
+854 (d) Committing any other violation of the injunction
+855 through an intentional unlawful threat, word, or act to do
+856 violence to the petitioner;
+857 (e) Telephoning, contacting, or otherwise communicating
+858 with the petitioner directly or indirectly, unless the
+859 injunction specifically allows indirect contact through a third
+860 party;
+861 (f) Knowingly and intentionally coming within 100 feet of
+862 the petitioner's motor vehicle, whether or not that vehicle is
+863 occupied;
+864 (g) Defacing or destroying the petitioner's personal
+865 property, including the petitioner's motor vehicle; or
+866 (h) Refusing to surrender firearms or ammunition if
+867 ordered to do so by the court,
+868
+869 commits a misdemeanor of the first degree, punishable as
+870 provided in s. 775.082 or s. 775.083, except as provided in
+871 subsection (2).
+872 Section 9. Subsection (4) of section 784.048, Florida
+873 Statutes, is amended to read:
+874 784.048 Stalking; definitions; penalties.—
+875 (4) A person who, after an injunction for protection
+Page 35 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+876 against repeat violence, sexual violence, or dating violence, or
+877 serious violence by a known person pursuant to s. 784.046, or an
+878 injunction for protection against domestic violence pursuant to
+879 s. 741.30, or after any other court-imposed prohibition of
+880 conduct toward the subject person or that person's property,
+881 knowingly, willfully, maliciously, and repeatedly follows,
+882 harasses, or cyberstalks another person commits the offense of
+883 aggravated stalking, a felony of the third degree, punishable as
+884 provided in s. 775.082, s. 775.083, or s. 775.084.
+885 Section 10. Paragraph (m) of subsection (2) of section
+886 934.03, Florida Statutes, is amended to read:
+887 934.03 Interception and disclosure of wire, oral, or
+888 electronic communications prohibited.—
+889 (2)
+890 (m) It is lawful under this section and ss. 934.04-934.09
+891 for a person who is protected under an active temporary or final
+892 injunction for repeat violence, sexual violence, or dating
+893 violence, or serious violence by a known person under s.
+894 784.046; stalking under s. 784.0485; domestic violence under s.
+895 741.30; or any other court-imposed prohibition of conduct toward
+896 the person to intercept and record a wire, oral, or electronic
+897 communication received in violation of such injunction or court
+898 order. A recording authorized under this paragraph may be
+899 provided to a law enforcement agency, an attorney, or a court
+900 for the purpose of evidencing a violation of an injunction or
+Page 36 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+901 court order if the subject of the injunction or court order
+902 prohibiting contact has been served the injunction or is on
+903 notice that the conduct is prohibited. A recording authorized
+904 under this paragraph may not be otherwise disseminated or
+905 shared.
+906 Section 11. For the purpose of incorporating the amendment
+907 made by this act to section 784.046, Florida Statutes, in
+908 references thereto, paragraphs (a), (c), and (d) of subsection
+909 (8) of section 28.2221, Florida Statutes, are reenacted to read:
+910 28.2221 Electronic access to official records.—
+911 (8)(a) Each county recorder or clerk of the court must
+912 make the identity of each respondent against whom a final
+913 judgment for an injunction for the protection of a minor under
+914 s. 741.30, s. 784.046, or s. 784.0485 is entered, as well as the
+915 fact that a final judgment for an injunction for the protection
+916 of a minor under s. 741.30, s. 784.046, or s. 784.0485 has been
+917 entered against that respondent, publicly available on the
+918 county recorder's or clerk of the court's official website,
+919 unless the respondent is a minor. The identity and information
+920 required under this subsection must be viewable through a
+921 searchable database that is available in a clear and conspicuous
+922 location on the homepage of the county recorder's or clerk of
+923 the court's official website and must be available for search by
+924 the general public.
+925 (c) Any information specified in this subsection not made
+Page 37 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+926 available by the county clerk of the court as provided in this
+927 subsection before July 1, 2024, must be made publicly available
+928 on the county recorder's or clerk of the court's official
+929 website if the affected party identifies the information and
+930 requests that such information be added for general public
+931 display. Such request must be in writing and delivered by mail,
+932 facsimile, or electronic transmission or in person to the county
+933 recorder or clerk of the court. The request must specify the
+934 case number assigned to the final judgment for an injunction for
+935 the protection of a minor under s. 741.30, s. 784.046, or s.
+936 784.0485. A fee may not be charged for the addition of
+937 information pursuant to such request.
+938 (d) No later than 30 days after July 1, 2024, notice of
+939 the right of any affected party to request the addition of
+940 information to the searchable database on the county recorder's
+941 or clerk of the court's official website pursuant to this
+942 subsection must be conspicuously and clearly displayed by the
+943 county recorder or clerk of the court on the county recorder's
+944 or clerk of the court's official website on which images or
+945 copies of the county's public records are placed and in the
+946 office of each county recorder or clerk of the court. Such
+947 notice must contain appropriate instructions for making the
+948 addition of information request in person, by mail, by
+949 facsimile, or by electronic transmission. The notice must state,
+950 in substantially similar form, that any person has a right to
+Page 38 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+951 request that a county recorder or clerk of the court add
+952 information to the searchable database on the county recorder's
+953 or clerk of the court's official website if that information
+954 involves the identity of a respondent against whom a final
+955 judgment for an injunction for the protection of a minor under
+956 s. 741.30, s. 784.046, or s. 784.0485 is entered, unless the
+957 respondent is a minor. The notice must also state that the
+958 information related to the identity of each respondent against
+959 whom a final judgment for an injunction for the protection of a
+960 minor under s. 741.30, s. 784.046, or s. 784.0485 is entered is
+961 available for search by the general public. The notice must
+962 include step-by-step instructions detailing how a user can
+963 access the searchable database and search for such information.
+964 Such request must be made in writing and delivered by mail,
+965 facsimile, or electronic transmission or in person to the county
+966 recorder or clerk of the court. The request must specify the
+967 case number assigned to the final judgment for an injunction for
+968 the protection of a minor under s. 741.30, s. 784.046, or s.
+969 784.0485. A fee may not be charged for the addition of a
+970 document pursuant to such request.
+971 Section 12. For the purpose of incorporating the amendment
+972 made by this act to section 784.046, Florida Statutes, in a
+973 reference thereto, paragraph (i) of subsection (2) of section
+974 28.35, Florida Statutes, is reenacted to read:
+975 28.35 Florida Clerks of Court Operations Corporation.—
+Page 39 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+976 (2) The duties of the corporation shall include the
+977 following:
+978 (i) Annually preparing a budget request which,
+979 notwithstanding the provisions of chapter 216 and in accordance
+980 with s. 216.351, provides the anticipated amount necessary for
+981 reimbursement pursuant to ss. 40.29(6), 741.30(2)(a),
+982 784.046(3)(b), 784.0485(2)(a), and 825.1035(4)(i). The request
+983 for the anticipated reimbursement amount must be submitted in
+984 the form and manner prescribed by the Justice Administrative
+985 Commission. Such request is not subject to change by the Justice
+986 Administrative Commission, except for technical changes
+987 necessary to conform to the legislative budget instructions, and
+988 must be submitted to the Governor for transmittal to the
+989 Legislature.
+990 Section 13. For the purpose of incorporating the amendment
+991 made by this act to section 784.046, Florida Statutes, in a
+992 reference thereto, subsection (8) of section 57.105, Florida
+993 Statutes, is reenacted to read:
+994 57.105 Attorney's fee; sanctions for raising unsupported
+995 claims or defenses; exceptions; service of motions; damages for
+996 delay of litigation.—
+997 (8) Attorney fees may not be awarded under this section in
+998 proceedings for an injunction for protection pursuant to s.
+999 741.30, s. 784.046, or s. 784.0485, unless the court finds by
+1000 clear and convincing evidence that the petitioner knowingly made
+Page 40 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1001 a false statement or allegation in the petition or that the
+1002 respondent knowingly made a false statement or allegation in an
+1003 asserted defense, with regard to a material matter as defined in
+1004 s. 837.011(3).
+1005 Section 14. For the purpose of incorporating the amendment
+1006 made by this act to section 784.046, Florida Statutes, in a
+1007 reference thereto, subsection (1) of section 61.1827, Florida
+1008 Statutes, is reenacted to read:
+1009 61.1827 Identifying information concerning applicants for
+1010 and recipients of child support services.—
+1011 (1) Any information that reveals the identity of
+1012 applicants for or recipients of child support services,
+1013 including the name, address, and telephone number of such
+1014 persons, held by a non-Title IV-D county child support
+1015 enforcement agency is confidential and exempt from s. 119.07(1)
+1016 and s. 24(a), Art. I of the State Constitution. The use or
+1017 disclosure of such information by the non-Title IV-D county
+1018 child support enforcement agency is limited to the purposes
+1019 directly connected with:
+1020 (a) Any investigation, prosecution, or criminal or civil
+1021 proceeding connected with the administration of any non-Title
+1022 IV-D county child support enforcement program;
+1023 (b) Mandatory disclosure of identifying and location
+1024 information as provided in s. 61.13(7) by the non-Title IV-D
+1025 county child support enforcement agency when providing non-Title
+Page 41 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1026 IV-D services;
+1027 (c) Mandatory disclosure of information as required by ss.
+1028 409.2577, 61.181, 61.1825, and 61.1826 and Title IV-D of the
+1029 Social Security Act; or
+1030 (d) Disclosure to an authorized person, as defined in 45
+1031 C.F.R. s. 303.15, for purposes of enforcing any state or federal
+1032 law with respect to the unlawful taking or restraint of a child
+1033 or making or enforcing a parenting plan. As used in this
+1034 paragraph, the term "authorized person" includes a parent with
+1035 whom the child does not currently reside, unless a court has
+1036 entered an order under s. 741.30, s. 741.31, or s. 784.046.
+1037 Section 15. For the purpose of incorporating the amendment
+1038 made by this act to section 784.046, Florida Statutes, in a
+1039 reference thereto, subsection (2) of section 741.311, Florida
+1040 Statutes, is reenacted to read:
+1041 741.311 Hope Card Program for persons issued orders of
+1042 protection.—
+1043 (2) Beginning October 1, 2024, a person who has been
+1044 issued a final judgment on injunction for protection under s.
+1045 741.30, s. 784.046, s. 784.0485, or s. 825.1035 may request a
+1046 Hope Card from the clerk of the court of the circuit in which
+1047 the order for an injunction for protection was entered. A person
+1048 may request a Hope Card at the time the final judgment on
+1049 injunction for protection is issued or at any other time before
+1050 the expiration of the order for protection.
+Page 42 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1051 Section 16. For the purpose of incorporating the amendment
+1052 made by this act to section 784.046, Florida Statutes, in a
+1053 reference thereto, subsection (2) of section 741.315, Florida
+1054 Statutes, is reenacted to read:
+1055 741.315 Recognition of foreign protection orders.—
+1056 (2) Pursuant to 18 U.S.C. s. 2265, an injunction for
+1057 protection against domestic violence issued by a court of a
+1058 foreign state must be accorded full faith and credit by the
+1059 courts of this state and enforced by a law enforcement agency as
+1060 if it were the order of a Florida court issued under s. 741.30,
+1061 s. 741.31, s. 784.046, s. 784.047, s. 784.0485, or s. 784.0487,
+1062 and provided that the court had jurisdiction over the parties
+1063 and the matter and that reasonable notice and opportunity to be
+1064 heard was given to the person against whom the order is sought
+1065 sufficient to protect that person's right to due process. Ex
+1066 parte foreign injunctions for protection are not eligible for
+1067 enforcement under this section unless notice and opportunity to
+1068 be heard have been provided within the time required by the
+1069 foreign state or tribal law, and in any event within a
+1070 reasonable time after the order is issued, sufficient to protect
+1071 the respondent's due process rights.
+1072 Section 17. For the purpose of incorporating the amendment
+1073 made by this act to section 784.046, Florida Statutes, in
+1074 references thereto, paragraph (e) of subsection (2) and
+1075 paragraph (c) of subsection (3) of section 790.401, Florida
+Page 43 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1076 Statutes, are reenacted to read:
+1077 790.401 Risk protection orders.—
+1078 (2) PETITION FOR A RISK PROTECTION ORDER.—There is created
+1079 an action known as a petition for a risk protection order.
+1080 (e) A petition must:
+1081 1. Allege that the respondent poses a significant danger
+1082 of causing personal injury to himself or herself or others by
+1083 having a firearm or any ammunition in his or her custody or
+1084 control or by purchasing, possessing, or receiving a firearm or
+1085 any ammunition, and must be accompanied by an affidavit made
+1086 under oath stating the specific statements, actions, or facts
+1087 that give rise to a reasonable fear of significant dangerous
+1088 acts by the respondent;
+1089 2. Identify the quantities, types, and locations of all
+1090 firearms and ammunition the petitioner believes to be in the
+1091 respondent's current ownership, possession, custody, or control;
+1092 and
+1093 3. Identify whether there is a known existing protection
+1094 order governing the respondent under s. 741.30, s. 784.046, or
+1095 s. 784.0485 or under any other applicable statute.
+1096 (3) RISK PROTECTION ORDER HEARINGS AND ISSUANCE.—
+1097 (c) In determining whether grounds for a risk protection
+1098 order exist, the court may consider any relevant evidence,
+1099 including, but not limited to, any of the following:
+1100 1. A recent act or threat of violence by the respondent
+Page 44 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1101 against himself or herself or others, whether or not such
+1102 violence or threat of violence involves a firearm.
+1103 2. An act or threat of violence by the respondent within
+1104 the past 12 months, including, but not limited to, acts or
+1105 threats of violence by the respondent against himself or herself
+1106 or others.
+1107 3. Evidence of the respondent being seriously mentally ill
+1108 or having recurring mental health issues.
+1109 4. A violation by the respondent of a risk protection
+1110 order or a no contact order issued under s. 741.30, s. 784.046,
+1111 or s. 784.0485.
+1112 5. A previous or existing risk protection order issued
+1113 against the respondent.
+1114 6. A violation of a previous or existing risk protection
+1115 order issued against the respondent.
+1116 7. Whether the respondent, in this state or any other
+1117 state, has been convicted of, had adjudication withheld on, or
+1118 pled nolo contendere to a crime that constitutes domestic
+1119 violence as defined in s. 741.28.
+1120 8. Whether the respondent has used, or has threatened to
+1121 use, against himself or herself or others any weapons.
+1122 9. The unlawful or reckless use, display, or brandishing
+1123 of a firearm by the respondent.
+1124 10. The recurring use of, or threat to use, physical force
+1125 by the respondent against another person or the respondent
+Page 45 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1126 stalking another person.
+1127 11. Whether the respondent, in this state or any other
+1128 state, has been arrested for, convicted of, had adjudication
+1129 withheld on, or pled nolo contendere to a crime involving
+1130 violence or a threat of violence.
+1131 12. Corroborated evidence of the abuse of controlled
+1132 substances or alcohol by the respondent.
+1133 13. Evidence of recent acquisition of firearms or
+1134 ammunition by the respondent.
+1135 14. Any relevant information from family and household
+1136 members concerning the respondent.
+1137 15. Witness testimony, taken while the witness is under
+1138 oath, relating to the matter before the court.
+1139 Section 18. For the purpose of incorporating the amendment
+1140 made by this act to section 784.046, Florida Statutes, in a
+1141 reference thereto, subsection (6) of section 901.15, Florida
+1142 Statutes, is reenacted to read:
+1143 901.15 When arrest by officer without warrant is lawful.—A
+1144 law enforcement officer may arrest a person without a warrant
+1145 when:
+1146 (6) There is probable cause to believe that the person has
+1147 committed a criminal act according to s. 790.233 or according to
+1148 s. 741.31, s. 784.047, or s. 825.1036 which violates an
+1149 injunction for protection entered pursuant to s. 741.30, s.
+1150 784.046, or s. 825.1035 or a foreign protection order accorded
+Page 46 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1151 full faith and credit pursuant to s. 741.315, over the objection
+1152 of the petitioner, if necessary.
+1153 Section 19. For the purpose of incorporating the amendment
+1154 made by this act to section 784.046, Florida Statutes, in a
+1155 reference thereto, subsection (5) of section 901.41, Florida
+1156 Statutes, is reenacted to read:
+1157 901.41 Prearrest diversion programs.—
+1158 (5) ELIGIBILITY.—A violent misdemeanor, a misdemeanor
+1159 crime of domestic violence, as defined in s. 741.28, or a
+1160 misdemeanor under s. 741.29, s. 741.31, s. 784.046, s. 784.047,
+1161 s. 784.048, s. 784.0487, or s. 784.049 does not qualify for a
+1162 civil citation or prearrest diversion program.
+1163 Section 20. For the purpose of incorporating the amendment
+1164 made by this act to section 784.046, Florida Statutes, in a
+1165 reference thereto, paragraph (p) of subsection (6) of section
+1166 921.141, Florida Statutes, is reenacted to read:
+1167 921.141 Sentence of death or life imprisonment for capital
+1168 felonies; further proceedings to determine sentence.—
+1169 (6) AGGRAVATING FACTORS.—Aggravating factors shall be
+1170 limited to the following:
+1171 (p) The capital felony was committed by a person subject
+1172 to an injunction issued pursuant to s. 741.30 or s. 784.046, or
+1173 a foreign protection order accorded full faith and credit
+1174 pursuant to s. 741.315, and was committed against the petitioner
+1175 who obtained the injunction or protection order or any spouse,
+Page 47 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1176 child, sibling, or parent of the petitioner.
+1177 Section 21. For the purpose of incorporating the amendment
+1178 made by this act to section 784.046, Florida Statutes, in a
+1179 reference thereto, paragraph (j) of subsection (7) of section
+1180 921.1425, Florida Statutes, is reenacted to read:
+1181 921.1425 Sentence of death or life imprisonment for
+1182 capital sexual battery; further proceedings to determine
+1183 sentence.—
+1184 (7) AGGRAVATING FACTORS.—Aggravating factors shall be
+1185 limited to the following:
+1186 (j) The capital felony was committed by a person subject
+1187 to an injunction issued pursuant to s. 741.30 or s. 784.046, or
+1188 a foreign protection order accorded full faith and credit
+1189 pursuant to s. 741.315, and was committed against the petitioner
+1190 who obtained the injunction or protection order or any spouse,
+1191 child, sibling, or parent of the petitioner.
+1192 Section 22. For the purpose of incorporating the amendment
+1193 made by this act to section 784.046, Florida Statutes, in a
+1194 reference thereto, paragraph (i) of subsection (7) of section
+1195 921.1427, Florida Statutes, is reenacted to read:
+1196 921.1427 Sentence of death or life imprisonment for
+1197 capital human trafficking of vulnerable persons for sexual
+1198 exploitation; further proceedings to determine sentence.—
+1199 (7) AGGRAVATING FACTORS.—Aggravating factors shall be
+1200 limited to the following:
+Page 48 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 547 2026
+1201 (i) The capital felony was committed by a person subject
+1202 to an injunction issued pursuant to s. 741.30 or s. 784.046, or
+1203 a foreign protection order accorded full faith and credit
+1204 pursuant to s. 741.315, and was committed against the petitioner
+1205 who obtained the injunction or protection order or any spouse,
+1206 child, sibling, or parent of the petitioner.
+1207 Section 23. For the purpose of incorporating the amendment
+1208 made by this act to section 784.046, Florida Statutes, in a
+1209 reference thereto, subsection (3) of section 934.425, Florida
+1210 Statutes, is reenacted to read:
+1211 934.425 Installation or use of tracking devices or
+1212 tracking applications; exceptions; penalties.—
+1213 (3) For purposes of this section, a person's consent is
+1214 presumed to be revoked if:
+1215 (a) The consenting person and the person to whom consent
+1216 was given are lawfully married and one person files a petition
+1217 for dissolution of marriage from the other; or
+1218 (b) The consenting person or the person to whom consent
+1219 was given files an injunction for protection against the other
+1220 person pursuant to s. 741.30, s. 741.315, s. 784.046, or s.
+1221 784.0485.
+1222 Section 24. This act shall take effect July 1, 2026.
+Page 49 of 49
+CODING: Words stricken are deletions; words underlined are additions.
+hb547-00
+
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES A A a v i f p f i o s t c r p f r t c f a p i i s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES t a a p c m 6 7 c ( 6 ( 9 r F a c s o p b l f i r]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES f r f f t i r    B S   7 v p i r  (  ( b s i i  ( s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES b d f  (  1  2 c y  3 7  4 8  5 c  r w  ( i r s c  1 6  2]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES c i  3 p p d  T o o  ( v s p c p f  ( f s c o v i k]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( p h v c p  ( h o p i v i a s i  ( p w c p o  1 e a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES b d  2 a i r e  ( k w b v s o v c w f  ( w i  ( r  ( s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p n  ( m a s l q c i p f C e t $  ( e  ( w r v  ( i v]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i u i p  1 e a s s m  2 i v b p s  ( f  P A V S   T]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p   1 a a f o 1  2  3 d i . . .   b b v a . . .   c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r o r o f i r m n f . . .   d p ( a  4 r  5 r a c p]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES o i a   ( v v s n  U T A T P F  .   ( h m n p  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p t h t r  ( f e b h  ( e e ( r p t e i g  ( r  ( v  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES n i p  ( a a b  ( p v t  1 o  2 p  3 u o o p  4 t  ( i v]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES p c i o s p n t i e r r i o t i i t r p l c e e s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i o  2 r m a s a s k p b  ( a I D i o c i i v t l i]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( f d c v v e w  2 i v p e t p  3 c s k i e  4 e s r]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a d  5 o p s v v t w o n l v v o g  6 a s o t e i w]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES o  ( 7  ( c p w o m p t  ( o v v p b p i c  ( t  ( a o]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a e d t r v a D L N u t a i  ( t o  (  " t a r v t]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a h r   ( a o p s m c i t a c  (  ( a n  ( t  W w a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES t p a c s v a u v t m i  ( p w c o m c d t  ( p t  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES b f o p r w p h  ( p a s a c  ( t f i aS   4  (  ( c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  1  a c p  b  c c  d l  e m  f  g 7  2  a p  b F  c b 4 r o g]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r c c f c i i s e t e t c t  3 a d c o T f p t n s]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES T i o  4 i v b d  5 rS   6 p  (  ( p a a E a a  1 c a]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES d r p r i p e t t e s t  2 f f t s  a  b t a a v o w]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES o  c t b a b p h  d  3 t  a f i  b  c w a  (  ( b  I a p]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a t r c d r s o c t v o  4 m t o b A a p  5 a t c  6]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES t o 9  a  b b  A w o i t (  7 c s u o r i t o i cS]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   6  ( i  1 f s i o  2 d i i a v  3 c V P p dS   3 r]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  (  ( a  1 p  2 e p  3 f  4 t  5 s  6  7 a i t  8 a v 7 aS]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   3  ( a  ( a v 7 aS   7 p  (  ( f  1 v v v  2 b a a  3]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES i p d  4 t t  5 t p dS   7 a  ( p v t a  ( s  ( p s n]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( o a  ( t v  ( w i p  ( t o  ( p  ( o  c p sS   7  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a s i s c k h a pS   9 e  (  ( f i v 7 7 t c o p f]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES c p n u sS.F     2  ( m j s f o e c u r s l t t  (]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a s o w r d f r c t 7 i  ( t i o s c o c o n a f i]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES r i o i j s r i w m a i a S f r c t 7 dS.F     2]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( f  ( n w r 7 f t C A n m LS.F     5 c d  ( p 7 c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a r a sS.F     6 a  ( a i p e a d c d  ( p I  ( i c]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES I  ( 4 S  ( C l o p w eS.F     7 p  ( i 7 H t m i t]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVESS.F     7  ( p f c i s a a h s p e b f r tS.F  ]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES   7  ( a  (  1 o h c a u t a  2 f r a  3 o s  (  ( o i  1]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES a v  2 t t o  3 o  4 o o  5 a  6 o  7 s p v  8 u  9 o  1 b]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES s  1 s w v  1 s  1 a  1 m  1 oS.F     9 l w  ( c s i 7]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES f oS.F     9  ( c m s cS.F     9 f  ( l  ( t a p w]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES cS.F     9 c s  ( l  ( t a p w cS.F     9 c e  ( l]
+[DELETED:  72 LORIDA HOUSE OF REPRESENTATIVES  ( t a p w cS.F     9 t  ( p  ( w f  ( w p 7S  ]
